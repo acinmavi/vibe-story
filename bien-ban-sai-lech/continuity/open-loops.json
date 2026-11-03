@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "as_of_chapter": 20,
+  "loops": [
+    {
+      "id": "L01",
+      "question": "What is the physically impossible extra stair flight?",
+      "opened": 1,
+      "planned_payoff": 27,
+      "status": "open"
+    },
+    {
+      "id": "L02",
+      "question": "Why does the old record reference T12 in an 11-floor building?",
+      "opened": 1,
+      "planned_payoff": 23,
+      "status": "open"
+    },
+    {
+      "id": "L03",
+      "question": "Where are Linh and Thành and how can they be reached?",
+      "opened": 1,
+      "planned_payoff": 28,
+      "status": "open"
+    },
+    {
+      "id": "L04",
+      "question": "Why was the original evacuation inventory changed?",
+      "opened": 14,
+      "planned_payoff": 26,
+      "status": "open"
+    },
+    {
+      "id": "L05",
+      "question": "Who is tracking anomalous contradictions citywide?",
+      "opened": null,
+      "planned_payoff": "future arc",
+      "status": "planned"
+    },
+    {
+      "id": "L06",
+      "question": "Who received receipt 042, and does it correspond to any unaccounted visitor?",
+      "opened": 3,
+      "planned_payoff": 7,
+      "status": "resolved",
+      "resolved_chapter": 7,
+      "resolution": "Receipt 042 was reissued for same battery delivery; corresponding signed paperwork and witnesses confirm no additional missing person."
+    },
+    {
+      "id": "L07",
+      "question": "Who wrote count again from door, and why did Linh preserve the plan?",
+      "opened": 3,
+      "planned_payoff": 24,
+      "status": "open",
+      "progress": "Linh confirms preservation request in chapter019; writer of marginal count-again note still not independently established."
+    },
+    {
+      "id": "L08",
+      "question": "Why does bodycam playback skip 11 seconds while paper notes remain?",
+      "opened": 4,
+      "planned_payoff": 24,
+      "status": "open"
+    },
+    {
+      "id": "L09",
+      "question": "Why did noise and access appearance change during one observed 00:12–00:23 episode?",
+      "opened": 6,
+      "planned_payoff": 25,
+      "status": "open"
+    },
+    {
+      "id": "L10",
+      "question": "Who called Phuc from the purported operations office, and who handled the old packet?",
+      "opened": 7,
+      "planned_payoff": 26,
+      "status": "open"
+    },
+    {
+      "id": "L11",
+      "question": "What do the two door-face labels 07 and T12 identify?",
+      "opened": 8,
+      "planned_payoff": 23,
+      "status": "open"
+    },
+    {
+      "id": "L12",
+      "question": "What does the repair seam and partly covered bolt mark, if anything beyond ordinary renovation?",
+      "opened": 10,
+      "planned_payoff": 27,
+      "status": "open"
+    },
+    {
+      "id": "L13",
+      "question": "What holds D1 and caused its intermittent paired response?",
+      "opened": 11,
+      "planned_payoff": 19,
+      "status": "open",
+      "progress": "Chapter019 changed-request responses and related radio speech strongly support intentional live response; physical route still untraced."
+    },
+    {
+      "id": "L14",
+      "question": "Why is Nguyen Van Tin named in his mother receipt but absent from three available extracts?",
+      "opened": 15,
+      "planned_payoff": 26,
+      "status": "open"
+    },
+    {
+      "id": "L15",
+      "question": "What void or service gap produces airflow beside the repair seam?",
+      "opened": 16,
+      "planned_payoff": 27,
+      "status": "open"
+    },
+    {
+      "id": "L16",
+      "question": "Does the west temporary archive still hold the hand-drawn route folder Phuc remembers?",
+      "opened": 18,
+      "planned_payoff": 23,
+      "status": "open"
+    }
+  ]
+}

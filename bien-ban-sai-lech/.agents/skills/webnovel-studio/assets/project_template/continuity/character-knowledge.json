@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "as_of_chapter": 1,
+  "Vũ Minh Khải": {
+    "knows": ["An Phúc is publicly listed as an 11-floor building", "two technicians lost contact in stairwell B", "there is a count/height mismatch around the stair flight between floors 6 and 7", "an old paper record contains the label T12"],
+    "suspects": ["at least one survey record is falsified or out of date"],
+    "does_not_know": ["why physical stairs and records disagree", "the true origin of the local anomaly", "who falsified the old duty records"]
+  },
+  "Đỗ Hạ Lam": {
+    "knows": ["two site technicians are missing", "some radio signals come from an impossible floor marker", "the rescue perimeter must remain secured"],
+    "suspects": ["the site plans omit an access point"],
+    "does_not_know": ["the original fatal incident", "the mechanism of the contradiction"]
+  },
+  "Lâm Phúc": {
+    "knows": ["historical site paperwork is not complete", "the former builder used an additional staging space"],
+    "conceals": ["where the staging access was closed", "why he fears the T12 notation"]
+  }
+}

@@ -1,0 +1,23 @@
+# Handoff lô cuối017–020
+
+User chỉyêucầuđến020,không021;quota15dừngsớm. 001–016 đãcommit,bấtbiến lượt này. Ba agent viết017,018,019song song; root viết020 theo cùnghợpđồng rồi đọc cácfile thật đểtíchhợp. Mỗi1900–3000whitespace,prose đầyđủtựnhiên ngôi3gầnKhải;2passlogic/văn. Không giảchươngtómtắt,khôngmỗi cảnhđềugiữgiấy/ký/chờ. Báocáo riêngtrướccảnh/tri thức/sựkiện/wordcount. Không sửacontinuity/approval/001–016/commit,khôngsubagent.
+
+##017 Danh Sách Ca Đêm —18:30–20:10 ngày18
+
+Phúc/Quang lấy nguyênbìasổtrực giấythan trước mặtngười chứngkiến từtủchìaQuanggiữ. Khải/Lamsảnh,Thu/Duygiữthithiếtbị/đổica06/D1. Đọcbảngốcvàbảncarbon: bản tổnghợp mặttrên thiếu mộtđoạndòng/bịgạch/viếtlại, bảncarbonkẹp saucòndòng **N.V.Tín, số17** trongbảngcađêm; cócộtchỉra17làthẻca/côngviệc nhưngkhôngkhẳngđịnhmọithẻ17đềuTín. Đốichiếu giấynhàbàNăm/tên viếtđầyđủ/ảnhthẻ→nguồnđộclập hỗtrợTínđãcótrong hồsơca, cầnnguồnxácnhậnai. Đọccáctênkhácnhưngkhôngbịatổngsốnạnnhân/sốngchết. Phúcnhậnbìa doônggiữ/sợliênlụytênngười, khôngthútoànbộvụcháyhayđịnhT12. NgườiđangmấtLinhThànhvẫnđầuviệc. C08seed: tênthật bịthiếuởbảntổnghợp, chưachốtai/ýđồ/nguyêntắchiệntượng. Cuối20:10sổcarbonđượctáchnguồngiữsảnh, khôngmanglênB; Phúcđồngý kểtheođiềumìnhtậnmắtchứngkiến ở018. BàNămởnhà,khôngđượcgiảđịnhđãbiếtkếtquả/đếncôngtrường.
+
+##018 Lời Khai Muộn —20:10–23:20 ngày18
+
+Phúc kểphần mìnhthấy trongđêm cócháy cũ,khônggiải toànvụ: từnggiúp mộtđứatrẻđingoài,thấygiấyca thay/đãimlặngvìsợcùngnhữngngườicònsốngbịkéo vào; khôngdùngthúnhậnlàmchìakhóa. Ôngđưa thôngtin cóích ngay: lốiphụ cũ ởquãng6phía sauB nhưngmốcđãđổi/đãbịt, chỉtrênảnhvùngmìnhnhớ đểkhảosát, khônggiữvịtrí quantrọng chỉđểkéo dài nguychoLinhThành. Khôngbiếtchắc mốc thật hiệnnay, khôngmởcửa/T12côngvụtrước023. Ôngnói từngcó **bìa phác tuyếnbàngiao ở khohồsơ tạm phíatây** còncần kiểm nguồn, khônghứa vẫnởđó; khônggiả danhđãlấynóvề. Quangđãnhờxácnhậnkho/chìa,khôngbỏcứutìmđểngồiđợi. Khảikhôngthànhngườikhuyênđạolý: nhớ6nămtrước từngbỏqua lỗi trongbiênbản,mộtngườibịthương; kểLamngắnvềlýdotừngrờiđơnvị,phânbiệttráchnhiệmkývàtựđánhđồngđểxintội. Lamđòimộtviệc cóíchngay làbàngiaonguồn/vịtríchođộikhảosát,khôngdiễnvăntha thứ. Phúcchọn ởlại hỗtrợ,đượcthayngườitrựcnghỉhợplý. Kết23:20Khải/Lam tạingoài06,Quangđiềuphốisảnh,D1ngườigiữ; hồsơlờikhaiđểsảnh. Chưacócuộcgọinhậndiệnmới/trởthànhlờigiảihiệntượng.
+
+##019 Nhịp Kéo Thứ Tư —23:20ngày18–00:30ngày19
+
+MởD1trực giữngoài06,Khải/Lam/Duy/ThucóthểlênA nhậnca (nếutrướckhácphảinêulượtđi),Quangởsảnh. Mộtloạt tínhiệu cóđổiyêucầu/lượtyên,bêntrongđápđúnglượtmớitớithứ4,trướckhôngđủnhậndiệnnaycóđốichiếuvậtlý+radio. Khôngcho chi tiếtnútbuộc/hướngdẫnkéocứu/ngườigắndây. Đợtgõnhiễu00:12–00:23ngày19 (lần3) radio cókhe đủnghe,giọng **Linh** trảlờicâuhỏi vềviệccôdặnThu giữtờsơđồ/cốcchặngiấy,conngườilựa chọnphíatrongđượcnhậnquađápchứkhôngma/chỉphátlại. LinhchủđộngcùngThành thửnhịp,giữdâyphíatrong;chưađo đượcD1nốiliềnđâu/T6cũgiữriêng. Chứngcứđápđúngyêucầuthayđổivàcâutrảlờiliênquan choLamđủtinđángkểlàhai người sống,khôngtuyênbốtuyệtđốiloạinháigiọng. **Thành đau chân không đứng được**,khôngchẩnđoán/bàycứuchữachínhxác; nướcgầncạn,làmđúnggiátìnhthế. Linhkhôngbiếtlịchsử/T12/vịtrítoànnhà,chỉtảmộtcửakhôngsốvàâmống. Khôngcứuđượcngay/lởđường/đàotường. C09seedđủtrước028payoff. Kết00:30nhómngoài6,thôngtinchuyểnsảnh;00:12cóthêmlầnlặpchứchưachốtcáchthoát/11phútđủantoàn. Giữbảnđápvàđầungoài,khôngkéoNgườibằngD1.
+
+##020 Hai Phương Án Đều Đúng —00:30–01:20ngày19 —ROOTviết
+
+Đủcăn cứcoiLinh/Thànhcònsống,Thànhđauchân/nướccạn; tăngkhẩncấptrongkhảosát,tạibànsảnhkhôngngừngD1/nghe. Lamđềnghịrútngười khỏiphầnngoàichưachắc/đổica,bổsungngười&thiếtbị từhỗtrợ,hơnđiểmmởmò. Khảimuốn đi kiểm bìaphácởkhotạmphíatây đãđặt018trướckhimấtnguồnlúcbàngiao/dọnhồsơ; CHƯAcólệnhhủy/C10để021. KhoởngoàiB,đicóngườibàngiaochìa/đăngký,khôngtựđộtpháhaytrộm. Haiphươngán tranhnhânlựccụthể/Khảicầnnghỉ/độiphảiđịnhvị,chứkhôngchọnđơn giảntiềnvsngười. LamchoKhảinóiđiềukiệndừng,Quangchia nhóman toànvừa đủ, khônggiảivôhạnnguồnlực. Chọnvừađổi ca/giữnguồnvậtchứngvừađềnghịtiếpcậnkho,cóthểchưađượcvàokhotớicuốichương; khôngnhậnlấydượcbảnT12giảitất. Khảichịuchuyểnngười/thiếtbịcủamìnhchođầutìmcứu,đinhómnhỏngoàiB,chấpnhậnđánhgiátiếpcận. Mộtquyếtđịnhcógiá/thayquan hệ,khônglạicảnhkýbảomảngtườngtừ009/010. Kết01:20đãnhậnđượccửa ngõ tiếp cận kho/đầumối sẵnbàngiao,cònBvàD1nghegiữ,tổngcasechưagiải,khôngviết021.
+
+##Luật
+
+33bước/chênhcaođể022;T12để023,C04cửa11phútcáchthoátđể025. Người/phépgiải dựatheođãcóchứngcứ,khôngmực/kýgiấylàcôngtắc. C10chưalệnhhủyđến020. Nếuđọc17tênTínthìkhôngcoitag17làbằngchứngbiếtT12. Khônggiaothêmquốcgia/côngnghệtoàntri;giađìnhngườicũcóagency,Phúckhôngbịtha bằngbiênbản. Rootkhôngsửa001–016,khôngđưa sealedchoblind. Shellluônrtk.

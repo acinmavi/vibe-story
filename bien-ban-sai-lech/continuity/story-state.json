@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "phase": "chapter20_review",
+  "current_arc": 1,
+  "target_chapters_arc001": 30,
+  "last_written_chapter": 20,
+  "last_canon_chapter": 20,
+  "current_story_date": "19/10 01:20 (local fictional time)",
+  "next_required_user_action": "Read chapters 011–020 and provide feedback before chapter 021",
+  "do_not_write_after_chapter": 20,
+  "chapter1_status": "human-approved; immutable",
+  "current_batch": "017–020 reviewed; stopped at requested boundary",
+  "quota_stop_remaining_percent": 15,
+  "reader_approved_through_chapter": 1,
+  "editorially_checked_through_chapter": 20
+}

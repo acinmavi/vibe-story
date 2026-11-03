@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webnovel Studio"
+  short_description: "Viết truyện bí ẩn dài kỳ, kiểm thử logic và quản lý continuity"
+  default_prompt: "Đọc AGENTS.md; hoàn tất chuẩn bị dự án, rà soát chương 001, kiểm thử, commit và chờ tôi duyệt trước khi viết chương 002."

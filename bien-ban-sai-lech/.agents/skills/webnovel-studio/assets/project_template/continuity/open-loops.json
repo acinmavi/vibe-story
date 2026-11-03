@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "as_of_chapter": 1,
+  "loops": [
+    {"id":"L01", "question":"What is the physically impossible extra stair flight?", "opened":1, "planned_payoff":27, "status":"open"},
+    {"id":"L02", "question":"Why does the old record reference T12 in an 11-floor building?", "opened":1, "planned_payoff":23, "status":"open"},
+    {"id":"L03", "question":"Where are Linh and Thành and how can they be reached?", "opened":1, "planned_payoff":28, "status":"open"},
+    {"id":"L04", "question":"Why was the original evacuation inventory changed?", "opened":1, "planned_payoff":26, "status":"open"},
+    {"id":"L05", "question":"Who is tracking anomalous contradictions citywide?", "opened":1, "planned_payoff":"future arc", "status":"seed"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "phase": "chapter1_review",
+  "current_arc": 1,
+  "target_chapters_arc001": 30,
+  "last_written_chapter": 1,
+  "last_canon_chapter": 1,
+  "current_story_date": "17/10 23:08 (local fictional time)",
+  "next_required_user_action": "Review chapter 001 and explicitly approve or request edits",
+  "do_not_write_after_chapter": 1
+}

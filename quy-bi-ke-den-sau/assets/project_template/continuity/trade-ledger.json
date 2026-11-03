@@ -1,0 +1,5 @@
+{
+  "visibility": "author_only",
+  "trades": [],
+  "entry_schema": ["chapter", "seller", "buyer", "knowledge", "information_origin", "confidence", "danger_of_disclosure", "price_or_favor", "resources_delivered", "future_canon_risk", "consequence"]
+}

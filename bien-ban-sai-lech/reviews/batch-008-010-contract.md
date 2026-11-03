@@ -1,0 +1,19 @@
+# Hợp đồng nối chương008–010 — chỉ tác giả
+
+Người đọc đổi phạm vi: hoàn tất010 rồi DỪNG chờ feedback. Không viết011 hoặc coi arc đã khép. Ba tác giả chỉ sửa chương riêng và report riêng, không đọc chương khác khi đang viết song song. Nguồn chung001–007 đã commit. Chương1900–3000 whitespace, hai lượt sửa logic/văn. Không nhồi chữ, không mỗi cảnh đều ghi sổ rồi chờ; đẩy hành động, xung đột, lựa chọn. Ngôi3 gầnKhải. Không hướng dẫn cứu hộ thật hoặc bịa quy chuẩn.
+
+##008 — Hai Tấm Biển Chỉ Tầng
+
+01:10–02:05 ngày18/10. Phúc có người dẫn xuốngA chỉtủ choQuang ngay đêm; Khải/Lam vẫn quanh tầng6. Thu/Duy và người trực mới giữ nghe, có thể đổi ca ghi rõ. Quang báo kiểm tủ: có bìa không chữ, bản thay chưa đủ xác nhận nguồn; không thấy toàn lịch sử cháy/danh sách/tácgiả. Đội khảo sát ngoàiB vẫn chạy, A thông được dùng lên hànhlang7, nhưng mặt sauB kín không thấy tuyến chính. Lam cho Khải đi cùng người độiQuang quaA lên hànhlang7, chỉ đứng phía hànhlang ngoàiB đã kiểm, không bước vào nhịp bị nghi. Quan sát cửaB: mặt hànhlang nhãn07; từ khe cửa nhìn được mặt trong một cánh/biển cóT12, cùng vết mẻ/lỗ vít nhận diện. Họ nghi cùng cửa hai ký hiệu khi đổi góc, không giải nghĩaT12, không chứng minh đổi vật chất. Không bước từ06→07 quaB để đo, không tự mở lối cứu chưa biết. Có ảnh/ghi tay theo nguồn, đưa về ngoàiB. C05 seed. Kết02:05 nhóm đã xuốngsảnh họp mốc khảo sát; Quang giữ người nghe06/A. Phúc nghỉsảnh có thể hỏi lại; chìaTủ Quanggiữ. Không giải042 lại (đãresolved007), không xácnhậnL07.
+
+##009 — Kẻ Chọn Đứng Ngoài
+
+06:40–07:30 ngày18. Mở ởsảnh, nhắc đêm đã tiếp tục nghe/khảo sát ngoàiB/thửđối chiếu từA; tườngkín và mốc khôngkhớp chưa xácđịnh người, không ai tự ngừng cứu để chờ giờsáng. Cửa mang07/T12 là phát hiện008, chỉ biết gócnhìn khácnhãn không nghĩa. Đội đổi ca/có nước/nghỉ, Khải mệt thực. **Hội**, chỉ đặt tên này, đại diện đơn vị quản lý hợp đồng tháo dỡ, tới. Ông gây áp lực giữ tiếnđộ vì côngnhân/chi phí/đơnvị phụ thuộc, tự tin bảnmới đủ đúng; không nhậnlịch sửcháy/thủphạm/độngcơ kín. Lam giữ dừng khuB, Quang hỗ trợ, Khải chấpnhận ghi tên mình dưới đềnghị bảo toàn hồsơ; trách nhiệm cóhậuquả. Thu/Duy bảo vệ giấyvà người, không tự thànhchuyêngia. Hội đưa hoặc chỉ vịtrí một bảnđồ tiếnđộ, chưa lộ kếhoạchtiêuhủyC10 trước021. Kết07:30: khảo sát tiếp mặt ngoàiB theo mốc cũ; người mất tích vẫn chưathấy, liênlạcnghevẫntrực. Hội không bịkếtán, chưa ai gọiônglàhungthủ.
+
+##010 — Vết Bụi Trên Vữa Mới
+
+07:30–08:15 ngày18, nối sauđối thoạiHội theo hợpđồng009 (không bịa lời/đồ mới của009). Khải/Lam cùngngườihỗtrợ khảo sát phần tường NGOÀI ranhB từhànhlang, dụngcụ quan sát cơbản. Tìm đườngnối vữa khác lớp/bụi/đầu bulông có dấu bịche, đối chiếu khoảngtrống trênảnhcũ; C06 seed. Chỉ kếtluận códấu từng sửa/bịt, không địnhtuổichínhxác/cháy/tênthợ; đưa giảthuyết sửa chữa thôngthường cạnhgiảthuyết lốicũ. Không phá tường/đi vàoB hoặc giả làmhướngdẫn kỹthuật. Lam bảo toàn vịtrí, chọn dừngthử xâmnhập chờ đánhgiá cócăn cứ, tiếp tục tìm từphía ngoài; Quang cóngườitrực nghe. Hội phảnđối chi phíkhông nhận tội. Khải chịu ký chứngkiến điều mìnhthấy, bỏnhững gìchưa biết. Kết08:15 cóbảnphác ghép dấu tường vớiảnhcũ, cánhcửa thật chưa tìmđược, chưa cứuđược Linh/Thành. Một dấu cụthể mởhướng nhưng không giảcliffnguyhiểm. Đây mốcđọc10chương, không phải kếtarc, không viếtprose011.
+
+##Luật nối
+
+33bước cốđịnh; chiều cao vẫn cầnxácnhận trước022. C04 một đợt00:12–00:23 chưa phải chu kỳ12giờ. C03 camera11giây chưa biết cơchế. C02T12 chưa nghĩa. C05nhãn haihướng chưa giải. C06vậtliệu không phải phép cứu tựđộng. Phúc né lịchsử; khônglộcháy/tênnạnnhân/sàncôngvụ. Linh/Thành còn sống tácgiảbiết nhưng nhânvật chưađủchứngcứtrực tiếp. Phầnnước/thờigian chưadài quángày, không bỏquên nguycơ. Root và reviewer tíchhợp sau cùng. Report riêng reviews/chapter-NNN-author.md: trướcviết/scenes/knowledge, hai pass, wordcount, giờ/cuốivịtrí/manhmối/đồ mới. Khôngcommit/continuity/approval; shellluônbắtđầurtk.

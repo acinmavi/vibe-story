@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "stage": "chapter20_review",
+  "chapter1": {
+    "approved": true,
+    "approval_text": "Tôi duyệt chương 1. Hãy viết tiếp toàn bộ arc 1 theo quy trình, kiểm tra và commit từng lô. Dừng sau khi xong arc - tầm 30-50 chương",
+    "approved_sha256": "0600e9cb0fa75081896acf425f56fb87bf9b7aab74df013e24f14436caa90d7d",
+    "approved_at_utc": "2026-11-03T15:12:05.923646+00:00"
+  },
+  "arc001_writing": {
+    "approved": true,
+    "approval_text": "Tôi duyệt chương 1. Hãy viết tiếp toàn bộ arc 1 theo quy trình, kiểm tra và commit từng lô. Dừng sau khi xong arc - tầm 30-50 chương"
+  },
+  "arc001_complete": {
+    "approved": false,
+    "approval_text": null
+  },
+  "arc002": {
+    "approved": false,
+    "approval_text": null
+  },
+  "current_run": {
+    "stop_after_chapter": 20,
+    "instruction": "viết tiếp 10 chương nữa đi , chưa hết quota",
+    "authorized_at_utc": "2026-11-03T15:48:59.026839+00:00",
+    "quota_stop_remaining_percent": 15,
+    "status": "awaiting_reader_feedback",
+    "last_completed_chapter": 20
+  },
+  "run_history": [
+    {
+      "stop_after_chapter": 10,
+      "instruction": "thôi tạm 10 chương rồi dừng ,tôi đọc sẽ cho feedback để tiêp sau",
+      "resume_requires_user_feedback": true,
+      "status": "awaiting_reader_feedback",
+      "last_completed_chapter": 10
+    }
+  ]
+}

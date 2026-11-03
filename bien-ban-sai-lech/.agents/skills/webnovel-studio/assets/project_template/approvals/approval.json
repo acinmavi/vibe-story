@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "stage": "chapter1_review",
+  "chapter1": {
+    "approved": false,
+    "approval_text": null,
+    "approved_sha256": null,
+    "approved_at_utc": null
+  },
+  "arc001_writing": {"approved": false, "approval_text": null},
+  "arc001_complete": {"approved": false, "approval_text": null},
+  "arc002": {"approved": false, "approval_text": null}
+}

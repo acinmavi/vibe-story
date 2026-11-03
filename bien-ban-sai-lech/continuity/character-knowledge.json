@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "as_of_chapter": 20,
+  "Vũ Minh Khải": {
+    "knows": [
+      "An Phúc is publicly listed as an 11-floor building",
+      "two technicians lost contact in stairwell B",
+      "there is a count/height mismatch around the stair flight between floors 6 and 7",
+      "an old paper record contains the label T12",
+      "Khải and Hạ Lam both count 33 steps; independent floor-height confirmation is still pending",
+      "two reported rope ends bear T6, but physical continuity has not been verified",
+      "instrument agrees with tape outside stairwell; floor 6-to-7 height not independently confirmed",
+      "missing receipt 042 does not establish a third missing person",
+      "Thu preserved the new plan at Linh request; note says count again from door, writer unknown",
+      "Lam bodycam playback skips 11 seconds; two paper notebooks retain 33, file not forensically examined",
+      "comparison of plan photos needs fixed physical anchors, rear blank space is not yet a verified passage",
+      "one observed episode of pipe noise and radio interference from 00:12 to 00:23; no recurrence interval known",
+      "Phuc reports an unnamed caller claiming operations office; old packet has multiple staple holes",
+      "receipt 042 resolved as reissued document for the same battery delivery; no third missing person established",
+      "from staffed route A, corridor-side door reads 07 while a plate on its inward face reads T12; matching edge nick and screw hole link the two faces in this survey, not conclusively to the door seen in chapter 001",
+      "Quang found unlabelled folders, provenance not established",
+      "a plaster seam with dust accumulation and partly covered bolt lies on the side suggested by the old plan; ordinary repairs remain a plausible alternative",
+      "Hoi represents demolition-contract management and presses for specific work areas to resume; guilt not established",
+      "new line D1 lodged beyond visible corner; outside tag and station retained, distinct from old T6",
+      "one two-pulse D1 response after a pause, next trial negative; source and human identity unconfirmed",
+      "copies made outside from the same source retain the same missing segment, not independent recordings",
+      "second observed interference episode 18/10 12:12–12:23; 12-hour recurrence is only a hypothesis",
+      "Phuc brought another witnessed cabinet folder with a signature table, not yet compared",
+      "Hoi personally acknowledged signatures accepting two different route plans for intended operational handover; actual distribution/use not yet established",
+      "Ba Nam identifies Nguyen Van Tin as her son, has named receipt, photo and aluminium tag 17; originals retained with her",
+      "Tin absent in three specific available record extracts, not proven absent everywhere or intentionally erased",
+      "Ba Nam recalls smoke and son not returning about 18 years earlier; eyewitness scope and date not independently verified",
+      "Lam found airflow near repair seam; ordinary service gap or void remains possible, not a located rescue route",
+      "carbon duty-log line N.V.Tin with shift-tag 17 supports match to family evidence, not conclusive identification or victim count",
+      "Phuc reports helping a child out in old smoke/fire event and concealing papers; old route region handed to survey team immediately",
+      "Phuc identified west temporary archive as possible source for a hand-drawn handover route, presence not yet confirmed",
+      "fourth changed request and related radio answer give strong basis to act on Linh/Thanh being alive; route still unlocated",
+      "according to Linh, Thanh cannot stand due to leg pain and their water is low",
+      "Lam withdrawing survey positions without relief staff while preserving radio/D1/A; archive visit staffed and controlled"
+    ],
+    "suspects": [
+      "at least one survey record is falsified or out of date"
+    ],
+    "does_not_know": [
+      "why physical stairs and records disagree",
+      "the true origin of the local anomaly",
+      "who falsified the old duty records"
+    ]
+  },
+  "Đỗ Hạ Lam": {
+    "knows": [
+      "two site technicians are missing",
+      "some radio signals come from an impossible floor marker",
+      "the rescue perimeter must remain secured",
+      "both observers count 33 steps between doors labelled 06 and 07",
+      "corridor boundary and monitored route A established",
+      "only two missing people confirmed by name; receipt 042 unresolved",
+      "bodycam playback skip reproduced in two viewers, no proven cause",
+      "Quang coordinating support from lobby, staffed route A and radio watch continue",
+      "observed apparent door-edge shift from outside boundary; ordered withdrawal",
+      "Phuc handed over office-cabinet key, not a stairwell key; cabinet check proceeds tonight",
+      "staffed search and radio watch continued through night, shifts changed",
+      "outside-B plaster seam and covered metal fitting preserved for assessment; no intrusive test authorized",
+      "D1 station and radio watch staffed separately; no person attached or sent into unlocated route",
+      "paper and outside D1 markers persist through noon episode; inner-image recording skips/overlaps",
+      "Khai brought only permitted copy and images from Ba Nam, with source restrictions",
+      "airflow repeats when observer changes but no demonstrated human passage",
+      "Phuc offered unopened carbon-paper duty-log folder for next comparison",
+      "Linh answered about preserved plan and cup, response changed with requests, strong but not visual identification",
+      "new victim condition relayed promptly to Quang; no blind extraction authorized",
+      "Khai handed over interpretable survey notes before archive departure"
+    ],
+    "suspects": [
+      "the site plans omit an access point"
+    ],
+    "does_not_know": [
+      "the complete original fatal incident",
+      "the mechanism of the contradiction",
+      "verified current passage to Linh and Thanh"
+    ]
+  },
+  "Lâm Phúc": {
+    "knows": [
+      "historical site paperwork is not complete",
+      "the former builder used an additional staging space"
+    ],
+    "conceals": [
+      "where the staging access was closed",
+      "why he fears the T12 notation"
+    ],
+    "disclosed": [
+      "old plans were replaced at office long ago",
+      "caller claimed operations office but was not identified",
+      "cabinet key voluntarily handed over for witnessed inspection",
+      "carbon duty-log source held in cabinet",
+      "old route region beside B, current coordinates uncertain; relayed promptly",
+      "personally helped a child escape in old event, hid papers and denied knowledge",
+      "west archive possible handover-sketch source, current whereabouts unknown"
+    ]
+  },
+  "Duy": {
+    "knows": [
+      "operational roster abbreviations",
+      "receipt count differs from headcount",
+      "basic playback reproduces missing segment"
+    ],
+    "does_not_know": [
+      "anomaly mechanism",
+      "T12 meaning"
+    ]
+  },
+  "Thu": {
+    "knows": [
+      "Linh asked to preserve annotated plan",
+      "arrow drawn by Thanh; author of count-again note not directly seen"
+    ],
+    "does_not_know": [
+      "where the missing technicians are",
+      "receipt 042 recipient"
+    ]
+  },
+  "Quang": {
+    "knows": [
+      "two technicians still missing",
+      "route A staffed; survey outside B ongoing but solid walls limit sightlines",
+      "cabinet inspection authorized by Phuc, key delivered with record",
+      "new condition of victims and stronger live-response evidence",
+      "requesting additional support and relief staff, no promised arrival time",
+      "archive custodian contacted via Hoi; controlled group reaches west meeting point at 01:20"
+    ],
+    "does_not_know": [
+      "anomaly mechanism",
+      "T12 meaning"
+    ]
+  },
+  "Hội": {
+    "public_role": "representative for demolition-contract management",
+    "knows": [
+      "two named technicians remain missing",
+      "Lam retains hold on B, Quang reviews each proposed outside work area",
+      "Khai signed a scoped document-preservation request and observed repair-seam description"
+    ],
+    "public_claims": [
+      "new plan was used during relocation",
+      "idle contractors and workers incur costs",
+      "acknowledges two acceptance-for-handover signatures, does not claim to have designed either route"
+    ],
+    "not_established_by_investigators": [
+      "role in old records or concealed events"
+    ]
+  },
+  "bà Năm": {
+    "knows": [
+      "son Nguyen Van Tin handed her tag 17",
+      "her named receipt and old photo retained at home",
+      "saw smoke and people outside An Phuc on night son did not return"
+    ],
+    "permissions": [
+      "only selected receipt copied; originals and tag stay home; images limited to identifying son in this inquiry"
+    ],
+    "does_not_know": [
+      "T12 location or meaning",
+      "what occurred inside building that night",
+      "confirmed fate of son"
+    ]
+  }
+}

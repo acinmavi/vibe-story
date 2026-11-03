@@ -1,0 +1,11 @@
+id,first_chapter,required_by_chapter,observation,apparent_reading,true_implication,status
+C01,1,22,"Stair 6 to 7 contains 33 steps but normal floor rise","Miscount or bad construction","A third route segment is being traversed",seeded
+C02,1,23,"Old paper notes T12","A nonexistent 12th story","Temporary construction floor label",seeded
+C03,4,24,"Outside pencil rubbings survive missing camera frames","Camera glitches","Only some records in local boundary become inconsistent",seeded
+C04,6,25,"Pipe tapping happens at exactly 00:12","Mechanical noise","Transition clock for the local route",seeded
+C05,8,23,"Door label 7 becomes T12 from interior angle","Faked markings","Same passage links distinct plans",seeded
+C06,10,25,"Dust seam and old bolts behind fresh masonry","Ordinary renovation","Concealed service landing",seeded
+C07,14,26,"Two authorized maps signed with conflicting route","Clerical error","Both competing route histories were formally endorsed",seeded
+C08,17,28,"Analog duty roster lists additional night workers","Overtime record","Victims were omitted from the official account",seeded
+C09,19,28,"Repeated timed rope/radio response from two missing workers","Interference or echo","There is a surviving route from inside",seeded
+C10,21,29,"Old managers accelerate document destruction","Demolition urgency","Deliberate effort to suppress historical responsibility",planned

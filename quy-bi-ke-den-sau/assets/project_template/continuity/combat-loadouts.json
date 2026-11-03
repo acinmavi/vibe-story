@@ -1,0 +1,5 @@
+{
+  "visibility":"author_only",
+  "combat_scenes":[],
+  "entry_schema":["scene_id","chapter","story_date","klein_identity","klein_sequence","mc_sequence","verified_abilities","prepared_items","enemy_evidence","coordination","result","cost","canon_or_au"]
+}
