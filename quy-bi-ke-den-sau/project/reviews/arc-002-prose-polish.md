@@ -16,13 +16,13 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 |---|---:|---:|---|
 | 031 | 1801 → 1803 | 96 → 95 | Giữ riêng chìa Gideon và chìa số sáu; không thêm quyền mở ngăn.; Giữ tiền 27+18−36−1=8 penny, đau tay phải, Mara tự chọn ở lại. |
 | 032 | 1848 → 1846 | 82 → 82 | Ba lần nhắc địa chỉ vẫn chỉ một nguồn; Agnes có thẩm quyền giới hạn.; Không nhận diện khách hỏi nghề thành Kestrel; gốc bản vẽ giao Ruth, chỉ giữ sao; không biến lời thì thầm thành chứng cứ. |
-| 033 | 1906 → 1906 | 83 → 83 | 8£ gồm ứng1£, vé/phòng trả trực tiếp; nợ132£ và ba nghiên cứu riêng giữ nguyên.; Quyền dừng/phạm vi công việc, ngày3/8 và custody gốc Ruth/chìa đã trả không đổi. |
+| 033 | 1906 → 1904 | 83 → 83 | 8£ gồm ứng1£, vé/phòng trả trực tiếp; nợ132£ và ba nghiên cứu riêng giữ nguyên.; Quyền dừng/phạm vi công việc, ngày3/8 và custody gốc Ruth/chìa đã trả không đổi. |
 | 034 | 1813 → 1814 | 68 → 68 | Cảnh đóng cửa chỉ quan sát khối thấp/nẹp đồng, chưa biết vòng.; Giữ Seq9/tay phải đau, kỹ thuật thuộc Nell, công/phòng và chi4p còn235p. |
 | 035 | 1835 → 1838 | 76 → 76 | Giữ lỗi Evan nhầm hai lần ghi thành hai bản; không chuyển nghề đo/tải của Nell.; Mẩu nhắn chỉ được Nell đọc, chưa lộ chữ cho Evan; tiền232p/nợ132£ không đổi. |
 | 036 | 1847 → 1858 | 82 → 82 | Hai suất/hai bát/hai thìa và chai rửa vết thương không xác nhận Edith ở trong hoặc bị thương.; Giữ lần gặp1/8, vắng hai tối, báo tìm người5/8 và hẹn tuần tra trong ngày. |
 | 037 | 1863 → 1864 | 62 → 62 | Pike/giờ nhận xe và giờ giao hòm tách biệt; không đồng nhất người áo sẫm.; Phấn trắng chỉ giải thích phù hợp nghề, không giám định; ca thêm và chữ phù hợp không chứng minh âm mưu/xuyên không. |
-| 038 | 1809 → 1815 | 60 → 60 | Đo12foot6inch/vạch A và hai cách đo giữ nguyên; chưa được thử người.; Dấu bùn chưa xác định chủ/quay ở đâu; Nell/thợ giữ quyền kiểm sàn, không biến Evan thành kỹ sư. |
-| 039 | 1805 → 1812 | 60 → 60 | Không dùng người nhẹ hơn để thử tải; phép thử vật bị lệch không được dùng kết quả.; Ván mở/thanh đỡ hụt/nhánh cơ cấu sau lưới và mối kê trượt giữ riêng; không suy sức chịu tải chung. |
+| 038 | 1809 → 1814 | 60 → 60 | Đo12foot6inch/vạch A và hai cách đo giữ nguyên; chưa được thử người.; Dấu bùn chưa xác định chủ/quay ở đâu; Nell/thợ giữ quyền kiểm sàn, không biến Evan thành kỹ sư. |
+| 039 | 1805 → 1811 | 60 → 60 | Không dùng người nhẹ hơn để thử tải; phép thử vật bị lệch không được dùng kết quả.; Ván mở/thanh đỡ hụt/nhánh cơ cấu sau lưới và mối kê trượt giữ riêng; không suy sức chịu tải chung. |
 | 040 | 1860 → 1862 | 85 → 85 | Jonah/Edith tự nguyện vẫn chỉ lời Silas; không thêm xác nhận trực tiếp.; Động tác Silas không xác định Danh sách; chốt/khối hạ cuối ca giữ nguyên; hẹn sáng7/8 và quyền báo khẩn không mất. |
 | 041 | 1867 → 1868 | 48 → 48 | Linh thị chỉ nhịp thứ ba đau rồi thu ngay, vệt mờ chưa xác định; không thêm mức tiêu hóa/năng lực.; Jonah chưa gặp/chưa nghe/chưa biết vết thương, giữ lịch y tế sáng7/8 và222p. |
 | 042 | 1927 → 1929 | 64 → 64 | Rowe qua ngưỡng trước thử vật và trở cùng đồ, không thử người lần nữa.; Cánh gỗ/then thường khác chốt đồng, khối thấp; thử gỗ/dây chưa chứng minh mọi vật hay mọi người; báo ngay. |

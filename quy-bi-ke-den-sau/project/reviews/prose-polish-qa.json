@@ -364,12 +364,12 @@
     {
       "chapter": 33,
       "before": 1906,
-      "after": 1906,
+      "after": 1904,
       "paragraphs_before": 83,
       "paragraphs_after": 83,
-      "changed_paragraphs": 5,
+      "changed_paragraphs": 4,
       "sha_before": "eeef569b96e4ded2862d8e9eb837cfdf77ff2d379f89d8da267c0d0634b45d1c",
-      "sha_after": "fd969e5cb66b782a3d6d16dd4a6e185fcf915cf959cfc02a8f8611f0495ab175",
+      "sha_after": "e70a2c9ad6b254828cd2fb97f2ec7b42b52bcf3efc3ddd59a9cd0d4e3af040a4",
       "note": "8£ gồm ứng1£, vé/phòng trả trực tiếp; nợ132£ và ba nghiên cứu riêng giữ nguyên.; Quyền dừng/phạm vi công việc, ngày3/8 và custody gốc Ruth/chìa đã trả không đổi."
     },
     {
@@ -419,23 +419,23 @@
     {
       "chapter": 38,
       "before": 1809,
-      "after": 1815,
+      "after": 1814,
       "paragraphs_before": 60,
       "paragraphs_after": 60,
-      "changed_paragraphs": 6,
+      "changed_paragraphs": 5,
       "sha_before": "2f74c23f7b05030002ae4d9890906f27145e5cebc26642fc8f1f286e31d297da",
-      "sha_after": "153b11f657a1fc5868628fa049970eae1ad4e1c7d6eb6b256d9fa543d4aa69fc",
+      "sha_after": "d347bed9c501b56fe938b197ce9caa376bf24ca6fb428b65b3b3f7b0f03c3974",
       "note": "Đo12foot6inch/vạch A và hai cách đo giữ nguyên; chưa được thử người.; Dấu bùn chưa xác định chủ/quay ở đâu; Nell/thợ giữ quyền kiểm sàn, không biến Evan thành kỹ sư."
     },
     {
       "chapter": 39,
       "before": 1805,
-      "after": 1812,
+      "after": 1811,
       "paragraphs_before": 60,
       "paragraphs_after": 60,
       "changed_paragraphs": 5,
       "sha_before": "e07e1e88405a6ca5d69331e6ebb8c34c4b74e11f1c9f690acf950734ec1e821d",
-      "sha_after": "344c73de6563d156685607834b38e9bda9259c38b453144d5d43a91bec55269e",
+      "sha_after": "57087d4682aa256652be1b4ed29cbd9130523360ba43f3cf3a3f56d4f36cc7ab",
       "note": "Không dùng người nhẹ hơn để thử tải; phép thử vật bị lệch không được dùng kết quả.; Ván mở/thanh đỡ hụt/nhánh cơ cấu sau lưới và mối kê trượt giữ riêng; không suy sức chịu tải chung."
     },
     {
@@ -457,7 +457,7 @@
       "paragraphs_after": 48,
       "changed_paragraphs": 4,
       "sha_before": "649e860bc080d3576b803f5dec1056ef16059581bf4bc95cd60c170d6192d6f3",
-      "sha_after": "ceee60059e204de1e94700a882d2aebc2f99b44d5e52645ade7a4a548030ddf9",
+      "sha_after": "affaf7ab6f078563193a31d1c84e001993414f4ea88402d815f9ef428e33f998",
       "note": "Linh thị chỉ nhịp thứ ba đau rồi thu ngay, vệt mờ chưa xác định; không thêm mức tiêu hóa/năng lực.; Jonah chưa gặp/chưa nghe/chưa biết vết thương, giữ lịch y tế sáng7/8 và222p."
     },
     {
