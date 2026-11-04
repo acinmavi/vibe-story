@@ -39,5 +39,10 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 053 | 1850 → 1852 | 58 → 58 | Edith xin giúp cả hai không thay lời Jonah; vật liệu không thành chẩn đoán.; Giữ chốt/khay/cánh che và tiếp xúc y tế chưa thông đường; không đổi giờ hay tiền. |
 | 054 | 1889 → 1886 | 61 → 61 | Không biến lối bò Edith thành lối cáng hay lối ra luôn mở; giữ điều kiện khóa và Silas đứng cạnh.; Giữ nguồn lần B là lời Edith, lần A là Evan thấy; Jonah chưa trực tiếp xin ra. |
 | 055 | 1849 → 1853 | 54 → 54 | Jonah trực tiếp cho tên/đòi khám/ra, không thêm chẩn đoán hoặc cho chân chịu tải.; Bệ chỉ một người, không đầu cầu; giữ ô thoáng/không bước qua khoảng trống. |
+| 056 | 1849 → 1858 | 53 → 53 | Khóa rào thường không thay chốt đồng; không đổi luật A/B.; Giữ giá đóng kho/nguồn Agnes ghi nghỉ việc và Silas chỉ thấy từng phần phương án. |
+| 057 | 1852 → 1857 | 40 → 40 | Giữ sáu foot, cửa ở nhánh riêng và lỗ chỉ dụng cụ/đèn.; Nêm guide 40s/22s/25s khác nêm đồng 5s; chưa có dự phòng đạt trước khi thử. |
+| 058 | 1858 → 1859 | 34 → 34 | Hai bộ thử độc lập, không cộng lực; dự phòng không được nâng thành bất hoại.; Không đổi thông số 6m40/22/25/40, quyền lựa chọn Edith hay Jonah còn trên giường. |
+| 059 | 1857 → 1858 | 46 → 46 | Silas phá điểm giằng bằng dụng cụ, không tay không/phá dầm; không người trên cầu.; Dự phòng còn nhưng phần dẫn phải kiểm lại; không hứa cứu chắc sáng hôm sau. |
+| 060 | 1807 → 1811 | 44 → 44 | Thử khôi phục bằng bộ dự phòng riêng, chưa mở lượt thật; nêm chưa nhận tải.; Giữ dây báo nhẹ không dây cáng, tay phải chưa hồi phục; không tự chứng kiến trang đêm. |
 
-Đã đối chiếu 25/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+Đã đối chiếu 30/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.

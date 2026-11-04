@@ -613,6 +613,61 @@
       "sha_before": "f812ea548cd5a64330c4110db917a61fcd42c581394e7ae51ef22569c156c552",
       "sha_after": "2c2b081bf7d00eadd3bf75480ed80020c8801a33321cc92eed8b5233003e12e5",
       "note": "Jonah trực tiếp cho tên/đòi khám/ra, không thêm chẩn đoán hoặc cho chân chịu tải.; Bệ chỉ một người, không đầu cầu; giữ ô thoáng/không bước qua khoảng trống."
+    },
+    {
+      "chapter": 56,
+      "before": 1849,
+      "after": 1858,
+      "paragraphs_before": 53,
+      "paragraphs_after": 53,
+      "changed_paragraphs": 8,
+      "sha_before": "e32ed046498c8f0e0c3faf3f794794a963b0b6ed65c5945788917a717436f7d9",
+      "sha_after": "59f662561dfbe6aecaf3972e8bc9affa9323f09c3d3359928fe825c0dd0f66d3",
+      "note": "Khóa rào thường không thay chốt đồng; không đổi luật A/B.; Giữ giá đóng kho/nguồn Agnes ghi nghỉ việc và Silas chỉ thấy từng phần phương án."
+    },
+    {
+      "chapter": 57,
+      "before": 1852,
+      "after": 1857,
+      "paragraphs_before": 40,
+      "paragraphs_after": 40,
+      "changed_paragraphs": 8,
+      "sha_before": "6b08674802e03305edf39edf76e4311963e0d75ae640b95644fc47eb5e67808a",
+      "sha_after": "dd56206f611f811ac080464dccecfd3e063481d32ace9010c5397eabc9c6a1af",
+      "note": "Giữ sáu foot, cửa ở nhánh riêng và lỗ chỉ dụng cụ/đèn.; Nêm guide 40s/22s/25s khác nêm đồng 5s; chưa có dự phòng đạt trước khi thử."
+    },
+    {
+      "chapter": 58,
+      "before": 1858,
+      "after": 1859,
+      "paragraphs_before": 34,
+      "paragraphs_after": 34,
+      "changed_paragraphs": 6,
+      "sha_before": "359d4d59d831dfdbcc69d9e59c795af8ef7b2eef687264d6b2e087cddb4d4557",
+      "sha_after": "7f9ab25a83e5d0b6d24551ab8e0effe946c8cb839658a7cf098739c106baec3d",
+      "note": "Hai bộ thử độc lập, không cộng lực; dự phòng không được nâng thành bất hoại.; Không đổi thông số 6m40/22/25/40, quyền lựa chọn Edith hay Jonah còn trên giường."
+    },
+    {
+      "chapter": 59,
+      "before": 1857,
+      "after": 1858,
+      "paragraphs_before": 46,
+      "paragraphs_after": 46,
+      "changed_paragraphs": 7,
+      "sha_before": "74a91bf64ba7bb39a305a45298df51fadb7ebc53297e89953bd34b6939f8b64b",
+      "sha_after": "431d41e4a5323dfb5d87159aa8dac85fc1b5aeb106f2f4554890818ba0f415b9",
+      "note": "Silas phá điểm giằng bằng dụng cụ, không tay không/phá dầm; không người trên cầu.; Dự phòng còn nhưng phần dẫn phải kiểm lại; không hứa cứu chắc sáng hôm sau."
+    },
+    {
+      "chapter": 60,
+      "before": 1807,
+      "after": 1811,
+      "paragraphs_before": 44,
+      "paragraphs_after": 44,
+      "changed_paragraphs": 10,
+      "sha_before": "6a7ac1cd428ee198dc13aec8cc377befb94a38ab4904bbac9fe185d1d4a3e52c",
+      "sha_after": "2399b2a7ba9b6b00e24bd0163c902d2616c35843af003651e8c3823116d2cec6",
+      "note": "Thử khôi phục bằng bộ dự phòng riêng, chưa mở lượt thật; nêm chưa nhận tải.; Giữ dây báo nhẹ không dây cáng, tay phải chưa hồi phục; không tự chứng kiến trang đêm."
     }
   ]
 }
