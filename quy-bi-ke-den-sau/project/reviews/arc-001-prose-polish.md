@@ -27,5 +27,10 @@ Người dùng duyệt bản thử 003 và STYLE_GUIDE, cho phép sửa toàn b�
 | 013 | 2221 → 2225 | 97 → 97 | 12 pound còn ký thác; kiểm sai được sửa, quyền mua chưa thành giao dịch. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm. |
 | 014 | 2061 → 2073 | 101 → 101 | Bản chép Bram bị lấy, gốc và bản vẽ vẫn ở nơi cũ; thủ phạm chưa xác định. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm. |
 | 015 | 1998 → 1989 | 127 → 127 | Mara nói dối vị trí Theo nhưng chưa dùng tên Evan; lòng tin chưa khôi phục. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm. |
+| 016 | 2172 → 2163 | 116 → 116 | Gideon chỉ nhận đổi mục/đóng dấu; chưa giải cơ chế; chìa khóa chỉ mở khi ông có mặt.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ. |
+| 017 | 2102 → 2099 | 80 → 80 | 150−12=138 pound; chưa nhận nguyên liệu; bản tường trình 15/7 vẫn được nộp riêng.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ. |
+| 018 | 2097 → 2107 | 78 → 78 | Nợ132 pound, hạn2 pound/tháng từ31/8; đồng hồ bán6 pound; chưa uống trước20/7.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ. |
+| 019 | 2294 → 2297 | 97 → 97 | Seq9 chưa thành thạo; vệt xám không điều khiển được, đau/tiếng nói/đứt nhớ giữ nguyên.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ. |
+| 020 | 2007 → 2017 | 93 → 93 | Không đưa người mới tiếp xúc; mẫu ít và giới hạn khác nhau; linh thị không cho thấy liên kết.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ. |
 
 Các chương ghi trong bảng đã được kiểm lời thoại và thứ tự chữ số bằng máy, đọc đối chiếu phần thay đổi về sự kiện, tri thức, manh mối và nhịp câu. Các phép so văn bản không tự chứng minh tương đương ngữ nghĩa. Báo cáo sẽ chốt sau khi hoàn tất đủ 30 chương.
