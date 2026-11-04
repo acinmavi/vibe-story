@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 25,
+  "as_of_chapter": 28,
   "loops": [
     {
       "id": "L1",
@@ -11,7 +11,8 @@
       "id": "L2",
       "question": "Why does a catalog recipient field appear to change, and did Evan request this delivery shift?",
       "due_arc": 1,
-      "status": "open"
+      "status": "resolved_operationally",
+      "resolution": "recipient responsibility reconstructed through sources/testimony; suspect registry quarantined027; full origin remains separate"
     },
     {
       "id": "L3",
@@ -29,7 +30,8 @@
       "id": "L5",
       "question": "Who redirects the rare books and uses the catalog discrepancy?",
       "due_arc": 1,
-      "status": "open"
+      "status": "resolved_case",
+      "resolution": "Kestrel acquisition/code instructions independently documented026, Gideon theft admitted027; capture and artifact provenance remain follow-up"
     }
   ]
 }

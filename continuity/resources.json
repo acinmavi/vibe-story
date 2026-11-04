@@ -1,11 +1,11 @@
 {
-  "as_of_chapter": 25,
+  "as_of_chapter": 28,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
   "cash_pence": 76,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
-  "checking_wage": "withheld, not counted as cash",
+  "checking_wage": "forfeited027, explicitly not acceptance of full shipment contents",
   "power": "9 Mystery Pryer, undigested",
   "potion_formula": "received and checked through two in-world sources; no invented recipe printed",
   "ingredients": [
@@ -27,7 +27,9 @@
     "new room/food charges continue, not forgiven; next settlement tracked at arc close",
     "025 only carried copy lost; Iona backup and Bram originals remain;012 sketch awaiting check at room",
     "Mara forfeited2sh of her own withheld pay, no Evan cash payment or Theo old debt cancellation",
-    "forearm abrasion and spiritual fatigue025; ordinary injuries persist"
+    "forearm abrasion and spiritual fatigue025; ordinary injuries persist",
+    "no cash reward or debt forgiveness for solving case;76p last explicit cash count",
+    "routine room/food costs accrued since18 July, to settle at030-day close"
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 0,
@@ -37,5 +39,6 @@
   "iona_debt_pounds": 132,
   "monthly_minimum_pounds": 2,
   "first_due_date": "1349-08-31",
-  "priority_purchase_right": "first3 research papers subject to lawful ownership and separately agreed price"
+  "priority_purchase_right": "first3 research papers subject to lawful ownership and separately agreed price",
+  "artifact_ownership": "none; registry sheet17 and seal held by specialist church custody"
 }

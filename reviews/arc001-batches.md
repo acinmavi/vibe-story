@@ -43,3 +43,9 @@
 - Blind review022–025,rootđọcchuỗiartifact024vàgiữnguồn025. C8lộkiếnthứcnộibộchưađủchỉnguồn;phiếulưuriêng/chứngthực/hệniêmvẫnlàgiảthuyết.
 - Sửa2shMara rõ làtiềncông bịgiữ,khôngtiềnEvan/nợTheoxóa. Bỏtuyênbốghimới chưađượcgieo trướcgiật; bảnIona khôngbiếnmất, gốcBramcòn.
 -025thoátnhờphốquen/ngườidân/tuầntra,cốlinhthịchỉđau. Cófight-cardtrướckhiviết,báonguyhiểmngay. Bảnvẽ012đểriêng,khôngpháquyluậtgiấycánhân.
+
+## 026–028
+- Blind reviewer gửi3giảthuyết sau026 TRƯỚCđọc027: giảthường,đổichữ,đổinhớgắnhệniêm. Sau027khôngcóluậtẩnvàophútchót; số17là nhận dạng vậtchứkhôngquytắcgiảián. Rootđọc toàn027.
+- C9nguồngốc nốiKestrel,012khôngđọctên. Chuyêntráchđãđượchẹn hỗtrợquảnthúc,khônggiảiánthayMC/canongiải hộ. Gideontựmởngăn/tựnhậntráchnhiệmkhôngđổhếtphép.
+- Sửa028‘đãngừng’mạnhquáthànhchưaghinhậnsai mớiởphầnđốisauquảnthúc; câu‘nhớlại’ làbiênbảntómtắtcầnlàmrõ,khôngbịa lờisaiMCtrướcđó.
+- Khépđườnggianlận vàpháttán;nguồnphápsư/vật vàbắtKestrel cònmở. Tàisản/cắtca/nợ132/quan hệMara vẫnchịugiá.
