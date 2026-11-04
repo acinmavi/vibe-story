@@ -448,6 +448,61 @@
       "sha_before": "8a1ba2659f737fa5aeb43509287a932a243937a4b22814b3512af281468b49c2",
       "sha_after": "4c9130cc0ce59d05683f7309f4e166c97e81389cde0f981b83dfa093daab8d85",
       "note": "Jonah/Edith tự nguyện vẫn chỉ lời Silas; không thêm xác nhận trực tiếp.; Động tác Silas không xác định Danh sách; chốt/khối hạ cuối ca giữ nguyên; hẹn sáng7/8 và quyền báo khẩn không mất."
+    },
+    {
+      "chapter": 41,
+      "before": 1867,
+      "after": 1868,
+      "paragraphs_before": 48,
+      "paragraphs_after": 48,
+      "changed_paragraphs": 4,
+      "sha_before": "649e860bc080d3576b803f5dec1056ef16059581bf4bc95cd60c170d6192d6f3",
+      "sha_after": "ceee60059e204de1e94700a882d2aebc2f99b44d5e52645ade7a4a548030ddf9",
+      "note": "Linh thị chỉ nhịp thứ ba đau rồi thu ngay, vệt mờ chưa xác định; không thêm mức tiêu hóa/năng lực.; Jonah chưa gặp/chưa nghe/chưa biết vết thương, giữ lịch y tế sáng7/8 và222p."
+    },
+    {
+      "chapter": 42,
+      "before": 1927,
+      "after": 1929,
+      "paragraphs_before": 64,
+      "paragraphs_after": 64,
+      "changed_paragraphs": 6,
+      "sha_before": "34664f8cd5285b7ff82317b96220fbf411b9dde00d82bda4ba3c80e8736ae43b",
+      "sha_after": "0b25f22b9d60c667c4c8decd18eaa261cf90932b4687f0117d1991d482427300",
+      "note": "Rowe qua ngưỡng trước thử vật và trở cùng đồ, không thử người lần nữa.; Cánh gỗ/then thường khác chốt đồng, khối thấp; thử gỗ/dây chưa chứng minh mọi vật hay mọi người; báo ngay."
+    },
+    {
+      "chapter": 43,
+      "before": 1889,
+      "after": 1883,
+      "paragraphs_before": 64,
+      "paragraphs_after": 64,
+      "changed_paragraphs": 5,
+      "sha_before": "495bf068da1eb73ca2431d8abfb20d6be0c471d3a0c9ba2ded10d5f49c47c29b",
+      "sha_after": "1171cbddc1126f164250bd4ee55cd5bb9ba0c8da6e91ccff22ad854307bf7dce",
+      "note": "Chỉ thoát nhờ xe/nhân chứng, không thắng tay đôi; tay phải đau tăng, tay áo trái được Nell kéo.; Giữ hai người/hai bao/đường ra phố và không biết tiếng giày sau lưng do vấp hay dừng; không vào cửa thấp."
+    },
+    {
+      "chapter": 44,
+      "before": 1904,
+      "after": 1907,
+      "paragraphs_before": 53,
+      "paragraphs_after": 53,
+      "changed_paragraphs": 5,
+      "sha_before": "424961ef17d8fe5f12e07393d3fd9e4fd6f34bdcb4efd0d0507a6c17f21f832c",
+      "sha_after": "4f4c08be63ebcdc7014ddb753536dc3389ad31f1a97602fb16f845d15418fb6a",
+      "note": "Giữ scar trái cũ khác chấn thương phải, khám4p/ăn2p/còn215p; không tự khỏi.; Đội tới8/8 không là lệnh chờ khẩn; Marsh vẫn chưa tiếp xúc Jonah; không ghi người trẻ theo ra cổng là fact."
+    },
+    {
+      "chapter": 45,
+      "before": 1901,
+      "after": 1901,
+      "paragraphs_before": 61,
+      "paragraphs_after": 61,
+      "changed_paragraphs": 4,
+      "sha_before": "17026f950a7ae9fbbb7e6f732dbe7311b38177ac137a90f0016e0b0249b704e4",
+      "sha_after": "4adc760b769ca770d93c9c5fec489aa4236898668254bbc2c7a7e62f36b0f964",
+      "note": "Mira chỉ môi giới có giá/không xác minh tổ chức; chưa trả12p tới046.; Ba phiếu thử không là công thức/khảo cứu riêng; chưa nhận Seq8 hay năng lực; tiếp nhận đội chiều8/8 giữ nguyên."
     }
   ]
 }

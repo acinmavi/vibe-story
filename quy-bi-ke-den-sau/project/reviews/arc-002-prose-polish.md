@@ -24,5 +24,10 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 038 | 1809 → 1815 | 60 → 60 | Đo12foot6inch/vạch A và hai cách đo giữ nguyên; chưa được thử người.; Dấu bùn chưa xác định chủ/quay ở đâu; Nell/thợ giữ quyền kiểm sàn, không biến Evan thành kỹ sư. |
 | 039 | 1805 → 1812 | 60 → 60 | Không dùng người nhẹ hơn để thử tải; phép thử vật bị lệch không được dùng kết quả.; Ván mở/thanh đỡ hụt/nhánh cơ cấu sau lưới và mối kê trượt giữ riêng; không suy sức chịu tải chung. |
 | 040 | 1860 → 1862 | 85 → 85 | Jonah/Edith tự nguyện vẫn chỉ lời Silas; không thêm xác nhận trực tiếp.; Động tác Silas không xác định Danh sách; chốt/khối hạ cuối ca giữ nguyên; hẹn sáng7/8 và quyền báo khẩn không mất. |
+| 041 | 1867 → 1868 | 48 → 48 | Linh thị chỉ nhịp thứ ba đau rồi thu ngay, vệt mờ chưa xác định; không thêm mức tiêu hóa/năng lực.; Jonah chưa gặp/chưa nghe/chưa biết vết thương, giữ lịch y tế sáng7/8 và222p. |
+| 042 | 1927 → 1929 | 64 → 64 | Rowe qua ngưỡng trước thử vật và trở cùng đồ, không thử người lần nữa.; Cánh gỗ/then thường khác chốt đồng, khối thấp; thử gỗ/dây chưa chứng minh mọi vật hay mọi người; báo ngay. |
+| 043 | 1889 → 1883 | 64 → 64 | Chỉ thoát nhờ xe/nhân chứng, không thắng tay đôi; tay phải đau tăng, tay áo trái được Nell kéo.; Giữ hai người/hai bao/đường ra phố và không biết tiếng giày sau lưng do vấp hay dừng; không vào cửa thấp. |
+| 044 | 1904 → 1907 | 53 → 53 | Giữ scar trái cũ khác chấn thương phải, khám4p/ăn2p/còn215p; không tự khỏi.; Đội tới8/8 không là lệnh chờ khẩn; Marsh vẫn chưa tiếp xúc Jonah; không ghi người trẻ theo ra cổng là fact. |
+| 045 | 1901 → 1901 | 61 → 61 | Mira chỉ môi giới có giá/không xác minh tổ chức; chưa trả12p tới046.; Ba phiếu thử không là công thức/khảo cứu riêng; chưa nhận Seq8 hay năng lực; tiếp nhận đội chiều8/8 giữ nguyên. |
 
-Đã đối chiếu 10/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+Đã đối chiếu 15/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
