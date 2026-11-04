@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 13,
+  "as_of_chapter": 16,
   "reader_seen": [
     "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
     "catalog recipient appears to change; independent pencil note remains unchanged",
@@ -13,7 +13,9 @@
     "C4 exterior physical code differs from docket",
     "C2+C3+C4 do not yet establish supernatural mechanism",
     "material evidence is separate from interpretation",
-    "three evenings of work and corrected initial mistake earn access, not a free potion"
+    "three evenings of work and corrected initial mistake earn access, not a free potion",
+    "ordinary forgery or sheet substitution not excluded by Gideon testimony",
+    "permission to inspect drawer only with Gideon present, no removal of originals"
   ],
   "MC_verified": [
     "new body is employed in a print shop",
@@ -34,7 +36,10 @@
     "Rusk introduction to Iona earned by detecting ordinary misbinding; Orrin conflicting source claims, no deposit paid",
     "C5: grazing light shows pressure grooves, source and actual text still unknown; personal sketch permitted by Gideon",
     "Iona independently checking rare six-volume survey offered180 pounds; conditional12-pound assessment fee not cash",
-    "appointment for formula-supply assessment15 July; no formula or ingredients received"
+    "appointment for formula-supply assessment15 July; no formula or ingredients received",
+    "014 forged Dale message and assault reported promptly to patrol; private Bram copy taken, original still outside workshop",
+    "Mara withheld family debt records after lying about Theo whereabouts; limited cooperation only",
+    "C6: Gideon voluntarily disclosed medical debts and sale of customer books, admits using seal to change catalog entries; full mechanism and director unproven"
   ],
   "MC_remembers_original": [
     "book-one names and early Seer period; uncertain dates and current whereabouts",

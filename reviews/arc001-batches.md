@@ -22,3 +22,8 @@
 - Blind reviewer chỉ văn010–013; vếtép có thể do tờ trên, tẩy/viếtđè hoặc thớ giấy; phép so giấy thường chưa địnhnguồn. Bảnvẽ không đọc ra thôngđiệp.
 - Sửa hẹn thẩmđịnh thành15/7 (chương017), tránh nhầm sốchương17 với ngàytháng. Bổ sung thanh toán kỳ phòng36p +8p bánh mì từ04–11, tiền91→47p.
 - Iona chỉ cấp quyền tiếpcận và12pound thùlao cóđiềukiện kiểmnguồn lôsách180pound, chưatiềnmặt/côngthức/nguyênliệu. MC phải sửa sai banđầu, làm3buổi. Không miễnphí/nhânvậtcanon.
+
+## 014–016
+- Blind reviewer đọc013–016. Thêm áp lực phiếu cótênEvan và ýđịnh chỉ xácminh cửa từngoài, mốc12/7; vượtngưỡng vẫn sai cógiá. Tuầntra được báo và xửlý bìnhthường.
+- Thêm phép đốichiếu phânbiệt ở016: địnhdanhđúngtờ, giữtầmnhìn, bảnngoàihệ, ngườiđọc/chạm và giánđoạn. Lời nhận Gideon chưaloạitrừgiảmạo thường hoặc ảnhhưởng nhậnthức.
+- Mara/Theo giữagency; nợchữa vợkhôngxóatộiGideon. Tiền47p giữ, bảnchépBrammất,gốcvàbảnvẽ012còn. Khôngcôngthức/ma dược sớm.

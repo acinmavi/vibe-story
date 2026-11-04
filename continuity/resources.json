@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 13,
+  "as_of_chapter": 16,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
   "cash_pence": 47,
   "workshop_arrears_shillings": 0,
@@ -16,7 +16,9 @@
     "008 paid12sh, settled39p Ada and6p Mara; 104p left",
     "009 paid1p warehouse fee, 103p left; new room charges accrue separately",
     "011 warehouse viewing12p=>91p;013 new room36p and bread8p paid=>47p",
-    "12-pound assessment fee conditional; not added to cash; next rent due18 July"
+    "12-pound assessment fee conditional; not added to cash; next rent due18 July",
+    "014 lawful private Bram copy lost to attackers; external original and012 sketch survive",
+    "shoulder/ankle bruises from014, not magically healed"
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 12
