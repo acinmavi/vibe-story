@@ -1,10 +1,10 @@
 {
   "visibility": "author_only",
-  "investigator": "Klein acting through The World and independent channels",
+  "investigator": "KleinMoretti;currentK0,TheWorldonlyafuturechannelaftercanonpersonaexists",
   "subject": "Evan Harlowe / Tran Duy",
   "stage": "K0_not_yet_started",
   "truth": "AU: both released same day from separate cocoons in Sefirah Castle",
-  "mc_participation": "forbidden: no self-investigation, tip-off or confession to advance Klein's case",
+  "mc_participation": "MC may investigate his own origins independently; forbidden to intentionally aid Klein through confession,tips,plantedbreadcrumbs or explaining sharedsource",
   "leads": [
     {
       "id": "KI-01",
@@ -48,6 +48,6 @@
     }
   ],
   "proof_gate": "No shared-cocoon confirmation until high-sequence access to cocoon evidence and at least 3 independent verified earlier leads.",
-  "as_of_chapter": 30,
+  "as_of_chapter": 44,
   "arc001_note": "No direct canon cast encounter, Tarot membership, World mission or Klein origin investigation during Arc001. Future planned leads remain unverified."
 }

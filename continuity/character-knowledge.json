@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 40,
+  "as_of_chapter": 44,
   "reader_seen": [
     "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
     "catalog recipient appears to change; independent pencil note remains unchanged",
@@ -108,7 +108,12 @@
     "039 Nellandcarpentercheckpublicfloorpartialcut/repairedsupport;objectloadplacementinitiallymisalignedthenfindsloosebearing;nohumanusedastest,noloadcapacitycertifiedbeyondinspectedarea",
     "040 AgnesintroducesSilasVey;groupapproachesinnergrilleviaexaminedstonewhenouterdooropen/masshigh;VeyclaimsJonahPellinjuredleg2Augandstayingvoluntarily;patientnotheard/seenindependently",
     "040 Silasstopsworkerhandbeforelatchmoves;couldbetrainedphysicalskill,noSequenceidentified;groupwithdrawsbeforebell/masslow/outerdoorclose",
-    "040 policerequiresindependentmedicalcontact/patientwillandnextfollowupmorning7Aug;NellaffirmsEdithrighttoleavework/family,stillseekingreliablewelfareinformation"
+    "040 policerequiresindependentmedicalcontact/patientwillandnextfollowupmorning7Aug;NellaffirmsEdithrighttoleavework/family,stillseekingreliablewelfareinformation",
+    "0416Augnight:Iona predeparture written appendix guides brief linh thị practice;third breathpain causesstop,no newmeaning/skill;medicalappointmentconfirmedfor7Aug,Jonahstillnotheard.",
+    "0427Augmorning:RoweunexpectedlyreturnsoutsideAwhenenteringroutineexam;woodleafnormalhandle distinct from inner brass controlpawl;immediatereportandspecialistrequest before object-only checks;Marshstaysoutside,nobodyaskedtoexperiment.",
+    "042woodrod/drawstringblock pass/retrieve ordinarily;onlyone involuntaryhumanincident,no universalbiological rule proven,patientnotdirectlyexamined.",
+    "043Nell/Evansentforexteriorinspectionoutsideinitialnorthcordon;twoordinaryworkersinvokeSilassafetyorderthenoverreachdetainingthem;cart/publicescapeandreportimmediate,forearmaggravated;no copiedpowers/no paperloss.",
+    "044Marshordinarymedicalcare4pplusmeal2;rightarmnothealed,Nellrefusestoworkalone;Agnesstopsaffectedroutesandrecordscrewlosses;dispatch042updated,specialistonsite8Augconfirmed,emergencycontactremainsimmediate."
   ],
   "MC_remembers_original": [
     "book-one names and early Seer period; uncertain dates and current whereabouts",
@@ -124,13 +129,12 @@
   ],
   "forbidden_leak": "MC may remember book-one privately but cannot treat it as verified, expose high secrets, or know offscreen Klein events firsthand.",
   "current_snapshot": {
-    "as_of_chapter": 40,
-    "date": "6Aug1349,noon",
-    "cash_pence": 224,
-    "sequence": "9incomplete/untrained;nonewcapability",
-    "location": "BacklundAshwickarchiveAU/lodging",
-    "Klein_contact": "none;K0unchanged",
-    "knowledge_limit": "KnowsSilasVeyname/role,notSequence/motive;JonahPell/injury/voluntarycareonlySilasclaim;Edithlocation/coercionunknown;Mirastillunknown;nodemonstratedspatialloop",
-    "institution": "5Augpolicevisitfulfilled;6Augmeetingdone;medicalindependentrequest+7Augmorningfollowupmustbetracked"
+    "as_of_chapter": 44,
+    "date": "1349-08-07",
+    "cash_pence": 215,
+    "sequence": "9 Mystery Pryer, digestion incomplete",
+    "location": "BacklundAshwickAU,lateafternoonaftermedicalcare;perimeterguarded",
+    "Klein_contact": "none; K0 unchanged",
+    "knowledge_limit": "NoEdithidentification/independentJonahvoiceyet. SilasSequence/motiveunknowntoMC. Specialistdispatchalreadyactive042,mustnotrestartlate. Rowe/Marshguardandseekpatientaccess;teamVossarrives8Augactualnotyetwritten. Cash215p,no debtpayment. Nonewcannonencounters/grayprotection."
   }
 }

@@ -1,7 +1,7 @@
 {
-  "as_of_chapter": 40,
+  "as_of_chapter": 44,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 224,
+  "cash_pence": 215,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
@@ -48,7 +48,8 @@
     "038 sameordinarydistance measured12ft6in bytwo object methods;nonewspiritualskill",
     "039 loadtestobjects/repaircostapprovedbyAgnesforclientwork,notEvanpersonalcash;noengineeringabilityornewitemassumed",
     "040 Silasquicklystopsworkerhandthroughgrille;noMCfight/noSeq8identified/noabilitycopied;rightforearmpainpersists",
-    "NoIona132-poundrepayment,7-poundjobbalanceormagicitemreceived037–040"
+    "NoIona132-poundrepayment,7-poundjobbalanceormagicitemreceived037–040",
+    "041dinner2p→222;042breakfast1p→221;043noexpense;044medical/wash/bandage/medicine4p→217+meal2p→215. No automatic reimbursement,7GBP unpaid."
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 0,

@@ -40,6 +40,20 @@
       "cost": "forearm abrasion and fatigue; Mara forfeits2sh withheld wages",
       "record_type": "pre-drafted fight-card validated against025",
       "result": "escape via known street and shopkeepers/patrol; no combat spell; carried copy lost"
+    },
+    {
+      "scene_id": "A2-F1",
+      "chapter": 43,
+      "story_date": "1349-08-07",
+      "record_type": "pre-draftcardmatchedreviewedscene043–044",
+      "mc_sequence": "9untrained",
+      "klein_sequence": null,
+      "objective": "escape withNell andreport",
+      "enemy_evidence": "twoordinaryworkersinvokeVeysafetyorder;detainingpeopleisanoverreachnotprovenexplicitorder",
+      "items": "ordinarycartwithbags/publicgate/witnesses,no combatspell",
+      "result": "escape topublicstreet,patrolresponds immediately,nopaperloss",
+      "cost": "forearmaggravated,medical4p+food2p044,missedwork",
+      "agency": "Nellcart/route;Evanwithdraws;Rowequestionsseparatewitnesses;Marshordinarycare"
     }
   ],
   "entry_schema": [
@@ -57,7 +71,45 @@
     "cost",
     "canon_or_au"
   ],
-  "planned_fight_cards": [],
-  "as_of_chapter": 30,
+  "planned_fight_cards": [
+    {
+      "scene_id": "A2-F1",
+      "chapter_range": "043–044",
+      "status": "fulfilled043–044",
+      "story_date": "1349-08-07",
+      "mc_sequence": "9untrained",
+      "klein_sequence": null,
+      "win": "escape to public/perimeter with Nell,reportassault",
+      "lose": "heldinconcealedspace orwounddisableswork",
+      "items": "ordinaryhandcart/visibleescape,nonewspellorfog",
+      "enemy": "twoordinaryhiredworkersfollowingmisguidedsafetylệnh,blockaccessnotstealpapers",
+      "enemy_tactics": "oneblocks,oneapproachesfromside",
+      "cost": "forearmaggravation,missedwork,medical4p+food2p044",
+      "agency": "Nellchoosesroute;Rowe/Marshalreadyawareofhazard;dispatchfrom042notdelayeduntil044"
+    },
+    {
+      "scene_id": "A2-F2",
+      "chapter_range": "060–062",
+      "status": "planned_not_actual",
+      "mc_sequence": "9",
+      "enemy_sequence_author_only": "8MeleeScholar;POVunknown",
+      "win": "buytestedshorttimeforrescue,notdefeatenemy",
+      "lose": "captured/missinganchor",
+      "items": "preparedcart/wedge/twofireshutters/measuredroute,notgray",
+      "enemy_tactics": "shortcut/targetropeholder/thenanchor,notrunblindlyintotrap",
+      "cost": "workingnotesabandoned,injury/fatigue,onepathleft",
+      "limits": "notbulletproof/notbarehandbreakbeam;Sabotagewithtool/weakjointshownbefore"
+    },
+    {
+      "scene_id": "A2-F3",
+      "chapter_range": "062–064",
+      "status": "planned_not_actual",
+      "win": "twopeopleincludingstretcherpatientandsupportersout",
+      "lose": "overload/stretcherfall/returnloop",
+      "coordination": "Nellmechanical;Edithpatienttiming;Marshcare;Vossteamouterrestraints;Evanvisualsignals",
+      "limits": "alltiming/loadtested057–058;nohumanexperimentaltesting;novelruleatclimaxforbidden"
+    }
+  ],
+  "as_of_chapter": 44,
   "arc001_note": "No direct canon cast encounter, Tarot membership, World mission or Klein origin investigation during Arc001. Future planned leads remain unverified."
 }

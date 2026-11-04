@@ -69,3 +69,11 @@ Blind: (1)chăm người bịthương thật nhưngche tráchnhiệm tai nạn,E
 `check_project.py .` và `qa_arc.py`:PASS40chương,stagearc2_writing,hash001giữ nguyên. Kiểm bổsungPASS:38nhịp031–068,không041,reader/mụclục10chươngđồngbộ,5clueIDsđúngmốc,224p/nợ132£,liênkết nội bộ. `diff--check` lầnđầu bắt CRLF của bộghiCSV;đổiLF và kiểm lại đạt. Script không chứng minh loređầyđủ/chấtlượngtươnglai.
 
 041–042 phải theo yêu cầu khám/tiếp xúc độc lập và lời hẹn sáng7/8;không để buổi luyện khiến vụviệc khẩn bịquên. Khôngpush;chỉcommitlocallôđược yêu cầu.
+
+## Lô041–044
+
+Root đã đọc FULL cả4chương; reviewer độc lập đọc040–044khôngsealed/futureoutline. PASS:7Augy tế/tuầntrađếnđúnghẹn;Rowequangưỡng bấtngờ trướcmọithửvật,không dùngngườithử;outerwoodhandle khácchốtđồng. Báongay042,043thoát2ngườithường ngoài cordon cũ bằngxe/publicroute,044chăm thường/đóngkhu/confirmdispatch8Aug. Jonahchưakhám/Edithchưatiếp xúcđộc lập giữtrong bàn giao. Giảthuyếtcơcấugâyvòng hoặcSilasđiềukhiểnchưaphânđủ,khônglộđápán.
+
+Root sửa041'bảnđohômtrước'→'ban sáng' vìcùng6Aug;thêmnhịptrảbìnhnướcthườngkhichươngđếmPython1785dướimức1800. SốRTKwcbanđầu khácwhitespace,khôngphảifileđượcwriterđổilén;mọiđếmcuối dùngPython. Actual:0411867,0421927,0431889,0441904;tổng7587từ. Tiền224−2−1−6=215p,nợ132£nguyên.
+
+QA/cached-diffkếtquả đượcghi trongcommit lô;nguồn001–040khôngđổi. KhôngArc3,069cấm.

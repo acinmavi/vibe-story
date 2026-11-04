@@ -21,7 +21,7 @@
       "id": 2,
       "title": "Cánh cửa cuối ca",
       "status": "in_progress",
-      "chapter_range": "031–068authorized;031–040written",
+      "chapter_range": "031–068 authorized;031–044 written",
       "date_range": "1–13Augplanned;asofnoon6Augactual",
       "genre": "bounded spatial mystery and coordinated rescue",
       "location": "Tingen031–033;BacklundAUarchive034–036",
@@ -32,7 +32,8 @@
       "institution": "ordinarywork/leaseverification;policevisit5Aug037/meeting6Aug040,independentmedicalrequestopen",
       "moral_cost": "respect consent and distribute expertise;decline monopoly on knowledge",
       "relationship_change": "NellprofessionallimitsandEdithautonomy;Agnesoperationalcosts;Silaspolitecontrol/unverifiedcareclaims,notfriendorenemyconclusivelyestablishedtoMC",
-      "next_arc_gate": "after068 separateArc3approval"
+      "next_arc_gate": "after068 separateArc3approval",
+      "actual_date": "1349-08-07"
     }
   ]
 }

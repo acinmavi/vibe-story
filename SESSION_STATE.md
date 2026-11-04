@@ -1,8 +1,7 @@
-# Checkpoint — sau lô037–040
+# Checkpoint hoàn tất Arc2 đang chạy
 
-- Chỉ quy-bi-ke-den-sau/project,shellrtk,no remote/push. Arc2Aduyệt38ch031–068,approval29d4fe1. Baselinelô75478bd,001–036/approval/ARC_001giữ nguyên. Lô037–040đãreviewđộc lập,QA/cuốicommitxemHEAD.
-- Trưa6Aug1349BacklundAshwickAU,cash224p=229−2dinner5Aug−1breakfast6Aug−2lunch6Aug;132£Iona/2due31Augnguyên;8£job1£ứngincluded,7chưa;phòngdirectclientpaid. Seq9untrained,tayphảiđau,nonewpowers/items.
--037trảhẹntuầntra5Aug;thưRuth3Augtới5Augnguồnmới nốiPikelấyxe sáng28Jun→giao chiều quaID/giấyxuất,khônggánMCđãxem009;bụiphấn/cathêmtiềnphòng cónguồn;Jonasgiữuncertainty;darkcoat/Kestrel/artifactorigin/death/transmigrationopen.
--038objectmeasureA→innergrille12ft6in;footprintsnotidentity/loopproof.039rejecthumantest,objecttestfindsloosebearing,publicfloorlimited;MCnotengineer.040AgnesintroSilasVey;claimsJonahPellinjured2Aug/voluntary,butpatientnotheard/seen;quickwriststopnotSeqknown. Groupapproachmasshigh/open,withdrawbeforebell/low/close.
--040policerequiresindependentmedicalcontact;nextfollowupmorning7Aug.041trackrequest,042fulfillappointment/notifynewfactsimmediately. Donotwriteauthorityidleforplot. Edithwhereabouts/coercionunknown;SilasSequence/motiveunknown;KleinK0,noTarot/noWorld.
-- Next041–044perapprovedoutline:actingpracticebounded,7Augindependentfollowup/objectvshumanobservation,escape/report/hurt/seekproperhelp. AllfuturePLAN. Arc3after068requiresapproval;P01/P02sourceauthorlockbeforeArc3. Noautomaticbackgroundwork.
+User đã yêu cầu hoàn tất tới068 trong phiên này,review/QA/commit từnglô;rồi recap/memory/longgame/openclues/3Arc3options;khôngdừngxinphépgiữalô,không069.
+Root đãđọc041–044FULL,blindreviewPASS;lastpublished44,date7Auglate,cash215p,debt132£,Seq9untrained. AuthorA đangstaging049–050;045–046đãstaged;authorBstaging047–048. Writerschỉassigneddrafts,rootpromote/metadata/QA/commit. Stagingđềuđượcauthorizethrough068,khôngphảiArc3.
+Canonicaltodo:quy-bi-ke-den-sau-arc002-writing. Productioncontract:arcs/arc-002/PRODUCTION_CONTRACT.md;budgetfixedbymoneyactualmustverify. Rootscriptsrecord_arc2_batch.pyconsumescuratedbatchJSONwithprecheck(noautoresolvemystery);sync_arc2_readers.pyread-onlysourcegenerator. Baselineinitialdc1c323;001–040phảiđối byteunchanged.
+Roweunexpectedloop042,ordinarywoodleafnotcontrolpawl,objectonlyafterreport;Marshpatientaccessnotachieved,professionalsdispatchongoing8Aug. 043cartescapeordinaryworkersnotpaper-theft;044armtreatedordinary4p+food2. Continue045–048aftercommit44;then7batchesuntil68. NoKlein/Tarot/World,formulaSeq8unknown,noMCSeq8;Silas8authoronlynotbodymeter;nograywin.
+Finalmoneycontract1376pafterpaid7£and2£Iona,goc130£onlyifonpage;validateeveryevent. EndArc3approvedfalse,do_not_write_after68.

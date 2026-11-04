@@ -70,3 +70,6 @@ Các dấu mới có bản CSVởarcs/arc-002/clue-ledger.csv; nguồn thực v�
 |A2R2mới|040yêucầu tiếp xúc y tế độc lập;tuầntraquaylạisáng7/8|041theotiếnđộ,042trảlờihẹn;khôngđểcảnhluyện khiếnnhântốkhẩn biếnmất |
 
 P05Kestrel/P15Dalevàhaivụgiậtgiấy/P06ngườihỏiRuskgiữmở;037khôngcótinbắtvàkhônggộphungthủ. Các phầnchưađóng cómốcoutline050/067vàArc3,không đánhđãtrả chỉvìthưcóđến.
+
+###041–044
+A2R2:7AugRowe/Marshđếnđúnghẹn,nhưngkhámđộclậpchưathành;giữnguyênyêucầu. A2C5:Roweincidenttrước thửvật,chốtđồng≠thenwoodleaf;khônglọtthànhquyluậtsinhhọcphổquát. Bịngăn043báongay,khônglặpmấtgiấynhưArc1. Dispatchbắtđầu042,044bổsung/confirm8Aug,khôngchờclimaxmớitới. P07linhthịngắndừngkhinhức,khôngtựđo100%hoặccógraycứu.

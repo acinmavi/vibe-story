@@ -26,6 +26,19 @@
       "resources_delivered": "formula017, inspected ingredients018, consumed019",
       "future_canon_risk": "AU protagonist advancement only; canon cast not involved",
       "consequence": "minimum2 pounds monthly from31 August plus priority purchase right over first3 lawful research papers; no automatic debt forgiveness"
+    },
+    {
+      "chapter": 33,
+      "seller": "EvanHarlowe",
+      "buyer": "Ashwickarchive,AgnesWardauthorizedrepresentative",
+      "knowledge": "ordinarycatalog/provenanceassessmentandunresolved-sourceinventory",
+      "information_origin": "paidworkonclient-ownedauthorizedmaterials,notperfectnovelmemory",
+      "confidence": "contractcheckedindependently033/siteverified034",
+      "danger_of_disclosure": "clientconfidentiality;excludeRuthsensitivecasefiles",
+      "price_or_favor": "8GBPtotal,1GBPadvancewithin8,clientpaysbookedbasictravel/lodgingdirectly",
+      "resources_delivered": "1GBPadvance033,remaining7notyetpaid;no formula",
+      "future_canon_risk": "localAU,noKleinconnectionproven",
+      "consequence": "lawfuljobresourcepath;clientdeliverablesexcludedfromIona3privateresearchpriority"
     }
   ],
   "entry_schema": [
@@ -41,12 +54,12 @@
     "future_canon_risk",
     "consequence"
   ],
-  "as_of_chapter": 30,
+  "as_of_chapter": 44,
   "pending_offer": {
-    "chapter": 30,
-    "counterparty": "Backlund private archive via Iona",
-    "status": "verification requested; not accepted",
-    "cash_or_fare_received": 0,
-    "knowledge_disclosed": "ordinary job questions only, no divine secrets or sensitive case file"
+    "chapter": 33,
+    "counterparty": "BacklundAshwickarchiveviaIona",
+    "status": "accepted033,actualscope/lodgingverified034–035;8GBPfee/1GBPadvanceincluded,7pending",
+    "cash_or_fare_received": "1GBPadvancecash;fare/lodgingpaiddirectlyseparate,notcash",
+    "knowledge_disclosed": "ordinaryprovenanceworkonly,nodivinesecrets/caseconfidentialrecords"
   }
 }

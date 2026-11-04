@@ -11,7 +11,7 @@ Vật phẩm làm việc:**Cặp ngưỡng đồng**, vật phẩm AU cấp th�
 | Luật | Điều kiện và giới hạn | Chứng cứ trước cao trào |
 |---|---|---|
 | R1 | Chỉ hai ngưỡng A/B đã gắn cố định; tháo khung hoặc đổi địa chỉ làm mất hiệu lực. Không gọi cửa tới nơi khác |034 thấy khung, 038 đo ngoài phạm vi, 047 so hai đầu |
-| R2 | Khi chốt đồng đóng và đối trọng hạ hoàn toàn, người sống đi xuyên ngưỡng A bị trả về phía A, và tương tự với B. Hai chiều đối xứng, không chọn theo tên/ý nghĩ |042 thử giới hạn dưới giám sát; 047 đối hướng từ hai đầu, lời chứng Edith xác nhận 054 |
+| R2 | Khi chốt đồng đóng và đối trọng hạ hoàn toàn, người sống đi xuyên ngưỡng A bị trả về phía A, và tương tự với B. Hai chiều đối xứng, không chọn theo tên/ý nghĩ |042 Rowe gặp lần bất ngờ khi đi khám thường; sau đó chỉ thử vật dưới giám sát; 047 đối hướng từ hai đầu, lời chứng Edith xác nhận 054 |
 | R3 | Đồ vô sinh đi qua bình thường; vật đang mang cùng người đi theo người. Không tách cơ thể/đồ mặc, không đưa tay riêng qua để cắt người. Dây nối hai phía vẫn truyền lực |042 vật/dây; 047 giới hạn; không phát sinh khả năng cắt không gian trong trận |
 | R4 | Mở chốt hoặc nâng đối trọng khỏi vị trí thấp vô hiệu hóa vòng; cửa trở lại lối bình thường. Có thể đi đường dịch vụ ngoài cả hai ngưỡng mà không tắt phép |042 chốt, 047 cấu hình; 048 chân thang dịch vụ |
 | R5 | Lực kéo khiến nêm mềm gãy; thời gian giữ phải được đo 049 và tái kiểm 057. Không có pin linh tính vô hạn trong người Silas, cái giá là cơ cấu cố định, tiếng động, bảo trì và mất đường rút của chính ông |034/040 tiếng chuông–đối trọng, 049 thử hỏng |

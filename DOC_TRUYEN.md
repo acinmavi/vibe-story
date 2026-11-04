@@ -41,7 +41,7 @@ Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hư
 
 ## Arc002 — Cánh cửa cuối ca
 
-Đã có10/38chương. [Đọc liền bản thảo hiện có](ARC_002.md). Arc1ởtrên giữ nguyên.
+Đã có 14/38 chương. [Đọc liền](ARC_002.md). Arc1 giữ nguyên.
 
 | Chương | Tên | Từ |
 |---:|---|---:|
@@ -55,3 +55,7 @@ Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hư
 |038|[Mười hai foot rưỡi](chapters/038.md)|1809|
 |039|[Chỗ đặt chân](chapters/039.md)|1805|
 |040|[Người giữ chìa bên trong](chapters/040.md)|1860|
+|041|[Dòng cuối để trống](chapters/041.md)|1867|
+|042|[Qua cùng một ngưỡng](chapters/042.md)|1927|
+|043|[Lối có người nhìn](chapters/043.md)|1889|
+|044|[Phần việc dừng lại](chapters/044.md)|1904|
