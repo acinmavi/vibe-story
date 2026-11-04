@@ -1,6 +1,6 @@
 # Sổ lời hứa và bí ẩn — kiểm toàn văn 001–030
 
-**Trạng thái thật chốt đêm 31/7/1349; mọi mốc 031 trở đi là PLAN chờ duyệt.** Đọc toàn văn theo thứ tự, không chỉ nối danh sách cũ. “Đã có đáp án trong sealed” không bằng “độc giả đã được trả”. Không tự chuyển trạng thái mở sang đóng trước khi có cảnh/chứng cứ trong bản thảo.
+**Trạng thái gốc chốt đêm31/7/1349, cập nhật có nguồn đến033; mọi mốc 031 trở đi là PLAN chờ duyệt.** Đọc toàn văn theo thứ tự, không chỉ nối danh sách cũ. “Đã có đáp án trong sealed” không bằng “độc giả đã được trả”. Không tự chuyển trạng thái mở sang đóng trước khi có cảnh/chứng cứ trong bản thảo.
 
 ## Những khoản đã trả trên trang
 
@@ -8,25 +8,25 @@ Rãnh 012 giúp bác ký ức tự ghép 021 rồi đối nguồn 027. Chủ hi�
 
 ## Mục còn mở và lịch kiểm
 
-| ID | Gieo / lời hứa | Trạng thái THẬT sau 030 | Mốc PLAN và cách kiểm | Điều kiện đóng / phần còn giữ |
+| ID | Gieo / lời hứa | Trạng thái THẬT đến033, có ghi nguồn | Mốc PLAN và cách kiểm | Điều kiện đóng / phần còn giữ |
 |---|---|---|---|---|
 |P01|001 hành khách thứ tư|Chưa biết người gửi, nghĩa thứ tư, cơ chế xác nhận|041/066 đối nhật ký, không coi cảnh cửa Arc 2 là đáp án; trước bản thảo Arc 3 phải khóa đáp án tác giả tuyến L1; arc nguồn gốc kiểm vật/chứng ngoài trí nhớ|Đủ nguồn–mục đích–thứ tự, không “chỉ mơ”. Hiện còn quyết định tác giả mở, cấm dùng làm cứu cánh |
 |P02|001 cảnh báo giọng mình/không mở cửa|Chưa giải điều kiện tiếng gọi hoặc hậu quả nếu mở| Theo riêng P01; trước Arc 3 khóa mối quan hệ tiếng gọi–cảnh báo; hồi đáp chỉ khi có dấu độc lập, không đặt số chương xa tùy tiện|Nguồn/điều kiện được chứng minh; tiếng gọi thường 030 không tính payoff |
 |P03|Ký ức Evan, xin ca trước 28/6|027 đối được việc nhận ca; đời trước/điều anh biết chưa hết|037/050 hai nguồn mới về ca/mã; Arc 3 đối nguồn người/thư về đời Evan và đồng hồ|Trả động cơ nhận ca/biết gì; nguồn chết/chuyển hồn không đóng theo |
-|P04|Phiếu 17/bộ dấu, nguồn và giới hạn|Quản thúc 027; sealed có cơ chế nền, MC/độc giả chỉ biết phần|032 phúc đáp giới hạn từ dữ liệu cũ, không thử người mới; Arc 3 kiểm đường cấp vật sau truy tìm Kestrel |Tách ba việc: chặn sử dụng / hiểu điều kiện / nguồn vật. Chỉ việc thứ nhất đã đạt cục bộ |
+|P04|Phiếu17/bộ dấu, nguồn và giới hạn|Quản thúc027;032 phúc đáp giới hạn từ dữ liệu cũ, không đủ toàn cơ chế|Tiếp nguồn/tài liệu hợp pháp theo outline;Arc3kiểm đường cấp vật|Đã chặn cục bộ, có mẫu liên hệ tạm; nguồn và đầy đủ giới hạn chưa đóng|
 |P05| Kestrel /đường đổi mã|Chứng từ 026, chưa bắt, chưa có kết quả truy tìm|050/067 cập nhật có nguồn; trước kết Arc 3 phải có kết quả điều tra có hậu quả (bắt, thoát có dấu, hoặc mạng bị cắt)|Không cần bắt ngay, không mất tích khỏi hồ sơ; chưa gán tổ chức canon |
 |P06|028 người hỏi Rusk phương pháp|Chưa rõ tên/mục đích|032 đối mô tả, 067 đối đại diện khách thuê + xác nhận độc lập Rusk |Đáp án đề xuất là kiểm năng lực thuê, không biết xuyên không; chỉ đóng sau khi được duyệt và viết |
 |P07|019 whisper/lạnh/xám/khoảng trống nhớ|Chủ quan, chưa chứng minh bảo vệ hoặc truy dấu|041 và 066 ghi hiệu ứng/giới hạn, Arc 3 mở nguồn đối chiếu; mốc kén chỉ khi Klein có khả năng quan sát thật|Phân biệt từng hiện tượng, không gộp mọi whisper thành cùng người; không miễn nhiễm |
 |P08|Nợ 132£/3 nghiên cứu/kỳ 31/8|Nguyên nghĩa vụ, chưa có thanh toán đầu|033 đối điều kiện; 068 dự kiến trả 2£ có biên nhận áp kỳ 31/8 nếu duyệt; Arc 3 kiểm xác nhận nhận tiền|Chỉ giảm gốc theo khoản thực chi; quyền ưu tiên chưa bán không trừ trước |
-|P09|030 lời mời Backlund /chi phí|Mới yêu cầu xác minh|032–033 kiểm khách độc lập, phạm vi 8£/ứng 1£, vé/phòng trả trực tiếp, quyền rút; 067 trả vai người hỏi|Chỉ đi sau kiểm; nếu bạn chọn B/C phải viết hệ quả từ chối, không vứt gói 030 |
+|P09|030lời mờiBacklund/chi phí|032–033 kiểmnguồn độc lập, kýviệc8£/ứng1£, véphòng trả trực tiếp; tàu rời3/8|034đối nơi nhận thực tế;067đối người hỏiRusk theo kế hoạch|Việc có thật/điều kiện được trả; hoàn thành/công còn lại/nguồnngười hỏi vẫn mở|
 |P10| Mara / Theo, nợ cũ, 2sh, việc mới| Mara ở lại, Theo hẹn thử; nợ chưa xóa, tin lại từng phần|031/032 tự quyết định, 050 thư việc và giá, 067 cập nhật; Arc 3 đối bản bảo lãnh gốc khi họ cho phép|Không tự hoàn 2sh/đưa việc chắc chắn/giải nợ bằng tiền MC; nhận kết quả không tốt vẫn là payoff |
 |P11| Gideon đình chỉ/tài sản/bồi hoàn|Chờ xử lý, không tha trắng|037/050 thông tin bước đầu; trước kết Arc 3 có kết quả xử lý/khả năng hoàn trả kèm nguồn|Đình chỉ và một chiếc ghế không trả đủ nợ nạn nhân; không bắt người có thẩm quyền kể mọi chi tiết riêng |
-|P12|Công mất/tiền trọ/vết thương|27p, phòng 26/7 trở đi chưa quyết toán, tay phải đau|031 quyết toán nguồn thật, 043–044 có thương tích mới và khám, 068 sổ chi; mỗi nhảy thời gian kiểm nghỉ/phục hồi|Không lành tức thì, không lấy sẹo trái làm vết phải, không trả tiền hai lần |
+|P12|Công mất/tiền trọ/vết thương|031côngRusk18p/36p phòng;032đêm2Aug5p;033cash239p sauứng,khôngnợAda,tayphải vẫnđau|Mỗi lô kiểmchi/thươngtích, khôngdùngứngnhưlợi nhuận|Khônglành tứcthì,khôngnhậntiền7£chưađược trả|
 |P13|001 bụi trắng cổ Gideon |Được nhấn nhưng chưa đối|037 nguồn thợ đóng kiện+vật mẫu: đề xuất phấn kiện thông thường|Loại giả thuyết nghi thức bằng chứng; không cần nâng mọi vệt bụi thành thần |
 |P14|001 tài xế né mặt/006 áo sẫm|Hai quan sát chưa đủ định danh, cùng người UNKNOWN|037/050 sổ chuyến mới+nhân chứng khác; phương án sealed tách hai người|Trả lý do né và người cầm phiếu/độ chắc; không gộp Bram hoặc Kestrel không nguồn |
 |P15| Dale /thư 31/6/2 cặp hành hung|014 và 025 đều đã báo, mất giấy thật; chưa chứng minh cùng nhóm/ Dale chủ mưu|050 đối chữ ký/ngoại phạm, nêu riêng vụ 025; 067 cập nhật, Arc 3 truy nguồn thuê/người giữ giấy chứ không mở lại cơ chế Arc 1|Chữ ký giả không chứng minh Dale trong sạch mọi việc; đừng đóng cả 2 vụ bằng một thư |
 |P16|007 hỏi Jonas vị trí bàn giao|008 ông đi vắng; lời hứa hỏi chưa được trả trực tiếp|037/050 Ruth hỏi bổ sung hoặc ghi rõ Jonas không còn chắc sau đối dòng thời gian|Được trả bằng giới hạn lời chứng, không cần nhớ chuẩn giả tạo |
-|P17|016 chìa ngăn phụ/020 trả lại MC|Sau 020 không có cảnh trả rõ; quyền chỉ dùng khi Gideon có mặt|031 kiểm đồ/thông tin người giữ và biên nhận Ruth; nếu không còn cần nguồn đã thu hồi|Không cầm chìa đi Backlund /quay lại trộm kho bằng quyền đã hết |
+|P17|016chìa ngăn phụ/020trảlạiMC|ĐÃ TRẢ031: tìm trongtúiáo, trảRuth cóbiênnhận, khôngthửổkhóa|Giữbiênnhận;đối inventory mỗi lô|Đóng khoảngtrốngquyềngiữ;khôngcầmchìađiBacklund|
 |P18|018 đồng hồ, mảnh ký ức người tặng|Bán thật, không biết người trong ký ức|Giá đã trả 018; Arc 3 kiểm nguồn đời Evan cùng P03 nếu có nguồn độc lập|Không hứa đồ ma thuật/chuộc miễn phí; nhân thân người tặng chưa đóng |
 
 ## Sự thật và kế hoạch
@@ -36,3 +36,7 @@ Các đáp án đề xuất P03/P06/P13/P14/P15 ở [SCENARIO_SOLUTIONS](../arcs
 ## Rà soát bắt buộc trước mỗi lô
 
 Đọc nguồn gieo, đối ledger tri thức và inventory, kiểm mốc phải tái xuất. Nếu đổi một đáp án, rà các manh mối phụ thuộc thay vì sửa nhân vật để vừa twist. Nếu tới mốc mà chưa có nguồn trả, giữ mở kèm lý do và mốc mới được duyệt; không đánh dấu xong do “sẽ dùng về sau”. Trước Arc 3, P01/P02 cần quyết định tác giả thật, P05/P11/P15 cần tuyến điều tra có đầu ra, không tiếp tục gia hạn vô định.
+
+### Cập nhật có chứng cứ sau lô031–033
+
+P08nợ132£còn nguyên;P10Theo còn thử và tựhỏi điều kiện032,khôngxóanợ/Mara2sh;P16Jonas/tàixế được yêu cầu hỏi bổsung032,chưa cóđáp ánđượcgiao. P06mô tả người hỏiRusk032khôngđủđịnhdanh. Gốc bảnvẽ012vànháp giaoRuth032, bảnsaotheoEvan033; không dùng gốc như vẫn ở phòng. Các mốc tươnglai làPLAN, các đáp án tácgiả đãchốt chưa được tính làđộcgiảđãnhận.

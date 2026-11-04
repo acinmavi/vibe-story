@@ -1,4 +1,6 @@
-# Review thiết kế Arc002 — chờ bạn duyệt
+> Cập nhật04/11/2026: bạn đã duyệt hướngA và giao quyền điều chỉnh. Chốt38chương031–068;review mở rộng PASS,031–033 đã viết và review. Các dòng về “chưa được viết031/chờduyệt” bên dưới là lịch sử của hồ sơ trước khi bạn mở cổng, không còn là chỉ thị hiện tại. Kết quả lô mới ở[arc002-batches](../../reviews/arc002-batches.md).
+
+# Review thiết kế Arc002 — lịch sử review và cập nhật triển khai
 
 Phạm vi: tổng kếtArc1 và thiết kế, không đánh giá chương chưa tồn tại. Không có quyền viết031. Bạn đang đọcArc1; chỉnh sửa của bạn có thể đổi đầu vào kế hoạch.
 
@@ -45,3 +47,9 @@ Kết quả tự động được ghi sau lần kiểm cuối. Các script chỉ
 - `git diff --check`: PASS. Review độc lập thiết kế vòng2 PASS; prose review đã dọn từ dính/khoảng trắng. Các giới hạn xác minh lore và quyết định còn mở ở trên vẫn áp dụng.
 
 Đây là hồ sơ đề xuất để bạn duyệt; không có cam kết đã viết/công nhận sự kiệnArc2.
+
+## Review sau mở rộng38chương
+
+Reviewer độc lập xác nhận sáu nhịp thêm không kéo dài cứu hộ, tăng agency và thử phương án trước cao trào; không có blocker cho031–033. Đã sửa tham chiếu059ngày11/8,057–058đo/tái kiểm trước059, giữ058trong tổng nhịp; hồ sơ giải đáp được chốt theo quyền điều chỉnh người dùng giao. Những số chương còn trong phần review32chương gốc là lịch sử, không làm outline hiện tại đổi lại.
+
+Chương031–033: review không xem sealed/outline; tiền, ngày, hai chìa, bảnvẽ, thươngtích, quyền quyết định và giới hạn tri thức đều khớp. Đã sửa lời hẹn032từ “chiều mai” sang “sáng mai” và bỏ một câu meta033. Không công bố đã blind-solve bíẩnBacklund chưa xuất hiện.

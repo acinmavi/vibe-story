@@ -1,12 +1,12 @@
 {
   "phase": "arc2_writing",
-  "last_written_chapter": 30,
+  "last_written_chapter": 33,
   "do_not_write_after_chapter": 68,
   "arc": 2,
-  "date_in_story": "1349-07-31",
+  "date_in_story": "1349-08-03",
   "character_sequence": "9 Mystery Pryer; digestion incomplete, untrained in combat magic",
-  "location": "Tingen, Loen; Backlund offer under verification, not departed",
-  "canon_confidence_after_divergence": "No observed change to book-one anchors; effects local to AU workshop case",
+  "location": "Train departing Tingen for Backlund; not arrived yet",
+  "canon_confidence_after_divergence": "No demonstrated causal bridge to Klein; AU reports/supply-network propagation remains UNKNOWN",
   "next_approval_required": "Arc3 requires separate approval after068; Arc2 authorized in batches",
   "tarot_membership": "none"
 }

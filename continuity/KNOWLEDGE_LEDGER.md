@@ -1,4 +1,4 @@
-# Sổ tri thức — chốt sau 030
+# Sổ tri thức — nền sau030, cập nhật đến033
 
 Bốn tầng không được trộn: **Tác giả** = bible/solution đã chốt hoặc sự kiện trên trang; ** Evan ** = đã kiểm / ký ức truyện / suy đoán; ** Klein ** = canon đến thời điểm này và chưa có chứng cứ gặp OC; **Độc giả** = những gì 001–030 đã kể, không gồm sealed solution. Đáp án Arc 2 trong SCENARIO_SOLUTIONS là đề xuất, chưa thuộc sự thật Arc 1.
 
@@ -22,3 +22,9 @@ Bốn tầng không được trộn: **Tác giả** = bible/solution đã chốt
  Ruth biết hồ sơ theft/assault và triệu chứng, **không có cảnh MC khai Seq9 /công thức/xuyên không**. Không gọi cô hay Iona / Selby là Nighthawks hoặc gán Danh sách khi chưa có nguồn. Mara biết tính cách đổi, đồng hồ đã bán, tay đau; không biết potion/nợ 132£/ký ức đọc. Theo biết tuyến xe và tự rút; không được biến thành chuyên gia occult. Bram giữ chứng từ ngoài hệ; độc lập nguồn không chứng minh ông vô tội mọi việc.
 
 Tài liệu trinh thám của Klein hiện K0. Các trường future trong klein-investigation.json là điều kiện tương lai, không là ký ức hiện tại. Chỉ khi có nguyên nhân riêng của Klein mới mở điều tra, không để MC cố ý gieo dấu, giải thích hay chủ động hỗ trợ.
+
+## Chênh lệch đã xác minh031–033
+
+Evan/độc giả biết chìa trảRuth031, gốc bảnvẽ/nháp bàn giao032 và bản sao theo người; nhận18p công thường, đã thanh toánAda,239p sauứng và ăn033. Nguồn thuê/đại diệnAgnesWard được kiểm qua đầu mối tòa nhà độc lập; nhận việc8£/ứng1£trongphí, vé/phòng trả trực tiếp; rờiTingen3/8, chưa tớiBacklund. Quyền3nghiêncứu riêng không gồm sản phẩm khách trả tiền.
+
+Ruth032 chỉ báo mối liên hệ tạm giữa việc dùng mục lục đóngdấu làm căn cứ và lệch hồi tưởng; không khẳngđịnh toàn cơ chế hoặc nguồn. Cô nhận thêm triệu chứng/địa chỉ, chưa được khai ma dược/Danh sách/xuyênkhông. Người hỏiRusk chỉ có mô tả và câu hỏi nghề, không có tên xác minh. Theo tự hỏi một điều kiện thử việc, chưa hợp đồng lâu dài. Các dòng lịch sử ở bảng030 không làm mất các cập nhật này. Klein không nhận thôngtin mới trên trang;K0giữnguyên. Không ai trong POV biết nhân vật/bíẩnBacklund chưa xuất hiện.

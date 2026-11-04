@@ -4,7 +4,7 @@ Arc001 — **Mục lục không tên**, hoàn tất30 chương; 64256 từ theo 
 
 [Đọc liền toàn Arc](ARC_001.md) · [Báo cáo kết Arc](reviews/arc-001-completion.md)
 
-Chương001 đãduyệt và giữnguyên. Dừng sau030; Arc002 cần bạn duyệt riêng.
+Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hướngA, chốt38chương031–068; đang triển khai theo lô.
 
 | Chương | Tên | Từ |
 |---:|---|---:|
@@ -38,3 +38,13 @@ Chương001 đãduyệt và giữnguyên. Dừng sau030; Arc002 cần bạn duy�
 |028|[Chiếc ghế được mang đi](chapters/028.md)|2137|
 |029|[Một chỗ để tra lại](chapters/029.md)|2035|
 |030|[Địa chỉ để đi tới](chapters/030.md)|2004|
+
+## Arc002 — Cánh cửa cuối ca
+
+Đã có3/38chương. [Đọc liền bản thảo hiện có](ARC_002.md). Arc1ởtrên giữ nguyên.
+
+| Chương | Tên | Từ |
+|---:|---|---:|
+|031|[Chỗ trống trong túi](chapters/031.md)|1801|
+|032|[Người đứng ngoài lời giới thiệu](chapters/032.md)|1848|
+|033|[Vé một chiều](chapters/033.md)|1906|

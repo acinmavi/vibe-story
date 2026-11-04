@@ -19,3 +19,7 @@
 | Bernadette | Mục tiêu Roselle và tự quyết, không chạy theo MC | Không gán bậc cuối truyện cho 1349; quan hệ Cattleya không chỉ cầu nối nam chính | Giữ các cuộc gặp Klein có nguyên nhân riêng; xem bản đồ dài hạn Arc 2 |
 
 Không đổi tính cách đột ngột để tạo twist. Nếu sau này xuất hiện thay thế/ma dược/ô nhiễm: phải ghi baseline, dấu lệch trước khi lật, điều kiện tác động, người nhận ra và hậu quả. Chưa có chứng cứ Mara / Ruth / Gideon bị thay thế.
+
+## Chuyển động thật031–033
+
+Mara giữ lựa chọn ởTingen, đưa yêu cầu nhận tin khiEvan đến nơi; không đi theo, chưa biếtma dược/nợIona. Theo tự hỏi một dòng trách nhiệm hàng vỡ và giữ quyền đọc/đồngý của mình; chưa xácnhận việc lâu dài. Rusk trả18p cho đúng công thường, nêu giới hạn nhận diện người hỏi;Evan nhậnra cách hỏi cóthể biến chỗtrống thành nghi ngờngười quen. Iona giữ giao dịch và lịch riêng, không điBacklund; chốt loại trừ sản phẩm khách khỏi quyền mua nghiêncứu riêng. Ruth nhận chìa/gốcbảnvẽ/địa chỉ đúng giới hạn, không bỗng biết nguồnEvan. Ada được trả đủ và nhận lại chìa; quan hệ thuêphòng hiện kếtthúc, chỉ giữđầumối thư theo thỏa thuận.

@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 30,
+  "as_of_chapter": 33,
   "reader_seen": [
     "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
     "catalog recipient appears to change; independent pencil note remains unchanged",
@@ -25,7 +25,8 @@
     "central shipment fraud exposed and suspect circulation stopped; original documents remain reviewable",
     "Gideon illness debt explains motive but does not erase theft; Evan lost checking fee and must answer about pre-awakening shift",
     "arc ends with voluntary research choice rather than a new sealed-object emergency",
-    "three bundled future threads: Kestrel/artifact source, Iona debt/Backlund work, gray sensation/origin"
+    "three bundled future threads: Kestrel/artifact source, Iona debt/Backlund work, gray sensation/origin",
+    "031–033 lawful work, bounded official response and independent employment verification allow departure;239p living cash, no new power or complete relic-origin answer"
   ],
   "MC_verified": [
     "new body is employed in a print shop",
@@ -76,7 +77,16 @@
     "new room and food costs paid029 leave28p,31 July bread1p leaves27p; room26–31 charges still accrue",
     "Backlund private archive address and sample work arrive via documented independent delivery; acceptance, fare and advance not agreed",
     "Mara chooses additional sewing and stays, Theo has trial-work appointment not guaranteed employment",
-    "ordinary research practice begins digestion discipline, not proven full digestion; persistent whispers and gray sensation remain monitored"
+    "ordinary research practice begins digestion discipline, not proven full digestion; persistent whispers and gray sensation remain monitored",
+    "031 drawerkey found in own coat and returned to Ruth with limited custody receipt, not used again",
+    "031 Rusk18p plate-indexing job paid; Ada36p settled26Jul–1Aug, roomnight2Aug quoted5p",
+    "032 independent building-management source supports Backlund lease/AgnesWard authority; additional scope/expenses answered033",
+    "032 Rusk visitor asked ordinary source-checking work, identity unknown; no evidence visitor is Kestrel",
+    "032 Ruth reports provisional association of stamped catalog use/accepted authority with recall deviations, independent evidence reduces certainty; no complete causal limits or restored memories proven",
+    "032 original personal012sketch/test transferred to Ruth with receipt and checked copy retained",
+    "032 Theo asked one clause and retains own work decisions, return trial sessions not permanent job",
+    "033 ordinary archive assessment contract8pounds accepted;1pound advance included, train/lodging direct paid, scope refusal protected, Iona132-pound debt unchanged",
+    "033 departed Tingen by train3Aug, expected Backlund4Aug; not arrived; roomkey returned and address filed with Ruth/Rusk/Ada/Mara"
   ],
   "MC_remembers_original": [
     "book-one names and early Seer period; uncertain dates and current whereabouts",
@@ -90,5 +100,14 @@
   "Klein_offscreen": [
     "wakes as Klein and founds Tarot Club 28 June 1349"
   ],
-  "forbidden_leak": "MC may remember book-one privately but cannot treat it as verified, expose high secrets, or know offscreen Klein events firsthand."
+  "forbidden_leak": "MC may remember book-one privately but cannot treat it as verified, expose high secrets, or know offscreen Klein events firsthand.",
+  "current_snapshot": {
+    "as_of_chapter": 33,
+    "cash_pence": 239,
+    "sequence": "9 incomplete digestion",
+    "location": "departing train, not Backlund yet",
+    "Klein_contact": "none; investigationK0",
+    "knowledge_limit": "No Silas/Nell/Edith/Jonah/Mira meeting or knowledge; AgnesWard known only through verified employment papers",
+    "Ruth_knows": "reported symptoms/documents/address, not explicit potion/Sequence/transmigration confession"
+  }
 }

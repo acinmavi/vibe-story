@@ -9,7 +9,7 @@
 
 Trần Duy tỉnh thành Evan Harlowe ởTingen ngày28/6/1349. Vụxưởngin làAU độc lập, giữ lịchKlein/HộiTarot riêng. Nhân vật bắt đầu người thường; tri thức phải trả giá và tự kiểm chứng.
 
-Chương001 đãđược bạn duyệt và giữnguyên. **Dừng sau030; Arc002 cần duyệt riêng.**
+Chương001 đãđược bạn duyệt và giữnguyên. **Arc002 đã được duyệt hướngA:38chương031–068, viết theo lô.**
 
 Fanfiction phi thương mại, không phải tác phẩm chính thức hoặc được tác giả gốc chứng thực; không sao chép lời văn nguyên tác.
 
@@ -20,3 +20,7 @@ Fanfiction phi thương mại, không phải tác phẩm chính thức hoặc đ
 - [Hồ sơ giải đáp dành cho tác giả](arcs/arc-002/SCENARIO_SOLUTIONS.md) có spoiler kế hoạch, chưa phải sự kiện đã viết.
 
 Không có chương031; không coi việc commit hồ sơ là duyệt viết Arc2. Nếu bạn sửa Arc1, phải đối lại các phụ thuộc trước khi triển khai.
+
+## Arc002 đang viết
+
+[Đọc031–033](ARC_002.md) · [Dàn ý38chương](arcs/arc-002/CHAPTER_OUTLINE.md). Ngày hiện tại3/8/1349, Evan đang trên tàu điBacklund, chưa tới nơi. Chưa có034; phần sau vẫn là kế hoạch.

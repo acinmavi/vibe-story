@@ -1,4 +1,4 @@
-# Danh sách, tài nguyên và quyền giữ — sau 030
+# Danh sách, tài nguyên và quyền giữ — sau033
 
 ## Danh sách và nhập vai
 
@@ -19,20 +19,24 @@ Các nguyên tắc nhập vai “kiểm nguồn, biết dừng, không lấy ng�
 
 1£=20sh=240p; 1sh=12p (004). Gói 150£−12£ công giám định−6£ đồng hồ=132£ nợ Iona. Không nhận 12£ và 6£ tiền mặt thêm lần hai. Tối thiểu 2£ ngày 31/8, không lãi/tặng thêm do MC tự suy; chậm phải đàm phán trước hạn. Ba nghiên cứu đầu hợp pháp được ưu tiên mua **giá thỏa thuận**, không trừ nợ trước khi có giao dịch.
 
-Chuỗi tiền cuối: 018 còn 76p; 029 trả 36p+12p=>28p; 030 mua bánh 1p=>**27p**. Tiền phòng từ 26/7 chưa có con số quyết toán. Công kiểm hàng đã mất 027; công Rusk 029 mới gợi ý, chưa có giá/thu nhập. Mara 2sh là tiền của cô, không phải MC đã trả hay được hoàn. Khoản nợ giấy ẩm Theo chưa rõ số, chưa được xóa.
+Lịch sử tiền đến030: 018 còn 76p; 029 trả 36p+12p=>28p; 030 mua bánh 1p=>**27p**. Đến030, tiền phòng từ26/7 chưa có con số quyết toán;031–032 đã thanh toán như cập nhật dưới đây. Công kiểm hàng đã mất 027; công Rusk 029 mới gợi ý, chưa có giá/thu nhập. Mara 2sh là tiền của cô, không phải MC đã trả hay được hoàn. Khoản nợ giấy ẩm Theo chưa rõ số, chưa được xóa.
 
 | Tài sản/hồ sơ | Nơi/cuối lần xác nhận | Quyền/giới hạn |
 |---|---|---|
 | Nguyên liệu gói 150£ | Dùng 019 | Không còn dự trữ/chế phép trong túi |
 | Đồng hồ cũ | Bán 6£ 018 | Không còn sở hữu; gốc người tặng chưa rõ, không hồi sinh vật dễ dàng |
 | Công thức Seq9 | Đã xem/đối nguồn 017 | Chưa xác nhận giữ bản hoàn chỉnh; không tự sao bán |
-| Bản vẽ rãnh 012/nháp | Phòng 6, kiểm 026 | Vật chứng thường, không đọc được tên ẩn; sao cho chuyên trách phải có chuỗi bàn giao |
+| Bản vẽ rãnh012/nháp | Gốc bàn giaoRuth032 có biên nhận, Evan giữ bản sao đã đối | Vật chứng thường, không đọc tên ẩn; không manggốcBram |
 | Sổ xe/phiếu 371 gốc | Bram, 026–027 | Không là đồ MC; không cho MC tự mang Backlund |
 | Bản chép 009+thư dụ 014 | Bị lấy 014 | Không tái xuất trong túi vô cớ |
 | Bản làm việc 024 của MC | Bị giật 025 | Bản Iona riêng còn; không coi là đã thu hồi |
 | Phiếu 17+bộ dấu | Đội chuyên trách 027 | Không là chiến lợi phẩm MC/không mang thử người mới |
-| Chìa ngăn phụ | Lần cuối trả lại MC 020; sau đó chưa rõ | UNKNOWN custody cuối cùng; 031 phải đối/biên nhận, quyền dùng chỉ khi Gideon có mặt đã hết thực tế |
-| Gói 030 | Thẩm tra Iona /MC, chưa ký nhận việc | Mẫu thường/chuỗi nguồn chưa hoàn tất; không vé/trả lương/tài liệu phi ma thuật miễn phí |
+| Chìa ngăn phụ | TrảRuth031 có biên nhận | Không còn trong hành lý, chưa tự thử ổkhóa sau đìnhchỉ |
+| Gói030/hợp đồng033 | Đã đối khách/địa chỉ/phạmvi, kýviệc8£, ứng1£ |7£chưa trả;vé/phòngtrả trực tiếp,đồgiao cho khách không tự bánlại |
 | Vệt xám | Cảm giác 019/030 | Không là item có gọi được; không chắn đạn/bảo vệ đồng đội/chống mọi ô nhiễm |
 
 Mỗi trận phải đối thời gian, đồ thật đang giữ, nguồn biết khả năng địch, thắng/thua/giá và đường rút. Thắng mục tiêu cứu người khác với hạ gục địch. Không đưa Ruth / Klein đến đúng giây để che kế hoạch không khả thi.
+
+## Cập nhật thật031–033
+
+031:27+18p côngRusk−36p phòng kỳ26/7–1/8−1p bánh=8p.032:8−1p bánh−1p súp−5p đêm2/8=1p.033:1−1p sáng+240p ứng−1p bánh đường=**239p**. Không nợAda hiện tại, đã trả chìaphòng6. Vé/chỗở khách thanh toán trực tiếp, không cộng vào tiền mặt hoặc nợIona. Hợp đồng8£ chỉ ứng1£, còn7£chưa nhận; nợIona132£nguyên, chưa trảnợ. Ba nghiên cứu riêng không gồm sản phẩm khách đã thuê033. Không năng lực mới; tay phải còn đau; nguyên liệu không dư.

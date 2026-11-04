@@ -36,3 +36,7 @@ Ngày chốt truyện: **đêm 31/7/1349, Tingen **. CANON chỉ mốc gốc ph�
 Mốc nguyên tác để bảo vệ agency, không là lịch ép MC tham gia: 321 triển lãm Roselle/lá Hắc Hoàng Đế; 434 nhánh Hero Bandit/Gehrman; 662 Biển Phế Tích và nhật ký; 1092/1145 nhánh Roselle/George III; 1239 và 1307–1309 lăng Roselle, hỗ trợ phong ấn và nhánh Hiền Giả; 1388 giao dịch Đèn Ước Nguyện. Đây là bản đồ chương từ [ Bernadette History](https://lordofthemysteries.fandom.com/wiki/Bernadette_Gustav/History), **ngày cụ thể và điều kiện từng cuộc gặp còn UNKNOWN**, phải đối primary trước khi viết. Không gán Seq2 cuối truyện cho Bernadette năm 1349.
 
 Khi AU thay người nhận lá Ẩn Giả, phải tính lại nguồn nhật ký, thông tin Bernadette và giá trị khiến Klein chủ động tiếp cận; không copy kết quả canon mà xóa nguyên nhân Cattleya. Cô vẫn có tàu/mạng lưới/mục tiêu riêng. MC không tiết lộ identity hay mời hai người gặp Klein thay Klein.
+
+## Sự kiệnAU đã viết031–033
+
+1–3/8/1349: quyết toánRusk/Ada, trả chìa ngăn phụ/gốc bảnvẽ choRuth, nhận phúcđáp nghiệpvụ giới hạn; ký việcBacklund sau kiểmnguồn, nhận1£ứng trongphí8£, rờiTingen bằng tàu3/8. Đây làAU, không tuyênbố lịchchuyến/giácước làcanon. Chưa đếnBacklund, chưa gặpKlein; không chuyển hồsơ tớiDunn/Neil trên trang. Vì vậy cầu lan truyền vào tuyếnKlein vẫnUNKNOWN, không được ghi đã chứngminh không ảnhhưởng.

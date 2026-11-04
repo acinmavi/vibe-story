@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 30,
+  "as_of_chapter": 33,
   "loops": [
     {
       "id": "L1",
@@ -37,12 +37,19 @@
       "id": "L6",
       "question": "Can Evan verify and accept Backlund work while meeting132-pound debt and lawful research obligations?",
       "due_arc": 2,
-      "status": "open"
+      "status": "partially_resolved",
+      "resolution": "033 independent employer verification and accepted paid contract allow departure; debt repayment and final work remain open"
     }
   ],
   "future_thread_groups": {
     "1": "artifact source, Kestrel and inquiry about method",
     "2": "Iona debt, livelihood and verified Backlund opportunity",
     "3": "gray sensation, earlier Evan and transmigration origin"
+  },
+  "followups_031_033": {
+    "drawer_key": "returned031, custody ambiguity resolved",
+    "pressure_sketch": "original handed032, copy retained",
+    "visitor028": "ordinary professional inquiry description032, identity stillunknown",
+    "artifact_mechanism": "bounded provisional report032, full mechanism/source stillopen"
   }
 }
