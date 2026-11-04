@@ -1,9 +1,11 @@
-# Trạng thái phiên — 04/11/2026
+# Trạng thái Arc 001 — 04/11/2026
 
-- Phạm vi: quy-bi-ke-den-sau; bootstrap trong project/ vì thư mục gói đã tồn tại.
-- Bootstrap, local skill và Git riêng hoàn tất. Không remote/push.
-- Đọc toàn bộ Bible, Arc 1, continuity hoàn tất.
-- Chương 001 biên tập và review độc lập hoàn tất. QA PASS: 1 chương, 3.000 từ, 30 nhịp outline, 10 manh mối; gate chapter1_review. Commit local sau kiểm tra whitespace.
-- Giới hạn nguồn: reviews/canon-review.md.
-- Người dùng đã duyệt 001 và toàn Arc 1; mở arc1_writing đến 030, hash 001 khóa trong approvals/approval.json. Đang viết lô 002–004; chưa có quyền viết Arc 2.
-- work_state_read/write không được cung cấp; lưu trạng thái phiên tại đây.
+- Phạm vi duy nhất: quy-bi-ke-den-sau/project; không remote/push.
+- Người dùng duyệt001 và toàn Arc1 (30–50 chương); chọn khung30 đã có. Arc2 chưa duyệt.
+- Approval commit d065502, hash001 khóa trong approvals/approval.json. Không sửa001.
+- Đã hoàn tất/review/QA/commit002–004:21d0e7f.
+- Đang viết005–007 theo continuity/production-contract.md; ba writer chỉ sửa chương được giao. Reviewer không đọc đáp án.
+- Tiếp theo: review độc lập, root kiểm continuity/tiền/canon, cập nhật ledgers, chạy hai QA và diff-check, commit từng lô3.
+- Mỗi chương1800–3000 từ. Không Klein/Tarot trực tiếp trong Arc1; lênSeq9 tại019 có giá, khôngSeq8.
+- Giới hạn nguồn lore: reviews/canon-review.md.
+- work_state_read/write không có; trạng thái phiên lưu ở đây.

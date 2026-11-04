@@ -1,12 +1,14 @@
 {
-  "as_of_chapter": 4,
+  "as_of_chapter": 7,
   "reader_seen": [
     "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
     "catalog recipient appears to change; independent pencil note remains unchanged",
     "delivery crate bears Harlowe; only two digits compared, third obscured",
     "limited receipt signature, withheld checking wage, lodging debt",
     "C2: different red stamp placement on copy",
-    "independent date and shop address"
+    "independent date and shop address",
+    "C3: separate witness accounts do not yet exclude different moments or shipments",
+    "Evan will seek official help on concrete harm or danger, without disclosing unnecessary forbidden lore"
   ],
   "MC_verified": [
     "new body is employed in a print shop",
@@ -16,11 +18,14 @@
     "crate 317: three crates of books/paper checked only superficially; signature explicitly limited",
     "Ada Finch room 6; rent owed 3 shillings; workshop owes 12 shillings; Mara loan 6 pence",
     "copy stamp crosses a ruled line differently from original; significance unproven",
-    "30 June 1349 shown at pharmacy; Tingen/Loen heard and printed on shop wrapping"
+    "30 June 1349 shown at pharmacy; Tingen/Loen heard and printed on shop wrapping",
+    "AU police notice names Welch McGovern and Naya but no notebook or cause of death",
+    "Mara saw Evan checking crates; Jonas recalls a dark-coated figure before Evan, exact day and document uncertain",
+    "local calendar advances to 3 July; workshop and printed newspaper dates agree"
   ],
   "MC_remembers_original": [
-    "read book one in former life",
-    "Tingen and Loen sound like remembered fictional names; world identification remains a hypothesis"
+    "book-one names and early Seer period; uncertain dates and current whereabouts",
+    "Tingen catastrophe around September; memory only, not verified present events"
   ],
   "author_only": [
     "another cocoon opened 28 June 1349",
@@ -30,5 +35,5 @@
   "Klein_offscreen": [
     "wakes as Klein and founds Tarot Club 28 June 1349"
   ],
-  "forbidden_leak": "MC may not name Klein, Antigonus, Hidden Sage, Tarot Club or Hermit path as real before confirming the world."
+  "forbidden_leak": "MC may remember book-one privately but cannot treat it as verified, expose high secrets, or know offscreen Klein events firsthand."
 }
