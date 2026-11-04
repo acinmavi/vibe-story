@@ -12,3 +12,11 @@ Trần Duy tỉnh thành Evan Harlowe ởTingen ngày28/6/1349. Vụxưởngin l
 Chương001 đãđược bạn duyệt và giữnguyên. **Dừng sau030; Arc002 cần duyệt riêng.**
 
 Fanfiction phi thương mại, không phải tác phẩm chính thức hoặc được tác giả gốc chứng thực; không sao chép lời văn nguyên tác.
+
+## Hồ sơ chuẩn bị Arc2 — chờ duyệt
+
+- [Bàn giao Arc1](arcs/arc-001/FINAL_RECAP.md), [trạng thái cuối030](continuity/CURRENT_STATE.md).
+- [Ba hướng và đề xuất](arcs/arc-002/ARC_PLAN.md), [dàn ý031–062](arcs/arc-002/CHAPTER_OUTLINE.md), [review và giới hạn xác minh](arcs/arc-002/REVIEW.md).
+- [Hồ sơ giải đáp dành cho tác giả](arcs/arc-002/SCENARIO_SOLUTIONS.md) có spoiler kế hoạch, chưa phải sự kiện đã viết.
+
+Không có chương031; không coi việc commit hồ sơ là duyệt viết Arc2. Nếu bạn sửa Arc1, phải đối lại các phụ thuộc trước khi triển khai.

@@ -12,3 +12,7 @@
 Mỗi lần chuẩn bị arc mới cần đánh giá tính trùng lặp và hậu quả canon, chọn 1 trong 3 concept trước khi outline 20–50 chương. Không phát sinh arc theo lịch nếu chưa được yêu cầu.
 
 **Mốc bắt buộc**: Klein chỉ xác nhận nguồn gốc từ kén sau khi có khả năng quan sát kén thật trong Nguyên Bảo; không gắn sự kiện đó với số chương tùy tiện. Tham khảo `bible/tarot-and-world.md`.
+
+## Ghi chú chuẩn bị Arc2
+
+Các khoảng chương ở trên là phác thảo cũ, không phải cổng duyệt hoặc lịch tăng Danh sách. Đề xuất mới nằm tại[ARC_PLAN](../arcs/arc-002/ARC_PLAN.md):031–062, giữSeq9 đến cuối và kế thừa hậu quảArc1. Chỉ sau khi bạn duyệt mới cập nhật toàn bộ khoảng chươngArc3trở đi; không tự coi031–075/Seq8 là ràng buộc đã được duyệt.
