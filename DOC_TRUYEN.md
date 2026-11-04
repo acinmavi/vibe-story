@@ -41,7 +41,7 @@ Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hư
 
 ## Arc002 — Cánh cửa cuối ca
 
-Đã có6/38chương. [Đọc liền bản thảo hiện có](ARC_002.md). Arc1ởtrên giữ nguyên.
+Đã có10/38chương. [Đọc liền bản thảo hiện có](ARC_002.md). Arc1ởtrên giữ nguyên.
 
 | Chương | Tên | Từ |
 |---:|---|---:|
@@ -51,3 +51,7 @@ Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hư
 |034|[Chiếc bàn ở Backlund](chapters/034.md)|1813|
 |035|[Phần được phép ký](chapters/035.md)|1835|
 |036|[Hai suất ăn](chapters/036.md)|1847|
+|037|[Người có mặt ngày ấy](chapters/037.md)|1863|
+|038|[Mười hai foot rưỡi](chapters/038.md)|1809|
+|039|[Chỗ đặt chân](chapters/039.md)|1805|
+|040|[Người giữ chìa bên trong](chapters/040.md)|1860|

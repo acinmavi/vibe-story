@@ -54,3 +54,19 @@ P09:034–035đã xác nhận công việc/nơi ở thực tế; phần đến �
 |A2R1|036tuầntra hẹn kiểm kho/nơi trọ cùngngày|Đã báo, chưa cókếtquả kiểm|037trongngày5/8phải cócậpnhật/hậuquả; khônglờihẹn bịquên |
 
 Các dấu mới có bản CSVởarcs/arc-002/clue-ledger.csv; nguồn thực và suy đoán tách riêng. Chưa đánh dấu bíẩntrungtâm đãđược giải.
+
+### Cập nhật có nguồn037–040
+
+| ID | Payoff thật | Giới hạn/phần còn mở |
+|---|---|---|
+|P03|037bảng đổi lượt/nguồn trảcông và lờiMara hỗ trợ nhậnca thêm đểtrảphòng;ghi chú đối mã cónguồn ngoài mục lục|Mới trả phần côngviệc/độngcơ,không biết cái chết/chuyểnhồn hoặc mọi tri thức nguyênchủ |
+|P13|037Gideon nhận đánh phấn,thợ/hồsơcôngviệc đối được|Lời giải côngviệc đãtrả,không giảvờ còn mẫu hạt001 đểgiámđịnh;khôngnângbụi thànhnghi thức |
+|P14phần tàixế|037HenryPike được đối qua hồsơmới/sốxe/giấyxuất/người nhận/lờinhận;néhỏi vìgiấy thiếu|Sánglấyxe≠chiềugiao;khônggánđãxem009;ngườiáosẫm/chủchỉdẫn vẫn mở |
+|P16|037Jonasđược hỏi lại,giữvịtrígầnđầubàn nhưngkhôngchắcphíahòm/nhậndiện|Đã trả lời hứa hỏi bằng giới hạn lời chứng;không cần trí nhớ chínhxác giảtạo |
+|P11|037kêtàisản/hỏichủsáchtếptục,chìađãđốinhận|Bồithường/kếtánchưaxong;khôngrửatội |
+|A2R1|037kiểm kho/bếp/nơitrọ5/8;040gặptrưa6/8đúnghẹn|Lời hẹncũ đãđược thực hiện,khôngđồngnghĩavụđãgiải |
+|A2C1/C4|038hai cách đo12foot6inch/vệtchân khôngrõ;040qua lúc mở/khốicao,rútrồichuông/khốihạ/cửakhép|Chưa chứng minh người qua khiđóng hay vòngkhônggian;042/047phải kiểmtiếp |
+|A2C3|040Silas nóiJonahPellbịchân2/8/tựnguyện ởlại|ChỉlờiSilas,chưa bệnhnhân/khámđộc lập;054–055trảýmuốn |
+|A2R2mới|040yêucầu tiếp xúc y tế độc lập;tuầntraquaylạisáng7/8|041theotiếnđộ,042trảlờihẹn;khôngđểcảnhluyện khiếnnhântốkhẩn biếnmất |
+
+P05Kestrel/P15Dalevàhaivụgiậtgiấy/P06ngườihỏiRuskgiữmở;037khôngcótinbắtvàkhônggộphungthủ. Các phầnchưađóng cómốcoutline050/067vàArc3,không đánhđãtrả chỉvìthưcóđến.

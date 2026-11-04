@@ -34,3 +34,7 @@ Mara giữ lựa chọn ởTingen, đưa yêu cầu nhận tin khiEvan đến n�
 | Người quản khu phụ | Agnes nhận lời chuyển; chưa ra gặp khiNellhỏi | Chưa rõ trên trang | Tên/thânphận/Danh sách/độngcơ đều chưa thuộc kiếnthứcMC |
 
 Evan chấp nhận sự khác nhau giữa nghề mình và nghềNell, sửa nhận định hai bản sách035. Chưa tin nhau toàn diện sau một ngày, không biếnNellthành người chỉ làm theoMC. Các nhân vậtTingen không biết diễn biếnBacklund trước khi thư tới; thưMarađãgửi4/8chỉ báo đến nơi.
+
+## Chuyển động037–040
+
+Nell chờ đúng cuộc hỏi tuầntra, tiếp tục gửi địa chỉ khác và tôn trọng quyềnEdith tự đi;không đổi thành người đòi giữ họhàng. Trong nghề, cô ngăn thử bằng thânngười,nhờthợmộc kiểm phần không tự nhận, chịu giới hạn phần ký. Evan chấp nhận bỏ phươngán dùngmình giữdây;tayđau vẫn có hệquả. Agnes nhận chi/phươngánchuyển hàng và cung cấp ghi nhận, chưa được tha hoặc kết tội về khu phụ. SilasVey lầnđầu gặp trực tiếp040:đúnggiờ,bình tĩnh,giữchìatrongrào,nénguồn trực tiếp,kịp chặn tay chạm lẫy. Đây là baseline quan sát,khônggán bậc/độngcơ. JonahPell chỉ là người đượcSilas nóiđến;ýmuốn riêng chưa được nghe. Mara chỉ cho phép chuyển chuyện tiềnphòng củaEvan,khôngmở sổnợgiađình. Ruth chuyển phần nguồn hợppháp,khôngthànhngườibiếtmọibí mật.

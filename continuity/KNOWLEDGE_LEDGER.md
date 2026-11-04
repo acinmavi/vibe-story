@@ -1,4 +1,4 @@
-# Sổ tri thức — nền sau030, cập nhật đến033
+# Sổ tri thức — nền sau030, cập nhật đến040
 
 Bốn tầng không được trộn: **Tác giả** = bible/solution đã chốt hoặc sự kiện trên trang; ** Evan ** = đã kiểm / ký ức truyện / suy đoán; ** Klein ** = canon đến thời điểm này và chưa có chứng cứ gặp OC; **Độc giả** = những gì 001–030 đã kể, không gồm sealed solution. Đáp án Arc 2 trong SCENARIO_SOLUTIONS là đề xuất, chưa thuộc sự thật Arc 1.
 
@@ -32,3 +32,7 @@ Ruth032 chỉ báo mối liên hệ tạm giữa việc dùng mục lục đóng
 ## Chênh lệch034–036: bốn tầng
 
 Tác giả giữ cơ chế/động cơ trongsealed;không chuyển choEvan. Evan và độcgiả chỉ thấy chuông/khối nặng/cửa bắc, hai suất ăn và chai được bếp nhận là đồ rửa vết thương. Nguồn “Edith thôi việc” là lời chuyển choAgnes, không lờiEdith; chưa thấy mặt người nhận hộp. Cả giảthuyếtEdithđãđi/người khác ăn lẫnEdithởtrong đều còn hợp lệ. Nell có lần gặp trực tiếp chiều1/8; người giữ phòng báo hai đêm vắng, không phảiEvanđãđi kiểm phòng. Tuầntra có báo tìm người và hẹn kiểm trong ngày5/8. Klein không nhận thôngtin trên trang,K0không đổi. Không ai trong POV được đọc tênSilas/bậc8/Jonah hoặc cơ chế vòng từ bảnthiếtkế.
+
+## Chênh lệch037–040
+
+**Tác giả:** đáp ánsealed không được chuyển vào lời kể. **Evan/độcgiả:**037 có thưRuth với hồ sơ mới nốiPike lấyxe sáng28/6→giao chiều bằngsốxe/giấyxuất, không gán đãxem009;giấy thiếu giải thích né mặt, không địnhdanh người áo sẫm. Phấn côngviệc/ca thêm/giới hạn lờiJonas có nguồn, không lời giải chết/chuyểnhồn.038–039 đo vật12foot6inch và thử sàn theo nghề, chưa chứng minh vòng.040 nghe tênSilasVey,JonahPell vàlờicáchlytựnguyện, chưa thấy/nghe bệnhnhân độc lập. Một động tác chặn tay không đọc được Danh sách. **Klein:**không nhận thôngtin trêntrang,K0khôngđổi;MCkhông gài dấu/vạchbí mật đểgiúpđiềutra. Ytếđộclập/sáng7/8làviệccần theo,không làviệcđãthựchiện.

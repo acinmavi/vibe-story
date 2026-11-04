@@ -1,7 +1,7 @@
 {
-  "as_of_chapter": 36,
+  "as_of_chapter": 40,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 229,
+  "cash_pence": 224,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
@@ -42,7 +42,13 @@
     "034 stationbread/hotwater2p+lunch2p:239-4=235p;basiclodging paid directly byclient,notcashexpenseorrebate",
     "035 personallettertoMara1p+dinner2p:235-3=232p;workconfirmationtoIona by archive mail/directclientcost",
     "036 breakfast1p+lunchbread2p:232-3=229p asofnoon5Aug;dinnernotyetbooked;Nellownfood/couriermoney notEvanexpense",
-    "034–036 no newpowers/items/formula/ingredients/debtpayment or7-pound remainder;rightforearmpain andsleepfatigue persist"
+    "034–036 no newpowers/items/formula/ingredients/debtpayment or7-pound remainder;rightforearmpain andsleepfatigue persist",
+    "037 dinner2p:229-2=227p;Ruthletterdated3Augreceived5Aug,nofeeorreward",
+    "038 breakfast1p6Aug:227-1=226p;039noexpense;040lunch2p:226-2=224p asofnoon6Aug",
+    "038 sameordinarydistance measured12ft6in bytwo object methods;nonewspiritualskill",
+    "039 loadtestobjects/repaircostapprovedbyAgnesforclientwork,notEvanpersonalcash;noengineeringabilityornewitemassumed",
+    "040 Silasquicklystopsworkerhandthroughgrille;noMCfight/noSeq8identified/noabilitycopied;rightforearmpainpersists",
+    "NoIona132-poundrepayment,7-poundjobbalanceormagicitemreceived037–040"
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 0,
@@ -59,7 +65,7 @@
   "personal_research_rights": "Iona priority first3 lawful independently owned research papers at separately agreed price; client-paid deliverables excluded033",
   "travel_status": "arrivedBacklund morning4Aug034;no fare refund in cash",
   "drawer_key": "returned to Ruth031 with receipt; no authority to access old drawer",
-  "pressure_sketch": "original personal012sketch and test handed to Ruth032 with receipt, accurate copy retained; no original Bram or registry carried",
+  "pressure_sketch": "original012sketch/test heldRuth032; checkedcopytravels;037permittedRuthletter/transcriptcopiesnew,notoriginalrecords/artifacts",
   "current_lodging_key": "Backlund lodging key received034;old room6key returned033",
-  "current_work_custody": "only permitted sample/work papers retained;workingstock returned to archive after use;original sketches/Ruth and Bram originals not carried"
+  "current_work_custody": "ordinary measuring notes12ft6in and floor-limit sketch; archive stock returned; no right to open latticed controls; technical signoff belongs Nell/tradesperson"
 }

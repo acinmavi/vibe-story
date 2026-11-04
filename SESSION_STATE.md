@@ -1,8 +1,8 @@
-# Checkpoint — sau lô034–036
+# Checkpoint — sau lô037–040
 
-- Chỉ quy-bi-ke-den-sau/project, shellrtk, khôngremote/push. Arc2hướngA được duyệt38ch031–068;approvalcommit29d4fe1. Lô trước60fb7c8,giữ nguyên001–033/ARC_001. Lô hiện034–036đã viết vàblindreviewPASS;commitcuối xemgitHEAD.
-- Trưa5/8/1349,Backlund: khoAshwickAU/AgnesWard/nhàtrọ/phạmvi được đối034;NellPrice thợ cơ cấu/người thânEdith. MC không tính tải/khôngnănglựcmới,Seq9chưa tiêu hóa,tayphải còn đau.
-- Cash229p:239−4ăn034−3thưriêng+tối035−3sáng+trưa036. Phòng khách thanh toán trực tiếp;8£job/1£ứng nằmtrong8,7£chưa nhận;132£Iona nguyên,min2due31Aug. Chìa mớiBacklund034;chìacũ/gốcrãnh ởRuth;khôngđồquảnthúc/gốcBram/đồnghồ/nguyênliệu dư.
-- C1chuông/cửa/khối nặng034chưa chứngminhphi phàm.036Edith19tuổi vắngtrọ2đêm,Nellgặpcuối1Aug;Agneschỉnghelờiquảnkhuphụ.Thứcăn2suấttừ2Aug+chaiwoundwash,hộpkéovào khôngthấymặt/chữđáp;chưabiếtaiăn/tựnguyệnhaybịgiữ. Tuầntrađãnhậnbáo, hẹnkiểmkhokèmnhàtrọtrong5Aug:037phảitrảlờihẹn.
-- Tiếp037–039theooutlineđãduyệt:thưTingen/nguồncũ vàcậpnhậtkiểmtra;đosớmbằngvậtvôsinh/nghềNell. Khôngchuyểnsealedthànhtri thứcMC. ChưaSilasname/Seq8/Jonah/Mira;KleinK0/noTarot/chưaThếGiới. Mọi037–068làPLAN.
-- Đọc DOC_TRUYEN/ARC_002;currentstate,resources,knowledge,clueCSV,setup-payofftrướclô. Arc3vẫncầnphêduyệtsau068. Khônggiảvờchạyngoàiphiên. Work_state:quy-bi-ke-den-sau-arc002-writing;khôngđụnglisttruyệnkhác.
+- Chỉ quy-bi-ke-den-sau/project,shellrtk,no remote/push. Arc2Aduyệt38ch031–068,approval29d4fe1. Baselinelô75478bd,001–036/approval/ARC_001giữ nguyên. Lô037–040đãreviewđộc lập,QA/cuốicommitxemHEAD.
+- Trưa6Aug1349BacklundAshwickAU,cash224p=229−2dinner5Aug−1breakfast6Aug−2lunch6Aug;132£Iona/2due31Augnguyên;8£job1£ứngincluded,7chưa;phòngdirectclientpaid. Seq9untrained,tayphảiđau,nonewpowers/items.
+-037trảhẹntuầntra5Aug;thưRuth3Augtới5Augnguồnmới nốiPikelấyxe sáng28Jun→giao chiều quaID/giấyxuất,khônggánMCđãxem009;bụiphấn/cathêmtiềnphòng cónguồn;Jonasgiữuncertainty;darkcoat/Kestrel/artifactorigin/death/transmigrationopen.
+-038objectmeasureA→innergrille12ft6in;footprintsnotidentity/loopproof.039rejecthumantest,objecttestfindsloosebearing,publicfloorlimited;MCnotengineer.040AgnesintroSilasVey;claimsJonahPellinjured2Aug/voluntary,butpatientnotheard/seen;quickwriststopnotSeqknown. Groupapproachmasshigh/open,withdrawbeforebell/low/close.
+-040policerequiresindependentmedicalcontact;nextfollowupmorning7Aug.041trackrequest,042fulfillappointment/notifynewfactsimmediately. Donotwriteauthorityidleforplot. Edithwhereabouts/coercionunknown;SilasSequence/motiveunknown;KleinK0,noTarot/noWorld.
+- Next041–044perapprovedoutline:actingpracticebounded,7Augindependentfollowup/objectvshumanobservation,escape/report/hurt/seekproperhelp. AllfuturePLAN. Arc3after068requiresapproval;P01/P02sourceauthorlockbeforeArc3. Noautomaticbackgroundwork.

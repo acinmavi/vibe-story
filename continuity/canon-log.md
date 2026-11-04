@@ -44,3 +44,7 @@ Khi AU thay người nhận lá Ẩn Giả, phải tính lại nguồn nhật k�
 ## AU đã viết034–036,4–5/8/1349
 
 Evan đếnBacklund và làm ở khoAshwickAU, nơi ở/khách khớp nguồn; làm quenAgnesWard/NellPrice.036báo tìmEdithPrice với tuầntra thôngthường, dự kiến kiểm kho/nơi trọ cùngngày. Chưa cóKleinhoặc nhânvậtcanon xuất hiện, không gọiSherlock/ThếGiới, không gán giáophái choRuth hoặc bậcphi phàm cho người mới. Không chọn phố/quận hoặc giá tàu như một dữ kiệncanon;Ashwick, lịch làm/giá ăn/nhàtrọ và vụmất tích làAU. Không đánh đồng sương đôthị bình thường với ĐạiSươngMùcuối1349. Tìm kiếm bổsung lầnnày lẫn nhiều fanfic, không dùng chúng làmnguồnlore và không tuyên bốđãkiểm lại nguyênvăn mọi cảnhBacklund.
+
+## AU đã viết037–040,5–6/8/1349
+
+Chiều5/8tuầntrakiểm đúnghẹn036;thưRuth3/8tới,đối thêm nguồnTingen và tách giờ lấyxe sáng28/6khỏigiờgiao chiều. Sáng6/8đo/kiểmsàn bằngvật,khôngngườithử;trưa6/8gặpSilas,sauđóyêucầu tiếp xúc/khámđộc lập vàhẹnsáng7/8. TênJonahPell/tìnhtrạng/tựnguyện làlờiSilas,chưa phát hiện cơ chếkhônggian trêntrang. Khôngsựkiệncanonneomới,không nhânvậtcanonxuấthiện,khôngđọcngàywiki làmkiếnthứcMC. KhảnănglantruyềnhồsơcũtớituyếnKlein vẫnUNKNOWN. Khôngtuyênbố đãđối nguyênvănmọisức mạnhSeq8;chỉdùngđộngtác thểchất cóthể do kinhnghiệm,khôngđặtphépmới.

@@ -23,4 +23,4 @@ Không có chương031; không coi việc commit hồ sơ là duyệt viết Arc
 
 ## Arc002 đang viết
 
-[Đọc031–036](ARC_002.md) · [Dàn ý38chương](arcs/arc-002/CHAPTER_OUTLINE.md). Ngày hiện tại trưa5/8/1349, Evan đã tớiBacklund và cùngNellbáo tìmEdith. Chưa có037; phần sau vẫn là kế hoạch.
+[Đọc031–040](ARC_002.md) · [Dàn ý38chương](arcs/arc-002/CHAPTER_OUTLINE.md). Ngày hiện tại trưa6/8/1349: đã gặpSilasVey, chưa có nguồn độc lập về người bị thương/Edith. Chưa có041; phần sau vẫn là kế hoạch.

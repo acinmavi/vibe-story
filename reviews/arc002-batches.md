@@ -47,3 +47,25 @@ Reviewer đọcFULL033–036vàclueCSV,khôngsealed/futureoutline. PASS,khôngbl
 Kiểm bổsungPASS:001–033/approval/ARC_001đốibytevớibaseline60fb7c8khôngđổi;38nhịp031–068liêntục;không037;readerARC_002vàmục lục khớp6chương;4clueseeded/auxiliaryunique vàđúngmốctrướcpayoff;229p/nợ132£khớp;liênkết nội bộ vàdiff--checkđạt. KhôngđượccoiQA tựđộnglàđãgiảitoànvụhoặckiểmhếtlore.
 
 Chỉcommitlocal,khôngpush. Tiếp037–039theoquyềnđãduyệt;giữthôngtinsealedkhỏikiếnthứcMCvàtrảlờihẹntuầntra5/8.
+
+## Lô037–040 — nguồn cũ và người giữ chìa
+
+037 trả lời hẹn kiểm tra chiều5/8 của tuần tra; thưRuth gửi3/8 tới, trả một phần tài xế/bụi/ca làm cũ bằng nguồn mới. Pike lấy xe buổi sáng28/6, hồ sơ số xe/giấy xuất nối tới giao chiều;không gán Evan từng xem toàn chuỗi tạiBram009. Jonas giữ giới hạn lời chứng;người áo sẫm/Kestrel/nguồn vậtphẩm/cái chết nguyênchủ vẫn mở. Tối2p,cash229→227.
+
+038 sáng6/8 đo bằng dây/cán từA tới rào12foot6inch,hai cách đối;dấu bùn chưa địnhdanh/chứngminhvòng. Sáng1p,cash227→226.039 loại phươngán dùngngười giữdây/thử tải,thợmộc/Nell thửvật thấy mối kê dịch,Agnes nhận chi và đổi đường chuyển. Không chi tiền riêng,không tăng kỹnăngEvan.
+
+040 trưa6/8 gặpSilasVey qua rào. LờiJonahPell bịchân2/8/cáchly tựnguyện chưa có bệnhnhân hoặc khám độc lập. Chặn cổtay nhanh không được đọc thành Danh sách. Tuầntra yêu cầu nguồn y tế độc lập và quay lại sáng7/8. Nhóm rút khi cửa còn mở/khốiởcao,rồi chuông/khốihạ/cửakhép;không thử qua lúc đóng. Trưa2p,cash226→224. Nell tôn trọngEdith cóquyền rời việc,không muốn bắt về.
+
+### Review độc lập
+
+Reviewer đọc036–040FULL,clueCSV,đối001/006/009;khôngsealed/futureoutline. Hai finding037:giờ lấyxe sáng cần phânbiệt giao chiều;không gán tài liệuBramchưa được thấy. Đã sửa bằng chuỗi nguồnRuthmới,ghi rõ lấyxe≠giao và nối quaID/giấyxuất. Reviewer kiểm lại đoạn sửa,đóng cảhai finding;không blocker còn lại. Cắt vài bình luận thừa038–039 và bỏ nhịp gấpgiấy trước khi tiếp tục cầmbút040.
+
+Blind: (1)chăm người bịthương thật nhưngche tráchnhiệm tai nạn,Edithcóthểđi; (2)dùng chăm bệnh đểkiểmsoátngườibêntrong. Thứcăn/thuốc/lờitựnguyện/néđịachỉ hợp cảhai,chưa đủ kết tội hoặc xác địnhEdithởtrong. Tínhcách/agency/tiền/custody/giớihạnnănglực và phảnứngcôngquyền đạt review;không tuyên bốđãgiảivụ.
+
+### QA cuối
+
+034–036 giữ nguyên,kiểm toàn001–036/approval/ARC_001 đốibytebaseline75478bd. Chương037=1863,038=1809,039=1805,040=1860;**7337từ mới**,toàntruyện82643từ,Arc2hiện10/38chương/18387từ.
+
+`check_project.py .` và `qa_arc.py`:PASS40chương,stagearc2_writing,hash001giữ nguyên. Kiểm bổsungPASS:38nhịp031–068,không041,reader/mụclục10chươngđồngbộ,5clueIDsđúngmốc,224p/nợ132£,liênkết nội bộ. `diff--check` lầnđầu bắt CRLF của bộghiCSV;đổiLF và kiểm lại đạt. Script không chứng minh loređầyđủ/chấtlượngtươnglai.
+
+041–042 phải theo yêu cầu khám/tiếp xúc độc lập và lời hẹn sáng7/8;không để buổi luyện khiến vụviệc khẩn bịquên. Khôngpush;chỉcommitlocallôđược yêu cầu.

@@ -21,17 +21,17 @@
       "id": 2,
       "title": "Cánh cửa cuối ca",
       "status": "in_progress",
-      "chapter_range": "031–068authorized;031–036written",
-      "date_range": "1–13Augplanned;asofnoon5Augactual",
+      "chapter_range": "031–068authorized;031–040written",
+      "date_range": "1–13Augplanned;asofnoon6Augactual",
       "genre": "bounded spatial mystery and coordinated rescue",
       "location": "Tingen031–033;BacklundAUarchive034–036",
       "mechanism": "fixed paired thresholds and mechanical configuration, PLAN not yet encountered",
       "antagonist_motive": "coercive protection and concealed responsibility, PLAN authoronly",
       "resolution": "coordinated civilian/specialist extraction with tested load/timing, PLAN",
-      "protagonist_power": "Seq9 no new demonstrated skill031–033",
-      "institution": "ordinarywork/leaseverification;missingpersonreport036,policefollowupexpected",
+      "protagonist_power": "Seq9untrained;no new demonstrated magicalability through040",
+      "institution": "ordinarywork/leaseverification;policevisit5Aug037/meeting6Aug040,independentmedicalrequestopen",
       "moral_cost": "respect consent and distribute expertise;decline monopoly on knowledge",
-      "relationship_change": "Mara/TheoremainingTingen;Agnesclientwithoperationalpressures;NellindependenttradeandrelativeofEdith,leadssearch",
+      "relationship_change": "NellprofessionallimitsandEdithautonomy;Agnesoperationalcosts;Silaspolitecontrol/unverifiedcareclaims,notfriendorenemyconclusivelyestablishedtoMC",
       "next_arc_gate": "after068 separateArc3approval"
     }
   ]

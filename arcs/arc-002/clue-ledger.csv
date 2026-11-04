@@ -1,5 +1,6 @@
 id,first_chapter,required_by_chapter,observed,interpretation_limit,payoff_plan,status
-A2C1,34,47,"034: một tiếng chuông;khối nặng sau lưới hạ;cửa bắc đóng;giờ đóng thay đổi","Chưa biết cơ cấu hay hiện tượng phi phàm;hai người sửa lời bằng vết xước thực không mất ký ức","042/047:đối cấu hình và phạm vi",seeded
-A2C2,36,54,"036:hai bát/hai thìa;dòng đặt2suất từ2Aug;đưa vào cửa dịch vụ khu phụ","Chưa biết người ăn là ai;không chứng minhEdithởtrong hoặc bịgiam","052/054:đối tín hiệu và người cần chăm",seeded
-A2C3,36,55,"036:chai được bếp nói là đồ rửa vết thương cógiấymua;theo hộp vào khu phụ","Evan không mở/ngửi;chưa biết ai bị thương haymứcđộ","040/054/055:đối người bị thương và quyền được khám",seeded
-A2C8a,35,49,"035:Nellloại nêm theo thớ và thử trước tải;Evan chỉquan sát","Thao tácnghề thường không chứng minh nêm cụthể chịu đối trọng","049/057/058:đo thời gian giữ thật trước dùng",auxiliary_seed
+A2C1,34,47,034: một tiếng chuông;khối nặng sau lưới hạ;cửa bắc đóng;giờ đóng thay đổi;038khốiởcao/cửamở;040nhómrútvềngoàirồichuông/khốihạ/cửakhép,"Cóđốitrạngtháicơhọc,chưa cóngườiquangưỡnglúcđóng/chưa chứngminhvòngkhônggian",042/047:đối cấu hình và phạm vi,seeded
+A2C2,36,54,036:hai bát/hai thìa;dòng đặt2suất từ2Aug;đưa vào cửa dịch vụ khu phụ,Chưa biết người ăn là ai;không chứng minhEdithởtrong hoặc bịgiam,052/054:đối tín hiệu và người cần chăm,seeded
+A2C3,36,55,"036:chai được bếp nói là đồ rửa vết thương cógiấymua;theo hộp vào khu phụ;040SilasnóiJonahPellbịchânngày2Aug,cáchlytựnguyện","Tên/tìnhtrạng/tựnguyệnđều làlờiSilas,khôngtiếnghoặckhámđộclập",040/054/055:đối người bị thương và quyền được khám,seeded
+A2C8a,35,49,035:Nellloại nêm theo thớ và thử trước tải;Evan chỉquan sát,Thao tácnghề thường không chứng minh nêm cụthể chịu đối trọng,049/057/058:đo thời gian giữ thật trước dùng,auxiliary_seed
+A2C4,38,47,"038:dây/cánvôsinhđoAđếnrào12foot6inch,hai cáchcùngkếtquả;dấubùnhướngvàorồiđirangoàitrướcnẹp",Chưa rõngườimanggiày/quayđâu;không chứngminhteleport/mấtkýức;khôngdùngngườiđểthử,042/047:đối đườngngườivàvậttrêncùngcấuhình,seeded

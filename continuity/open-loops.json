@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 36,
+  "as_of_chapter": 40,
   "loops": [
     {
       "id": "L1",
@@ -18,7 +18,8 @@
       "id": "L3",
       "question": "What did previous Evan know before dying?",
       "due_arc": 2,
-      "status": "open"
+      "status": "partially_resolved",
+      "resolution": "037 externalshiftswap/payrollandMaraauthorizedrentstatementexplainextrashift;codeconcernnotfullartifactknowledge;death/transmigrationstillopen"
     },
     {
       "id": "L4",
@@ -46,7 +47,7 @@
       "due_arc": 2,
       "status": "open",
       "first_chapter": 36,
-      "limits": "Noface/identity/coercionorsupernaturalcauseproven;ordinarymissingpersonfollowuptoday"
+      "limits": "NoEdithidentificationorcoercionproven;SilasclaimsotherinjuredJonahPell,patientnotheardindependently;policepursuesotheraddresses"
     },
     {
       "id": "L8",
@@ -54,7 +55,7 @@
       "due_arc": 2,
       "status": "open",
       "first_chapter": 34,
-      "limits": "Onebell/loweringmass/closeddoorobserved,notspatialloopproof"
+      "limits": "03812ft6in objectmeasurement/footprints;040masshighallowsapproachtogrille,bellafterwithdrawal;noactivehumanloopobserved"
     }
   ],
   "future_thread_groups": {
@@ -67,5 +68,12 @@
     "pressure_sketch": "original handed032, copy retained",
     "visitor028": "ordinary professional inquiry description032, identity stillunknown",
     "artifact_mechanism": "bounded provisional report032, full mechanism/source stillopen"
+  },
+  "followups_037_040": {
+    "driver001": "HenryPikeidentity/avoidancemotivesupported037,notdarkcoatconfirmed",
+    "whitepowder001": "ordinarypackingchalkexplanationsupported037,notparticlelabproof",
+    "Jonasposition007": "037 witnesslimitreturned;whichsidecannotberecalledreliably",
+    "policepromise036": "visit5Augfulfilled037;meeting6Augfulfilled040",
+    "patient040": "identity/injury/voluntaryonlycaptorclaim;independentmedicalcontactand7Augfollowupopen"
   }
 }

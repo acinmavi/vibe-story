@@ -44,3 +44,7 @@ Mỗi trận phải đối thời gian, đồ thật đang giữ, nguồn biết
 ## Cập nhật thật034–036
 
 239p−2p ăn ga−2p trưa034−1p thư riêng−2p tối035−1p sáng−2p trưa036=**229p**, chốt trưa5/8. Chi phí/giá đời thường làAUcủadựán, không tuyên bố giácanon. PhòngBacklundđã được đối thanh toán trực tiếp, không hoàn tiền vào túi; chìa phòng mới nhận034. Không công7£mới/không trảnợIona. Không năng lực, vậtphẩmphi phàm, côngthức hoặc nguyênliệu mới. Tayphải cònđau, nghỉbùtàu034–035;Evanchỉghi số không nhận kỹ năng tính tải. Khối nặng034chưa được chứng minh làvậtphi phàm, không thuộc inventoryMC. Gốc hìnhrãnh vẫn ởRuth,bản sao theo người,đồ kho trả đúng ô.
+
+## Cập nhật037–040
+
+229−2p tối5/8−1p sáng6/8−2p trưa6/8=**224p**. Không thay nợ132£/7£côngchưa trả/phòng kháchtrảtrực tiếp. ThưRuth037 gồm bản chép được phép chuyển,không sổxe/phiếugốc/mẫubột. Dây/cán/nêm/tải thử thuộc côngviệcNell/thợ,không làitemEvan sởhữu;chi sửa kháchduyệt,không cộng tiềnmặt. Đo12foot6inchkhông tăngkhả nănglinhthị,kỹ thuật tính tải hoặc tiêu hóa100%. Tayphải vẫnđau. Chặn cổtay040 là quan sát vềSilas,khôngcóphép/danh sáchđượcMCxác nhận;khôngcảnhchiếnđấuMC/khôngTheWorld.
