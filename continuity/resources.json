@@ -1,10 +1,10 @@
 {
-  "as_of_chapter": 7,
+  "as_of_chapter": 10,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 5,
-  "workshop_arrears_shillings": 12,
-  "rent_debt_shillings": 3,
-  "mara_loan_pence": 6,
+  "cash_pence": 103,
+  "workshop_arrears_shillings": 0,
+  "rent_debt_shillings": 0,
+  "mara_loan_pence": 0,
   "checking_wage": "withheld, not counted as cash",
   "power": "ordinary",
   "potion_formula": null,
@@ -12,7 +12,9 @@
   "notes": [
     "3 personal pence + 6 borrowed; breakfast1 and late meal2 paid",
     "workshop purchase money separate:24-20=4 pence returned",
-    "old newspaper cost1p; Ada booked three1p bread meals separately, rent continues accruing"
+    "old newspaper cost1p; Ada booked three1p bread meals separately, rent continues accruing",
+    "008 paid12sh, settled39p Ada and6p Mara; 104p left",
+    "009 paid1p warehouse fee, 103p left; new room charges accrue separately"
   ],
-  "ada_meals_debt_pence": 3
+  "ada_meals_debt_pence": 0
 }

@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 7,
+  "as_of_chapter": 10,
   "loops": [
     {
       "id": "L1",
@@ -23,6 +23,12 @@
       "id": "L4",
       "question": "Who can detect the pale gray signature?",
       "due_arc": 3,
+      "status": "open"
+    },
+    {
+      "id": "L5",
+      "question": "Who redirects the rare books and uses the catalog discrepancy?",
+      "due_arc": 1,
       "status": "open"
     }
   ]

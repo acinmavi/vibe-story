@@ -12,3 +12,8 @@
 - Đã sửa Mara chỉ nghe gọi Evan, đọc phần được chỉ; lịch hai lần; ba bữa bánh mì1p ghi nợ Ada; rút độc thoại lặp007.
 - Tin Welch/Naya chỉ thông báo AU tìm người biết; không lộ cuốn sổ hoặc nguyên nhân chết. Seer/tháng9 là ký ức không kiểm chứng. Nhà thờ được giữ là lựa chọn khi có nguy hiểm thật.
 - Kiểm toàn bộ độ dài, hash001 và gate trước commit.
+
+## 008–010
+- Blind reviewer chỉ đọc007–010. Sửa nhịp Theo báo có hòm trả trước Evan hỏi, làm rõ ô mã hòm trên phiếu, thêm phép thử giữ đúng tờ qua vết gấp có sẵn và đối hai bản cùng lúc.
+- Giữ các giả thuyết đảo số, nhầm hòm/chuyến, thay tờ, tác động nhận thức. Gốc ngoài xưởng do Bram giữ, bản chép được phép mang. Tiền149−6−36−3=104p, phí1 còn103p.
+- Mara/Theo có mục tiêu riêng, chưa buộc Kestrel là chủmưu bằng lời người kể. Không năng lực/nhânvật canon.
