@@ -1,24 +1,19 @@
-# Review nội bộ chương 001 — Phiếu không có người nhận
+# Review chương 001 — 04/11/2026
 
-## Đã viết
-- Bản thảo tiếng Việt ~3.193 đơn vị từ theo split(), không phải bản chép/quảng bá nguyên tác.
-- Mở bằng tin nhắn trên tàu điện, hình ảnh kén thoáng qua; tỉnh trong xưởng in, chưa nhận ra tên thế giới, Klein hay Tingen.
-- Đặt xung đột sống còn đời thường: việc làm, tiền lương, ngôn ngữ, trí nhớ chủ thể và người quản lý kho.
-- Cài manh mối C1: phiếu mục lục có tên Evan ở ô vốn trống; giấy cá nhân cũng xuất hiện chữ mới. Chưa tuyên bố quy luật; phải kiểm tra các chương sau.
-- Mara có tính cách riêng, hỗ trợ ban đầu nhưng chưa hiểu tình huống; Gideon đáng nghi nhưng chưa xác định phản diện.
+Đã đọc toàn bộ Story Bible, hồ sơ Arc 001 và continuity. Chỉ sửa chương 001; 002–030 vẫn là dàn ý.
 
-## Việc cần độc giả đánh giá
-1. Cảnh tàu điện/kén có đủ hấp dẫn nhưng không quá lộ lore không?
-2. Nửa đầu chương có chậm quá mức không?
-3. Chất giọng đối thoại Trần Duy và Mara có tự nhiên không?
-4. Bí ẩn phiếu mục lục có tạo tò mò hay chỉ giống một vật phẩm ma thuật chung chung?
-5. Cần thêm hài đen, kinh dị, hay hành động về sau?
+- Bỏ nhận diện kén và hàng kén trống khỏi điểm nhìn MC. Tin nhắn và vệt trắng là dấu hiệu AU, chưa chứng minh nguồn gốc.
+- Bỏ giấy vụn tự mọc chữ: bằng chứng cá nhân ngoài hệ mục lục giữ nguyên. MC chưa chứng minh phiếu thực sự đổi.
+- Thêm ngày trên bìa sổ 28/6/1349; chưa xác minh lịch địa phương hay tên thế giới.
+- Rút độc thoại, sửa họ Harlowe bị gọi nhầm là hai chữ, làm rõ tiếng gọi Duy rồi Evan.
+- Kết bằng lựa chọn đọc hai mặt và nhờ Mara kiểm cùng trước khi ký. Bản cuối 3.000 từ theo split().
 
-## Kiểm tra canon/AU
-- AU: tin nhắn, chiếc kén thứ tư, Trần Duy/Evan, xưởng in và phiếu mục lục là tác phẩm đồng nhân mới.
-- Canon bị giữ riêng: Klein cùng thức tỉnh 28/6/1349; chưa xuất hiện trong chương 001.
-- Không uống ma dược, không gia nhập Tarot, không hé lộ thân phận Ngu Giả.
-- Mọi chẩn đoán / cơ chế siêu nhiên trong chương chỉ là giả thuyết của nhân vật, không phải lời người kể xác nhận.
+## Review độc lập
+Reviewer riêng chỉ đọc chương 001, không xem lời giải, Bible, outline hoặc ledger. Ba giả thuyết: Evan từng tự nhận ca; người trong xưởng gài Evan; bản ghi hoặc nhận thức bị tác động. Phép thử: hỏi Mara độc lập, so các bản phiếu và chữ ký, ghi đối chứng trước quan sát tiếp. Chưa đủ chứng cứ loại hai giả thuyết đầu — phù hợp chương mở màn.
 
-## Cổng duyệt
-Chương 002 chưa tồn tại. Chờ ý kiến đọc thử của người dùng trước khi sửa dàn ý hoặc viết tiếp.
+Đã sửa phát hiện: mực chỉ được tả không còn ánh ướt; MC ghé lại cửa trước khi đối chiếu mã hòm; rút cảnh chóng mặt lặp. Review độc lập không thay duyệt của người dùng.
+
+## Lore và gate
+MC vẫn người thường, chưa nhận ra Tingen hoặc Quỷ Bí; không tiếp cận Klein, Tarot, Cattleya, Bernadette, ma dược hay Nguyên Bảo. Không dùng dấu xám làm miễn nhiễm. Sổ kiến thức phân biệt quan sát với nghi vấn. Không đổi neo canon. Giới hạn kiểm nguồn tại canon-review.md.
+
+Giữ chapter1_review. Chương 002 chưa tồn tại; chờ người dùng duyệt rõ ràng.

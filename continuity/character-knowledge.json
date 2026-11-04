@@ -1,9 +1,28 @@
 {
   "as_of_chapter": 1,
-  "reader_seen": ["protagonist awakens in borrowed body; industrial city; weird date; paper slip marked 28 June"],
-  "MC_verified": ["new body is employed in a print shop", "city identity still unverified", "staying alive costs money"],
-  "MC_remembers_original": ["read entire book-one in another lifetime", "has not yet established that this is that world"],
-  "author_only": ["another cocoon opened 28 June 1349", "Klein is awake same day", "AU local catalog artifact"],
-  "Klein_offscreen": ["wakes as Klein and founds Tarot Club 28 June 1349"],
+  "reader_seen": [
+    "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
+    "catalog recipient appears to change; independent pencil note remains unchanged",
+    "delivery crate bears Harlowe; only two digits compared, third obscured"
+  ],
+  "MC_verified": [
+    "new body is employed in a print shop",
+    "city identity still unverified",
+    "staying alive costs money",
+    "warehouse ledger is dated 28 June 1349; accuracy of local calendar not independently verified",
+    "own pencil note remains unchanged; cause of catalog discrepancy unknown"
+  ],
+  "MC_remembers_original": [
+    "read entire book-one in another lifetime",
+    "has not yet established that this is that world"
+  ],
+  "author_only": [
+    "another cocoon opened 28 June 1349",
+    "Klein is awake same day",
+    "AU local catalog artifact"
+  ],
+  "Klein_offscreen": [
+    "wakes as Klein and founds Tarot Club 28 June 1349"
+  ],
   "forbidden_leak": "MC may not name Klein, Antigonus, Hidden Sage, Tarot Club or Hermit path as real before confirming the world."
 }
