@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "session": "arc1-batch2",
+  "project": "/Users/ethannguyen/Documents/20261103/vibe-story/bien-ban-sai-lech",
+  "layout": "flat",
+  "scope": "arc",
+  "arc": 1,
+  "created_at_utc": "2026-11-04T13:36:15.223739+00:00",
+  "chapters": [
+    {
+      "source": "chapters/006.md",
+      "preview": "chapters/006.polished.md",
+      "original": "originals/chapters/006.md",
+      "sha256_before": "1e05e8b7a2f4c5518a0f06b57f17df39eaecc186867da23ac7c7b4bbc37bd656",
+      "locked": true
+    },
+    {
+      "source": "chapters/007.md",
+      "preview": "chapters/007.polished.md",
+      "original": "originals/chapters/007.md",
+      "sha256_before": "59d0721f682e6ee66fba109b3b09f7df681af3dc4e698e4563158d1d67354e5e",
+      "locked": true
+    },
+    {
+      "source": "chapters/008.md",
+      "preview": "chapters/008.polished.md",
+      "original": "originals/chapters/008.md",
+      "sha256_before": "a8090e406df4f7df4cee08a5ed055e8ade9fb743c23816f44c3500025fd88189",
+      "locked": true
+    },
+    {
+      "source": "chapters/009.md",
+      "preview": "chapters/009.polished.md",
+      "original": "originals/chapters/009.md",
+      "sha256_before": "8a1499d808e580b5897b181dcd1cc89d3257da65ba5490ce2bfd1b35d4811d3c",
+      "locked": true
+    },
+    {
+      "source": "chapters/010.md",
+      "preview": "chapters/010.polished.md",
+      "original": "originals/chapters/010.md",
+      "sha256_before": "9f0b7efec04dc6ce238dd08cee7ceb3c775971a5ad7b9e1bbe0b09949f747b03",
+      "locked": true
+    }
+  ],
+  "metadata": [
+    {
+      "path": ".novel/state.json",
+      "sha256_before": null,
+      "original": "metadata/.novel/state.json"
+    },
+    {
+      "path": "approvals/approval.json",
+      "sha256_before": "fff23be42f4cc1010885b05b25c07af8aa26a1b427f70b014af96be4e630d8a3",
+      "original": "metadata/approvals/approval.json"
+    },
+    {
+      "path": "approval.json",
+      "sha256_before": null,
+      "original": "metadata/approval.json"
+    }
+  ],
+  "applied": true,
+  "applied_at_utc": "2026-11-04T13:53:11.824963+00:00",
+  "approval_text": "Tôi duyệt bộ preview 001–020 vừa báo cáo. Apply cả 20 chương, cho phép sửa chương khóa 001 theo quy trình; giữ chapter20_review, chỉ trên branch riêng, không push hoặc merge.",
+  "locked_revision_authorized": true,
+  "applied_hashes": {
+    "chapters/006.md": "3e1db52e674d9f5f5c3422ac11a7ff1abd803dcf2e6236ba1f1d791ee38cfa78",
+    "chapters/007.md": "fe4689d9557c66148c973b138c8ce4989ef2b88b0765bf8a6026c01bc376f2ef",
+    "chapters/008.md": "e5072f138df80e358c8172a7a1f06e9e05cf08a0828305663802dfe703275c6b",
+    "chapters/009.md": "5f9da18af89f174cd8f00318c5711876297e94db7b426df3dac55bc889ad4520",
+    "chapters/010.md": "f7a0bddd8a124b594030e23275214ba48c442fc55caa05e4d4cfa7b48a968c9b"
+  }
+}

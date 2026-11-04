@@ -4,7 +4,7 @@
   "chapter1": {
     "approved": true,
     "approval_text": "Tôi duyệt chương 1. Hãy viết tiếp toàn bộ arc 1 theo quy trình, kiểm tra và commit từng lô. Dừng sau khi xong arc - tầm 30-50 chương",
-    "approved_sha256": "0600e9cb0fa75081896acf425f56fb87bf9b7aab74df013e24f14436caa90d7d",
+    "approved_sha256": "4129f8118987cb087f138729607111571043f7e8d24399ca10c6198cd78037da",
     "approved_at_utc": "2026-11-03T15:12:05.923646+00:00"
   },
   "arc001_writing": {

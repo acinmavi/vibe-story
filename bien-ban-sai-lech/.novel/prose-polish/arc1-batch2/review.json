@@ -1,0 +1,106 @@
+{
+  "decision": "pass",
+  "reviewer": "Independent Codex literary_review subagent (editorial review; not human approval)",
+  "chapters": [
+    {
+      "source": "chapters/006.md",
+      "source_sha256": "1e05e8b7a2f4c5518a0f06b57f17df39eaecc186867da23ac7c7b4bbc37bd656",
+      "preview_sha256": "3e1db52e674d9f5f5c3422ac11a7ff1abd803dcf2e6236ba1f1d791ee38cfa78",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete source/candidate and005/007 context reviewed. One observed00:12–00:23 episode remains insufficient for recurrence;11minutes not equated with11seconds. Withdrawal, chalk boundary, folded strip and isolated Lùi beat retained; no new route or ability."
+      ]
+    },
+    {
+      "source": "chapters/007.md",
+      "source_sha256": "59d0721f682e6ee66fba109b3b09f7df681af3dc4e698e4563158d1d67354e5e",
+      "preview_sha256": "fe4689d9557c66148c973b138c8ce4989ef2b88b0765bf8a6026c01bc376f2ef",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete source/candidate and006/008 context reviewed. Corrected completed source-label recording and looking action after initial review. Caller identity and staple history remain unproved;042 resolves as replacement receipt, not extra victim. Key grants cabinet access only; radio watch continues."
+      ]
+    },
+    {
+      "source": "chapters/008.md",
+      "source_sha256": "a8090e406df4f7df4cee08a5ed055e8ade9fb743c23816f44c3500025fd88189",
+      "preview_sha256": "e5072f138df80e358c8172a7a1f06e9e05cf08a0828305663802dfe703275c6b",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete source/candidate and007/009 context reviewed. Corrected missing representation versus inability-to-see wording.07 and T12 remain on two faces, not magically replaced labels; chipped edge/screw evidence preserved. Identity to001 door remains uncertain. Isolated T12 reveal and A-route return retained."
+      ]
+    },
+    {
+      "source": "chapters/009.md",
+      "source_sha256": "8a1499d808e580b5897b181dcd1cc89d3257da65ba5490ce2bfd1b35d4811d3c",
+      "preview_sha256": "5f9da18af89f174cd8f00318c5711876297e94db7b426df3dac55bc889ad4520",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete source/candidate and008/010 context reviewed. Hội costs/staffing argument stays rational, not proof of guilt; Khải owns scoped preservation request. No new demolition order, confirmed hidden floor or solved T12. Sleep dialogue and subtle signature contrast retained."
+      ]
+    },
+    {
+      "source": "chapters/010.md",
+      "source_sha256": "9f0b7efec04dc6ce238dd08cee7ceb3c775971a5ad7b9e1bbe0b09949f747b03",
+      "preview_sha256": "f7a0bddd8a124b594030e23275214ba48c442fc55caa05e4d4cfa7b48a968c9b",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete source/candidate and009/011 context reviewed. Restored phone-taking action. Plaster seam/covered bolt remain observations without age, purpose or doorway proof. No tapping/stripping performed; signed observation and final unresolved door beat retained."
+      ]
+    }
+  ]
+}

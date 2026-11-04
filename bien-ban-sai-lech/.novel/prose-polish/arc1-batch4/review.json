@@ -1,0 +1,106 @@
+{
+  "decision": "pass",
+  "reviewer": "Independent Codex literary_review subagent (editorial review; not human approval)",
+  "chapters": [
+    {
+      "source": "chapters/016.md",
+      "source_sha256": "d46aa31191206303949eda6c69bb874f98ef19b56800a6206203246a9744e5c1",
+      "preview_sha256": "7ee90a47262e3a43129be73b205483750ceeaf014f8136dd67a97b073e272a73",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with015/017 context reviewed. Restored physical grit event without new hearing modality and explicit Khải opening actor. Airflow remains a gap hypothesis, not route/human breath; no peeling test, carbon offer unopened. Existing restrained sensory detail retained."
+      ]
+    },
+    {
+      "source": "chapters/017.md",
+      "source_sha256": "efa8cec6c8bdc652e75c099a4420450831f162cd36243c78a63eeab0e35cec04",
+      "preview_sha256": "6137910e5a0bc2225123a32ce8f0ba347e2bea26bfbce47749cbbcc90ba65690",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with016/018 context reviewed. N.V.Tín/tag17 supports identity but not final proof; summary/carbon sources related, family paper separate. Missing line not intent/culprit/casualty total. Solitary name beat and voluntary witness transition preserved."
+      ]
+    },
+    {
+      "source": "chapters/018.md",
+      "source_sha256": "906f2e29dbbed315729d968e9b8c5995bb4178c772f9fec2e19594f066d7e7fc",
+      "preview_sha256": "cc966e66faec91cbc3ee6ec11e8f0ea90bbc983aaa1eb9b37a6b474ed419851c",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with017/019 context reviewed. Broad route region promptly shared; Phúc did not see Tín; old route not confirmed current. Khải six-year injury history intact. West archive possible source only; no new knowledge or magical confession effect."
+      ]
+    },
+    {
+      "source": "chapters/019.md",
+      "source_sha256": "b82e30ee7c999fe76508181719e53b04010a2e357ffad891e4b8ef69f36e081f",
+      "preview_sha256": "48b1f1813d34c4342ec8bc97a9338348020c2ec0ecd761f4ce552be9d40192d1",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with018/020 context reviewed. Restored explicit Lam name in Linh call. Four changed-request responses and cup detail strengthen live-person evidence, not visual certainty; injury/water remain Linh report.00:12–00:23 no entry license; D1 distinct T6. Bốn and radio beats retained."
+      ]
+    },
+    {
+      "source": "chapters/020.md",
+      "source_sha256": "5c4861e861a057c0f9ab9bfaf6554304772a9186fdd93335403eb966ee1e9f40",
+      "preview_sha256": "0932a71d876b57be107bf304e374bf5da64315891512ea8de305afbae04260ce",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with019 context reviewed; no021 exists. Withdrawal only unsupported survey positions, radio/D1/A retained. Handover precedes staffed archive trip; folder existence unconfirmed. No destruction order, route solution or new arc. Locked door about-to-open hook unchanged."
+      ]
+    }
+  ]
+}

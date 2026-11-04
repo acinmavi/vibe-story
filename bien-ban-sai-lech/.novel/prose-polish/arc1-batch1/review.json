@@ -1,0 +1,106 @@
+{
+  "decision": "pass",
+  "reviewer": "Independent Codex literary_review subagent (editorial review; not human approval)",
+  "chapters": [
+    {
+      "source": "chapters/001.md",
+      "source_sha256": "0600e9cb0fa75081896acf425f56fb87bf9b7aab74df013e24f14436caa90d7d",
+      "preview_sha256": "4129f8118987cb087f138729607111571043f7e8d24399ca10c6198cd78037da",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Full before/after and neighbor002 reviewed. Count33 versus conventional22, preliminary3.6m and unverified floor anchors remain separate; T12 unknown and T6 connection unverified. Count beats and final hook retained; no dialogue/new sensory fact added."
+      ]
+    },
+    {
+      "source": "chapters/002.md",
+      "source_sha256": "6c5a4968e732516633949941b321ef73be5bd68d414f26085d53d0439cc3cad9",
+      "preview_sha256": "32a8ac00070b6afc9449923389144468b14e317a8b2da3516d0e4cd4a9f9198a",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Full before/after with001/003 context reviewed. Sequence shoulder relaxation then sitting restored after reviewer finding; source alternatives remain unresolved; chalk gap joke and refusal to follow voice retained. No new height confirmation or route."
+      ]
+    },
+    {
+      "source": "chapters/003.md",
+      "source_sha256": "0ac89a799688fce8e63d1cb266ef245360316444a2de9baba7647f37b8b38dee",
+      "preview_sha256": "cb7b4b6938d62c79b4e17d0470c74b511dc916b2e0b84012006fbd7d8dd17313",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Full before/after with002/004 context reviewed. Unsupported comparative signature size removed; near-error date order restored. Receipt042 does not create a third victim; margin writer remains unknown. Cup/charging lead and final blank-name beat retained."
+      ]
+    },
+    {
+      "source": "chapters/004.md",
+      "source_sha256": "27e567f7717759955a8a8be4375dedceac5be94803ec1181ee99fbdc88d0d971",
+      "preview_sha256": "bbada1fb0813868895578b3c779a576ef7b7092d48f353bd7485459e90350901",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Full before/after with003/005 context reviewed. Cursor capability wording restored; missing11seconds remains playback observation, not proved erasure; paper not universally immune. Duy expertise limit, Lam testimony and unresolved T12 retained."
+      ]
+    },
+    {
+      "source": "chapters/005.md",
+      "source_sha256": "c939bd815d645e45059d3eafb7b6ce7fec8cfa40968b5cb36f2d69364ee04c73",
+      "preview_sha256": "4c7b63c77da8c7e5cd22737ef7da65840f7c1f7ceb8a6404fc37a9fd4042065f",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Full before/after with004/006 context reviewed. Finite observation of folded drawing restored; three anchors remain unconnected, hypothetical passage unproven. Screenshots stay distinct from originals. Final wait at A leads into006 without new route or knowledge."
+      ]
+    }
+  ]
+}

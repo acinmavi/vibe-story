@@ -23,6 +23,6 @@ Lượt mới đã viết thêm011–020. Dừng tại020 chờ bạn đọc và
 - [Chương 019 — Nhịp Kéo Thứ Tư](chapters/019.md)
 - [Chương 020 — Hai Phương Án Đều Đúng](chapters/020.md)
 
-Chương001 giữ nguyên bản đãduyệt. Các chương002–020 đã biên tập và reviewđộclập bằngagent, chưa phải đánhgiá của độcgiả thật. Bạn cóthể gópý theo chương/đoạn về nhịp, giọngnhânvật hoặc chỗkhóhiểu.
+Chương 001–020 đã apply đúng bộ preview prose-polish được bạn duyệt ngày 04/11/2026, kể cả quyền sửa chương khóa 001. Trạng thái vẫn là `chapter20_review`; Arc 1 chưa hoàn tất. Hồ sơ apply: [APPLY_REPORT.md](reviews/prose-polish-arc1/APPLY_REPORT.md). Bạn cóthể gópý theo chương/đoạn về nhịp, giọngnhânvật hoặc chỗkhóhiểu.
 
 Các thưmục bible,arcs,continuity,long-game,reviews cóghi chú tácgiả và bí mật dựkiến. Để đọc nhưtruyện, dùng các liênkết ởtrên.
