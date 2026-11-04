@@ -44,5 +44,10 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 058 | 1858 → 1859 | 34 → 34 | Hai bộ thử độc lập, không cộng lực; dự phòng không được nâng thành bất hoại.; Không đổi thông số 6m40/22/25/40, quyền lựa chọn Edith hay Jonah còn trên giường. |
 | 059 | 1857 → 1858 | 46 → 46 | Silas phá điểm giằng bằng dụng cụ, không tay không/phá dầm; không người trên cầu.; Dự phòng còn nhưng phần dẫn phải kiểm lại; không hứa cứu chắc sáng hôm sau. |
 | 060 | 1807 → 1811 | 44 → 44 | Thử khôi phục bằng bộ dự phòng riêng, chưa mở lượt thật; nêm chưa nhận tải.; Giữ dây báo nhẹ không dây cáng, tay phải chưa hồi phục; không tự chứng kiến trang đêm. |
+| 061 | 1846 → 1847 | 47 → 47 | Giữ nhịp “Evan buông bìa”, không sửa quyết định bỏ giấy; bản chính không mất.; Không kích linh thị/không cấp bậc Silas; nêm chưa tải và Jonah còn giường. |
+| 062 | 1866 → 1866 | 41 → 41 | Evan chỉ nghe/nhìn bóng, không biết chẩn đoán; bác sĩ thực sự tới giường.; Người/cáng trống qua cầu cố định không kích clock nêm; vẫn chưa nâng Jonah kết chương. |
+| 063 | 1867 → 1870 | 63 → 63 | Giữ đầy đủ thứ tự giây/thoại, chốt hai người xác nhận và nêm thu; không sửa đoạn đếm ngắn.; D1 hỏng trước cáng qua/D2 còn; Edith đi riêng sau cáng, đội vẫn chưa rút hết. |
+| 064 | 1843 → 1849 | 44 → 44 | Giữ D2 mở có kiểm soát từ phía bệnh nhân, nhóm đi/rút chính cầu; không đi A/B.; Không cho đối trọng nâng/khung tắt; giữ Silas khống chế bằng đội và dụng cụ. |
+| 065 | 2018 → 2023 | 41 → 41 | Thang hai đoạn thu đúng nguồn; Edith thấy tháo/Jonah thấy mang đi, không nhập lời khai.; Không phán trách nhiệm kết cấu/pháp lý, không hoàn bồi hay trả 7£ sớm; khung còn thấp/guarded. |
 
-Đã đối chiếu 30/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+Đã đối chiếu 35/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.

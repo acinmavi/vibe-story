@@ -668,6 +668,61 @@
       "sha_before": "6a7ac1cd428ee198dc13aec8cc377befb94a38ab4904bbac9fe185d1d4a3e52c",
       "sha_after": "2399b2a7ba9b6b00e24bd0163c902d2616c35843af003651e8c3823116d2cec6",
       "note": "Thử khôi phục bằng bộ dự phòng riêng, chưa mở lượt thật; nêm chưa nhận tải.; Giữ dây báo nhẹ không dây cáng, tay phải chưa hồi phục; không tự chứng kiến trang đêm."
+    },
+    {
+      "chapter": 61,
+      "before": 1846,
+      "after": 1847,
+      "paragraphs_before": 47,
+      "paragraphs_after": 47,
+      "changed_paragraphs": 7,
+      "sha_before": "b7b9757346b4dc3eb47743cb5e10b8bfca91bfc7281f84c14515a776ce02e74b",
+      "sha_after": "5fef00cc64e673216bc60c972a609debdca2e13c2e0698d05307f1d0400826d2",
+      "note": "Giữ nhịp “Evan buông bìa”, không sửa quyết định bỏ giấy; bản chính không mất.; Không kích linh thị/không cấp bậc Silas; nêm chưa tải và Jonah còn giường."
+    },
+    {
+      "chapter": 62,
+      "before": 1866,
+      "after": 1866,
+      "paragraphs_before": 41,
+      "paragraphs_after": 41,
+      "changed_paragraphs": 7,
+      "sha_before": "b02d596b1309d27773656e39d659613c3df3d369a0241e4a258efc75e33cf612",
+      "sha_after": "eae50717cd7dd2e0cb3fe0d2274c20d4a3dd047cda47fec237f1db9854ae821b",
+      "note": "Evan chỉ nghe/nhìn bóng, không biết chẩn đoán; bác sĩ thực sự tới giường.; Người/cáng trống qua cầu cố định không kích clock nêm; vẫn chưa nâng Jonah kết chương."
+    },
+    {
+      "chapter": 63,
+      "before": 1867,
+      "after": 1870,
+      "paragraphs_before": 63,
+      "paragraphs_after": 63,
+      "changed_paragraphs": 5,
+      "sha_before": "4a681046d0ae37d16b67e6c5e306a3367c02ff9e6b309ffba572652e6b051e09",
+      "sha_after": "799017b2b8d46ca723e5859fb07eb24746a10a8902937f27d1e09b48d841f8db",
+      "note": "Giữ đầy đủ thứ tự giây/thoại, chốt hai người xác nhận và nêm thu; không sửa đoạn đếm ngắn.; D1 hỏng trước cáng qua/D2 còn; Edith đi riêng sau cáng, đội vẫn chưa rút hết."
+    },
+    {
+      "chapter": 64,
+      "before": 1843,
+      "after": 1849,
+      "paragraphs_before": 44,
+      "paragraphs_after": 44,
+      "changed_paragraphs": 7,
+      "sha_before": "c1747bfea505e2df916ca9c99415bfa47019a26d1ed7577a0a1d4d089f06e337",
+      "sha_after": "268bdaeab913e223add584f2b07c8c3dbce3a6c8e74927ac6bff54c3a8055078",
+      "note": "Giữ D2 mở có kiểm soát từ phía bệnh nhân, nhóm đi/rút chính cầu; không đi A/B.; Không cho đối trọng nâng/khung tắt; giữ Silas khống chế bằng đội và dụng cụ."
+    },
+    {
+      "chapter": 65,
+      "before": 2018,
+      "after": 2023,
+      "paragraphs_before": 41,
+      "paragraphs_after": 41,
+      "changed_paragraphs": 5,
+      "sha_before": "1839076a0bcf197c556600085b48ddcf4f845d216655cb33b21544e3cc3eb2ca",
+      "sha_after": "6c10822c314b621df23a8383a45a1fa7d37849349d4a78fcd753fee4ea1ddf62",
+      "note": "Thang hai đoạn thu đúng nguồn; Edith thấy tháo/Jonah thấy mang đi, không nhập lời khai.; Không phán trách nhiệm kết cấu/pháp lý, không hoàn bồi hay trả 7£ sớm; khung còn thấp/guarded."
     }
   ]
 }
