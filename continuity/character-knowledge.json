@@ -1,20 +1,26 @@
 {
-  "as_of_chapter": 1,
+  "as_of_chapter": 4,
   "reader_seen": [
     "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
     "catalog recipient appears to change; independent pencil note remains unchanged",
-    "delivery crate bears Harlowe; only two digits compared, third obscured"
+    "delivery crate bears Harlowe; only two digits compared, third obscured",
+    "limited receipt signature, withheld checking wage, lodging debt",
+    "C2: different red stamp placement on copy",
+    "independent date and shop address"
   ],
   "MC_verified": [
     "new body is employed in a print shop",
-    "city identity still unverified",
     "staying alive costs money",
     "warehouse ledger is dated 28 June 1349; accuracy of local calendar not independently verified",
-    "own pencil note remains unchanged; cause of catalog discrepancy unknown"
+    "own pencil note remains unchanged; cause of catalog discrepancy unknown",
+    "crate 317: three crates of books/paper checked only superficially; signature explicitly limited",
+    "Ada Finch room 6; rent owed 3 shillings; workshop owes 12 shillings; Mara loan 6 pence",
+    "copy stamp crosses a ruled line differently from original; significance unproven",
+    "30 June 1349 shown at pharmacy; Tingen/Loen heard and printed on shop wrapping"
   ],
   "MC_remembers_original": [
-    "read entire book-one in another lifetime",
-    "has not yet established that this is that world"
+    "read book one in former life",
+    "Tingen and Loen sound like remembered fictional names; world identification remains a hypothesis"
   ],
   "author_only": [
     "another cocoon opened 28 June 1349",

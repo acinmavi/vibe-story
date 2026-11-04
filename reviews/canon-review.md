@@ -15,3 +15,6 @@ Ngày trong sổ xưởng là 28/6/1349. MC chưa biết thành phố, không t�
 Kén bổ sung, tin nhắn, dấu xám bảo hộ yếu, xưởng và vật phẩm mục lục đều AU. Đã bỏ hình ảnh kén khỏi điểm nhìn mở đầu, giữ giấy cá nhân ngoài hệ mục lục không tự đổi. Fork MC thay Cattleya là kế hoạch AU có điều kiện, chưa diễn ra; khoảng 1/1350 chỉ là mốc tham khảo cần kiểm lại trước khi viết tới. Không được làm yếu Cattleya/Bernadette hoặc giúp Klein điều tra nguồn gốc MC.
 
 Không thay neo canon. Dừng chương 001 chờ duyệt.
+
+## Ghi chú kiểm công thức trước lô thăng cấp
+Nguồn cộng đồng Advancement có liệt kê nguyên liệu, nhưng chưa truy được chương nguyên tác phần 1 xác nhận toàn bộ công thức. Khi viết giao dịch, không bịa định lượng hoặc dùng công thức phần 2; chỉ thể hiện việc đối chiếu bản đầy đủ qua hai nguồn trong truyện, nguồn cung, chi phí và giám sát. Không để kiến thức độc giả tự sinh nguyên liệu.
