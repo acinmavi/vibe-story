@@ -1,7 +1,7 @@
 {
-  "as_of_chapter": 10,
+  "as_of_chapter": 13,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 103,
+  "cash_pence": 47,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
@@ -14,7 +14,10 @@
     "workshop purchase money separate:24-20=4 pence returned",
     "old newspaper cost1p; Ada booked three1p bread meals separately, rent continues accruing",
     "008 paid12sh, settled39p Ada and6p Mara; 104p left",
-    "009 paid1p warehouse fee, 103p left; new room charges accrue separately"
+    "009 paid1p warehouse fee, 103p left; new room charges accrue separately",
+    "011 warehouse viewing12p=>91p;013 new room36p and bread8p paid=>47p",
+    "12-pound assessment fee conditional; not added to cash; next rent due18 July"
   ],
-  "ada_meals_debt_pence": 0
+  "ada_meals_debt_pence": 0,
+  "conditional_fee_pounds": 12
 }
