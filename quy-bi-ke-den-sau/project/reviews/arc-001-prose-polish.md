@@ -22,5 +22,10 @@ Người dùng duyệt bản thử 003 và STYLE_GUIDE, cho phép sửa toàn b�
 | 008 | 1994 → 1992 | 126 → 126 | Giữ 12sh lương cũ, đổi 1sh để trả 6p, trả Ada 3sh+3p, còn104p; không quy Kestrel thành chủ mưu. Giữ quyền quyết định của Mara và giới hạn lời hứa giúp Theo. |
 | 009 | 2051 → 2040 | 118 → 118 | Giữ317 trên gỗ/371 trên phiếu, chưa chắc cùng kiện; Bram chỉ xác nhận việc xem hai số, không xác nhận nguồn gốc/thứ tự. Giữ phí1p, còn103p, không lấy hòm/phiếu gốc. |
 | 010 | 2312 → 2313 | 107 → 107 | Giữ kho xe/kho sau, khoảng rời mắt và khả năng đổi tờ; không chứng minh dấu sửa ký ức. Giữ bỏ lượt xem sổ để bảo vệ nguồn, tìm hiệu sách có điều kiện, không đặt cọc. |
+| 011 | 2001 → 2007 | 113 → 113 | Phí 1 shilling, 103→91 penny; nguồn công thức chưa khớp, Iona chỉ là lời giới thiệu. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm. |
+| 012 | 2059 → 2060 | 89 → 89 | Giữ nguyên 317, kho sau, giới hạn không xác nhận cùng tờ; rãnh ép không thành chữ, không thành năng lực. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm. |
+| 013 | 2221 → 2225 | 97 → 97 | 12 pound còn ký thác; kiểm sai được sửa, quyền mua chưa thành giao dịch. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm. |
+| 014 | 2061 → 2073 | 101 → 101 | Bản chép Bram bị lấy, gốc và bản vẽ vẫn ở nơi cũ; thủ phạm chưa xác định. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm. |
+| 015 | 1998 → 1989 | 127 → 127 | Mara nói dối vị trí Theo nhưng chưa dùng tên Evan; lòng tin chưa khôi phục. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm. |
 
 Các chương ghi trong bảng đã được kiểm lời thoại và thứ tự chữ số bằng máy, đọc đối chiếu phần thay đổi về sự kiện, tri thức, manh mối và nhịp câu. Các phép so văn bản không tự chứng minh tương đương ngữ nghĩa. Báo cáo sẽ chốt sau khi hoàn tất đủ 30 chương.
