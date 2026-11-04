@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "session": "arc1-batch3",
+  "project": "/Users/ethannguyen/Documents/20261103/vibe-story/bien-ban-sai-lech",
+  "layout": "flat",
+  "scope": "arc",
+  "arc": 1,
+  "created_at_utc": "2026-11-04T13:37:46.791930+00:00",
+  "chapters": [
+    {
+      "source": "chapters/011.md",
+      "preview": "chapters/011.polished.md",
+      "original": "originals/chapters/011.md",
+      "sha256_before": "934c526af4133b38aed9df7337e6b1d2b37c2f93402374d871531dce4feab890",
+      "locked": true
+    },
+    {
+      "source": "chapters/012.md",
+      "preview": "chapters/012.polished.md",
+      "original": "originals/chapters/012.md",
+      "sha256_before": "ec05ee8375d95618f4b4ea28f4c488efa3797c925065a57f59631d7321964bd4",
+      "locked": true
+    },
+    {
+      "source": "chapters/013.md",
+      "preview": "chapters/013.polished.md",
+      "original": "originals/chapters/013.md",
+      "sha256_before": "f65d3412c693828946b5cef635c4453f355ee731822b14e4e7f5c9c1a2de7ea0",
+      "locked": true
+    },
+    {
+      "source": "chapters/014.md",
+      "preview": "chapters/014.polished.md",
+      "original": "originals/chapters/014.md",
+      "sha256_before": "07d0b00f7337d647bc9d6c206f48061c02b41036696b80a54661059c58e5a6f4",
+      "locked": true
+    },
+    {
+      "source": "chapters/015.md",
+      "preview": "chapters/015.polished.md",
+      "original": "originals/chapters/015.md",
+      "sha256_before": "871213c98263155d276dfb749216a1eb9c5fafc9f4a51f85de0c2be728d0ecb2",
+      "locked": true
+    }
+  ],
+  "metadata": [
+    {
+      "path": ".novel/state.json",
+      "sha256_before": null,
+      "original": "metadata/.novel/state.json"
+    },
+    {
+      "path": "approvals/approval.json",
+      "sha256_before": "fff23be42f4cc1010885b05b25c07af8aa26a1b427f70b014af96be4e630d8a3",
+      "original": "metadata/approvals/approval.json"
+    },
+    {
+      "path": "approval.json",
+      "sha256_before": null,
+      "original": "metadata/approval.json"
+    }
+  ],
+  "applied": false
+}

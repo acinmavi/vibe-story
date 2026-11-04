@@ -1,0 +1,106 @@
+{
+  "decision": "pass",
+  "reviewer": "Independent Codex literary_review subagent (editorial review; not human approval)",
+  "chapters": [
+    {
+      "source": "chapters/011.md",
+      "source_sha256": "934c526af4133b38aed9df7337e6b1d2b37c2f93402374d871531dce4feab890",
+      "preview_sha256": "3b65c20a0194756bf5f78812ac2e8d5088c9c620c71abef0ea7c8f465dd974bb",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with010/012 context reviewed. Replaced awkward fronted clause after literary finding. D1 stays distinct from T6; camera limited angle not proof of changed space. Rope jam, staffing cost and short stop beats preserved; no new rescue route."
+      ]
+    },
+    {
+      "source": "chapters/012.md",
+      "source_sha256": "ec05ee8375d95618f4b4ea28f4c488efa3797c925065a57f59631d7321964bd4",
+      "preview_sha256": "015208af4cc8b091917d30ae978de073d54ae0625b1f3c213cd5e67a875a2bab",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with011/013 context reviewed. Restored seated posture. Two tugs followed by negative repeat do not identify human/identity; no unsupported rescue entry. Thu calls without claiming proof; abrupt refusals retained."
+      ]
+    },
+    {
+      "source": "chapters/013.md",
+      "source_sha256": "f65d3412c693828946b5cef635c4453f355ee731822b14e4e7f5c9c1a2de7ea0",
+      "preview_sha256": "51d320ca60c0adf3b5f0b4c3a4eeb322b44927344c45fdcfe6ed00d33e73a7ef",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with012/014 context reviewed. Restored Khải as computer-lid-folding actor. Copies share one source, not separate witness; noon episode gives only12-hour hypothesis. Paper/D1 outside persist, no global immunity; staffing and departure unchanged."
+      ]
+    },
+    {
+      "source": "chapters/014.md",
+      "source_sha256": "07d0b00f7337d647bc9d6c206f48061c02b41036696b80a54661059c58e5a6f4",
+      "preview_sha256": "1d510ee8ecc864345f0b585c8bc504abfe0b6c466e5bf563141c397549659950",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with013/015 context reviewed. Hội signatures acknowledge receipt for intended handover, not design or actual use/guilt. Three extracts and permission-based family visit intact. Dry pencil exchange retained; T12 unresolved."
+      ]
+    },
+    {
+      "source": "chapters/015.md",
+      "source_sha256": "871213c98263155d276dfb749216a1eb9c5fafc9f4a51f85de0c2be728d0ecb2",
+      "preview_sha256": "ee44379f09478640c576447d4e31d06108de6fb3da72f76d863b91f2d8f64d13",
+      "checks": {
+        "events_and_order": "pass",
+        "characters_places_time": "pass",
+        "clues_names_numbers": "pass",
+        "character_knowledge": "pass",
+        "powers_and_items": "pass",
+        "dialogue_meaning": "pass",
+        "no_added_or_lost_content": "pass",
+        "natural_rhythm": "pass",
+        "controlled_sentence_length": "pass",
+        "no_cliches": "pass"
+      },
+      "notes": [
+        "Complete before/after with014/016 context reviewed. Tín name/tag17/eighteen-year account intact; mother saw smoke outside, not inside fate. Three extracts insufficient for universal omission claim. Originals stay home, permissions restricted; present victims remain priority."
+      ]
+    }
+  ]
+}
