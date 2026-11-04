@@ -41,7 +41,7 @@ Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hư
 
 ## Arc002 — Cánh cửa cuối ca
 
-Đã có 26/38 chương. [Đọc liền](ARC_002.md). Arc1 giữ nguyên.
+Đã có 30/38 chương. [Đọc liền](ARC_002.md). Arc1 giữ nguyên.
 
 | Chương | Tên | Từ |
 |---:|---|---:|
@@ -71,3 +71,7 @@ Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hư
 |054|[Người có thể đi một mình](chapters/054.md)|1889|
 |055|[Lời của người nằm lại](chapters/055.md)|1849|
 |056|[Kho đóng cửa](chapters/056.md)|1849|
+|057|[Hai cửa trước đầu cầu](chapters/057.md)|1852|
+|058|[Đường dùng khi mất một điểm](chapters/058.md)|1858|
+|059|[Trước lượt người đầu tiên](chapters/059.md)|1857|
+|060|[Trước khi trời sáng](chapters/060.md)|1807|

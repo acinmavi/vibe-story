@@ -91,3 +91,7 @@ Money199−1−2−2=194p,noEvanexpense051;QAtrướccommit,noArc3.
 ## Lô053–056
 RootđọcFULL/independentblindPASS.053nốiđúng9Augtối,054EdithởchămJonahkhôngđồngphạm,055Jonahownvoicebáclờitựnguyện,056Silasphảnứngvớithứthấy/côngcụbẩychỗyếu,Agneschịuđóngviệcvàphầnđãbỏqua. Bệvàôthoángchỉchonghe,khônglàwalkthroughrouteđãbịlờ. Supply/care/độichuyêntráchliêntục,khôngngồichờ. Rootchỉđổi3mệnhđềkhẳngđịnh'khôngphépcâm'khôngthểMCbiếtthànhgỗ/chìa/tiếngchânquan sát;055'ngồidướibàn'→'ngồiởbànphíadướibệ'.
 Giảthuyết tựnguyện nghỉ khôngcònđứngsauJonah;độngcơbảohộámảnhvskiểmsoátvìlợiriêngcònmở.194−1−2−2=189p;chưaMCpower/phiđơnmới. QAtrướccommit;069cấm.
+
+## Lô057–060
+
+Root đọc toàn văn; blind reviewer đọc riêng057–058 rồi059–060, không sealed. PASS: đường6ft/nhánh D1D2/lỗdụngcụ; nêmguide40s≠chốtđồng049;22s/abort25s≠toànlượt6–8phút. Pháhoại bằngbẩy/búa vàođiểmyếu đãgieo056, trướcngườiqua;dựphòngđãthử058vẫnkiểmlại060. Chưa ai vào khám thực tế,khônglấygiườngmôphỏng làmđãkhám. Rootclarifyvịtríngườigiữ059vàtrim1câulặp060. Tiền183p,khôngpower mới.

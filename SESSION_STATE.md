@@ -1,7 +1,7 @@
-# Checkpoint — Arc2 sau056
+# Checkpoint — Arc2 sau060
 
-User authorized finish041–068 plus recap/allmemory/longgame/openclues/3Arc3options, QA/commit. NO069. Published56,10Augnight,cash189p,debt132£,Seq9incomplete. Root fully read041–058;blind reviewedthrough056. Lastpreviouscommitbef5475,56commitnext.
-Writers only staging drafts: A idle awaiting059060 then061062; B ACTIVATED followup_task writing059060 after actual057058. Reviewer idle completed056; activate followup_task for057060 once ready. 057058 staged and rootread, minor under-table phrase058tofix.
+User authorized finish041–068 plus recap/allmemory/longgame/openclues/3Arc3options, QA/commit. NO069. Published60,12Augpredawn,cash183p,debt132£,Seq9incomplete. Root fully read041–060;blind reviewedthrough060. Previous56commit1f87406;60commitnext.
+Writers only staging drafts: A ACTIVATED followup_task writing061062 after actual059060. B completed059060; activate viafollowup_task063064 onlyafteractual061062. Reviewer completed057060PASS; activate061064later. 057060promoted/root/blindread/QApass.
 Map:outerbệ→6ftgap→innertechnicalfloor→Jonahroom bypassesA/B. SilasB→privateinnerstair→D1→shortconnector→D2→innerfloor. TWOtinytoolports operateordinaryclosurearms/slideboltsfrompublicbệ,NOwalkbypass. PrimaryfloorrailBASEtie+2endseats+rope;alternateindependenthighbeamstraptested058withprimaryslack. Newsteel-facedwoodwedgeONLYordinarybridgeguidehinge,NOTartifactpawl049(5secondfailedtest). Test40s observed,criticaldummyhandoff22s/abort25s,wholetrial6m40/plan6–8minsupportedstops;timeronly063,not061062.
 Planrescue11Augafternoon aftertests;059Silascrowbar/hammerdamagesprimaryBEFOREpersonload,retreatsB,forcesovernightrepairusingalreadytestedalternate,activecare.06012Augpredawnrepairchecksnoactualpatientmove.061securityresponse/MCnotesabandonnotduel,062medicalprepinroom,supportedfloor.063criticalhandoff,064evac/arrestprofessional. Need rootverify actualBhandoff thenactivateA.
 Costs0571p→188,0582→186,0592→184,0601→183;061064noextra;0652→181,0661→180,0672→178,0682→176+7£1680−2£480=1376p;Iona130£,first31Augminimumcoveredearlywithreceipt,SeptemberdayUNKNOWN. Allcostmustbeactualprosefirst.

@@ -82,3 +82,6 @@ P15:originallurenote014vẫnmất;050khôngcómẫuđểgiámđịnh,nênchỉđ
 
 ###053–056
 A2C2/C3/C7đãhộitụ:Edithcóthểra1mìnhnhưngchămJonahkhôngquacáng;patientownvoice055xinra/khám,báclờitựnguyệnSilas. Cầnnănglựcthậtvàđườngđủtải,chưacứura. A2R2tiếpxúcđộclậpđãđạtgiọng,khámvếtthươngvẫncần.053làtối9Augđúngsau052.056thanhbẩy/búavàliênkếtyếuđãgieotrướcphá059,bảngdựphòngphảithử057058;khôngtaykhôngbẻdầm.
+
+###057–060
+A2C8/C8a:phươngánnêmcơcấu049bịbỏ;057058nêmmớiđúngguidecầuthườngđược thử40s,nhậntải22s/abort25s,khôngnângđốitrọng/tắtvòng. A2C7cầuvàdựphòngqua6ftđãchịutảiriêng.056tools/weakjoint→059SilaspháprimaryBEFOREpersonload→060khôiphụckiểmlạialternate. D1D2tinytoolportskhôngđườngđibí mật. Patientchưakhámvếtthương,criticalclockchưachạy.
