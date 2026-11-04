@@ -38,6 +38,18 @@
   },
   "arc003": {
     "approved": false,
-    "status": "options_only;no chapter prose or chapter outline approved"
+    "status": "concept A selected; preparation only; no069/no chapter prose",
+    "concept_approved": true,
+    "concept": "A — Giá của một cái tên",
+    "preparation_approved": true,
+    "outline_approved": false,
+    "writing_approved": false,
+    "approval_text": "A — Giá của một cái tên --> chọn cái này; chuẩn bị Arc3, chưa viết chương vội",
+    "approved_at_utc": "2026-11-04T09:13:30.835930+00:00"
+  },
+  "chapter_commit_policy": {
+    "scope": "future chapters after explicit writing approval",
+    "rule": "review/QA/update memory and commit each completed chapter separately before drafting the next; no multi-chapter squash",
+    "source": "user04Nov2026: sau mỗi chương nên commit lên để giữ history"
   }
 }

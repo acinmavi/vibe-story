@@ -1,3 +1,9 @@
+# Chỉ thị mới nhất04/11/2026
+
+Arc3đãchọnA“Giá của một cái tên”đểCHUẨN BỊ,hồsơ/dànývàquyềnviếtchưaduyệt;giữcap68/không069/cảnhmẫu. XemHANDOFFvàarcs/arc-003/SESSION_PROMPT.md. Khiđượcviết,sauMỖICHƯƠNGreview/QA/memoryvàcommitRIÊNGtrướcchươngkếtiếp,thaycommitgộplô. Phầndướiđâylàcheckpointlịch sửcuốiArc2;mọidòng“chờchọnA/B/C”đãđượcthaybằngchọnA/chờdàný,khôngmởquyềnviết.
+
+---
+
 # Checkpoint — hoàn tất Arc2, dừng068
 
 User yêu cầu hoàn tấtArc2 vàrecap/allmemory/longgame/openclues/≥3Arc3options/QAcommit;khôngtựArc3. Đãviếtđủ031–068,38chương70926từ;toàntruyện68/135182từ. RootđọcFULL041–068;blindreviewerđọcFULL031–068khôngsealed,PASS. Postblindintegrationreview19continuity+recap/report/canon/options/longgamePASS,2P3đãsửa. QAstructural/wordhash/customlinks/readers/cash/gate/diffPASS. Storycommit64a844af1;finalcommitxemgitHEADsaukhiđãcommit(tránhtựnhúngSHA).

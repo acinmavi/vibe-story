@@ -19,3 +19,7 @@
 - Trong các cảnh dùng lore, ưu tiên câu chuyện hơn trình bày từ điển. Không sao chép diễn biến hay đoạn hội thoại nguyên tác.
 - BẮT BUỘC đọc `bible/narrative-contract.md` trước thiết kế hoặc viết tiếp: cuối arc tăng tốc bằng các tuyến đã gieo hội tụ và hệ quả nối nhau, không phá mạch chung; trả các chi tiết đã hứa với độc giả; ngày tháng, năng lực, tri thức và phong cách nhân vật phải nhất quán. Thay đổi cần nguyên nhân và quá trình; lệch bất thường phải được nhận thấy, gieo dấu và giải thích có nhân quả.
 - Theo dõi `continuity/setup-payoff-ledger.md` cùng `continuity/open-loops.json`. Không đánh dấu đã trả chỉ vì tác giả có ý định dùng sau. Trước Arc2 phải bổ sung kiểm kê chi tiết còn thiếu và chốt mốc tái xuất/trả cho các tuyến mở; cổng duyệt Arc2 giữ nguyên.
+
+## Chỉ thị người dùng04/11/2026 — hiệu lực cho phần tiếp theo
+
+Arc3chọnA“Giá của một cái tên”:chỉchuẩnbị,chưaduyệtdànýhoặcviết069. Sau khi được phép viết, **mỗi chương hoàn tất phải review/QA/cập nhật continuity và COMMIT RIÊNG trước khi viết chương kế tiếp**. Không gộp nhiều chương một commit; quy tắc này thay lịch commit theo lô cũ. Push chỉ theo yêu cầu, không force-push.

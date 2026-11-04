@@ -21,7 +21,7 @@ Commit hoàn tấtArc2: `45e455beb86b86de860068912cd0987095f9f62a`. Review độ
 
 Câu hỏi gần nhất của người dùng là progress sau hai arc; đã giải thích MC ở Tingen/Seq9 cuốiArc1, Backlund/vẫnSeq9 cuốiArc2. Chưa có yêu cầu tăng bậc hoặc phê duyệtArc3 từ câu hỏi ấy. Dùng memory cho ngày, mức tiêu hóa, tiền, nghĩa vụ và quyền tra nguồn thật; không tự cấp công thứcSeq8.
 
-[Ba hướngArc3](arcs/arc-003/OPTIONS.md) là đề xuất, A được khuyến nghị nhưng **chưa duyệt**. [Đánh giá đường dài](long-game/POST_ARC_002_ASSESSMENT.md) và [sổ lời hứa](continuity/setup-payoff-ledger.md) ghi các quyết định/mốc phải xử lý: chính sáchNeil, nguồn tin nhắn/giọng mình ở cấp tác giả, hậu quảTingen và đờiEvan. Cần chốt các cổng này trước bản thảo; không bỏ qua do tiến độ chương.
+[Ba hướngArc3](arcs/arc-003/OPTIONS.md) là đề xuất, **A — Giá của một cái tên đã được bạn chọn để chuẩn bị**; dàn ý và quyền viết chưa được duyệt. [Đánh giá đường dài](long-game/POST_ARC_002_ASSESSMENT.md) và [sổ lời hứa](continuity/setup-payoff-ledger.md) ghi các quyết định/mốc phải xử lý: chính sáchNeil, nguồn tin nhắn/giọng mình ở cấp tác giả, hậu quảTingen và đờiEvan. Cần chốt các cổng này trước bản thảo; không bỏ qua do tiến độ chương.
 
 ## Cách tiếp tục
 
@@ -29,8 +29,12 @@ Câu hỏi gần nhất của người dùng là progress sau hai arc; đã gi�
 
 Mọi lệnh shell bắt đầu bằng `rtk`. Theo dõi việc nhiều bước bằng `work_state_read(includeClosed=true)`/`work_state_write`; không đóng các list của truyện khác. KiểmGitstatus/remotes/branch trước thao tác; chỉ stage tệp thuộc việc mình. Push đã được người dùng yêu cầu, nhưng phải xác định repo/branch đích và kiểm kết quả remote; không suy URL từ một dự án khác. Không force-push hoặc ghi đè lịch sử remote để giải quyết xung đột.
 
-Nếu được duyệt viết tiếp: cập nhật approval có chứng cứ, đối nguồn canon/tri thức/năng lực, viết theo lô2–4, review độc lập và QA trước commit. Các lệnh QA đã có trong báo cáo; không cài framework mới. Không coi script PASS là chứng minh truyện không có hố.
+Nếu được duyệt viết tiếp: cập nhật approval có chứng cứ, đối nguồn canon/tri thức/năng lực, review độc lập/QA/cập nhật memory rồi commit RIÊNG từng chương hoàn tất trước khi viết chương kế tiếp; không dồn nhiều chương một commit. Các lệnh QA đã có trong báo cáo; không cài framework mới. Không coi script PASS là chứng minh truyện không có hố.
 
 ## Git sau khi bàn giao
 
 Repo quản lý chung đặt tại `/Users/ethannguyen/Documents/20261103/vibe-story/.git`, remote `https://github.com/acinmavi/vibe-story.git`, branch `main`. Novel vẫn làm việc trong `quy-bi-ke-den-sau/project`; chạyGitởđâysẽdùngrepogốc. Không khởi tạo lại `.git` con hoặc add project thành submodule/gitlink. Lịch sử repo con tới `6d7cdaad7b190fd0dbe774f4c41b5e0cb39490ca` được nối vào lịch sử main bằng merge nhập kho; metadata Git con cũ được giữ tại `.git/novel-history/quy-bi-ke-den-sau-project.git` ở máy để dự phòng, không phải dữ liệu truyện cần push. Lịch sử đã nối vẫn được mang theo main khi clone mới. Chỉ scope tệp novel khi làm việc tiếp, tránh commit thay đổi của truyện khác.
+
+## Chỉ thị mới nhất — chuẩn bị Arc3
+
+Người dùng04/11/2026đã chọn **A — Giá của một cái tên**, chỉ chuẩn bị hồ sơ/dàn ý, **chưa viết chương**. Giữ cap68;không069/bảnnháp/cảnhmẫu. Chưa có quyết địnhNeil hoặc duyệt các đáp án nguồn gốc từ việc chọnA. Dùng[prompt phiên mới](arcs/arc-003/SESSION_PROMPT.md). Quy tắc mới thay nhịp commit theo lô cũ: sau mỗi chương được phép viết, hoàn tất review/QA/memory và commit riêng ngay trước chương kế tiếp. Đây là commit, không tự suy quyền push từng chương.
