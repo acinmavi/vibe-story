@@ -1,0 +1,45 @@
+{
+  "arcs": [
+    {
+      "id": 1,
+      "title": "Mục lục không tên",
+      "location": "Tingen print shop / old catalog",
+      "mechanism": "restricted local registry substitution",
+      "antagonist_motive": "Kestrel profit and evidence suppression; Gideon theft to cover medical debts",
+      "resolution": "independent vehicle provenance plus material traces and bounded witness comparison, voluntary confession and specialist quarantine",
+      "genre": "forensic occult mystery",
+      "moral_cost": "reject using Theo as bait; lose checking wage/copies, incur132-pound debt and strained trust",
+      "status": "complete",
+      "chapter_range": "001–030",
+      "date_range": "1349-06-28 through1349-07-31",
+      "protagonist_power": "ordinary through018; newly advanced Mystery Pryer019 onward",
+      "institution": "printshop custody, transport depot, independent book assessment and local official reception",
+      "relationship_change": "Mara limited cooperation without full restored trust; Theo chooses another work route",
+      "next_arc_gate": "Arc2 separately approved04Nov2026;38chapters031–068"
+    },
+    {
+      "id": 2,
+      "title": "Cánh cửa cuối ca",
+      "status": "complete",
+      "chapter_range": "031–068",
+      "date_range": "1349-08-01 through1349-08-13",
+      "genre": "bounded spatial mystery and coordinated rescue",
+      "location": "Tingen031–033;BacklundAshwickAU034–068;MaraPOVTingen051",
+      "mechanism": "Fixed paired thresholds controlled by mechanical configuration, no memory alteration",
+      "antagonist_motive": "Silas coercive safety/control and concealment of responsibility after2Aug shelf accident; actions independently witnessed, legalverdict pending",
+      "resolution": "Separate food/voice/consent clues, tested six-foot bridge/alternate+two-door branch control;22s actualguidehandoff then visibleprofessional arrest, allpeopleout",
+      "protagonist_power": "Seq9 throughout;incomplete digestion,no newcombatmagic/Seq8recipe",
+      "institution": "patrol followup5/6/7Aug;specialistdeployment8Aug;Marshcontact/directexam12Aug;professionalcustody afterrescue",
+      "moral_cost": "rightarm injury/leftpalm abrasion,temporaryworkingnote loss,paidresearchfee/ordinarylivingcosts;choose people over paper/control",
+      "relationship_change": "Nell/Edith/Jonahretainagency;Agnesaccountability withoutabsolution;Miraconditionalaccess;MaraTheoindependentchoices deliveredbyletter",
+      "next_arc_gate": "Arc3 proposals only;explicit newapproval required before069",
+      "actual_date": "1349-08-13",
+      "long_tail": [
+        "130GBP debt/Septemberdatequestion",
+        "19AugNeildecision",
+        "conditionalSeq8source",
+        "Tingenpursuit/originstillopen"
+      ]
+    }
+  ]
+}

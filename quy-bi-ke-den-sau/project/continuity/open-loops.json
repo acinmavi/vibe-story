@@ -1,0 +1,148 @@
+{
+  "as_of_chapter": 68,
+  "loops": [
+    {
+      "id": "L1",
+      "question": "Why did an additional cocoon release on28 June1349? Author-only, not established by MC.",
+      "due_arc": 7,
+      "status": "open",
+      "author_design_gate": "Lock P01/P02 source BEFORE069; due_arc7 is intended reader revelation, not permission to improvise clues until then"
+    },
+    {
+      "id": "L2",
+      "question": "Why does a catalog recipient field appear to change, and did Evan request this delivery shift?",
+      "due_arc": 1,
+      "status": "resolved_operationally",
+      "resolution": "recipient responsibility reconstructed through sources/testimony; suspect registry quarantined027; full origin remains separate"
+    },
+    {
+      "id": "L3",
+      "question": "What did previous Evan know before dying?",
+      "due_arc": 3,
+      "status": "partially_resolved",
+      "resolution": "037 resolves extra shift/rent motive and bounded code concern; priorEvan death/transmigration/watchgiver still open, independent-source reentry required in Arc3 outline"
+    },
+    {
+      "id": "L4",
+      "question": "Who can detect the pale gray signature?",
+      "due_arc": 3,
+      "status": "open"
+    },
+    {
+      "id": "L5",
+      "question": "Who redirects the rare books and uses the catalog discrepancy?",
+      "due_arc": 1,
+      "status": "resolved_case",
+      "resolution": "Kestrel acquisition/code instructions independently documented026, Gideon theft admitted027; capture and artifact provenance remain follow-up"
+    },
+    {
+      "id": "L6",
+      "question": "Can Evan verify and accept Backlund work while meeting132-pound debt and lawful research obligations?",
+      "due_arc": 2,
+      "status": "resolved_contract",
+      "resolution": "033 verified/accepted;068 realdeliverables accepted/7GBP paid;2GBP authorized payment applied31Aug/principal130. Continuing debt/rights/lodging tracked separately"
+    },
+    {
+      "id": "L7",
+      "question": "WhereisEdithPrice,andwho receivestwomeals/woundcareintheannex?",
+      "due_arc": 2,
+      "status": "resolved_rescue",
+      "first_chapter": 36,
+      "limits": "Presence,care/coercion and extraction resolved; legal verdict/compensation not complete",
+      "resolution": "052–055 identities/consent;062 realexam;063victimsout;064allcrewout;065independentaccident/ladder evidence. Patients needongoingcare, not healed"
+    },
+    {
+      "id": "L8",
+      "question": "Whywasthenorthdoorclosingtimechanged,andhowdoitsmechanicsrelatetotheannex?",
+      "due_arc": 2,
+      "status": "resolved_operationally",
+      "first_chapter": 34,
+      "limits": "No universalbiology experiments/manufacturing origin proven; creator not required to rescue, no unseeded master implied",
+      "resolution": "FixedA/B+brasspawl/lowweight vsnormalwoodleaf distinguished042/047/054;rescue bypass063;064containedstillLOW, not automaticallyoff"
+    }
+  ],
+  "future_thread_groups": {
+    "1": "artifact source, Kestrel and inquiry about method",
+    "2": "Iona debt, livelihood and verified Backlund opportunity",
+    "3": "gray sensation, earlier Evan and transmigration origin"
+  },
+  "followups_031_033": {
+    "drawer_key": "returned031, custody ambiguity resolved",
+    "pressure_sketch": "original handed032, copy retained",
+    "visitor028": "resolved067 ArthurFenwick;Rusknewrecognition9Aug/letter10 +Agnes priorassignment;no initial nameknown",
+    "artifact_mechanism": "bounded provisional report032, full mechanism/source stillopen"
+  },
+  "followups_037_040": {
+    "driver001": "HenryPikeidentity/avoidancemotivesupported037,notdarkcoatconfirmed",
+    "whitepowder001": "ordinarypackingchalkexplanationsupported037,notparticlelabproof",
+    "Jonasposition007": "037 witnesslimitreturned;whichsidecannotberecalledreliably",
+    "policepromise036": "visit5Augfulfilled037;meeting6Augfulfilled040",
+    "patient040": "claim voluntarily isolated refuted055;realexam062/rescued063/ongoingcare065"
+  },
+  "active_followups": [
+    {
+      "id": "P01/P02",
+      "type": "author_design_and_origin",
+      "next": "source lock BEFORE069; reader-revelation schedule separately approved",
+      "status": "open"
+    },
+    {
+      "id": "P03/P18",
+      "type": "previousEvan/watchgiver",
+      "next": "independent source reentry in approved Arc3 outline",
+      "status": "partially_resolved"
+    },
+    {
+      "id": "P04/P05",
+      "type": "artifact supply/Kestrel",
+      "next": "consequential investigation result by endArc3;last known report Ruth7Aug",
+      "status": "open"
+    },
+    {
+      "id": "P11",
+      "type": "Gideon restitution",
+      "next": "dated procedural/result check by endArc3,not automatic fullpayment",
+      "status": "open"
+    },
+    {
+      "id": "P15",
+      "type": "Dale/lostnote/two assaults",
+      "next": "separate hiring/handoff source investigation result by endArc3;original014stilllost",
+      "status": "open"
+    },
+    {
+      "id": "P07/L4",
+      "type": "gray/whisper origin",
+      "next": "external source check in Arc3; no reusablepower assumed",
+      "status": "open"
+    },
+    {
+      "id": "A2-aftercare",
+      "type": "consequence",
+      "next": "medicalcare and legal/Agnes compensation followup when sourcesavailable;no instantverdict",
+      "status": "ongoing"
+    },
+    {
+      "id": "Neil",
+      "type": "ethical_deadline",
+      "deadline": "1349-08-19",
+      "next": "MC must choose whether/how limitedwarning;none sent068",
+      "status": "open"
+    },
+    {
+      "id": "lodging",
+      "type": "livelihood",
+      "deadline": "1349-08-14",
+      "next": "confirm vacancy/price before nextnight;not paid",
+      "status": "open"
+    },
+    {
+      "id": "Iona-next",
+      "type": "debt",
+      "period": "1349-09",
+      "exact_date": null,
+      "next": "await Iona confirmation of nextminimumdate;first31Augminimumalreadycovered",
+      "status": "open"
+    }
+  ]
+}

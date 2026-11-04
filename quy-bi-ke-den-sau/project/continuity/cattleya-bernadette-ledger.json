@@ -1,0 +1,21 @@
+{
+  "visibility": "author_only",
+  "events": [],
+  "entry_schema": [
+    "event_id",
+    "chapter",
+    "story_date",
+    "cattleya_goal",
+    "bernadette_goal",
+    "klein_goal_if_present",
+    "mc_goal",
+    "trust_change",
+    "information_exchanged",
+    "price",
+    "canon_anchor",
+    "au_consequence"
+  ],
+  "as_of_chapter": 68,
+  "arc001_note": "No direct canon cast encounter, Tarot membership, World mission or Klein origin investigation during Arc001. Future planned leads remain unverified.",
+  "arc002_note": "No direct canon cast contact or MC Tarot participation during031–068;Klein K0;World persona futureonly;MiraCattleyaaffiliationUNKNOWN;no Bernadettecontact"
+}

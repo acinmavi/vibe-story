@@ -1,0 +1,16 @@
+{
+  "visibility": "author_only",
+  "investigator": "Klein acting through The World and independent channels",
+  "subject": "Evan Harlowe / Tran Duy",
+  "stage": "K0_not_yet_started",
+  "truth": "AU: both released same day from separate cocoons in Sefirah Castle",
+  "mc_participation": "forbidden: no self-investigation, tip-off or confession to advance Klein's case",
+  "leads": [
+    {"id":"KI-01","phase":"recruitment","observation":"weak gray fog correlation","alternative":"divine favor, sealed artifact or ritual exposure","verified":false,"chapter":null},
+    {"id":"KI-02","phase":"mid","observation":"abrupt behavioral changes near 1349-06-28","alternative":"amnesia, soul influence or illness","verified":false,"chapter":null},
+    {"id":"KI-03","phase":"mid","observation":"multiple independent cultural traces aligned with former Earth","alternative":"inherited Roselle lore or contact with old manuscripts","verified":false,"chapter":null},
+    {"id":"KI-04","phase":"high_sequence","observation":"fourth opened cocoon or equivalent residual release signature in Sefirah Castle, AU","alternative":"other traveler, misleading spiritual trace","verified":false,"chapter":null},
+    {"id":"KI-05","phase":"late","observation":"Klein independently cross-checks timing and signature against MC evidence","alternative":"none after repeated confirmation","verified":false,"chapter":null}
+  ],
+  "proof_gate": "No shared-cocoon confirmation until high-sequence access to cocoon evidence and at least 3 independent verified earlier leads."
+}

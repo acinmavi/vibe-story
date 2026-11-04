@@ -1,0 +1,27 @@
+{
+  "visibility": "author_only",
+  "current_trust": "unacquainted",
+  "steps": [
+    "transaction",
+    "parallel_case",
+    "joint_mission",
+    "earned_friendship",
+    "private_confidence",
+    "shared_origin_confirmation"
+  ],
+  "missions": [],
+  "entry_schema": [
+    "chapter_range",
+    "location",
+    "shared_goal",
+    "mc_contribution",
+    "world_contribution",
+    "disagreement",
+    "cost",
+    "trust_delta",
+    "canon_ripple"
+  ],
+  "as_of_chapter": 68,
+  "arc001_note": "No direct canon cast encounter, Tarot membership, World mission or Klein origin investigation during Arc001. Future planned leads remain unverified.",
+  "arc002_note": "No direct canon cast contact or MC Tarot participation during031–068;Klein K0;World persona futureonly;MiraCattleyaaffiliationUNKNOWN;no Bernadettecontact"
+}

@@ -1,0 +1,166 @@
+{
+  "visibility": "author_only",
+  "combat_scenes": [
+    {
+      "scene_id": "014-warehouse-escape",
+      "chapter": 14,
+      "story_date": "1349-07-12",
+      "record_type": "post-scene continuity reconstruction; constraints were in production contract before drafting",
+      "klein_identity": null,
+      "klein_sequence": null,
+      "mc_sequence": "ordinary",
+      "verified_abilities": [
+        "ordinary observation and flight"
+      ],
+      "prepared_items": [
+        "private copy of Bram statement; no weapon"
+      ],
+      "enemy_evidence": "two men seize collar and demand source/copy; identities unknown",
+      "coordination": "none; civilian and patrol contacted after escape",
+      "result": "escapes via chair obstruction and open doorway; copy lost",
+      "cost": "shoulder/ankle bruises, source exposed, delayed work",
+      "canon_or_au": "AU, no canon interaction"
+    },
+    {
+      "scene_id": "025-street-escape",
+      "chapter": 25,
+      "story_date": "1349-07-26",
+      "mc_sequence": "9 Mystery Pryer, newly advanced, untrained fighter",
+      "klein_identity": null,
+      "klein_sequence": null,
+      "available_abilities": [
+        "ordinary running, observation, limited trained mystical perception; no combat spell or fog shield"
+      ],
+      "prepared_items": [
+        "copies only, original sketch kept separately"
+      ],
+      "enemy_evidence": "road blockers following shipment; no assumed high sequence powers",
+      "team_objective": "escape and protect Theo; report assault promptly",
+      "turning_point": "known route and nearby civilian/patrol presence, not power-up",
+      "cost": "forearm abrasion and fatigue; Mara forfeits2sh withheld wages",
+      "record_type": "pre-drafted fight-card validated against025",
+      "result": "escape via known street and shopkeepers/patrol; no combat spell; carried copy lost"
+    },
+    {
+      "scene_id": "A2-F1",
+      "chapter": 43,
+      "story_date": "1349-08-07",
+      "record_type": "pre-draftcardmatchedreviewedscene043–044",
+      "mc_sequence": "9untrained",
+      "klein_sequence": null,
+      "objective": "escape withNell andreport",
+      "enemy_evidence": "twoordinaryworkersinvokeVeysafetyorder;detainingpeopleisanoverreachnotprovenexplicitorder",
+      "items": "ordinarycartwithbags/publicgate/witnesses,no combatspell",
+      "result": "escape topublicstreet,patrolresponds immediately,nopaperloss",
+      "cost": "forearmaggravated,medical4p+food2p044,missedwork",
+      "agency": "Nellcart/route;Evanwithdraws;Rowequestionsseparatewitnesses;Marshordinarycare"
+    },
+    {
+      "scene_id": "A2-F2",
+      "chapter_range": "059–062",
+      "story_date": "1349-08-11/12",
+      "mc_sequence": "9 MysteryPryer incomplete",
+      "klein_identity": null,
+      "klein_sequence": null,
+      "enemy_sequence_author_only": "8 MeleeScholar;POVnotverified",
+      "win": "restoretestedalternate/holdbranch,reachpatientandwithdrawMC",
+      "lose": "bridgeanchorloss/civilianheld/patientnotaccessible",
+      "verified_abilities": [
+        "ordinaryobservation/left-hand lightweightreportline,notdoorgrossload",
+        "enemytrainedbody+prybar/hammeratweakjoints,notbarehandbeam-breaking"
+      ],
+      "prepared_items": [
+        "primary/independentalternate tested057058",
+        "D1/D2normalbolts/toolports/shields",
+        "mainlog retained/ownworkingnotes expendable"
+      ],
+      "enemy_tactics": "damageprimary059beforepersonload,retreatB,ascendprivatestairs/toolattackD1,seekcontrol of ropeaccess",
+      "team_tactics": "replace/reroute/retestalternate060,keepD2verified,MCretreat/lightline,firstguardcrossfixedfootspan,Marshrealbedexam062",
+      "result": "patientprepared withconsent;D1damaged,criticalguidewedgeunloadedthrough062",
+      "cost": "overnightwork/delaywithactivecare;ownnotesripped/recoveredpartly065;rightarmstillpain/leftpalmabrasion;Agnesbusinessloss",
+      "canon_or_au": "localAU,noKlein"
+    },
+    {
+      "scene_id": "A2-F3",
+      "chapter_range": "063–064",
+      "story_date": "1349-08-12",
+      "mc_sequence": "9 incomplete/no combatmagic",
+      "klein_identity": null,
+      "klein_sequence": null,
+      "enemy_sequence_author_only": "8MeleeScholar,notMCidentified",
+      "win": "bothvictims/entirecrewout,controlassailant/scene",
+      "lose": "unsupportedload/patientfall/bothdoorblockslostbeforehandoff",
+      "available_abilities": [
+        "MCordinaryreports/clearsouterpath",
+        "Nellmechanics,Marshclinical,Edithconsent/help,Vossteamsecurity"
+      ],
+      "items": [
+        "same6ftfixedbridge/independentalternate/ropes",
+        "steel-facedguidewedge tested40s,abort25s",
+        "normalshields/hookrods/bolts/restraints"
+      ],
+      "turning_point": "D1failsbeforetransfer→pausepatientonroomfloor→D2confirmedholds→22srealhandoff/twopinconfirmations/wedgeretrieved;stablepainpauseafterpin",
+      "enemy_tactics": "prybardownD2thenfrontlungeatopeneddoor towardropeholder",
+      "coordination": "medical/civilianoutFIRST;VossteamVISIBLEcrossbridgepatient-sideD2,controlledunbolt/frontrestraint;escortreversebridgeindividual loads",
+      "result": "victimsandallcrewout;Silasrestrained/toolsseparate;artifactstillLOWfixedguardednotdisabled",
+      "cost": "injury/fatigue/patientongoingcare/damageddoors/workingnotes;nocashreward/loot",
+      "canon_or_au": "localAU;noTheWorld/no borrowedfuturepowers"
+    }
+  ],
+  "entry_schema": [
+    "scene_id",
+    "chapter",
+    "story_date",
+    "klein_identity",
+    "klein_sequence",
+    "mc_sequence",
+    "verified_abilities",
+    "prepared_items",
+    "enemy_evidence",
+    "coordination",
+    "result",
+    "cost",
+    "canon_or_au"
+  ],
+  "planned_fight_cards": [
+    {
+      "scene_id": "A2-F1",
+      "chapter_range": "043–044",
+      "status": "fulfilled043–044",
+      "story_date": "1349-08-07",
+      "mc_sequence": "9untrained",
+      "klein_sequence": null,
+      "win": "escape to public/perimeter with Nell,reportassault",
+      "lose": "heldinconcealedspace orwounddisableswork",
+      "items": "ordinaryhandcart/visibleescape,nonewspellorfog",
+      "enemy": "twoordinaryhiredworkersfollowingmisguidedsafetylệnh,blockaccessnotstealpapers",
+      "enemy_tactics": "oneblocks,oneapproachesfromside",
+      "cost": "forearmaggravation,missedwork,medical4p+food2p044",
+      "agency": "Nellchoosesroute;Rowe/Marshalreadyawareofhazard;dispatchfrom042notdelayeduntil044"
+    },
+    {
+      "scene_id": "A2-F2",
+      "chapter_range": "060–062",
+      "status": "fulfilled, see actual combat_scenes",
+      "mc_sequence": "9",
+      "enemy_sequence_author_only": "8MeleeScholar;POVunknown",
+      "win": "buytestedshorttimeforrescue,notdefeatenemy",
+      "lose": "captured/missinganchor",
+      "items": "preparedcart/wedge/twofireshutters/measuredroute,notgray",
+      "enemy_tactics": "shortcut/targetropeholder/thenanchor,notrunblindlyintotrap",
+      "cost": "workingnotesabandoned,injury/fatigue,onepathleft",
+      "limits": "notbulletproof/notbarehandbreakbeam;Sabotagewithtool/weakjointshownbefore"
+    },
+    {
+      "scene_id": "A2-F3",
+      "chapter_range": "062–064",
+      "status": "fulfilled, see actual combat_scenes",
+      "win": "twopeopleincludingstretcherpatientandsupportersout",
+      "lose": "overload/stretcherfall/returnloop",
+      "coordination": "Nellmechanical;Edithpatienttiming;Marshcare;Vossteamouterrestraints;Evanvisualsignals",
+      "limits": "alltiming/loadtested057–058;nohumanexperimentaltesting;novelruleatclimaxforbidden"
+    }
+  ],
+  "as_of_chapter": 68,
+  "arc001_note": "No direct canon cast encounter, Tarot membership, World mission or Klein origin investigation during Arc001. Future planned leads remain unverified."
+}

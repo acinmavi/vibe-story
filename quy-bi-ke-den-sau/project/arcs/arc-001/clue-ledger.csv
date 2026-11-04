@@ -1,0 +1,11 @@
+id,first_chapter,required_by_chapter,reader_visible_meaning,secret_payoff,actual_use
+C1,1,27,Tên Evan trong ô người nhận anh nhớ từng để trống; chưa xác nhận sự đổi giấy,đóng dấu làm hồ sơ trở thành mệnh đề ký ức,027
+C2,3,12,Bản sao dấu đỏ lệch bản gốc,một bản thuộc lô niêm chuyên dụng,012;024;027
+C3,6,27,Hai nhân chứng nhớ lệch cùng phiếu,hiệu ứng tác động hồ sơ có xác nhận,020;027
+C4,9,26,Hòm hàng không trùng phiếu lưu,bằng chứng ngoài hệ niêm tồn tại,026;027
+C5,12,27,Rãnh ép chữ cũ dưới mặt giấy,không thể xóa dấu cơ học,026;027
+C6,16,27,Gideon che nợ và lô mất,không phải chủ mưu nghi thức,016;027
+C7,20,27,Nhóm chứng kiến có hồ sơ đồng nhất trí nhớ,hiệu ứng phụ thuộc hệ thống lưu,020;027
+C8,23,27,Người thu mua dùng mật ngữ kho,liên hệ kẻ dùng vật phẩm,026;027
+C9,26,27,Sổ vận chuyển độc lập ghi tuyến thật,chống đối chiếu được ký ức sửa,026;027
+C10,30,30,Địa chỉ Backlund trên lô cuối,mở đường mạng lưới nghiên cứu arc hai,"030 hook, verification pending"

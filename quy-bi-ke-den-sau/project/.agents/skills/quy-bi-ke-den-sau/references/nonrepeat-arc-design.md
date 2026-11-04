@@ -1,0 +1,3 @@
+# Avoid repeats across arcs
+
+Keep a fingerprint per arc: dominant genre, location, target, institution, supernatural mechanic, antagonist motivation, protagonist power, ethical dilemma, plan used to win, relationship changed. Reject a new arc when its goal, source of information and ending all mimic an earlier arc. Instead vary scale and incentives (forensics, political deception, voyage, field archaeology, group strategy, existential choice). Mix action, research, downtime and character decisions. Every six chapters review unresolved threads; every arc close its central case and leave 1–3 new, causally motivated threads. No new hidden god every chapter. No repetitive cliffhanger adjectives. Klein encounters should be sparse and earned.

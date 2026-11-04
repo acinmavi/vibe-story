@@ -1,0 +1,43 @@
+{
+  "stage": "arc2_complete",
+  "chapter1": {
+    "approved": true,
+    "approval_text": "khá hay , tôi duyệt chương 1 - bạn tiếp tục làm cả arc ( tầm 30-50 chương)",
+    "approved_at_utc": "2026-11-04T03:55:18Z",
+    "approved_sha256": "758a1f9b3d96c315b5955cc358206c64cde3af7b0e8254f1466a2a1791892731"
+  },
+  "arc001_writing": {
+    "approved": true,
+    "approval_text": "khá hay , tôi duyệt chương 1 - bạn tiếp tục làm cả arc ( tầm 30-50 chương)",
+    "approved_at_utc": "2026-11-04T03:55:18Z",
+    "target_chapters": 30
+  },
+  "arc002": {
+    "approved": true,
+    "approval_text": "ok với đề xuất A , độ dài thì tăng lên tầm 35-40 chương , các phần còn lại bạn điều chỉnh xem như nào , có thể start arc 2 được luôn không ?",
+    "approved_at_utc": "2026-11-04T05:40:54Z",
+    "concept": "A — Cánh cửa cuối ca",
+    "target_chapters": 38,
+    "start_chapter": 31,
+    "end_chapter": 68,
+    "workflow": "2–4 chapters per batch; independent review/QA/local commit; no push"
+  },
+  "arc001_completion": {
+    "completed": true,
+    "chapter_count": 30,
+    "completed_at_utc": "2026-11-04T04:44:55Z",
+    "next_gate": "explicit human approval of arc002"
+  },
+  "arc002_completion": {
+    "completed": true,
+    "chapter_count": 38,
+    "start_chapter": 31,
+    "end_chapter": 68,
+    "completed_at_utc": "2026-11-04T08:42:58.380140+00:00",
+    "next_gate": "explicit approval of Arc3 concept/outline;no069"
+  },
+  "arc003": {
+    "approved": false,
+    "status": "options_only;no chapter prose or chapter outline approved"
+  }
+}

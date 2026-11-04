@@ -5,7 +5,7 @@ Kho chứa nhiều dự án truyện độc lập. Mỗi truyện nằm trong m�
 | Truyện / gói truyện | Điểm bắt đầu | Trạng thái hiện có |
 |---|---|---|
 | Biên Bản Sai Lệch | [Đọc chương001–020](bien-ban-sai-lech/DOC_TRUYEN.md) · [README](bien-ban-sai-lech/README.md) | Đã viết/kiểm tra20chương; dừng tại020 chờ phản hồi, arc001 chưa khép |
-| Quỷ Bí — Kẻ Đến Sau | [README_FIRST](quy-bi-ke-den-sau/README_FIRST.md) · [SKILL](quy-bi-ke-den-sau/SKILL.md) | Gói nguồn/khởi tạo được nhập nguyên trạng từ folder đã có; xem README_FIRST để sử dụng |
+| Quỷ Bí — Kẻ Đến Sau | [Đọc001–068](quy-bi-ke-den-sau/project/DOC_TRUYEN.md) · [README](quy-bi-ke-den-sau/project/README.md) · [Handoff](quy-bi-ke-den-sau/project/HANDOFF.md) | Arc1/Arc2 hoàn tất,68chương; dừng068,Arc3chưa duyệt |
 
 ## Thêm truyện mới
 

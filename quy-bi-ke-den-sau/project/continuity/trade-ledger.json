@@ -1,0 +1,101 @@
+{
+  "visibility": "author_only",
+  "trades": [
+    {
+      "chapter": 13,
+      "seller": "Evan Harlowe",
+      "buyer": "Iona Vale and survey owner",
+      "knowledge": "ordinary provenance assessment of180-pound six-volume survey",
+      "information_origin": "observed binding/map/ownership inconsistencies, corrected initial error and independent check",
+      "confidence": "accepted by rights holder in017",
+      "danger_of_disclosure": "client confidentiality; no divine secrets",
+      "price_or_favor": "12-pound conditional assessment fee and introduction",
+      "resources_delivered": "fee confirmed017, credited to potion package018, never cash",
+      "future_canon_risk": "no observed change to canon anchors",
+      "consequence": "access earned through three evenings of work and lawful research rights"
+    },
+    {
+      "chapter": 17,
+      "seller": "Selby Wren, financed by Iona Vale",
+      "buyer": "Evan Harlowe",
+      "knowledge": "Mystery Pryer formula compared with independently sourced full copy",
+      "information_origin": "two in-world documentary sources; not perfect reader memory or an invented printed recipe",
+      "confidence": "in-world checks completed; risk remains",
+      "danger_of_disclosure": "hazardous occult knowledge and supplier confidentiality",
+      "price_or_favor": "150-pound formula/material package;12 assessment credit,6 watch sale,132 debt",
+      "resources_delivered": "formula017, inspected ingredients018, consumed019",
+      "future_canon_risk": "AU protagonist advancement only; canon cast not involved",
+      "consequence": "minimum2 pounds monthly from31 August plus priority purchase right over first3 lawful research papers; no automatic debt forgiveness"
+    },
+    {
+      "chapter": 33,
+      "seller": "EvanHarlowe",
+      "buyer": "Ashwickarchive,AgnesWardauthorizedrepresentative",
+      "knowledge": "ordinarycatalog/provenanceassessmentandunresolved-sourceinventory",
+      "information_origin": "paidworkonclient-ownedauthorizedmaterials,notperfectnovelmemory",
+      "confidence": "contractcheckedindependently033/siteverified034",
+      "danger_of_disclosure": "clientconfidentiality;excludeRuthsensitivecasefiles",
+      "price_or_favor": "8GBPtotal,1GBPadvancewithin8,clientpaysbookedbasictravel/lodgingdirectly",
+      "resources_delivered": "1GBPadvance033+7GBPbalance068=8GBPtotal;ordinarydeliverablesaccepted/sampled;travel/lodgingdirectpaidnotcash",
+      "future_canon_risk": "localAU,noKleinconnectionproven",
+      "consequence": "completed068,zero fee outstanding;no capture reward;clientdeliverables notprivateIona3papers"
+    },
+    {
+      "chapter": 46,
+      "seller": "MiraCole",
+      "buyer": "EvanHarlowe",
+      "knowledge": "boundedsource-indexsearchandaccessconditions",
+      "information_origin": "lawfulcatalogs/provenancecontacts,notfullpotionformula",
+      "confidence": "sourceindexentriesconfirmed,content/permissionnotguaranteed",
+      "danger_of_disclosure": "privatequery/clientownership;MCdoesnotconfessSeq9orcocoon",
+      "price_or_favor": "12pplusseparatelyboundedofficehelpforworkspace/useofindex",
+      "resources_delivered": "resultsheet/accessrequestonly,noformula/ingredients/newpower",
+      "future_canon_risk": "MiraCattleyaaffiliationUNKNOWN",
+      "consequence": "researchnetworkentranceearned,nofreeadvancement/Ionadebtforgiveness"
+    },
+    {
+      "chapter": 66,
+      "seller": "MiraCole/sourcecustodian",
+      "buyer": "EvanHarlowe",
+      "knowledge": "supervised introductoryreading/indexpermission and separately submittedSeq8source query",
+      "information_origin": "lawfulcustodian reply to paidboundedsearch046",
+      "confidence": "permission scope checked;Seq8formula authenticity/content/access UNKNOWN",
+      "danger_of_disclosure": "no fullcopy/resale/transfer;noMCSeq9confession/casefile trade",
+      "price_or_favor": "coveredreply to12psearch;furtherreading/contentfee toquote BEFOREagreement",
+      "resources_delivered": "conditionsheet/indexonly;readingtimeunconfirmed,noformula/materials/potion",
+      "future_canon_risk": "MiraCattleyaaffiliationUNKNOWN",
+      "consequence": "earned opportunity with constraints,not automaticadvancement orIona3paper sale"
+    }
+  ],
+  "entry_schema": [
+    "chapter",
+    "seller",
+    "buyer",
+    "knowledge",
+    "information_origin",
+    "confidence",
+    "danger_of_disclosure",
+    "price_or_favor",
+    "resources_delivered",
+    "future_canon_risk",
+    "consequence"
+  ],
+  "as_of_chapter": 68,
+  "pending_offer": {
+    "chapter": 33,
+    "counterparty": "BacklundAshwickarchiveviaIona",
+    "status": "completed068;no jobfee due",
+    "cash_or_fare_received": "8GBPtotal inclusive1advance;7balanceactuallypaid068;basicfare/lodgingdirectseparate",
+    "knowledge_disclosed": "ordinaryprovenanceworkonly,nodivinesecrets/caseconfidentialrecords"
+  },
+  "repayments": [
+    {
+      "chapter": 68,
+      "receiver": "BeatriceShaw authorizedbyIona",
+      "pounds": 2,
+      "receipt": "signed/stamped;first31Augminimumapplied;principal132→130",
+      "source_of_cash": "ordinary7GBPjobbalance,notknowledge-sale/capture reward",
+      "next_due": "Septemberperiod,exactdayawaitsIona"
+    }
+  ]
+}
