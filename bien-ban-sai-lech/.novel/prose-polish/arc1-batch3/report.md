@@ -28,13 +28,13 @@ Semantic/artistic judgments come from the Literary Reviewer; machine invariants 
 **Before:**
 
 > Khải mang bản phác xuống sảnh, để nó bên cạnh chiếc bánh mì đã nguội. Người đưa bánh còn chờ anh ăn, thành thử anh phải cắn một miếng trước khi mở điện thoại. Vỏ bánh vỡ trên lòng bàn tay. Anh gom vụn vào túi, tránh để chúng rơi lên ảnh mảng vữa.
-> 
+>
 > Quang kéo ghế tới phía bàn không có giấy cũ. Ông đã nghe Lam báo về đường giáp lớp và đầu bulông bị phủ; bây giờ ông muốn biết từ đó có thể làm gì tiếp. Khải đưa ảnh toàn cảnh trước, rồi bản phác, không đặt khoảng trắng trên sơ đồ lên trên mặt tường như thể hai thứ đã khớp.
 
 **After:**
 
 > Khải mang bản phác xuống sảnh, để nó bên cạnh chiếc bánh mì đã nguội. Người đưa bánh còn chờ anh ăn, thành thử anh phải cắn một miếng trước khi mở điện thoại. Vỏ bánh vỡ trên lòng bàn tay; anh gom vụn vào túi, tránh để rơi lên ảnh mảng vữa.
-> 
+>
 > Quang kéo ghế tới phần bàn không có giấy cũ. Lam đã báo cho ông về đường giáp lớp và đầu bulông bị phủ; giờ ông muốn biết từ đó có thể làm gì tiếp. Khải đưa ảnh toàn cảnh trước, rồi bản phác, không đặt khoảng trắng trên sơ đồ lên trên mặt tường như thể hai thứ đã khớp.
 
 ### chapters/011.md
@@ -62,13 +62,13 @@ Semantic/artistic judgments come from the Literary Reviewer; machine invariants 
 **Before:**
 
 > Khải đứng yên. Anh nhờ người bên cạnh nhìn trước khi nói mình thấy gì. Người ấy chỉ đúng đoạn sáng sau thanh sắt, dùng một tờ giấy kê ngoài cửa để phác quan hệ giữa dây và chân tay vịn. Chỉ là vài nét, nhưng vị trí đứng được đánh dấu ngay trên giấy, không lấy từ lời Khải.
-> 
+>
 > Anh trở về xem màn hình. Duy dừng tay trước khi chạm thanh tua.
 
 **After:**
 
 > Khải đứng yên, nhờ người bên cạnh nhìn trước, chưa nói mình thấy gì. Người ấy chỉ đúng đoạn sáng sau thanh sắt, dùng một tờ giấy kê ngoài cửa để phác quan hệ giữa dây và chân tay vịn. Chỉ là vài nét, nhưng vị trí đứng được đánh dấu ngay trên giấy, không lấy từ lời Khải.
-> 
+>
 > Khi anh trở về xem màn hình, Duy dừng tay trước khi chạm thanh tua.
 
 ### chapters/011.md

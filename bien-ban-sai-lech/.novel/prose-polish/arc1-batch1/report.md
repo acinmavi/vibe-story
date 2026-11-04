@@ -28,7 +28,7 @@ Semantic/artistic judgments come from the Literary Reviewer; machine invariants 
 **Before:**
 
 > Khải nhìn câu cuối thêm một lần.
-> 
+>
 > Anh đã làm nghề đủ lâu để biết câu “tính sau” thường có nghĩa là không ai định tính cả. Nhưng hai người mất tích trong một tòa nhà chuẩn bị tháo dỡ không phải chuyện có thể gác đến sáng.
 
 **After:**
@@ -40,7 +40,7 @@ Semantic/artistic judgments come from the Literary Reviewer; machine invariants 
 **Before:**
 
 > Khải gật đầu. Anh thích câu trả lời ấy.
-> 
+>
 > Người chỉ huy không vội tin một chuyện vô lý, nhưng cũng không bắt mọi người giả vờ rằng chuyện ấy chưa xảy ra.
 
 **After:**
@@ -82,15 +82,15 @@ Semantic/artistic judgments come from the Literary Reviewer; machine invariants 
 **Before:**
 
 > Khải nhìn theo ánh đèn của cô.
-> 
+>
 > Các số chì trên vế cuối nối tiếp nhau trong vệt đèn. Ngay dưới giày anh, số ba mươi ba hơi nhòe vì bụi. Khải nhìn nhãn cửa *07*, rồi nhìn qua giếng thang. Từ đây anh không còn thấy được mép sàn đã dùng làm mốc phía dưới.
-> 
+>
 > Anh sờ mép ngón tay. Lớp chì vẫn bám một vệt đen ở đầu ngón trỏ.
 
 **After:**
 
 > Khải nhìn theo ánh đèn của cô, dọc những số chì nối tiếp nhau trên vế cuối. Ngay dưới giày anh, số ba mươi ba hơi nhòe vì bụi. Khải nhìn nhãn cửa *07*, rồi nhìn qua giếng thang. Từ đây anh không còn thấy được mép sàn đã dùng làm mốc phía dưới.
-> 
+>
 > Anh sờ mép ngón tay, nơi lớp chì vẫn bám thành một vệt đen ở đầu ngón trỏ.
 
 ### chapters/001.md
