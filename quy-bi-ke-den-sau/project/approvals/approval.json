@@ -4,14 +4,14 @@
     "approved": true,
     "approval_text": "khá hay , tôi duyệt chương 1 - bạn tiếp tục làm cả arc ( tầm 30-50 chương)",
     "approved_at_utc": "2026-11-04T03:55:18Z",
-    "approved_sha256": "fb3eb0bc98156b2db392f918dfe7a4bf96f4dfe91ac588a243b831dfa47858e5",
+    "approved_sha256": "7010388a1c3b1ea9097f13533ea848fa12f27fec236fea08245fa6756341fe2c",
     "original_approved_sha256": "758a1f9b3d96c315b5955cc358206c64cde3af7b0e8254f1466a2a1791892731",
     "prose_revision": {
       "authorized_on": "2026-11-04",
       "scope": "Style-only editing chapters001–030; no story or arc approval changes",
       "authorization_text": "Tôi đã duyệt phong cách biên tập ở chương 003. Hãy áp dụng cùng tiêu chuẩn văn phong cho toàn bộ các chương đã viết của Arc 1. Sử dụng STYLE_GUIDE.md đã được phê duyệt.",
       "previous_sha256": "758a1f9b3d96c315b5955cc358206c64cde3af7b0e8254f1466a2a1791892731",
-      "revised_sha256": "fb3eb0bc98156b2db392f918dfe7a4bf96f4dfe91ac588a243b831dfa47858e5",
+      "revised_sha256": "7010388a1c3b1ea9097f13533ea848fa12f27fec236fea08245fa6756341fe2c",
       "note": "Original chapter approval evidence retained; hash updated for explicitly authorized prose revision, not approval of new chapters."
     }
   },
