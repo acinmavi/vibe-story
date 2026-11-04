@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 16,
+  "as_of_chapter": 19,
   "reader_seen": [
     "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
     "catalog recipient appears to change; independent pencil note remains unchanged",
@@ -15,7 +15,9 @@
     "material evidence is separate from interpretation",
     "three evenings of work and corrected initial mistake earn access, not a free potion",
     "ordinary forgery or sheet substitution not excluded by Gideon testimony",
-    "permission to inspect drawer only with Gideon present, no removal of originals"
+    "permission to inspect drawer only with Gideon present, no removal of originals",
+    "power did not solve catalog case or grant Sefirah access",
+    "safe monitoring and separate witness notes, no deliberate re-exposure to gray phenomenon"
   ],
   "MC_verified": [
     "new body is employed in a print shop",
@@ -39,7 +41,12 @@
     "appointment for formula-supply assessment15 July; no formula or ingredients received",
     "014 forged Dale message and assault reported promptly to patrol; private Bram copy taken, original still outside workshop",
     "Mara withheld family debt records after lying about Theo whereabouts; limited cooperation only",
-    "C6: Gideon voluntarily disclosed medical debts and sale of customer books, admits using seal to change catalog entries; full mechanism and director unproven"
+    "C6: Gideon voluntarily disclosed medical debts and sale of customer books, admits using seal to change catalog entries; full mechanism and director unproven",
+    "Iona confirms independent provenance check and12-pound fee; full formula compared through two in-world sources",
+    "Selby delivered ingredients under checked seals;132-pound debt after12 fee and6 watch sale; living cash separate",
+    "15 July factual report delivered to church reception; receipt kept, no instant response promised",
+    "20 July drank Seq9 Mystery Pryer; pain, vomiting, memory gap, persistent whispers; limited initial sight hurts",
+    "first cold/gray subjective interruption partly relieves pressure, source and causality unknown"
   ],
   "MC_remembers_original": [
     "book-one names and early Seer period; uncertain dates and current whereabouts",

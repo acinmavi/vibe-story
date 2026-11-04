@@ -1,14 +1,16 @@
 {
-  "as_of_chapter": 16,
+  "as_of_chapter": 19,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 47,
+  "cash_pence": 76,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
   "checking_wage": "withheld, not counted as cash",
-  "power": "ordinary",
-  "potion_formula": null,
-  "ingredients": [],
+  "power": "9 Mystery Pryer, undigested",
+  "potion_formula": "received and checked through two in-world sources; no invented recipe printed",
+  "ingredients": [
+    "checked batch used20 July, no surplus assumed"
+  ],
   "notes": [
     "3 personal pence + 6 borrowed; breakfast1 and late meal2 paid",
     "workshop purchase money separate:24-20=4 pence returned",
@@ -18,8 +20,17 @@
     "011 warehouse viewing12p=>91p;013 new room36p and bread8p paid=>47p",
     "12-pound assessment fee conditional; not added to cash; next rent due18 July",
     "014 lawful private Bram copy lost to attackers; external original and012 sketch survive",
-    "shoulder/ankle bruises from014, not magically healed"
+    "shoulder/ankle bruises from014, not magically healed",
+    "018 living cash47+72-36-7=76p, separate from watch proceeds",
+    "019 gray sensation does not provide reusable ability or verified protection"
   ],
   "ada_meals_debt_pence": 0,
-  "conditional_fee_pounds": 12
+  "conditional_fee_pounds": 0,
+  "fee_credited_pounds": 12,
+  "watch_sale_credited_pounds": 6,
+  "potion_package_price_pounds": 150,
+  "iona_debt_pounds": 132,
+  "monthly_minimum_pounds": 2,
+  "first_due_date": "1349-08-31",
+  "priority_purchase_right": "first3 research papers subject to lawful ownership and separately agreed price"
 }

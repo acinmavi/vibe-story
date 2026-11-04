@@ -27,3 +27,9 @@
 - Blind reviewer đọc013–016. Thêm áp lực phiếu cótênEvan và ýđịnh chỉ xácminh cửa từngoài, mốc12/7; vượtngưỡng vẫn sai cógiá. Tuầntra được báo và xửlý bìnhthường.
 - Thêm phép đốichiếu phânbiệt ở016: địnhdanhđúngtờ, giữtầmnhìn, bảnngoàihệ, ngườiđọc/chạm và giánđoạn. Lời nhận Gideon chưaloạitrừgiảmạo thường hoặc ảnhhưởng nhậnthức.
 - Mara/Theo giữagency; nợchữa vợkhôngxóatộiGideon. Tiền47p giữ, bảnchépBrammất,gốcvàbảnvẽ012còn. Khôngcôngthức/ma dược sớm.
+
+## 017–019
+- Blind review chỉ văn016–019; root đọc toàn019 và kiểm nguồn/tiền/quyềnnăng. Sửa xưnghôIona bà/cậu ở018.
+- Bổ sung017 nộp facts cho đầu mối tiếpnhận, không để mua thuốc làmquêntrìnhbáo.019 có2khảnăng vệtxám vàđối ghi chép riêng, khôngthửgọi/tiếpxúclại; cógiám sát quađêm/ngưỡnggọihỗtrợ.
+-150−12−6=132pound nợ thật,min2pound/tháng từ31/8; livingcash47+72−36−7=76p. Formula/materials khôngmiễnphí, recipekhôngbịađịnhlượng.
+- Seq9 mới, còntiếngnói/đau/nôn/mấtđoạnnhớ/chưatiêuhóa; vệt xám chưa biếtnguồn, khôngNguyênBảo/miễnnhễm/phépchiếnđấu.

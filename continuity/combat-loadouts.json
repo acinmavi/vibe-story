@@ -1,5 +1,60 @@
 {
-  "visibility":"author_only",
-  "combat_scenes":[],
-  "entry_schema":["scene_id","chapter","story_date","klein_identity","klein_sequence","mc_sequence","verified_abilities","prepared_items","enemy_evidence","coordination","result","cost","canon_or_au"]
+  "visibility": "author_only",
+  "combat_scenes": [
+    {
+      "scene_id": "014-warehouse-escape",
+      "chapter": 14,
+      "story_date": "1349-07-12",
+      "record_type": "post-scene continuity reconstruction; constraints were in production contract before drafting",
+      "klein_identity": null,
+      "klein_sequence": null,
+      "mc_sequence": "ordinary",
+      "verified_abilities": [
+        "ordinary observation and flight"
+      ],
+      "prepared_items": [
+        "private copy of Bram statement; no weapon"
+      ],
+      "enemy_evidence": "two men seize collar and demand source/copy; identities unknown",
+      "coordination": "none; civilian and patrol contacted after escape",
+      "result": "escapes via chair obstruction and open doorway; copy lost",
+      "cost": "shoulder/ankle bruises, source exposed, delayed work",
+      "canon_or_au": "AU, no canon interaction"
+    }
+  ],
+  "entry_schema": [
+    "scene_id",
+    "chapter",
+    "story_date",
+    "klein_identity",
+    "klein_sequence",
+    "mc_sequence",
+    "verified_abilities",
+    "prepared_items",
+    "enemy_evidence",
+    "coordination",
+    "result",
+    "cost",
+    "canon_or_au"
+  ],
+  "planned_fight_cards": [
+    {
+      "scene_id": "025-street-escape",
+      "chapter": 25,
+      "story_date": "1349-07-26",
+      "mc_sequence": "9 Mystery Pryer, newly advanced, untrained fighter",
+      "klein_identity": null,
+      "klein_sequence": null,
+      "available_abilities": [
+        "ordinary running, observation, limited trained mystical perception; no combat spell or fog shield"
+      ],
+      "prepared_items": [
+        "copies only, original sketch kept separately"
+      ],
+      "enemy_evidence": "road blockers following shipment; no assumed high sequence powers",
+      "team_objective": "escape and protect Theo; report assault promptly",
+      "turning_point": "known route and nearby civilian/patrol presence, not power-up",
+      "cost": "forearm abrasion, spiritual fatigue, copies lost; Mara pays own cost to remove Theo"
+    }
+  ]
 }
