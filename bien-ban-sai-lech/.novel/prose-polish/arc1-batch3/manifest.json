@@ -60,5 +60,15 @@
       "original": "metadata/approval.json"
     }
   ],
-  "applied": false
+  "applied": true,
+  "applied_at_utc": "2026-11-04T13:53:11.883737+00:00",
+  "approval_text": "Tôi duyệt bộ preview 001–020 vừa báo cáo. Apply cả 20 chương, cho phép sửa chương khóa 001 theo quy trình; giữ chapter20_review, chỉ trên branch riêng, không push hoặc merge.",
+  "locked_revision_authorized": true,
+  "applied_hashes": {
+    "chapters/011.md": "3b65c20a0194756bf5f78812ac2e8d5088c9c620c71abef0ea7c8f465dd974bb",
+    "chapters/012.md": "015208af4cc8b091917d30ae978de073d54ae0625b1f3c213cd5e67a875a2bab",
+    "chapters/013.md": "51d320ca60c0adf3b5f0b4c3a4eeb322b44927344c45fdcfe6ed00d33e73a7ef",
+    "chapters/014.md": "1d510ee8ecc864345f0b585c8bc504abfe0b6c466e5bf563141c397549659950",
+    "chapters/015.md": "ee44379f09478640c576447d4e31d06108de6fb3da72f76d863b91f2d8f64d13"
+  }
 }

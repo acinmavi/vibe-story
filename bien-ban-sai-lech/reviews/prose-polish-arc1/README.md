@@ -1,6 +1,6 @@
 # Prose Polish Arc 1 — bản đọc và hồ sơ review
 
-Trạng thái: preview chờ độc giả duyệt, chưa apply.
+Trạng thái: đã apply đủ 20 preview theo lời duyệt ngày 04/11/2026. Đọc bản chính thức qua [DOC_TRUYEN.md](../../DOC_TRUYEN.md); xem [hồ sơ apply](APPLY_REPORT.md). Bản ghép preview giữ nguyên để đối chiếu.
 
 - [Đọc liền 20 chương](PREVIEW_ALL.md)
 - [Báo cáo, 10 ví dụ, số từ và cổng duyệt](REPORT.md)

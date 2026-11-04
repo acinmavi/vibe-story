@@ -1,5 +1,7 @@
 # Prose Polish — Biên Bản Sai Lệch, Arc 1 hiện có
 
+> Cập nhật 04/11/2026: đã apply cả 20 preview theo lời duyệt trực tiếp. Xem [APPLY_REPORT.md](APPLY_REPORT.md). Nội dung dưới đây lưu báo cáo tại thời điểm preview, gồm cổng duyệt khi ấy.
+
 Ngày: 04/11/2026. Branch: `edit/bien-ban-sai-lech-prose-polish-arc1`.
 Baseline: `239af1d` (HEAD sạch về nội dung dự án khi bắt đầu; `.serena/` chưa được theo dõi đã có sẵn, được giữ nguyên).
 
