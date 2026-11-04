@@ -2,7 +2,7 @@
 
 Ngày 04/11/2026. Nhánh `edit/prose-polish-arc1`. Nguồn so sánh: commit `8e838312e8c5560d00e637a4feaf08613f67989c`.
 
-Người dùng duyệt bản thử003 và STYLE_GUIDE, cho phép sửa toàn bộ Arc1 gồm001 đã khóa, rồi yêu cầu tiếp Arc2. Không viết thêm chương, không push/merge; không đổi trạng thái duyệt arc.
+Người dùng duyệt bản thử 003 và STYLE_GUIDE, cho phép sửa toàn bộ Arc 1 gồm001 đã khóa, rồi yêu cầu tiếp Arc 2. Không viết thêm chương, không push/merge; không đổi trạng thái duyệt arc.
 
 ## Phương pháp và phạm vi QA
 
@@ -32,7 +32,7 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 046 | 1927 → 1929 | 51 → 51 | 12p là phí tra riêng, không quyền đọc/công thức; chỉ mục cần xin phép riêng.; Hai tên hãng chưa thành đổi tên tới thông báo thương mại; hai bộ phận và phụ trương giữ đủ. |
 | 047 | 1851 → 1850 | 52 → 52 | Nguồn B là Silas tự kể, không nâng thành tận mắt; vật từ B qua chưa đủ khái quát.; Khối thấp/chốt đồng khác then gỗ, hai khung cố định cách12foot6inch; không tháo nền khi phòng người chỉ có lời Silas. |
 | 048 | 1866 → 1864 | 48 → 48 | Thang tháo chưa rõ ai/ngày, lan can và dầm chưa phá; không đồng nhất hatch với đường cáng.; Đồ gửi vào chưa xác nhận tới giường, chưa có tiếng Jonah; phạm vi thợ/Nell và khung chịu lực được giữ. |
-| 049 | 1914 → 1917 | 49 → 49 | Nêm chịu khoảng5giây không tạo đường mở; khối thấp/chốt chính đóng, chưa nâng từ ngoài.; Không đưa cáng hay người thử; phá sâu/bắn mù vẫn chưa bảo đảm bệnh nhân; gỗ mẫu được giữ riêng. |
+| 049 | 1914 → 1917 | 49 → 49 | Nêm chịu khoảng 5giây không tạo đường mở; khối thấp/chốt chính đóng, chưa nâng từ ngoài.; Không đưa cáng hay người thử; phá sâu/bắn mù vẫn chưa bảo đảm bệnh nhân; gỗ mẫu được giữ riêng. |
 | 050 | 2017 → 2023 | 39 → 39 | Thư7/8 không biết9/8; Dale có alibi khoảng đã đối, không vô can hoàn toàn; không giám định chữ tờ đã mất.; Mercer/Pike khác người, Jonas không nhớ thêm; hai vụ hành hung chưa nối, không nối Backlund; Mara không mất nợ/hai shilling tự về. |
 | 051 | 1833 → 1836 | 75 → 75 | Giữ POV Mara, thư 9/8 chưa gửi; không truyền tin Backlund mới.; Giữ khoản nợ cũ/hai shilling và quyền tự quyết Theo; không đổi thoại.; “Để chiếc kéo sang bên” chỉ làm rõ danh từ dụng cụ may trong cảnh tháo chỉ; không đổi cảnh. |
 | 052 | 1818 → 1822 | 71 → 71 | Không nhận diện Edith bằng POV Evan; giữ lời tự xưng/giọng Nell và việc chưa thấy mặt.; Không diễn giải tiếng động thành hành hung; giữ bác sĩ chưa khám và Jonah chưa trực tiếp nói. |
@@ -54,3 +54,7 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 068 | 1849 → 1854 | 40 → 40 | Giữ toàn bộ khoản8/1/7£,1856→1376p,2£áp31/8/gốc130, không tự sửa kỳSeptember.; Giữ chưa công thức/chưa tiêu hóa/phòng hết13/8; Neil chỉ ký ức chưa gặp/chưa gửi, deadline19/8. |
 
 Đã đối chiếu 38/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+
+## Kết quả cuối
+
+Đủ 38 chương; 70,926 → 71,016 đơn vị theo khoảng trắng (+90; +0.127%). Lời thoại, chữ số và thứ tự trích dẫn giữ nguyên. Đã đối chiếu semantic và review độc lập; các nguy cơ được xử lý trong [báo cáo chung](prose-polish-001-068.md). Không viết thêm chương hoặc đổi cổng duyệt.

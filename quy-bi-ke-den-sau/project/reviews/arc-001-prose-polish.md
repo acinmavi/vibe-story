@@ -2,7 +2,7 @@
 
 Ngày 04/11/2026. Nhánh `edit/prose-polish-arc1`. Nguồn so sánh: commit `8e838312e8c5560d00e637a4feaf08613f67989c`.
 
-Người dùng duyệt bản thử003 và STYLE_GUIDE, cho phép sửa toàn bộ Arc1 gồm001 đã khóa, rồi yêu cầu tiếp Arc2. Không viết thêm chương, không push/merge; không đổi trạng thái duyệt arc.
+Người dùng duyệt bản thử 003 và STYLE_GUIDE, cho phép sửa toàn bộ Arc 1 gồm001 đã khóa, rồi yêu cầu tiếp Arc 2. Không viết thêm chương, không push/merge; không đổi trạng thái duyệt arc.
 
 ## Phương pháp và phạm vi QA
 
@@ -16,7 +16,7 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 |---|---:|---:|---|
 | 001 | 3000 → 3000 | 139 → 139 | Giữ các nhịp đứt của cú sốc xuyên không, tin nhắn, tên tự hiện và tiếng gọi; nối miêu tả cùng chủ thể, không lý giải dị tượng. |
 | 002 | 2159 → 2175 | 121 → 121 | Giữ đếm Một. Hai. Ba., việc chỉ ký nhận hòm, mất tiền kiểm và nhịp gãy chì; nối việc đọc phiếu, học thao tác và đường về phòng. Hai câu ngắn được kiểm và giữ nguyên. |
-| 003 | 2162 → 2210 | 128 → 128 | Theo bản thử003 đã duyệt; review hoàn nguyên vị trí Gideon chưa nêu và giữ hai người cùng đặt bó bìa. C2, lỗi nghề giấy và câu ngắn giữ nguyên. |
+| 003 | 2162 → 2210 | 128 → 128 | Theo bản thử 003 đã duyệt; review hoàn nguyên vị trí Gideon chưa nêu và giữ hai người cùng đặt bó bìa. C2, lỗi nghề giấy và câu ngắn giữ nguyên. |
 | 004 | 2241 → 2254 | 111 → 111 | Giữ thứ tự mua đúng mẫu, lịch, bỏ bản đồ, bữa ăn và nghe Tingen/Loen; không tăng khả năng nhận diện hoặc đổi tiền. |
 | 005 | 2194 → 2201 | 93 → 93 | Giữ thông báo chỉ tìm thông tin, không thành cáo phó; giữ ký ức sách riêng với chứng cứ. Giữ nhịp tên Welch/Naya, Chỉ bấy nhiêu và Không mắc. |
 | 006 | 2066 → 2071 | 121 → 121 | Giữ mọi giới hạn nhân chứng: Mara đến sau dỡ hòm; Jonas không chắc ngày, mặt, tên và cuối chuyến. Không biến cầm phiếu thành ký nhận; giữ mất lượt công và cuối chương không buông giấy. |
@@ -46,3 +46,7 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 030 | 2004 → 2010 | 73 → 73 | 27penny; Backlund chưa nhận việc/ứng tiền/vé; quyền3bản và nợ132 tiếp diễn; nguồn xám chưa xác định.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật. |
 
 Đã đối chiếu 30/30 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+
+## Kết quả cuối
+
+Đủ 30 chương; 64,256 → 64,374 đơn vị theo khoảng trắng (+118; +0.184%). Lời thoại, chữ số và thứ tự trích dẫn giữ nguyên. Đã đối chiếu semantic và review độc lập; các nguy cơ được xử lý trong [báo cáo chung](prose-polish-001-068.md). Không viết thêm chương hoặc đổi cổng duyệt.

@@ -18,7 +18,10 @@
       "changed_paragraphs": 12,
       "sha_before": "758a1f9b3d96c315b5955cc358206c64cde3af7b0e8254f1466a2a1791892731",
       "sha_after": "7010388a1c3b1ea9097f13533ea848fa12f27fec236fea08245fa6756341fe2c",
-      "note": "Giữ các nhịp đứt của cú sốc xuyên không, tin nhắn, tên tự hiện và tiếng gọi; nối miêu tả cùng chủ thể, không lý giải dị tượng."
+      "note": "Giữ các nhịp đứt của cú sốc xuyên không, tin nhắn, tên tự hiện và tiếng gọi; nối miêu tả cùng chủ thể, không lý giải dị tượng.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 12
     },
     {
       "chapter": 2,
@@ -29,7 +32,10 @@
       "changed_paragraphs": 10,
       "sha_before": "3264b9ee43fc2057483785723e0ed3f7605786e6985a31784a63f322001212fa",
       "sha_after": "2bce6f3a4e64fdc30ca80aaad17f6fe32c10bd62f316fb62cefa247371bc8ab1",
-      "note": "Giữ đếm Một. Hai. Ba., việc chỉ ký nhận hòm, mất tiền kiểm và nhịp gãy chì; nối việc đọc phiếu, học thao tác và đường về phòng. Hai câu ngắn được kiểm và giữ nguyên."
+      "note": "Giữ đếm Một. Hai. Ba., việc chỉ ký nhận hòm, mất tiền kiểm và nhịp gãy chì; nối việc đọc phiếu, học thao tác và đường về phòng. Hai câu ngắn được kiểm và giữ nguyên.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 10
     },
     {
       "chapter": 3,
@@ -40,7 +46,10 @@
       "changed_paragraphs": 29,
       "sha_before": "7da66f3fceb77160d5f4be1aa49a6895cca9ef30251a5b72c938296095558056",
       "sha_after": "7b464ca26d2dbd5503c07132110717d794552c4140d4e8f891242d3b26b595eb",
-      "note": "Theo bản thử003 đã duyệt; review hoàn nguyên vị trí Gideon chưa nêu và giữ hai người cùng đặt bó bìa. C2, lỗi nghề giấy và câu ngắn giữ nguyên."
+      "note": "Theo bản thử003 đã duyệt; review hoàn nguyên vị trí Gideon chưa nêu và giữ hai người cùng đặt bó bìa. C2, lỗi nghề giấy và câu ngắn giữ nguyên.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 23
     },
     {
       "chapter": 4,
@@ -51,7 +60,10 @@
       "changed_paragraphs": 11,
       "sha_before": "4c790bbd5f662e65cf1b6906cf941a6979858e86611ae8cf26679c2c0ce901cd",
       "sha_after": "ddc3a80829fde4d46e87d3f73094ce18a295aac32ae640db5bda53946ad20180",
-      "note": "Giữ thứ tự mua đúng mẫu, lịch, bỏ bản đồ, bữa ăn và nghe Tingen/Loen; không tăng khả năng nhận diện hoặc đổi tiền."
+      "note": "Giữ thứ tự mua đúng mẫu, lịch, bỏ bản đồ, bữa ăn và nghe Tingen/Loen; không tăng khả năng nhận diện hoặc đổi tiền.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 11
     },
     {
       "chapter": 5,
@@ -62,7 +74,10 @@
       "changed_paragraphs": 12,
       "sha_before": "3471e6d729d6c02818c622e3e135526a1accc9c6bae3cb1f3094fb28d2106be7",
       "sha_after": "d0f085d40497042dd6afc0bfb12679645ee1af28a9f774448cbe188f1c48965e",
-      "note": "Giữ thông báo chỉ tìm thông tin, không thành cáo phó; giữ ký ức sách riêng với chứng cứ. Giữ nhịp tên Welch/Naya, Chỉ bấy nhiêu và Không mắc."
+      "note": "Giữ thông báo chỉ tìm thông tin, không thành cáo phó; giữ ký ức sách riêng với chứng cứ. Giữ nhịp tên Welch/Naya, Chỉ bấy nhiêu và Không mắc.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 11
     },
     {
       "chapter": 6,
@@ -73,7 +88,10 @@
       "changed_paragraphs": 11,
       "sha_before": "c6d624bf42f939f870f1f82e5989eef5e999f4f6e4ad5d1131c65072a9932afa",
       "sha_after": "ff74b2b00e31ede6b3094b13f57f177e5a8987229f1299d7c3de888c164f4405",
-      "note": "Giữ mọi giới hạn nhân chứng: Mara đến sau dỡ hòm; Jonas không chắc ngày, mặt, tên và cuối chuyến. Không biến cầm phiếu thành ký nhận; giữ mất lượt công và cuối chương không buông giấy."
+      "note": "Giữ mọi giới hạn nhân chứng: Mara đến sau dỡ hòm; Jonas không chắc ngày, mặt, tên và cuối chuyến. Không biến cầm phiếu thành ký nhận; giữ mất lượt công và cuối chương không buông giấy.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 11
     },
     {
       "chapter": 7,
@@ -84,7 +102,10 @@
       "changed_paragraphs": 12,
       "sha_before": "062933696dde98f3ac8925e97c7baa8e04869c803465456dd0c5fb2f8c69e2d4",
       "sha_after": "9962729cd71e4682da635cb270505622323bb7398cb042068e49ca6aaf64c6e8",
-      "note": "Giữ ngày 3/7, tiền ăn ghi nợ và năm penny; giữ sự bất định về lịch Klein, tháng chín và ngưỡng cầu cứu ngay nếu có nạn nhân. Không chọn con đường sớm."
+      "note": "Giữ ngày 3/7, tiền ăn ghi nợ và năm penny; giữ sự bất định về lịch Klein, tháng chín và ngưỡng cầu cứu ngay nếu có nạn nhân. Không chọn con đường sớm.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 11
     },
     {
       "chapter": 8,
@@ -95,7 +116,10 @@
       "changed_paragraphs": 12,
       "sha_before": "b1cfb1fd5a81b46d7921497e441063f40bcb2a92d0e5c0cbe0900a61afbbc932",
       "sha_after": "7446f0b9afccda1f9ec7643cb79fe52c54208e0c2048f52a4f5c2d391d777287",
-      "note": "Giữ 12sh lương cũ, đổi 1sh để trả 6p, trả Ada 3sh+3p, còn104p; không quy Kestrel thành chủ mưu. Giữ quyền quyết định của Mara và giới hạn lời hứa giúp Theo."
+      "note": "Giữ 12sh lương cũ, đổi 1sh để trả 6p, trả Ada 3sh+3p, còn104p; không quy Kestrel thành chủ mưu. Giữ quyền quyết định của Mara và giới hạn lời hứa giúp Theo.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 11
     },
     {
       "chapter": 9,
@@ -106,7 +130,10 @@
       "changed_paragraphs": 11,
       "sha_before": "e06c5f84d6096dfd9c926681bc31cad20f3932334de5488fbac7ced64c7ae147",
       "sha_after": "ecc2dabd41c7611514a7227087aed20afad8d76dd3e5ccf2ff9bf90f7843eb8f",
-      "note": "Giữ317 trên gỗ/371 trên phiếu, chưa chắc cùng kiện; Bram chỉ xác nhận việc xem hai số, không xác nhận nguồn gốc/thứ tự. Giữ phí1p, còn103p, không lấy hòm/phiếu gốc."
+      "note": "Giữ317 trên gỗ/371 trên phiếu, chưa chắc cùng kiện; Bram chỉ xác nhận việc xem hai số, không xác nhận nguồn gốc/thứ tự. Giữ phí1p, còn103p, không lấy hòm/phiếu gốc.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 9
     },
     {
       "chapter": 10,
@@ -117,7 +144,10 @@
       "changed_paragraphs": 11,
       "sha_before": "4e0f9cd67bb1254a3a290e3819c8bd435fdd3326910c9820ca0a9156c8f49fa7",
       "sha_after": "eeea8c3aaefc5200fb8a311393fe62051036be86a324d4290f76a4dc4b9dd5b0",
-      "note": "Giữ kho xe/kho sau, khoảng rời mắt và khả năng đổi tờ; không chứng minh dấu sửa ký ức. Giữ bỏ lượt xem sổ để bảo vệ nguồn, tìm hiệu sách có điều kiện, không đặt cọc."
+      "note": "Giữ kho xe/kho sau, khoảng rời mắt và khả năng đổi tờ; không chứng minh dấu sửa ký ức. Giữ bỏ lượt xem sổ để bảo vệ nguồn, tìm hiệu sách có điều kiện, không đặt cọc.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 10
     },
     {
       "chapter": 11,
@@ -128,7 +158,10 @@
       "changed_paragraphs": 8,
       "sha_before": "2c8c170a5c6d545ba081e807bd3923ce9a3ac32f73d3495b39cfd2fef9320ff0",
       "sha_after": "7f3602b205196d061edf0b7caedd8d441eba89af9051f66f97d62341b0a3b1e6",
-      "note": "Phí 1 shilling, 103→91 penny; nguồn công thức chưa khớp, Iona chỉ là lời giới thiệu. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm."
+      "note": "Phí 1 shilling, 103→91 penny; nguồn công thức chưa khớp, Iona chỉ là lời giới thiệu. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 12,
@@ -139,7 +172,10 @@
       "changed_paragraphs": 7,
       "sha_before": "20cb6752ce1a231cd27bfec01deab2b0555d950f5cf1bc7a65dbc5ee20130717",
       "sha_after": "a787ab4b51a747d457066618b109c63e9cc4286afc69f9d55a3ffa488f5e0ffd",
-      "note": "Giữ nguyên 317, kho sau, giới hạn không xác nhận cùng tờ; rãnh ép không thành chữ, không thành năng lực. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm."
+      "note": "Giữ nguyên 317, kho sau, giới hạn không xác nhận cùng tờ; rãnh ép không thành chữ, không thành năng lực. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 13,
@@ -150,7 +186,10 @@
       "changed_paragraphs": 8,
       "sha_before": "7e516a59c26d9ba296df0abd2b7d121987285c4b1cb148b9844198c063a7b23a",
       "sha_after": "21fdad77439e288f0479503961b9d4c6f7a564ad2d95a541a46b84381dbd9d0d",
-      "note": "12 pound còn ký thác; kiểm sai được sửa, quyền mua chưa thành giao dịch. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm."
+      "note": "12 pound còn ký thác; kiểm sai được sửa, quyền mua chưa thành giao dịch. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 14,
@@ -161,7 +200,10 @@
       "changed_paragraphs": 8,
       "sha_before": "b67bebe60323f184784ecb085878db9ab7253deffe13d052823d8444ef6e9929",
       "sha_after": "8c3ab3e6726a81674eb1d1591e8e858010f8e5e47c23819488731b9a72633af5",
-      "note": "Bản chép Bram bị lấy, gốc và bản vẽ vẫn ở nơi cũ; thủ phạm chưa xác định. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm."
+      "note": "Bản chép Bram bị lấy, gốc và bản vẽ vẫn ở nơi cũ; thủ phạm chưa xác định. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 15,
@@ -172,7 +214,10 @@
       "changed_paragraphs": 7,
       "sha_before": "cbb073e212fc7f82571da893e08ce54b46dadbe4b284ba89a0fab03afeab2abe",
       "sha_after": "5c7b94f60a485ffaf0231404099720c59d638cde02105dfe77810978fbd22984",
-      "note": "Mara nói dối vị trí Theo nhưng chưa dùng tên Evan; lòng tin chưa khôi phục. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm."
+      "note": "Mara nói dối vị trí Theo nhưng chưa dùng tên Evan; lòng tin chưa khôi phục. Giữ thoại/câu ngắn nhấn; nối các chuỗi quan sát và thao tác cùng trọng tâm.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 16,
@@ -183,7 +228,10 @@
       "changed_paragraphs": 7,
       "sha_before": "25f6106c01632d1d4f1206045adde5b5de81a064fd69f9facc61c28e29124d94",
       "sha_after": "602018c49e20543b3d9277525c883ecf1c5e68b62bb1bc2ec6ae9718fcbf8891",
-      "note": "Gideon chỉ nhận đổi mục/đóng dấu; chưa giải cơ chế; chìa khóa chỉ mở khi ông có mặt.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ."
+      "note": "Gideon chỉ nhận đổi mục/đóng dấu; chưa giải cơ chế; chìa khóa chỉ mở khi ông có mặt.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 17,
@@ -194,7 +242,10 @@
       "changed_paragraphs": 6,
       "sha_before": "c886d60bfbf71f9bcd65170b34560fafc7bd68460c6c07351728fb898c37b379",
       "sha_after": "7b55e8225f758293e7dfb6514aedbb21aa4fe151344fca977889d86475d44895",
-      "note": "150−12=138 pound; chưa nhận nguyên liệu; bản tường trình 15/7 vẫn được nộp riêng.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ."
+      "note": "150−12=138 pound; chưa nhận nguyên liệu; bản tường trình 15/7 vẫn được nộp riêng.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 18,
@@ -205,7 +256,10 @@
       "changed_paragraphs": 8,
       "sha_before": "699b07891a375fd7257afdee1972bb9f0738150bab4bde56d94e01596db0b83d",
       "sha_after": "2cad3f164591340e8a161eb738c6876c9d33011dbe4da93adca5e2b2197d3c60",
-      "note": "Nợ132 pound, hạn2 pound/tháng từ31/8; đồng hồ bán6 pound; chưa uống trước20/7.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ."
+      "note": "Nợ132 pound, hạn2 pound/tháng từ31/8; đồng hồ bán6 pound; chưa uống trước20/7.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 19,
@@ -216,7 +270,10 @@
       "changed_paragraphs": 6,
       "sha_before": "6cc82273e63ed6a19780bf877528425be5333208f16609c779d3ba6cadc35333",
       "sha_after": "3595822b3c20e93318e6af60db93bee99deb45d9abad8ecc27c8fd0455bb5099",
-      "note": "Seq9 chưa thành thạo; vệt xám không điều khiển được, đau/tiếng nói/đứt nhớ giữ nguyên.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ."
+      "note": "Seq9 chưa thành thạo; vệt xám không điều khiển được, đau/tiếng nói/đứt nhớ giữ nguyên.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 20,
@@ -227,7 +284,10 @@
       "changed_paragraphs": 9,
       "sha_before": "6e5832bd981d3013bfd36a2a479f8438bec29e12e0141c8815f7e2bdd3e12e3d",
       "sha_after": "6a46d8ac5494e4c727e176894cf3accad90faf6ccc5b37f34fa8ab88c953fa1b",
-      "note": "Không đưa người mới tiếp xúc; mẫu ít và giới hạn khác nhau; linh thị không cho thấy liên kết.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ."
+      "note": "Không đưa người mới tiếp xúc; mẫu ít và giới hạn khác nhau; linh thị không cho thấy liên kết.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 21,
@@ -238,7 +298,10 @@
       "changed_paragraphs": 7,
       "sha_before": "6405a02c4bc8716b9b20a83e1d15128ee82e82f28493944027433079866ec343",
       "sha_after": "90f95d6e7d0075533e9c4fe6ba8e7a91b92c030e9cb60d9936e0396ccd4b3a52",
-      "note": "Tiếng nói suýt buộc nhầm Bram; bản vẽ chỉ bác việc đủ nét đối, không chứng minh vô can.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Tiếng nói suýt buộc nhầm Bram; bản vẽ chỉ bác việc đủ nét đối, không chứng minh vô can.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 22,
@@ -249,7 +312,10 @@
       "changed_paragraphs": 6,
       "sha_before": "691c3953698f3e499a07ed3bf342bd0237286f7a5c1dd02f26ea0857d58bcc9f",
       "sha_after": "829414a8c127aea55e6595b98c877c5a18a64c3428fbd62fe92e68b0609438f0",
-      "note": "Theo tự chọn trả đồ; mất cơ hội theo tuyến; cuộc gặp24/7 giữ nguyên, phiếu371 không biến thành trang sổ.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Theo tự chọn trả đồ; mất cơ hội theo tuyến; cuộc gặp24/7 giữ nguyên, phiếu371 không biến thành trang sổ.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 23,
@@ -260,7 +326,10 @@
       "changed_paragraphs": 8,
       "sha_before": "96c5b735de3d9aef97cf32a55e37aa73965db9a7ada812dc52a256229ee3e67c",
       "sha_after": "c8bc804f956fb0bfb96810ba18981f1bfdf356948e802237d19138cf353dfdef",
-      "note": "Kestrel chỉ đề nghị mua nợ; chưa xóa nợ, biết chỗ sửa có thể qua Gideon; lịch chỉ là bản chép chưa xác nhận.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Kestrel chỉ đề nghị mua nợ; chưa xóa nợ, biết chỗ sửa có thể qua Gideon; lịch chỉ là bản chép chưa xác nhận.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 24,
@@ -271,7 +340,10 @@
       "changed_paragraphs": 7,
       "sha_before": "1f1977f9143f256f83caedbf8fd1fcc62a6188d1bd527b30b491ee90634088a3",
       "sha_after": "1bc8e447d7755be3ebbdef5e4360b447aae316295e729bdb42c6fbb19ccf26bc",
-      "note": "Nguồn tác động chưa đủ xác định toàn bộ; ngày kiểm28/7 không thành cứu viện đã tới; bản vẽ tách riêng.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Nguồn tác động chưa đủ xác định toàn bộ; ngày kiểm28/7 không thành cứu viện đã tới; bản vẽ tách riêng.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 25,
@@ -282,7 +354,10 @@
       "changed_paragraphs": 8,
       "sha_before": "c9c12916cc77e5bc7d605280e4e91c515ac166721860958e6d38d05201bb3d8e",
       "sha_after": "7e8609f40df1dcb9450d688e12b6d5aafd4a5f9d4501815232d5493fb75ed065",
-      "note": "Không xác nhận xe/thủ phạm; 2sh Mara mất riêng, 76penny Evan giữ; gốc ngoài hệ chưa mất.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Không xác nhận xe/thủ phạm; 2sh Mara mất riêng, 76penny Evan giữ; gốc ngoài hệ chưa mất.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 26,
@@ -293,7 +368,10 @@
       "changed_paragraphs": 9,
       "sha_before": "be1718b60b59ab41328454a270bb17ccf64d7c097a093cee9454f0f41eb5beb2",
       "sha_after": "8728ef6fe962de3e0c0cef4b1f4190712f916c123c775a9e3a0cfb4a76729438",
-      "note": "Kestrel ở cột người thuê; phiếu371 và sổ là hai nguồn; rãnh ép không tự viết tên hoặc đầy đủ mã.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Kestrel ở cột người thuê; phiếu371 và sổ là hai nguồn; rãnh ép không tự viết tên hoặc đầy đủ mã.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 9
     },
     {
       "chapter": 27,
@@ -304,7 +382,10 @@
       "changed_paragraphs": 6,
       "sha_before": "275e8bf67273d6620fca0926f65fa285e50352c23241e1b44b5f87dd288fc4a7",
       "sha_after": "73baa1863b34d18012692e97da71b780b67c738667a45e333f6386b531d07ab6",
-      "note": "Gideon tự mở ngăn; nhân sự chuyên trách quản thúc Phiếu17, Evan không sở hữu; trách nhiệm và mất công vẫn đủ.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Gideon tự mở ngăn; nhân sự chuyên trách quản thúc Phiếu17, Evan không sở hữu; trách nhiệm và mất công vẫn đủ.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 28,
@@ -315,7 +396,10 @@
       "changed_paragraphs": 8,
       "sha_before": "ef20785530ead0ea2006a8dd7ff939e8608c2276ec157d7fdf4fdf899eaa6fd2",
       "sha_after": "d34108d85e40125a6d4e487a8044daf09bb3ce570991b7c9613947e00fb3da2e",
-      "note": "Chưa ghi sai khác mới không thành hết mọi nguy cơ; nợ132, 12 đã khấu trừ; Mara còn khoảng cách.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Chưa ghi sai khác mới không thành hết mọi nguy cơ; nợ132, 12 đã khấu trừ; Mara còn khoảng cách.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 29,
@@ -326,7 +410,10 @@
       "changed_paragraphs": 7,
       "sha_before": "523891cddb538aeed0dfb86301bba5a2baaac4decc517be7ac31e62b95d00a94",
       "sha_after": "6423c9cd98c108a08d950f0ff9c5363a1474132c362b184e02cad2a2ac9cd434",
-      "note": "Nợ132; trả48penny còn28; chưa hoàn thiện tiêu hóa; việc nghiên cứu thường không chứng minh biết nghề.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "Nợ132; trả48penny còn28; chưa hoàn thiện tiêu hóa; việc nghiên cứu thường không chứng minh biết nghề.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 30,
@@ -337,7 +424,10 @@
       "changed_paragraphs": 8,
       "sha_before": "cdf0e1184d00bca0ab1afebc5c9a3d7aa92b8e05bbdd59b64f8867642658bd62",
       "sha_after": "2f23e05f40c8d44e275315ef3e924848b9f59b8bbdcd27d3823015841c29e39f",
-      "note": "27penny; Backlund chưa nhận việc/ứng tiền/vé; quyền3bản và nợ132 tiếp diễn; nguồn xám chưa xác định.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật."
+      "note": "27penny; Backlund chưa nhận việc/ứng tiền/vé; quyền3bản và nợ132 tiếp diễn; nguồn xám chưa xác định.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 31,
@@ -348,7 +438,10 @@
       "changed_paragraphs": null,
       "sha_before": "7c8050da1199388c4fc53b2b9dcc5270ac84ea2eb27e4ebad31450e29450bf5b",
       "sha_after": "e06bac55b5139ec44cd35d28812688fe2ed149b7f439b6b7e8b956e2a713d0cf",
-      "note": "Giữ riêng chìa Gideon và chìa số sáu; không thêm quyền mở ngăn.; Giữ tiền 27+18−36−1=8 penny, đau tay phải, Mara tự chọn ở lại."
+      "note": "Giữ riêng chìa Gideon và chìa số sáu; không thêm quyền mở ngăn.; Giữ tiền 27+18−36−1=8 penny, đau tay phải, Mara tự chọn ở lại.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 32,
@@ -359,7 +452,10 @@
       "changed_paragraphs": 6,
       "sha_before": "1f4ead53d45aa87f31bccd0c203b502d0c83d91e4461d76dbe20d56d8b68d940",
       "sha_after": "5ccbd07a2023906bb79730da02abe5cc01565584d64f1b8a81b20405af4240b5",
-      "note": "Ba lần nhắc địa chỉ vẫn chỉ một nguồn; Agnes có thẩm quyền giới hạn.; Không nhận diện khách hỏi nghề thành Kestrel; gốc bản vẽ giao Ruth, chỉ giữ sao; không biến lời thì thầm thành chứng cứ."
+      "note": "Ba lần nhắc địa chỉ vẫn chỉ một nguồn; Agnes có thẩm quyền giới hạn.; Không nhận diện khách hỏi nghề thành Kestrel; gốc bản vẽ giao Ruth, chỉ giữ sao; không biến lời thì thầm thành chứng cứ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 33,
@@ -370,7 +466,10 @@
       "changed_paragraphs": 4,
       "sha_before": "eeef569b96e4ded2862d8e9eb837cfdf77ff2d379f89d8da267c0d0634b45d1c",
       "sha_after": "e70a2c9ad6b254828cd2fb97f2ec7b42b52bcf3efc3ddd59a9cd0d4e3af040a4",
-      "note": "8£ gồm ứng1£, vé/phòng trả trực tiếp; nợ132£ và ba nghiên cứu riêng giữ nguyên.; Quyền dừng/phạm vi công việc, ngày3/8 và custody gốc Ruth/chìa đã trả không đổi."
+      "note": "8£ gồm ứng1£, vé/phòng trả trực tiếp; nợ132£ và ba nghiên cứu riêng giữ nguyên.; Quyền dừng/phạm vi công việc, ngày3/8 và custody gốc Ruth/chìa đã trả không đổi.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 4
     },
     {
       "chapter": 34,
@@ -381,7 +480,10 @@
       "changed_paragraphs": 5,
       "sha_before": "f198ac0014b6b9e797ec34bfc2b289386b595c9f2f7f9639d953cd78aeae8883",
       "sha_after": "6b4162f196db9477a4828ccafd8e1bbb980e1e710b92ca04b564a2c2663bf13d",
-      "note": "Cảnh đóng cửa chỉ quan sát khối thấp/nẹp đồng, chưa biết vòng.; Giữ Seq9/tay phải đau, kỹ thuật thuộc Nell, công/phòng và chi4p còn235p."
+      "note": "Cảnh đóng cửa chỉ quan sát khối thấp/nẹp đồng, chưa biết vòng.; Giữ Seq9/tay phải đau, kỹ thuật thuộc Nell, công/phòng và chi4p còn235p.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 35,
@@ -392,7 +494,10 @@
       "changed_paragraphs": 8,
       "sha_before": "21b23b328814c79ca1efbdb7ad19429fc338dfd1c0636343295df30c2fcd411d",
       "sha_after": "ccd5041f5787d117bd95bece53fa15883840d90f6ebfa23cda890c9431d6bb38",
-      "note": "Giữ lỗi Evan nhầm hai lần ghi thành hai bản; không chuyển nghề đo/tải của Nell.; Mẩu nhắn chỉ được Nell đọc, chưa lộ chữ cho Evan; tiền232p/nợ132£ không đổi."
+      "note": "Giữ lỗi Evan nhầm hai lần ghi thành hai bản; không chuyển nghề đo/tải của Nell.; Mẩu nhắn chỉ được Nell đọc, chưa lộ chữ cho Evan; tiền232p/nợ132£ không đổi.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 36,
@@ -403,7 +508,10 @@
       "changed_paragraphs": 6,
       "sha_before": "1fab66118386aa6a64caa0073b293d36fca1a69cfaced096f6c9be2d7f7ab88e",
       "sha_after": "8d11341e1b16ca65b45248a7e5d9832de26d4d89ff1a7a9f7e0039d486f20f1e",
-      "note": "Hai suất/hai bát/hai thìa và chai rửa vết thương không xác nhận Edith ở trong hoặc bị thương.; Giữ lần gặp1/8, vắng hai tối, báo tìm người5/8 và hẹn tuần tra trong ngày."
+      "note": "Hai suất/hai bát/hai thìa và chai rửa vết thương không xác nhận Edith ở trong hoặc bị thương.; Giữ lần gặp1/8, vắng hai tối, báo tìm người5/8 và hẹn tuần tra trong ngày.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 37,
@@ -414,7 +522,10 @@
       "changed_paragraphs": 3,
       "sha_before": "5165af87f16136a8be6c82563d6d944be094f411e264ec6862f6e94bb8439e83",
       "sha_after": "04d7d01e03d17b8ba6457c49434c6f7e2b08fa2e7c7a7b6b31e59156ee703a5b",
-      "note": "Pike/giờ nhận xe và giờ giao hòm tách biệt; không đồng nhất người áo sẫm.; Phấn trắng chỉ giải thích phù hợp nghề, không giám định; ca thêm và chữ phù hợp không chứng minh âm mưu/xuyên không."
+      "note": "Pike/giờ nhận xe và giờ giao hòm tách biệt; không đồng nhất người áo sẫm.; Phấn trắng chỉ giải thích phù hợp nghề, không giám định; ca thêm và chữ phù hợp không chứng minh âm mưu/xuyên không.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 2
     },
     {
       "chapter": 38,
@@ -425,7 +536,10 @@
       "changed_paragraphs": 5,
       "sha_before": "2f74c23f7b05030002ae4d9890906f27145e5cebc26642fc8f1f286e31d297da",
       "sha_after": "d347bed9c501b56fe938b197ce9caa376bf24ca6fb428b65b3b3f7b0f03c3974",
-      "note": "Đo12foot6inch/vạch A và hai cách đo giữ nguyên; chưa được thử người.; Dấu bùn chưa xác định chủ/quay ở đâu; Nell/thợ giữ quyền kiểm sàn, không biến Evan thành kỹ sư."
+      "note": "Đo12foot6inch/vạch A và hai cách đo giữ nguyên; chưa được thử người.; Dấu bùn chưa xác định chủ/quay ở đâu; Nell/thợ giữ quyền kiểm sàn, không biến Evan thành kỹ sư.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 39,
@@ -436,7 +550,10 @@
       "changed_paragraphs": 5,
       "sha_before": "e07e1e88405a6ca5d69331e6ebb8c34c4b74e11f1c9f690acf950734ec1e821d",
       "sha_after": "57087d4682aa256652be1b4ed29cbd9130523360ba43f3cf3a3f56d4f36cc7ab",
-      "note": "Không dùng người nhẹ hơn để thử tải; phép thử vật bị lệch không được dùng kết quả.; Ván mở/thanh đỡ hụt/nhánh cơ cấu sau lưới và mối kê trượt giữ riêng; không suy sức chịu tải chung."
+      "note": "Không dùng người nhẹ hơn để thử tải; phép thử vật bị lệch không được dùng kết quả.; Ván mở/thanh đỡ hụt/nhánh cơ cấu sau lưới và mối kê trượt giữ riêng; không suy sức chịu tải chung.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 4
     },
     {
       "chapter": 40,
@@ -447,7 +564,10 @@
       "changed_paragraphs": 5,
       "sha_before": "8a1ba2659f737fa5aeb43509287a932a243937a4b22814b3512af281468b49c2",
       "sha_after": "4c9130cc0ce59d05683f7309f4e166c97e81389cde0f981b83dfa093daab8d85",
-      "note": "Jonah/Edith tự nguyện vẫn chỉ lời Silas; không thêm xác nhận trực tiếp.; Động tác Silas không xác định Danh sách; chốt/khối hạ cuối ca giữ nguyên; hẹn sáng7/8 và quyền báo khẩn không mất."
+      "note": "Jonah/Edith tự nguyện vẫn chỉ lời Silas; không thêm xác nhận trực tiếp.; Động tác Silas không xác định Danh sách; chốt/khối hạ cuối ca giữ nguyên; hẹn sáng7/8 và quyền báo khẩn không mất.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 41,
@@ -458,7 +578,10 @@
       "changed_paragraphs": 4,
       "sha_before": "649e860bc080d3576b803f5dec1056ef16059581bf4bc95cd60c170d6192d6f3",
       "sha_after": "affaf7ab6f078563193a31d1c84e001993414f4ea88402d815f9ef428e33f998",
-      "note": "Linh thị chỉ nhịp thứ ba đau rồi thu ngay, vệt mờ chưa xác định; không thêm mức tiêu hóa/năng lực.; Jonah chưa gặp/chưa nghe/chưa biết vết thương, giữ lịch y tế sáng7/8 và222p."
+      "note": "Linh thị chỉ nhịp thứ ba đau rồi thu ngay, vệt mờ chưa xác định; không thêm mức tiêu hóa/năng lực.; Jonah chưa gặp/chưa nghe/chưa biết vết thương, giữ lịch y tế sáng7/8 và222p.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 4
     },
     {
       "chapter": 42,
@@ -469,7 +592,10 @@
       "changed_paragraphs": 6,
       "sha_before": "34664f8cd5285b7ff82317b96220fbf411b9dde00d82bda4ba3c80e8736ae43b",
       "sha_after": "0b25f22b9d60c667c4c8decd18eaa261cf90932b4687f0117d1991d482427300",
-      "note": "Rowe qua ngưỡng trước thử vật và trở cùng đồ, không thử người lần nữa.; Cánh gỗ/then thường khác chốt đồng, khối thấp; thử gỗ/dây chưa chứng minh mọi vật hay mọi người; báo ngay."
+      "note": "Rowe qua ngưỡng trước thử vật và trở cùng đồ, không thử người lần nữa.; Cánh gỗ/then thường khác chốt đồng, khối thấp; thử gỗ/dây chưa chứng minh mọi vật hay mọi người; báo ngay.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 43,
@@ -480,7 +606,10 @@
       "changed_paragraphs": 5,
       "sha_before": "495bf068da1eb73ca2431d8abfb20d6be0c471d3a0c9ba2ded10d5f49c47c29b",
       "sha_after": "1171cbddc1126f164250bd4ee55cd5bb9ba0c8da6e91ccff22ad854307bf7dce",
-      "note": "Chỉ thoát nhờ xe/nhân chứng, không thắng tay đôi; tay phải đau tăng, tay áo trái được Nell kéo.; Giữ hai người/hai bao/đường ra phố và không biết tiếng giày sau lưng do vấp hay dừng; không vào cửa thấp."
+      "note": "Chỉ thoát nhờ xe/nhân chứng, không thắng tay đôi; tay phải đau tăng, tay áo trái được Nell kéo.; Giữ hai người/hai bao/đường ra phố và không biết tiếng giày sau lưng do vấp hay dừng; không vào cửa thấp.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 44,
@@ -491,7 +620,10 @@
       "changed_paragraphs": 5,
       "sha_before": "424961ef17d8fe5f12e07393d3fd9e4fd6f34bdcb4efd0d0507a6c17f21f832c",
       "sha_after": "4f4c08be63ebcdc7014ddb753536dc3389ad31f1a97602fb16f845d15418fb6a",
-      "note": "Giữ scar trái cũ khác chấn thương phải, khám4p/ăn2p/còn215p; không tự khỏi.; Đội tới8/8 không là lệnh chờ khẩn; Marsh vẫn chưa tiếp xúc Jonah; không ghi người trẻ theo ra cổng là fact."
+      "note": "Giữ scar trái cũ khác chấn thương phải, khám4p/ăn2p/còn215p; không tự khỏi.; Đội tới8/8 không là lệnh chờ khẩn; Marsh vẫn chưa tiếp xúc Jonah; không ghi người trẻ theo ra cổng là fact.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 45,
@@ -502,7 +634,10 @@
       "changed_paragraphs": 4,
       "sha_before": "17026f950a7ae9fbbb7e6f732dbe7311b38177ac137a90f0016e0b0249b704e4",
       "sha_after": "4adc760b769ca770d93c9c5fec489aa4236898668254bbc2c7a7e62f36b0f964",
-      "note": "Mira chỉ môi giới có giá/không xác minh tổ chức; chưa trả12p tới046.; Ba phiếu thử không là công thức/khảo cứu riêng; chưa nhận Seq8 hay năng lực; tiếp nhận đội chiều8/8 giữ nguyên."
+      "note": "Mira chỉ môi giới có giá/không xác minh tổ chức; chưa trả12p tới046.; Ba phiếu thử không là công thức/khảo cứu riêng; chưa nhận Seq8 hay năng lực; tiếp nhận đội chiều8/8 giữ nguyên.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 4
     },
     {
       "chapter": 46,
@@ -513,7 +648,10 @@
       "changed_paragraphs": 6,
       "sha_before": "a69340ef956f4fd7a41416bd68198229c35cde18d23e48722c796ffb48b59061",
       "sha_after": "1149a4cded938538e12e1784a95435214adaadf0fb74574b8dcec0468da49155",
-      "note": "12p là phí tra riêng, không quyền đọc/công thức; chỉ mục cần xin phép riêng.; Hai tên hãng chưa thành đổi tên tới thông báo thương mại; hai bộ phận và phụ trương giữ đủ."
+      "note": "12p là phí tra riêng, không quyền đọc/công thức; chỉ mục cần xin phép riêng.; Hai tên hãng chưa thành đổi tên tới thông báo thương mại; hai bộ phận và phụ trương giữ đủ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 4
     },
     {
       "chapter": 47,
@@ -524,7 +662,10 @@
       "changed_paragraphs": 5,
       "sha_before": "0e4fedc987a8865136ba516b75a5d52352bec4c9a6163d083ecc02785d60db90",
       "sha_after": "21071e621d30c2b86c8167a302c75012256e3c36bf341791d9c2630f45b4dcd0",
-      "note": "Nguồn B là Silas tự kể, không nâng thành tận mắt; vật từ B qua chưa đủ khái quát.; Khối thấp/chốt đồng khác then gỗ, hai khung cố định cách12foot6inch; không tháo nền khi phòng người chỉ có lời Silas."
+      "note": "Nguồn B là Silas tự kể, không nâng thành tận mắt; vật từ B qua chưa đủ khái quát.; Khối thấp/chốt đồng khác then gỗ, hai khung cố định cách12foot6inch; không tháo nền khi phòng người chỉ có lời Silas.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 4
     },
     {
       "chapter": 48,
@@ -535,7 +676,10 @@
       "changed_paragraphs": 4,
       "sha_before": "2fc97c03fda190648de5165476439dfb45ad4e87289123331a7608c546f1e1e0",
       "sha_after": "36389ed406c4afdb3e54b0d89120d48a3c7946c744450f2756e6bff6f0d3372a",
-      "note": "Thang tháo chưa rõ ai/ngày, lan can và dầm chưa phá; không đồng nhất hatch với đường cáng.; Đồ gửi vào chưa xác nhận tới giường, chưa có tiếng Jonah; phạm vi thợ/Nell và khung chịu lực được giữ."
+      "note": "Thang tháo chưa rõ ai/ngày, lan can và dầm chưa phá; không đồng nhất hatch với đường cáng.; Đồ gửi vào chưa xác nhận tới giường, chưa có tiếng Jonah; phạm vi thợ/Nell và khung chịu lực được giữ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 4
     },
     {
       "chapter": 49,
@@ -546,7 +690,10 @@
       "changed_paragraphs": 6,
       "sha_before": "23546a4c510a0f9337fa0d95267d9d21e4a09a298efeb31bcf3a68bfcd80c5ca",
       "sha_after": "073277de41b5d2f9e188bed1fcccbb6b84a7642b70cb1ccacb333e52a36756f0",
-      "note": "Nêm chịu khoảng5giây không tạo đường mở; khối thấp/chốt chính đóng, chưa nâng từ ngoài.; Không đưa cáng hay người thử; phá sâu/bắn mù vẫn chưa bảo đảm bệnh nhân; gỗ mẫu được giữ riêng."
+      "note": "Nêm chịu khoảng5giây không tạo đường mở; khối thấp/chốt chính đóng, chưa nâng từ ngoài.; Không đưa cáng hay người thử; phá sâu/bắn mù vẫn chưa bảo đảm bệnh nhân; gỗ mẫu được giữ riêng.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 50,
@@ -557,7 +704,10 @@
       "changed_paragraphs": 6,
       "sha_before": "d90a5f31e145f360dcacc75d1e04228cc536fdbc0690dcb505ac3d6574745f41",
       "sha_after": "dbe736f3d675bd7183ed7ccfae53c5ce3a9d1d3f9838026e84cd2f1cba63095c",
-      "note": "Thư7/8 không biết9/8; Dale có alibi khoảng đã đối, không vô can hoàn toàn; không giám định chữ tờ đã mất.; Mercer/Pike khác người, Jonas không nhớ thêm; hai vụ hành hung chưa nối, không nối Backlund; Mara không mất nợ/hai shilling tự về."
+      "note": "Thư7/8 không biết9/8; Dale có alibi khoảng đã đối, không vô can hoàn toàn; không giám định chữ tờ đã mất.; Mercer/Pike khác người, Jonas không nhớ thêm; hai vụ hành hung chưa nối, không nối Backlund; Mara không mất nợ/hai shilling tự về.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 51,
@@ -568,7 +718,10 @@
       "changed_paragraphs": 7,
       "sha_before": "e317e957eafa87fa3458052a3b709f160f7154fa81bdc3c8183901789570e044",
       "sha_after": "9a719dfb184b5468032cb4eafeae770ec0992f8ed2566641facb1851c6b02d20",
-      "note": "Giữ POV Mara, thư 9/8 chưa gửi; không truyền tin Backlund mới.; Giữ khoản nợ cũ/hai shilling và quyền tự quyết Theo; không đổi thoại.; “Để chiếc kéo sang bên” chỉ làm rõ danh từ dụng cụ may trong cảnh tháo chỉ; không đổi cảnh."
+      "note": "Giữ POV Mara, thư 9/8 chưa gửi; không truyền tin Backlund mới.; Giữ khoản nợ cũ/hai shilling và quyền tự quyết Theo; không đổi thoại.; “Để chiếc kéo sang bên” chỉ làm rõ danh từ dụng cụ may trong cảnh tháo chỉ; không đổi cảnh.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 52,
@@ -579,7 +732,10 @@
       "changed_paragraphs": 7,
       "sha_before": "30ac843bc82ae41641880c941c25e8342eb2ee0d0d45f37852090101bc302e6f",
       "sha_after": "11fcf7cb005c0a344b1de50ed16e041e15e6ed3f20bd829429706db4c4b4266c",
-      "note": "Không nhận diện Edith bằng POV Evan; giữ lời tự xưng/giọng Nell và việc chưa thấy mặt.; Không diễn giải tiếng động thành hành hung; giữ bác sĩ chưa khám và Jonah chưa trực tiếp nói."
+      "note": "Không nhận diện Edith bằng POV Evan; giữ lời tự xưng/giọng Nell và việc chưa thấy mặt.; Không diễn giải tiếng động thành hành hung; giữ bác sĩ chưa khám và Jonah chưa trực tiếp nói.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 53,
@@ -590,7 +746,10 @@
       "changed_paragraphs": 8,
       "sha_before": "e765d1aadf660a8df826d48a3d4e151b36090e01a9bd1cd08c2dbb0178e02cbb",
       "sha_after": "12d303eac516aa61b8df840937d4a2a1237d40324f7bc7ee845b1ca5cd0a84f9",
-      "note": "Edith xin giúp cả hai không thay lời Jonah; vật liệu không thành chẩn đoán.; Giữ chốt/khay/cánh che và tiếp xúc y tế chưa thông đường; không đổi giờ hay tiền."
+      "note": "Edith xin giúp cả hai không thay lời Jonah; vật liệu không thành chẩn đoán.; Giữ chốt/khay/cánh che và tiếp xúc y tế chưa thông đường; không đổi giờ hay tiền.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 54,
@@ -601,7 +760,10 @@
       "changed_paragraphs": 8,
       "sha_before": "fe538d1e73222032b00d1c6ea1f86ead4d5931345750650b0fbc601215ece669",
       "sha_after": "323085cfa41c6d4e788c68f9df8df6fca79874ffe2733ab5907027a5a9dfc1ad",
-      "note": "Không biến lối bò Edith thành lối cáng hay lối ra luôn mở; giữ điều kiện khóa và Silas đứng cạnh.; Giữ nguồn lần B là lời Edith, lần A là Evan thấy; Jonah chưa trực tiếp xin ra."
+      "note": "Không biến lối bò Edith thành lối cáng hay lối ra luôn mở; giữ điều kiện khóa và Silas đứng cạnh.; Giữ nguồn lần B là lời Edith, lần A là Evan thấy; Jonah chưa trực tiếp xin ra.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 55,
@@ -612,7 +774,10 @@
       "changed_paragraphs": 9,
       "sha_before": "f812ea548cd5a64330c4110db917a61fcd42c581394e7ae51ef22569c156c552",
       "sha_after": "2c2b081bf7d00eadd3bf75480ed80020c8801a33321cc92eed8b5233003e12e5",
-      "note": "Jonah trực tiếp cho tên/đòi khám/ra, không thêm chẩn đoán hoặc cho chân chịu tải.; Bệ chỉ một người, không đầu cầu; giữ ô thoáng/không bước qua khoảng trống."
+      "note": "Jonah trực tiếp cho tên/đòi khám/ra, không thêm chẩn đoán hoặc cho chân chịu tải.; Bệ chỉ một người, không đầu cầu; giữ ô thoáng/không bước qua khoảng trống.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 9
     },
     {
       "chapter": 56,
@@ -623,7 +788,10 @@
       "changed_paragraphs": 8,
       "sha_before": "e32ed046498c8f0e0c3faf3f794794a963b0b6ed65c5945788917a717436f7d9",
       "sha_after": "59f662561dfbe6aecaf3972e8bc9affa9323f09c3d3359928fe825c0dd0f66d3",
-      "note": "Khóa rào thường không thay chốt đồng; không đổi luật A/B.; Giữ giá đóng kho/nguồn Agnes ghi nghỉ việc và Silas chỉ thấy từng phần phương án."
+      "note": "Khóa rào thường không thay chốt đồng; không đổi luật A/B.; Giữ giá đóng kho/nguồn Agnes ghi nghỉ việc và Silas chỉ thấy từng phần phương án.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 57,
@@ -634,7 +802,10 @@
       "changed_paragraphs": 8,
       "sha_before": "6b08674802e03305edf39edf76e4311963e0d75ae640b95644fc47eb5e67808a",
       "sha_after": "dd56206f611f811ac080464dccecfd3e063481d32ace9010c5397eabc9c6a1af",
-      "note": "Giữ sáu foot, cửa ở nhánh riêng và lỗ chỉ dụng cụ/đèn.; Nêm guide 40s/22s/25s khác nêm đồng 5s; chưa có dự phòng đạt trước khi thử."
+      "note": "Giữ sáu foot, cửa ở nhánh riêng và lỗ chỉ dụng cụ/đèn.; Nêm guide 40s/22s/25s khác nêm đồng 5s; chưa có dự phòng đạt trước khi thử.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 58,
@@ -645,7 +816,10 @@
       "changed_paragraphs": 6,
       "sha_before": "359d4d59d831dfdbcc69d9e59c795af8ef7b2eef687264d6b2e087cddb4d4557",
       "sha_after": "7f9ab25a83e5d0b6d24551ab8e0effe946c8cb839658a7cf098739c106baec3d",
-      "note": "Hai bộ thử độc lập, không cộng lực; dự phòng không được nâng thành bất hoại.; Không đổi thông số 6m40/22/25/40, quyền lựa chọn Edith hay Jonah còn trên giường."
+      "note": "Hai bộ thử độc lập, không cộng lực; dự phòng không được nâng thành bất hoại.; Không đổi thông số 6m40/22/25/40, quyền lựa chọn Edith hay Jonah còn trên giường.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 59,
@@ -656,7 +830,10 @@
       "changed_paragraphs": 7,
       "sha_before": "74a91bf64ba7bb39a305a45298df51fadb7ebc53297e89953bd34b6939f8b64b",
       "sha_after": "431d41e4a5323dfb5d87159aa8dac85fc1b5aeb106f2f4554890818ba0f415b9",
-      "note": "Silas phá điểm giằng bằng dụng cụ, không tay không/phá dầm; không người trên cầu.; Dự phòng còn nhưng phần dẫn phải kiểm lại; không hứa cứu chắc sáng hôm sau."
+      "note": "Silas phá điểm giằng bằng dụng cụ, không tay không/phá dầm; không người trên cầu.; Dự phòng còn nhưng phần dẫn phải kiểm lại; không hứa cứu chắc sáng hôm sau.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 60,
@@ -666,8 +843,11 @@
       "paragraphs_after": 44,
       "changed_paragraphs": 10,
       "sha_before": "6a7ac1cd428ee198dc13aec8cc377befb94a38ab4904bbac9fe185d1d4a3e52c",
-      "sha_after": "2399b2a7ba9b6b00e24bd0163c902d2616c35843af003651e8c3823116d2cec6",
-      "note": "Thử khôi phục bằng bộ dự phòng riêng, chưa mở lượt thật; nêm chưa nhận tải.; Giữ dây báo nhẹ không dây cáng, tay phải chưa hồi phục; không tự chứng kiến trang đêm."
+      "sha_after": "6de311fffa7fd5a544bec126d9310aad663a1f3744019be0e27421fb282fa8a5",
+      "note": "Thử khôi phục bằng bộ dự phòng riêng, chưa mở lượt thật; nêm chưa nhận tải.; Giữ dây báo nhẹ không dây cáng, tay phải chưa hồi phục; không tự chứng kiến trang đêm.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 8
     },
     {
       "chapter": 61,
@@ -678,7 +858,10 @@
       "changed_paragraphs": 7,
       "sha_before": "b7b9757346b4dc3eb47743cb5e10b8bfca91bfc7281f84c14515a776ce02e74b",
       "sha_after": "5fef00cc64e673216bc60c972a609debdca2e13c2e0698d05307f1d0400826d2",
-      "note": "Giữ nhịp “Evan buông bìa”, không sửa quyết định bỏ giấy; bản chính không mất.; Không kích linh thị/không cấp bậc Silas; nêm chưa tải và Jonah còn giường."
+      "note": "Giữ nhịp “Evan buông bìa”, không sửa quyết định bỏ giấy; bản chính không mất.; Không kích linh thị/không cấp bậc Silas; nêm chưa tải và Jonah còn giường.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 7
     },
     {
       "chapter": 62,
@@ -689,7 +872,10 @@
       "changed_paragraphs": 7,
       "sha_before": "b02d596b1309d27773656e39d659613c3df3d369a0241e4a258efc75e33cf612",
       "sha_after": "eae50717cd7dd2e0cb3fe0d2274c20d4a3dd047cda47fec237f1db9854ae821b",
-      "note": "Evan chỉ nghe/nhìn bóng, không biết chẩn đoán; bác sĩ thực sự tới giường.; Người/cáng trống qua cầu cố định không kích clock nêm; vẫn chưa nâng Jonah kết chương."
+      "note": "Evan chỉ nghe/nhìn bóng, không biết chẩn đoán; bác sĩ thực sự tới giường.; Người/cáng trống qua cầu cố định không kích clock nêm; vẫn chưa nâng Jonah kết chương.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 63,
@@ -700,7 +886,10 @@
       "changed_paragraphs": 5,
       "sha_before": "4a681046d0ae37d16b67e6c5e306a3367c02ff9e6b309ffba572652e6b051e09",
       "sha_after": "799017b2b8d46ca723e5859fb07eb24746a10a8902937f27d1e09b48d841f8db",
-      "note": "Giữ đầy đủ thứ tự giây/thoại, chốt hai người xác nhận và nêm thu; không sửa đoạn đếm ngắn.; D1 hỏng trước cáng qua/D2 còn; Edith đi riêng sau cáng, đội vẫn chưa rút hết."
+      "note": "Giữ đầy đủ thứ tự giây/thoại, chốt hai người xác nhận và nêm thu; không sửa đoạn đếm ngắn.; D1 hỏng trước cáng qua/D2 còn; Edith đi riêng sau cáng, đội vẫn chưa rút hết.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 64,
@@ -711,7 +900,10 @@
       "changed_paragraphs": 7,
       "sha_before": "c1747bfea505e2df916ca9c99415bfa47019a26d1ed7577a0a1d4d089f06e337",
       "sha_after": "268bdaeab913e223add584f2b07c8c3dbce3a6c8e74927ac6bff54c3a8055078",
-      "note": "Giữ D2 mở có kiểm soát từ phía bệnh nhân, nhóm đi/rút chính cầu; không đi A/B.; Không cho đối trọng nâng/khung tắt; giữ Silas khống chế bằng đội và dụng cụ."
+      "note": "Giữ D2 mở có kiểm soát từ phía bệnh nhân, nhóm đi/rút chính cầu; không đi A/B.; Không cho đối trọng nâng/khung tắt; giữ Silas khống chế bằng đội và dụng cụ.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     },
     {
       "chapter": 65,
@@ -722,7 +914,10 @@
       "changed_paragraphs": 5,
       "sha_before": "1839076a0bcf197c556600085b48ddcf4f845d216655cb33b21544e3cc3eb2ca",
       "sha_after": "6c10822c314b621df23a8383a45a1fa7d37849349d4a78fcd753fee4ea1ddf62",
-      "note": "Thang hai đoạn thu đúng nguồn; Edith thấy tháo/Jonah thấy mang đi, không nhập lời khai.; Không phán trách nhiệm kết cấu/pháp lý, không hoàn bồi hay trả 7£ sớm; khung còn thấp/guarded."
+      "note": "Thang hai đoạn thu đúng nguồn; Edith thấy tháo/Jonah thấy mang đi, không nhập lời khai.; Không phán trách nhiệm kết cấu/pháp lý, không hoàn bồi hay trả 7£ sớm; khung còn thấp/guarded.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 4
     },
     {
       "chapter": 66,
@@ -733,7 +928,10 @@
       "changed_paragraphs": 5,
       "sha_before": "073e2ac96e001c14d5f4cce3a4ecc84b9bec3bd942395f373772f98f0e889f6e",
       "sha_after": "3e2a035c6334b3baf26d0a4bd8ca411bd6fa703d9162916c59d431a88cd213bb",
-      "note": "Mira chỉ quyền intro/index giám sát và xin nguồn riêng, không công thức/giá/thăng bậc.; Giữ nợ132£ tới thanh toán, phòng chưa gia hạn, không đo tiêu hóa hoặc gán vệt xám dẫn đường."
+      "note": "Mira chỉ quyền intro/index giám sát và xin nguồn riêng, không công thức/giá/thăng bậc.; Giữ nợ132£ tới thanh toán, phòng chưa gia hạn, không đo tiêu hóa hoặc gán vệt xám dẫn đường.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 67,
@@ -744,7 +942,10 @@
       "changed_paragraphs": 5,
       "sha_before": "02a2d9f36f1541fe56187b3a7c5300f313021b0146694d51cbe4bce77de8b67a",
       "sha_after": "445a723ffe3ab8889746d16f05fc36de61c5868ef73358253bef9b2341e3458b",
-      "note": "Giữ Rusk9/8 nhận diện/thư10/8 và giấy Agnes có trước, không hồi tố tên.; Giữ thưMara9/8 gửi10/8 nhận13/8, Evan chỉ biết phần được kể; tiền chưa nhận/ủy quyền chỉ nhận2£."
+      "note": "Giữ Rusk9/8 nhận diện/thư10/8 và giấy Agnes có trước, không hồi tố tên.; Giữ thưMara9/8 gửi10/8 nhận13/8, Evan chỉ biết phần được kể; tiền chưa nhận/ủy quyền chỉ nhận2£.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 5
     },
     {
       "chapter": 68,
@@ -755,7 +956,19 @@
       "changed_paragraphs": 7,
       "sha_before": "67e0e05bca451ad1e49166a4d21d5a98ba3741249c667a4984e85940c667374b",
       "sha_after": "294544e3f619160b6e2d926c749d381d38e28f6f3440a47cf97d942a45c92d3b",
-      "note": "Giữ toàn bộ khoản8/1/7£,1856→1376p,2£áp31/8/gốc130, không tự sửa kỳSeptember.; Giữ chưa công thức/chưa tiêu hóa/phòng hết13/8; Neil chỉ ký ức chưa gặp/chưa gửi, deadline19/8."
+      "note": "Giữ toàn bộ khoản8/1/7£,1856→1376p,2£áp31/8/gốc130, không tự sửa kỳSeptember.; Giữ chưa công thức/chưa tiêu hóa/phòng hết13/8; Neil chỉ ký ức chưa gặp/chưa gửi, deadline19/8.",
+      "automated_checks": "PASS",
+      "semantic_review": "Compared to original, chapter context and continuity; root reviewed proposed replacements; independent final diff review completed.",
+      "changed_blocks": 6
     }
-  ]
+  ],
+  "final_scope": {
+    "arc1": "001–030",
+    "arc2": "031–068",
+    "new_chapters": 0,
+    "approval_stage": "arc2_complete",
+    "next_chapter_cap": 68,
+    "push": false,
+    "merge": false
+  }
 }
