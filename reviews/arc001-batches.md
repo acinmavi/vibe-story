@@ -38,3 +38,8 @@
 - Blindreview chỉ019–022, rootđọc toàn020. C7có nhóm/nguồn/đồngý, khôngcho ngườimới nhiễm; vẫn còn gợinhớ/quên/ghithiếu, khôngchứngminhfullcơchế.
 - Sửa bản saovôhại thànhbảnkênguồnđộc lập/phầnchưachắcdừnggiao; kẹp thợmới vừa mangtớichưaphânloại;022giữphiếugốc371riêngđốisổxe. KhônggánJonas từnggọitênmộtngườimà006khôngnói.
 - Seq9khôngđọctâmtrí/giảián;whispergợisai bịbác.021bổsung hồsơđãnhận15/7. Theo/Mara tựrútviệc/mấtcông;khôngbịdùngmồi.
+
+## 023–025
+- Blind review022–025,rootđọcchuỗiartifact024vàgiữnguồn025. C8lộkiếnthứcnộibộchưađủchỉnguồn;phiếulưuriêng/chứngthực/hệniêmvẫnlàgiảthuyết.
+- Sửa2shMara rõ làtiềncông bịgiữ,khôngtiềnEvan/nợTheoxóa. Bỏtuyênbốghimới chưađượcgieo trướcgiật; bảnIona khôngbiếnmất, gốcBramcòn.
+-025thoátnhờphốquen/ngườidân/tuầntra,cốlinhthịchỉđau. Cófight-cardtrướckhiviết,báonguyhiểmngay. Bảnvẽ012đểriêng,khôngpháquyluậtgiấycánhân.
