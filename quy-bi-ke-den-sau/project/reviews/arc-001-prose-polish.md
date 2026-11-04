@@ -32,5 +32,10 @@ Người dùng duyệt bản thử 003 và STYLE_GUIDE, cho phép sửa toàn b�
 | 018 | 2097 → 2107 | 78 → 78 | Nợ132 pound, hạn2 pound/tháng từ31/8; đồng hồ bán6 pound; chưa uống trước20/7.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ. |
 | 019 | 2294 → 2297 | 97 → 97 | Seq9 chưa thành thạo; vệt xám không điều khiển được, đau/tiếng nói/đứt nhớ giữ nguyên.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ. |
 | 020 | 2007 → 2017 | 93 → 93 | Không đưa người mới tiếp xúc; mẫu ít và giới hạn khác nhau; linh thị không cho thấy liên kết.; Giữ nguyên thoại, dữ kiện, thứ tự và mức chắc chắn; câu ngắn ở phát hiện được giữ. |
+| 021 | 2037 → 2034 | 86 → 86 | Tiếng nói suýt buộc nhầm Bram; bản vẽ chỉ bác việc đủ nét đối, không chứng minh vô can.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật. |
+| 022 | 2139 → 2135 | 101 → 101 | Theo tự chọn trả đồ; mất cơ hội theo tuyến; cuộc gặp24/7 giữ nguyên, phiếu371 không biến thành trang sổ.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật. |
+| 023 | 2098 → 2095 | 102 → 102 | Kestrel chỉ đề nghị mua nợ; chưa xóa nợ, biết chỗ sửa có thể qua Gideon; lịch chỉ là bản chép chưa xác nhận.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật. |
+| 024 | 1925 → 1925 | 79 → 79 | Nguồn tác động chưa đủ xác định toàn bộ; ngày kiểm28/7 không thành cứu viện đã tới; bản vẽ tách riêng.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật. |
+| 025 | 2243 → 2248 | 96 → 96 | Không xác nhận xe/thủ phạm; 2sh Mara mất riêng, 76penny Evan giữ; gốc ngoài hệ chưa mất.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật. |
 
 Các chương ghi trong bảng đã được kiểm lời thoại và thứ tự chữ số bằng máy, đọc đối chiếu phần thay đổi về sự kiện, tri thức, manh mối và nhịp câu. Các phép so văn bản không tự chứng minh tương đương ngữ nghĩa. Báo cáo sẽ chốt sau khi hoàn tất đủ 30 chương.
