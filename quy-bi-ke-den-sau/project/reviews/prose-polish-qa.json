@@ -558,6 +558,61 @@
       "sha_before": "d90a5f31e145f360dcacc75d1e04228cc536fdbc0690dcb505ac3d6574745f41",
       "sha_after": "dbe736f3d675bd7183ed7ccfae53c5ce3a9d1d3f9838026e84cd2f1cba63095c",
       "note": "Thư7/8 không biết9/8; Dale có alibi khoảng đã đối, không vô can hoàn toàn; không giám định chữ tờ đã mất.; Mercer/Pike khác người, Jonas không nhớ thêm; hai vụ hành hung chưa nối, không nối Backlund; Mara không mất nợ/hai shilling tự về."
+    },
+    {
+      "chapter": 51,
+      "before": 1833,
+      "after": 1836,
+      "paragraphs_before": 75,
+      "paragraphs_after": 75,
+      "changed_paragraphs": 7,
+      "sha_before": "e317e957eafa87fa3458052a3b709f160f7154fa81bdc3c8183901789570e044",
+      "sha_after": "9a719dfb184b5468032cb4eafeae770ec0992f8ed2566641facb1851c6b02d20",
+      "note": "Giữ POV Mara, thư 9/8 chưa gửi; không truyền tin Backlund mới.; Giữ khoản nợ cũ/hai shilling và quyền tự quyết Theo; không đổi thoại.; “Để chiếc kéo sang bên” chỉ làm rõ danh từ dụng cụ may trong cảnh tháo chỉ; không đổi cảnh."
+    },
+    {
+      "chapter": 52,
+      "before": 1818,
+      "after": 1822,
+      "paragraphs_before": 71,
+      "paragraphs_after": 71,
+      "changed_paragraphs": 7,
+      "sha_before": "30ac843bc82ae41641880c941c25e8342eb2ee0d0d45f37852090101bc302e6f",
+      "sha_after": "11fcf7cb005c0a344b1de50ed16e041e15e6ed3f20bd829429706db4c4b4266c",
+      "note": "Không nhận diện Edith bằng POV Evan; giữ lời tự xưng/giọng Nell và việc chưa thấy mặt.; Không diễn giải tiếng động thành hành hung; giữ bác sĩ chưa khám và Jonah chưa trực tiếp nói."
+    },
+    {
+      "chapter": 53,
+      "before": 1850,
+      "after": 1852,
+      "paragraphs_before": 58,
+      "paragraphs_after": 58,
+      "changed_paragraphs": 8,
+      "sha_before": "e765d1aadf660a8df826d48a3d4e151b36090e01a9bd1cd08c2dbb0178e02cbb",
+      "sha_after": "12d303eac516aa61b8df840937d4a2a1237d40324f7bc7ee845b1ca5cd0a84f9",
+      "note": "Edith xin giúp cả hai không thay lời Jonah; vật liệu không thành chẩn đoán.; Giữ chốt/khay/cánh che và tiếp xúc y tế chưa thông đường; không đổi giờ hay tiền."
+    },
+    {
+      "chapter": 54,
+      "before": 1889,
+      "after": 1886,
+      "paragraphs_before": 61,
+      "paragraphs_after": 61,
+      "changed_paragraphs": 8,
+      "sha_before": "fe538d1e73222032b00d1c6ea1f86ead4d5931345750650b0fbc601215ece669",
+      "sha_after": "323085cfa41c6d4e788c68f9df8df6fca79874ffe2733ab5907027a5a9dfc1ad",
+      "note": "Không biến lối bò Edith thành lối cáng hay lối ra luôn mở; giữ điều kiện khóa và Silas đứng cạnh.; Giữ nguồn lần B là lời Edith, lần A là Evan thấy; Jonah chưa trực tiếp xin ra."
+    },
+    {
+      "chapter": 55,
+      "before": 1849,
+      "after": 1853,
+      "paragraphs_before": 54,
+      "paragraphs_after": 54,
+      "changed_paragraphs": 9,
+      "sha_before": "f812ea548cd5a64330c4110db917a61fcd42c581394e7ae51ef22569c156c552",
+      "sha_after": "2c2b081bf7d00eadd3bf75480ed80020c8801a33321cc92eed8b5233003e12e5",
+      "note": "Jonah trực tiếp cho tên/đòi khám/ra, không thêm chẩn đoán hoặc cho chân chịu tải.; Bệ chỉ một người, không đầu cầu; giữ ô thoáng/không bước qua khoảng trống."
     }
   ]
 }

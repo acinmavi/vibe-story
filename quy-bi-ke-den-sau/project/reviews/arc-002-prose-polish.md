@@ -34,5 +34,10 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 048 | 1866 → 1864 | 48 → 48 | Thang tháo chưa rõ ai/ngày, lan can và dầm chưa phá; không đồng nhất hatch với đường cáng.; Đồ gửi vào chưa xác nhận tới giường, chưa có tiếng Jonah; phạm vi thợ/Nell và khung chịu lực được giữ. |
 | 049 | 1914 → 1917 | 49 → 49 | Nêm chịu khoảng5giây không tạo đường mở; khối thấp/chốt chính đóng, chưa nâng từ ngoài.; Không đưa cáng hay người thử; phá sâu/bắn mù vẫn chưa bảo đảm bệnh nhân; gỗ mẫu được giữ riêng. |
 | 050 | 2017 → 2023 | 39 → 39 | Thư7/8 không biết9/8; Dale có alibi khoảng đã đối, không vô can hoàn toàn; không giám định chữ tờ đã mất.; Mercer/Pike khác người, Jonas không nhớ thêm; hai vụ hành hung chưa nối, không nối Backlund; Mara không mất nợ/hai shilling tự về. |
+| 051 | 1833 → 1836 | 75 → 75 | Giữ POV Mara, thư 9/8 chưa gửi; không truyền tin Backlund mới.; Giữ khoản nợ cũ/hai shilling và quyền tự quyết Theo; không đổi thoại.; “Để chiếc kéo sang bên” chỉ làm rõ danh từ dụng cụ may trong cảnh tháo chỉ; không đổi cảnh. |
+| 052 | 1818 → 1822 | 71 → 71 | Không nhận diện Edith bằng POV Evan; giữ lời tự xưng/giọng Nell và việc chưa thấy mặt.; Không diễn giải tiếng động thành hành hung; giữ bác sĩ chưa khám và Jonah chưa trực tiếp nói. |
+| 053 | 1850 → 1852 | 58 → 58 | Edith xin giúp cả hai không thay lời Jonah; vật liệu không thành chẩn đoán.; Giữ chốt/khay/cánh che và tiếp xúc y tế chưa thông đường; không đổi giờ hay tiền. |
+| 054 | 1889 → 1886 | 61 → 61 | Không biến lối bò Edith thành lối cáng hay lối ra luôn mở; giữ điều kiện khóa và Silas đứng cạnh.; Giữ nguồn lần B là lời Edith, lần A là Evan thấy; Jonah chưa trực tiếp xin ra. |
+| 055 | 1849 → 1853 | 54 → 54 | Jonah trực tiếp cho tên/đòi khám/ra, không thêm chẩn đoán hoặc cho chân chịu tải.; Bệ chỉ một người, không đầu cầu; giữ ô thoáng/không bước qua khoảng trống. |
 
-Đã đối chiếu 20/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+Đã đối chiếu 25/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
