@@ -1,12 +1,12 @@
 {
   "phase": "arc2_writing",
-  "last_written_chapter": 33,
+  "last_written_chapter": 36,
   "do_not_write_after_chapter": 68,
   "arc": 2,
-  "date_in_story": "1349-08-03",
+  "date_in_story": "1349-08-05",
   "character_sequence": "9 Mystery Pryer; digestion incomplete, untrained in combat magic",
-  "location": "Train departing Tingen for Backlund; not arrived yet",
-  "canon_confidence_after_divergence": "No demonstrated causal bridge to Klein; AU reports/supply-network propagation remains UNKNOWN",
+  "location": "Backlund, AU Ashwick private archive and lodging; noon after missing-person report",
+  "canon_confidence_after_divergence": "No observed Klein contact; local archive/missing-person AU. Earlier reports/supply-network propagation to canon remains UNKNOWN",
   "next_approval_required": "Arc3 requires separate approval after068; Arc2 authorized in batches",
   "tarot_membership": "none"
 }

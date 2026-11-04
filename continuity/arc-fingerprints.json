@@ -21,17 +21,17 @@
       "id": 2,
       "title": "Cánh cửa cuối ca",
       "status": "in_progress",
-      "chapter_range": "031–068 authorized;031–033 written",
-      "date_range": "1–13Aug1349 planned;asof3Aug actual",
+      "chapter_range": "031–068authorized;031–036written",
+      "date_range": "1–13Augplanned;asofnoon5Augactual",
       "genre": "bounded spatial mystery and coordinated rescue",
-      "location": "Tingen departure031–033 actual;Backlund private archive planned034onward",
+      "location": "Tingen031–033;BacklundAUarchive034–036",
       "mechanism": "fixed paired thresholds and mechanical configuration, PLAN not yet encountered",
       "antagonist_motive": "coercive protection and concealed responsibility, PLAN authoronly",
       "resolution": "coordinated civilian/specialist extraction with tested load/timing, PLAN",
       "protagonist_power": "Seq9 no new demonstrated skill031–033",
-      "institution": "ordinary employment/lease verification then specialist rescue planned",
+      "institution": "ordinarywork/leaseverification;missingpersonreport036,policefollowupexpected",
       "moral_cost": "respect consent and distribute expertise;decline monopoly on knowledge",
-      "relationship_change": "Mara/Theo remain inTingen by choice;Iona creditor not traveling patron",
+      "relationship_change": "Mara/TheoremainingTingen;Agnesclientwithoperationalpressures;NellindependenttradeandrelativeofEdith,leadssearch",
       "next_arc_gate": "after068 separateArc3approval"
     }
   ]

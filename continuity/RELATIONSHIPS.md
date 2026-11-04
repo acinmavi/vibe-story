@@ -23,3 +23,14 @@ Không đổi tính cách đột ngột để tạo twist. Nếu sau này xuất
 ## Chuyển động thật031–033
 
 Mara giữ lựa chọn ởTingen, đưa yêu cầu nhận tin khiEvan đến nơi; không đi theo, chưa biếtma dược/nợIona. Theo tự hỏi một dòng trách nhiệm hàng vỡ và giữ quyền đọc/đồngý của mình; chưa xácnhận việc lâu dài. Rusk trả18p cho đúng công thường, nêu giới hạn nhận diện người hỏi;Evan nhậnra cách hỏi cóthể biến chỗtrống thành nghi ngờngười quen. Iona giữ giao dịch và lịch riêng, không điBacklund; chốt loại trừ sản phẩm khách khỏi quyền mua nghiêncứu riêng. Ruth nhận chìa/gốcbảnvẽ/địa chỉ đúng giới hạn, không bỗng biết nguồnEvan. Ada được trả đủ và nhận lại chìa; quan hệ thuêphòng hiện kếtthúc, chỉ giữđầumối thư theo thỏa thuận.
+
+## Nhân vật và quan hệ thực tế034–036
+
+| Người | Điều đã thấy | Mục tiêu/quyền quyết định | ĐiềuEvanchưa biết |
+|---|---|---|---|
+| AgnesWard | Khớp giấy thuê, giao đúng việc, đổi đường dỡ hàng theo phầnNellđãkiểm; cấp ghi nhận cho báo tìm người | Mở phần kho/lối hàng đúng tiến độ, chịu trách nhiệm vận hành; chưa cho xem khu phụ | Toàn bộ điều bà biết về tai nạn/khu phụ; không mặc định là thủ phạm |
+| NellPrice | Tay nghề cơ cấu, thử nêm, giới hạn phần ký và công đội; nhận nhắn035, tìmEdith/báo tìm người036 | Giữ công hợp lệ cho đội, tìm em họ; tự chi tiền người giao/đồ ăn | Không được suy mọi điều cô nghĩ từ cử chỉ;không có bằngchứngphi phàm |
+| EdithPrice | Chưa xuất hiện trực tiếp,19tuổi theoNell; gặp cuối1/8, nghỉ việc theo lời chuyển từ2/8 | Chưa có lời nói/ý muốn trực tiếp trên trang | Vị trí, sức khỏe, tự nguyện hay bị giữ |
+| Người quản khu phụ | Agnes nhận lời chuyển; chưa ra gặp khiNellhỏi | Chưa rõ trên trang | Tên/thânphận/Danh sách/độngcơ đều chưa thuộc kiếnthứcMC |
+
+Evan chấp nhận sự khác nhau giữa nghề mình và nghềNell, sửa nhận định hai bản sách035. Chưa tin nhau toàn diện sau một ngày, không biếnNellthành người chỉ làm theoMC. Các nhân vậtTingen không biết diễn biếnBacklund trước khi thư tới; thưMarađãgửi4/8chỉ báo đến nơi.

@@ -1,17 +1,26 @@
-# Trạng thái hiện tại — sau chương033
+# Trạng thái hiện tại — sau chương036
 
-**Ngày3/8/1349, tàu vừa rờiTingen điBacklund; chưa tới nơi.** HướngA đã được duyệt04/11/2026, tác giả chốt38chương031–068. Viết theo lô2–4, review/QA/commitlocal, khôngpush; không cần xin duyệt lại trước034. Arc3 cần cổng riêng sau068. Arc1 vẫn giữ nguyên bản thảo, không ghi lời duyệt toànArc1 khi chưa có.
+**Trưa5/8/1349, Backlund.** Arc2 hướngA được duyệt, phạm vi38chương031–068. Lô034–036 đã viết; kế tiếp037–039. Arc3 vẫn cần duyệt riêng sau068. Không suy lời duyệt toàn bộArc1;001–033 giữ nguyên trong lô này.
 
-## Sự kiện đã viết
+## Người và việc đã xác minh
 
-- EvanSeq9 từ20/7, chưa tiêu hóa hoàn toàn, không kỹ năng chiến đấu/phép mới. Tay phải vẫn đau; sẹo cổ tay trái là vết cũ khác.032 khai triệu chứng và được dặn báo mất đoạn thời gian/mất tự chủ; không có lời khai trực tiếp về ma dược/Danh sách/xuyênkhông.
--031 nhận18p côngRusk sau khi kiểm xong24tờ hình. TrảAda36p kỳ26/7–1/8 và1p bánh:27+18−36−1=8p.032 ăn2p/trả5p đêm2/8=>1p.033 ăn1p=>0, nhận240p ứng và mua bánhđường1p=>**239p**. Chìaphòng6 trả033, không nợAda hiện tại.
-- Hợp đồng đánh giá kho8£; đã ứng1£ nằm trong8£, còn7£ chưa nhận. Vé/phòng được khách trả trực tiếp, không tiềnmặtMC/không nhập nợIona. NợIona vẫn132£,min2£ kỳ31/8; ba nghiên cứu riêng hợp pháp có quyền ưu tiên mua giáthỏa thuận, không bán lại sản phẩm khách đã thuê.
-- Chìa ngăn phụ trảRuth031 có biênnhận. Bản vẽ012 và nháp gốc bàn giao032, Evan mang bản sao đã đối và biênnhận. SổBram/vậtquảnthúc không theo hànhlý. Đồnghồ vẫn đã bán; không nguyênliệu dư.
--032 phúc đápRuth chỉ cho mô hình liên hệ tạm giữa việc dùng mục lục đóng dấu làm căn cứ và lệch hồi tưởng; không xác minh mọi giới hạn/nguồn vật phẩm. Người hỏiRusk có vẻ hỏi nghề, danh tính cònunknown. Tài xế/ngườiáosẫm đang hỏi bổsung, chưa có tên được đưaMC.
-- Mara chọn ởTingen, Theo còn thử việc và tự hỏi điều kiện, chưa được xác nhận việc lâu dài. Nợ giấyẩm/2shcủaMara chưa xóa. Gideon đình chỉ, bồihoànchờxửlý;Kestrelchưabắt.
-- MC chưa gặpKlein/Tarot/Cattleya/Bernadette. Chưa biếtSilas/Nell/Edith/Jonah/Mira;AgnesWard mới là người đại diện trong giấy việc đã xácminh. K0điềutraKlein giữ nguyên; chưaThếGiới.
+- Evan tớiBacklund sáng4/8, xác nhận khoAshwick,AgnesWard, phần việc và nhà trọ khớp giấy đã kiểm. Ashwick là địa điểmAU, không phải địa danhcanon mới được xác nhận. Cầm chìa phòng mới ởBacklund; phòng cơ bản khách đã thanh toán theo đợt, ăn/giặt riêng.
+- Agnes là đại diện khách, cần lối chuyển hàng và tiến độ; NellPrice kiểm cơ cấu/kết cấu theo nghề, có quyền giới hạn phần ký. Evan chỉ đối sách/nguồn và ghi số theo hướng dẫn, không biết tính tải hay xác nhận kết cấu.035 sửa nhầm hai lần ghi thành hai bản sách; vật thực tế chỉ một, đã cho mượn rồi nhận trả.
+- Một tiếng chuông034, khối nặng sau lưới hạ và cửa bắc đóng; giờ đóng có thay đổi khiếnNell hỏi. Chưa có chứng cứ vòng không gian, ảnh hưởng ký ức hay thủ phạm. Không dùng cảm giác/linhthị để giải.
+-036 Nell tìm em họEdithPrice,19tuổi: lầnNell trực tiếp gặp cuối là chiều1/8. Người giữ phòng báo hai đêm không về; Agnes chỉ nghe người quản khu phụ chuyển lời thôi việc, chưa gặp trực tiếp từ2/8. Hai suất ăn được đặt từ2/8, có hai bát/hai thìa; chai được người nấu nói là đồ rửa vết thương có giấy mua. Hộp bị kéo vào cửa dịch vụ từ trong, không thấy mặt; gọi tên không có lời đáp rõ. Chưa biết người ăn là ai, cóEdithhay không, tự nguyện hay bị giữ.
+- Nell đã báo tìm người036, Evan khai đúng phần mình thấy trong sáng5/8. Tuầntra hẹn hỏi kho/nơi trọ trong ngày5/8: **037 phải theo dõi lời hẹn**, không trì hoãn đểMCtự phá án. Chưa có lý do xác nhận vụphi phàm hoặc gọi nhóm chuyên trách.
 
-## Bước tiếp theo
+## Tiền, quyền giữ và sức khỏe
 
-034 đếnBacklund ngày4/8, đối người nhận/chỗở/phần việc thực tế. Toàn bộ diễn biến034–068 vẫn làPLAN; không ghi trước kếtquảcứu/người/thu nhập/tiêu hóa. [Outline](../arcs/arc-002/CHAPTER_OUTLINE.md) và [ledger lời hứa](setup-payoff-ledger.md) đã đánh số38chương. SnapshotArc1 ở [FINAL_RECAP](../arcs/arc-001/FINAL_RECAP.md).
+- Sau033:239p.034 ăn ga2p+trưa2p=>235p.035 thư riêngMara1p+tối2p=>232p.036 sáng1p+bánhtrưa2p=>**229p**, chốt trước bữa tối5/8. Thư xác nhận công việc gửiIona do kho chuyển theo phần việc; không tính hoàn lại phí thư riêng. TiềnNell trả người giao/đồ ăn là của cô, không thuộcMC.
+- NợIona132£,min2£ kỳ31/8 vẫn nguyên. Công việc8£ gồm1£ đã ứng,7£chưa nhận. Vé/phòng khách trả trực tiếp, không cộng tiềnmặt/nợ. Quyền ưu tiên3nghiên cứu riêng hợp pháp không gồm sản phẩm khách đã thuê.
+- Seq9 từ20/7, chưa tiêu hóa hoàn toàn, không phép/kỹ năng mới. Tay phải còn đau, ngủ thiếu sau đi tàu; đã nghỉ, không được xem là khỏi. Sẹo trái cũ khác vết phải. Chưa có dấu xám mới trong lô.
+- Chìa ngăn phụ trảRuth031, chìa phòngTingen trả033; gốc bảnvẽ/nháp ởRuth032, bản sao theo người. Không gốcBram, vậtquảnthúc, đồnghồ hoặc nguyênliệu dư trong túi. Các tập kho mở xong trả về ô; chỉ giữ phần được phép.
+
+## Các tuyến chưa đổi
+
+Mara/Theo ởTingen theo lựa chọn riêng,Theo còn thử việc, nợgiấyẩm/2shMara chưa xóa. Gideon đình chỉ, bồihoàn chưa chốt;Kestrel chưa bắt, người hỏiRusk chưa địnhdanh. Chưa nhận kết quả mới về tài xế/bụi/ngườiáosẫm. MC chưa gặpKlein/Tarot/Cattleya/Bernadette;K0giữ nguyên. Người quản khu phụ chưa được giới thiệu tên;Evan chưa biếtSilas/Danh sách của ông, chưa biếtJonah/Mira.
+
+## Nguồn tiếp theo
+
+[Outline](../arcs/arc-002/CHAPTER_OUTLINE.md), [clueledger](../arcs/arc-002/clue-ledger.csv), [reviewlô](../reviews/arc002-batches.md), [sổlờihứa](setup-payoff-ledger.md). Mọi kết quả037–068 vẫn PLAN, không đẩy vào ký ức nhân vật hoặc nguồn tiền trước khi viết.

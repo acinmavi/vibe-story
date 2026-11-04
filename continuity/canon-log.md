@@ -40,3 +40,7 @@ Khi AU thay người nhận lá Ẩn Giả, phải tính lại nguồn nhật k�
 ## Sự kiệnAU đã viết031–033
 
 1–3/8/1349: quyết toánRusk/Ada, trả chìa ngăn phụ/gốc bảnvẽ choRuth, nhận phúcđáp nghiệpvụ giới hạn; ký việcBacklund sau kiểmnguồn, nhận1£ứng trongphí8£, rờiTingen bằng tàu3/8. Đây làAU, không tuyênbố lịchchuyến/giácước làcanon. Chưa đếnBacklund, chưa gặpKlein; không chuyển hồsơ tớiDunn/Neil trên trang. Vì vậy cầu lan truyền vào tuyếnKlein vẫnUNKNOWN, không được ghi đã chứngminh không ảnhhưởng.
+
+## AU đã viết034–036,4–5/8/1349
+
+Evan đếnBacklund và làm ở khoAshwickAU, nơi ở/khách khớp nguồn; làm quenAgnesWard/NellPrice.036báo tìmEdithPrice với tuầntra thôngthường, dự kiến kiểm kho/nơi trọ cùngngày. Chưa cóKleinhoặc nhânvậtcanon xuất hiện, không gọiSherlock/ThếGiới, không gán giáophái choRuth hoặc bậcphi phàm cho người mới. Không chọn phố/quận hoặc giá tàu như một dữ kiệncanon;Ashwick, lịch làm/giá ăn/nhàtrọ và vụmất tích làAU. Không đánh đồng sương đôthị bình thường với ĐạiSươngMùcuối1349. Tìm kiếm bổsung lầnnày lẫn nhiều fanfic, không dùng chúng làmnguồnlore và không tuyên bốđãkiểm lại nguyênvăn mọi cảnhBacklund.

@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 33,
+  "as_of_chapter": 36,
   "loops": [
     {
       "id": "L1",
@@ -39,6 +39,22 @@
       "due_arc": 2,
       "status": "partially_resolved",
       "resolution": "033 independent employer verification and accepted paid contract allow departure; debt repayment and final work remain open"
+    },
+    {
+      "id": "L7",
+      "question": "WhereisEdithPrice,andwho receivestwomeals/woundcareintheannex?",
+      "due_arc": 2,
+      "status": "open",
+      "first_chapter": 36,
+      "limits": "Noface/identity/coercionorsupernaturalcauseproven;ordinarymissingpersonfollowuptoday"
+    },
+    {
+      "id": "L8",
+      "question": "Whywasthenorthdoorclosingtimechanged,andhowdoitsmechanicsrelatetotheannex?",
+      "due_arc": 2,
+      "status": "open",
+      "first_chapter": 34,
+      "limits": "Onebell/loweringmass/closeddoorobserved,notspatialloopproof"
     }
   ],
   "future_thread_groups": {

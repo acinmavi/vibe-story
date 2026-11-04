@@ -40,3 +40,17 @@ Các đáp án đề xuất P03/P06/P13/P14/P15 ở [SCENARIO_SOLUTIONS](../arcs
 ### Cập nhật có chứng cứ sau lô031–033
 
 P08nợ132£còn nguyên;P10Theo còn thử và tựhỏi điều kiện032,khôngxóanợ/Mara2sh;P16Jonas/tàixế được yêu cầu hỏi bổsung032,chưa cóđáp ánđượcgiao. P06mô tả người hỏiRusk032khôngđủđịnhdanh. Gốc bảnvẽ012vànháp giaoRuth032, bảnsaotheoEvan033; không dùng gốc như vẫn ở phòng. Các mốc tươnglai làPLAN, các đáp án tácgiả đãchốt chưa được tính làđộcgiảđãnhận.
+
+### Cập nhật034–036
+
+P09:034–035đã xác nhận công việc/nơi ở thực tế; phần đến đúng nơi được trả trêntrang. Thu nhập còn lại và địnhdanh người hỏiRusk không vìvậy đãkhép. P12:229p trưa5/8,tayphải cònđau,phòngkhách trảtrực tiếp. Chưa trảP13/P14/P16tronglô này;037dự kiến cóthư kếtquả nguồn và phải theo dõi lời hẹn tuầntra5/8.
+
+| IDmới | Gieo | Trạng thái thật | Mốc kiểm/trả PLAN |
+|---|---|---|---|
+|A2C1|034chuông/lưới/khối nặng hạ/cửa bắc đóng và đổi giờ|Chưa biết cơ chế; không kýứcbiếnđổi|042/047đối cấu hình,057–058đo trước cao trào |
+|A2C2|036hai suất từ2/8/hộp/haithìa|Chưa biết ai ăn; chưa thấy mặt người nhận|052/054đối tínhiệu và người cần chăm |
+|A2C3|036chai rửa vết thương theo lời bếp/cógiấymua|Chưa biết người bịthương, không tựthử thuốc|040/054/055nguồnngười/khám |
+|A2C8a|035thử nêm/thớ gỗ thường theo nghềNell|Chỉ nền kỹthuật, chưa đo cơ cấu cửa|049/057/058đo biên thật, không phépmiễnphí |
+|A2R1|036tuầntra hẹn kiểm kho/nơi trọ cùngngày|Đã báo, chưa cókếtquả kiểm|037trongngày5/8phải cócậpnhật/hậuquả; khônglờihẹn bịquên |
+
+Các dấu mới có bản CSVởarcs/arc-002/clue-ledger.csv; nguồn thực và suy đoán tách riêng. Chưa đánh dấu bíẩntrungtâm đãđược giải.

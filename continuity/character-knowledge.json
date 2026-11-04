@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 33,
+  "as_of_chapter": 36,
   "reader_seen": [
     "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
     "catalog recipient appears to change; independent pencil note remains unchanged",
@@ -26,7 +26,8 @@
     "Gideon illness debt explains motive but does not erase theft; Evan lost checking fee and must answer about pre-awakening shift",
     "arc ends with voluntary research choice rather than a new sealed-object emergency",
     "three bundled future threads: Kestrel/artifact source, Iona debt/Backlund work, gray sensation/origin",
-    "031–033 lawful work, bounded official response and independent employment verification allow departure;239p living cash, no new power or complete relic-origin answer"
+    "031–033 lawful work, bounded official response and independent employment verification allow departure;239p living cash, no new power or complete relic-origin answer",
+    "034–036 seedsnorthdoorclosure/mechanicalconfiguration,twomeals andwoundcarewithoutmemoryalteration;newmysterynotyetclassifiedsupernatural"
   ],
   "MC_verified": [
     "new body is employed in a print shop",
@@ -86,7 +87,16 @@
     "032 original personal012sketch/test transferred to Ruth with receipt and checked copy retained",
     "032 Theo asked one clause and retains own work decisions, return trial sessions not permanent job",
     "033 ordinary archive assessment contract8pounds accepted;1pound advance included, train/lodging direct paid, scope refusal protected, Iona132-pound debt unchanged",
-    "033 departed Tingen by train3Aug, expected Backlund4Aug; not arrived; roomkey returned and address filed with Ruth/Rusk/Ada/Mara"
+    "033 departed Tingen by train3Aug, expected Backlund4Aug; not arrived; roomkey returned and address filed with Ruth/Rusk/Ada/Mara",
+    "034 arrivedBacklund4Aug;AU Ashwickarchive actualaddress/employerAgnesWard and lodging match verifiedpapers;workscopeordinarycatalogandprovenance remains",
+    "034 NellPrice introduced asmechanical/carpentryprofessional;Evan notstructuralinspector;handoffstocktoarchive after use",
+    "034 onebell,counterweight-like massbehindgrillelowers,northdoorcloses;staffsayendshift anddisagreeaboutchangedtime;no supernaturalcause established",
+    "035 napthenreturnedafternoon4Aug;personalarrivallettertoMara sent1p;jobarrivalconfirmationtoIona byarchiveworkmail",
+    "035 receipt/historytwoentriesreferonephysicalbookreturnedfromloan;Evan corrects initialtwocopiesclaim;Nell limits technicalsignoff to inspectedroute andworkerspay",
+    "036 Nell directlylastsawEdithPrice19afternoon1Aug;lodgingnote saysabsenttwonights;Agnesonlyheardresignationthroughunseenannexmanager,no directmeeting since2Aug",
+    "036 kitchenrecordtwomealsfrom2Aug,two bowls/twospoons observed;smallbottleidentifiedbycookaswoundwashwithpurchasepaper,notchemicallytestedbyEvan",
+    "036 foodhatch takestrayfrominside;faceunseen,callingEdithgetsno clearwords;noconsumeridentityorcoercionproven",
+    "036 Nellreportedmissingperson promptly;Evanwitnessonlymorning5Aug;ordinaryofficerwillaskarchive/lodgingtoday andupdatesifEdithreturns"
   ],
   "MC_remembers_original": [
     "book-one names and early Seer period; uncertain dates and current whereabouts",
@@ -102,12 +112,13 @@
   ],
   "forbidden_leak": "MC may remember book-one privately but cannot treat it as verified, expose high secrets, or know offscreen Klein events firsthand.",
   "current_snapshot": {
-    "as_of_chapter": 33,
-    "cash_pence": 239,
-    "sequence": "9 incomplete digestion",
-    "location": "departing train, not Backlund yet",
-    "Klein_contact": "none; investigationK0",
-    "knowledge_limit": "No Silas/Nell/Edith/Jonah/Mira meeting or knowledge; AgnesWard known only through verified employment papers",
-    "Ruth_knows": "reported symptoms/documents/address, not explicit potion/Sequence/transmigration confession"
+    "as_of_chapter": 36,
+    "date": "5Aug1349,noon",
+    "cash_pence": 229,
+    "sequence": "9incomplete/untrained;nonewcapability",
+    "location": "BacklundAshwickarchiveAUandconfirmedlodging",
+    "Klein_contact": "none;K0unchanged;noWorldpersona",
+    "knowledge_limit": "Agnes/Nellmet;Edithknownbyreportsbutnotseen;annexmanagerunnamed/unseen;Silasidentity/Seq8,JonahandMirastillunknown",
+    "institution": "missingpersonreportfiled036;ordinarypolicefollowupexpected5Aug;nochurchsupernaturalclassificationyet"
   }
 }

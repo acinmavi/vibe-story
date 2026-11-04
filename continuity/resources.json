@@ -1,7 +1,7 @@
 {
-  "as_of_chapter": 33,
+  "as_of_chapter": 36,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 239,
+  "cash_pence": 229,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
@@ -38,7 +38,11 @@
     "032 bread1+soup1+roomnight2Aug5:8-7=1p; roomnight not unpaid",
     "033 breakfast1p=>0; advance1pound240p minus travelbread1p=>239p; no double-counted fare or lodging cash",
     "033 debt remains132pounds, no minimum payment yet;7pounds of8-pound job fee not paid yet",
-    "033 room6key returned; drawerkey returned031; original sketch/test transferred032; personal copy and receipts travel"
+    "033 room6key returned; drawerkey returned031; original sketch/test transferred032; personal copy and receipts travel",
+    "034 stationbread/hotwater2p+lunch2p:239-4=235p;basiclodging paid directly byclient,notcashexpenseorrebate",
+    "035 personallettertoMara1p+dinner2p:235-3=232p;workconfirmationtoIona by archive mail/directclientcost",
+    "036 breakfast1p+lunchbread2p:232-3=229p asofnoon5Aug;dinnernotyetbooked;Nellownfood/couriermoney notEvanexpense",
+    "034–036 no newpowers/items/formula/ingredients/debtpayment or7-pound remainder;rightforearmpain andsleepfatigue persist"
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 0,
@@ -50,10 +54,12 @@
   "first_due_date": "1349-08-31",
   "priority_purchase_right": "first3 research papers subject to lawful ownership and separately agreed price",
   "artifact_ownership": "none; registry sheet17 and seal held by specialist church custody",
-  "room_charges_outstanding": "none at Ada; settled through1Aug for36p031, night2Aug5p032; room6key returned033",
-  "backlund_offer": "accepted033;8-pound ordinary assessment contract,1-pound advance included in8,7 due subject to completion; train/lodging paid directly by client, no addition to Iona debt",
+  "room_charges_outstanding": "none at Ada; Backlund basic lodging verified034/directly paid by archive for booked work period;meals/laundry extra",
+  "backlund_offer": "accepted033 and actual site/scope verified034–035;8-pound ordinary assessment job,1pound advanced within8,7 unpaid;meals/personalpost personalcash",
   "personal_research_rights": "Iona priority first3 lawful independently owned research papers at separately agreed price; client-paid deliverables excluded033",
-  "travel_status": "one-way ticket received033; train departed3Aug, expected arrival4Aug; no cash fare reimbursement",
+  "travel_status": "arrivedBacklund morning4Aug034;no fare refund in cash",
   "drawer_key": "returned to Ruth031 with receipt; no authority to access old drawer",
-  "pressure_sketch": "original personal012sketch and test handed to Ruth032 with receipt, accurate copy retained; no original Bram or registry carried"
+  "pressure_sketch": "original personal012sketch and test handed to Ruth032 with receipt, accurate copy retained; no original Bram or registry carried",
+  "current_lodging_key": "Backlund lodging key received034;old room6key returned033",
+  "current_work_custody": "only permitted sample/work papers retained;workingstock returned to archive after use;original sketches/Ruth and Bram originals not carried"
 }

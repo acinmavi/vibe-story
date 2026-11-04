@@ -40,3 +40,7 @@ Mỗi trận phải đối thời gian, đồ thật đang giữ, nguồn biết
 ## Cập nhật thật031–033
 
 031:27+18p côngRusk−36p phòng kỳ26/7–1/8−1p bánh=8p.032:8−1p bánh−1p súp−5p đêm2/8=1p.033:1−1p sáng+240p ứng−1p bánh đường=**239p**. Không nợAda hiện tại, đã trả chìaphòng6. Vé/chỗở khách thanh toán trực tiếp, không cộng vào tiền mặt hoặc nợIona. Hợp đồng8£ chỉ ứng1£, còn7£chưa nhận; nợIona132£nguyên, chưa trảnợ. Ba nghiên cứu riêng không gồm sản phẩm khách đã thuê033. Không năng lực mới; tay phải còn đau; nguyên liệu không dư.
+
+## Cập nhật thật034–036
+
+239p−2p ăn ga−2p trưa034−1p thư riêng−2p tối035−1p sáng−2p trưa036=**229p**, chốt trưa5/8. Chi phí/giá đời thường làAUcủadựán, không tuyên bố giácanon. PhòngBacklundđã được đối thanh toán trực tiếp, không hoàn tiền vào túi; chìa phòng mới nhận034. Không công7£mới/không trảnợIona. Không năng lực, vậtphẩmphi phàm, côngthức hoặc nguyênliệu mới. Tayphải cònđau, nghỉbùtàu034–035;Evanchỉghi số không nhận kỹ năng tính tải. Khối nặng034chưa được chứng minh làvậtphi phàm, không thuộc inventoryMC. Gốc hìnhrãnh vẫn ởRuth,bản sao theo người,đồ kho trả đúng ô.

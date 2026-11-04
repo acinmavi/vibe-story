@@ -1,9 +1,8 @@
-# Checkpoint — mở Arc002, sau033
+# Checkpoint — sau lô034–036
 
-- Chỉ quy-bi-ke-den-sau/project;mọi shellrtk;khôngremote/push.001–030giữ nguyên. UserduyệtA/startArc2/35–40chương;chốt38ch031–068,approvalarc002true,stagearc2_writing. Approval/outlinecommit29d4fe1.
-- Lô031–033viết xong, reviewđộc lập đãtìm vàsửa giờhẹn032(sángmai);033bỏcâumeta dư. Review tiền/ngày/chìa/agency/nănglực khôngcólỗi nghiêmtrọng.
-- 3/8/1349: tàu vừa rờiTingen;chưaBacklund. Seq9chưa tiêuhóa, không phép/kỹnăngmới. Cash239p,nợIona132£min2£due31Aug. Job8£ứng1£đãnhận/còn7£chưa, véphòngtrảtrựctiếp.
-- Adađãnhận36p kỳ26Jul–1Aug031và5p đêm2Aug032;chìaphòngtrả033. ChìangănphụtrảRuth031,gốcsketch/nháp bàn giao032,bảnsaotheoEvan. KhônggốcBram/vậtquảnthúc/đồnghồtronghànhlý.
-- Ruth032chỉmẫu liênhệ tạm,cơchế/nguồnPhiếu17chưađầyđủ;visitorRuskchưađịnhdanh. Mara/TheoởTingen,tựquyếtđịnh,Theo cònthửviệc. KleinK0,nocontact/nothẻTarot/chưaThếGiới.
-- Tiếp034–036theooutlineđãduyệt,khôngcầnxinphépArc2lại. Nhậtkýcanon/tri thức/inventoryphảiđọctrướclô. KhôngviếtArc3sau068khi chưađượcduyệt. Khônggiảvờchạyngoàiphiên.
-- Đọc DOC_TRUYEN.md/ARC_002.md;dữliệuactualởcontinuity,khônglấyPLANtrongsealedlàmnhânvậtđãbiết. CácmốcP01/P02khóanguồntácgiảtrướcArc3,cấmgiảilàgiấcmơhoặcdùngcứutrận.
+- Chỉ quy-bi-ke-den-sau/project, shellrtk, khôngremote/push. Arc2hướngA được duyệt38ch031–068;approvalcommit29d4fe1. Lô trước60fb7c8,giữ nguyên001–033/ARC_001. Lô hiện034–036đã viết vàblindreviewPASS;commitcuối xemgitHEAD.
+- Trưa5/8/1349,Backlund: khoAshwickAU/AgnesWard/nhàtrọ/phạmvi được đối034;NellPrice thợ cơ cấu/người thânEdith. MC không tính tải/khôngnănglựcmới,Seq9chưa tiêu hóa,tayphải còn đau.
+- Cash229p:239−4ăn034−3thưriêng+tối035−3sáng+trưa036. Phòng khách thanh toán trực tiếp;8£job/1£ứng nằmtrong8,7£chưa nhận;132£Iona nguyên,min2due31Aug. Chìa mớiBacklund034;chìacũ/gốcrãnh ởRuth;khôngđồquảnthúc/gốcBram/đồnghồ/nguyênliệu dư.
+- C1chuông/cửa/khối nặng034chưa chứngminhphi phàm.036Edith19tuổi vắngtrọ2đêm,Nellgặpcuối1Aug;Agneschỉnghelờiquảnkhuphụ.Thứcăn2suấttừ2Aug+chaiwoundwash,hộpkéovào khôngthấymặt/chữđáp;chưabiếtaiăn/tựnguyệnhaybịgiữ. Tuầntrađãnhậnbáo, hẹnkiểmkhokèmnhàtrọtrong5Aug:037phảitrảlờihẹn.
+- Tiếp037–039theooutlineđãduyệt:thưTingen/nguồncũ vàcậpnhậtkiểmtra;đosớmbằngvậtvôsinh/nghềNell. Khôngchuyểnsealedthànhtri thứcMC. ChưaSilasname/Seq8/Jonah/Mira;KleinK0/noTarot/chưaThếGiới. Mọi037–068làPLAN.
+- Đọc DOC_TRUYEN/ARC_002;currentstate,resources,knowledge,clueCSV,setup-payofftrướclô. Arc3vẫncầnphêduyệtsau068. Khônggiảvờchạyngoàiphiên. Work_state:quy-bi-ke-den-sau-arc002-writing;khôngđụnglisttruyệnkhác.
