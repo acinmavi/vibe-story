@@ -1,6 +1,6 @@
 # STYLE_GUIDE — Tiêu chuẩn biên tập văn xuôi
 
-Được người dùng duyệt ngày 04/11/2026 qua bản thử [chương 003](chapters/003.polished.md), và cho phép áp dụng biên tập văn phong cho toàn bộ 001–030. Quyền sửa bao gồm chương 001 đã khóa; không mở quyền viết chương mới hoặc đổi trạng thái duyệt arc. Quy tắc canon, continuity và giới hạn nhân vật trong AGENTS/bible vẫn là ràng buộc nền.
+Được người dùng duyệt ngày 04/11/2026 qua bản thử [chương 003](chapters/003.polished.md), và cho phép áp dụng biên tập văn phong cho toàn bộ 001–030; sau đó yêu cầu tiếp tục cho Arc 2, 031–068. Quyền sửa bao gồm chương 001 đã khóa; không mở quyền viết chương mới hoặc đổi trạng thái duyệt arc. Quy tắc canon, continuity và giới hạn nhân vật trong AGENTS/bible vẫn là ràng buộc nền.
 
 ## Nhịp câu theo điều đang diễn ra
 
@@ -58,4 +58,4 @@ Ví dụ dấu đỏ chương 003 cần hai đối tượng rõ: bản gốc có
 4. So từng thay đổi: sự kiện, thứ tự, lời thoại, thời gian, tiền, vật chứng, kiến thức, năng lực và điểm nhìn. Nếu câu trau chuốt làm sai nghĩa, ưu tiên nghĩa.
 5. Báo ví dụ trước/sau, số từ theo cùng cách đếm và số đoạn. QA cấu trúc chỉ bổ trợ; người dùng duyệt văn rồi mới áp dụng trong phạm vi được cho phép.
 
-Phạm vi đã duyệt: áp dụng tiêu chuẩn bản thử cho chương 001–030, QA từng chương, commit theo nhóm tối đa 5 chương; không push, merge hoặc viết thêm chương. Cập nhật bản đọc và số từ theo văn bản đã sửa. Riêng SHA khóa chương 001 phải có bản lưu SHA cũ và căn cứ người dùng cho phép biên tập; giữ nguyên các cổng duyệt arc. Không đổi sự kiện trong continuity.
+Phạm vi đã duyệt: áp dụng tiêu chuẩn bản thử cho chương 001–068 (hoàn tất Arc 1 trước, tiếp Arc 2), QA từng chương, commit theo nhóm tối đa 5 chương; không push, merge hoặc viết thêm chương. Cập nhật bản đọc và số từ theo văn bản đã sửa. Riêng SHA khóa chương 001 phải có bản lưu SHA cũ và căn cứ người dùng cho phép biên tập; giữ nguyên các cổng duyệt arc. Không đổi sự kiện trong continuity.

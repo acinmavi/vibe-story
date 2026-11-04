@@ -2,15 +2,17 @@
 
 Ngày 04/11/2026. Nhánh `edit/prose-polish-arc1`. Nguồn so sánh: commit `8e838312e8c5560d00e637a4feaf08613f67989c`.
 
-Người dùng duyệt bản thử 003 và STYLE_GUIDE, cho phép sửa toàn bộ Arc 1, gồm chương 001 đã khóa. Không có quyền viết thêm chương, push hoặc merge. Các trạng thái duyệt arc giữ nguyên.
+Người dùng duyệt bản thử003 và STYLE_GUIDE, cho phép sửa toàn bộ Arc1 gồm001 đã khóa, rồi yêu cầu tiếp Arc2. Không viết thêm chương, không push/merge; không đổi trạng thái duyệt arc.
 
-## Phương pháp
+## Phương pháp và phạm vi QA
 
-Đọc và đối chiếu theo từng chương; chọn chuỗi câu rời có cùng trọng tâm, nối quan sát với động tác và cảm giác đã có. Giữ hội thoại, các khoảng ngắt nghệ thuật, điểm nhìn, mức chắc chắn và chi tiết vật chứng. Không thêm cảnh hoặc tô dài để đạt chỉ tiêu từ. Mọi bản gốc có thể xem tại commit nguồn ở trên. Số từ dưới đây đếm bằng split(), gồm tiêu đề; đoạn là khối cách bằng dòng trắng, không tính tiêu đề.
+Đọc trọn từng chương và phần nối, chọn chuỗi câu rời có cùng trọng tâm. Giữ lời thoại, khoảng ngắt nghệ thuật, điểm nhìn, mức chắc chắn, nguồn và vị trí vật chứng. Đề xuất được soát semantic trước khi áp dụng; loại mọi chỗ có thể thêm tác nhân, mục đích, vị trí hoặc độ chắc chắn. Không thêm cảnh hoặc làm dài để đạt chỉ tiêu từ.
 
-## Theo dõi từng chương
+Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách bởi dòng trắng, không tính tiêu đề. Mỗi chương có kiểm máy riêng: tiêu đề, nguyên chuỗi chữ số, nguyên toàn bộ trích dẫn kép/đơn theo thứ tự, biến động độ dài. Script dự án kiểm cấu trúc và cổng duyệt; máy không tự chứng minh tương đương ngữ nghĩa hoặc chất lượng văn.
 
-| Chương | Từ trước → sau | Đoạn trước → sau | Đối chiếu trọng điểm |
+## Đối chiếu từng chương
+
+| Chương | Từ trước → sau | Đoạn trước → sau | Trọng điểm bảo toàn |
 |---|---:|---:|---|
 | 001 | 3000 → 3000 | 139 → 139 | Giữ các nhịp đứt của cú sốc xuyên không, tin nhắn, tên tự hiện và tiếng gọi; nối miêu tả cùng chủ thể, không lý giải dị tượng. |
 | 002 | 2159 → 2175 | 121 → 121 | Giữ đếm Một. Hai. Ba., việc chỉ ký nhận hòm, mất tiền kiểm và nhịp gãy chì; nối việc đọc phiếu, học thao tác và đường về phòng. Hai câu ngắn được kiểm và giữ nguyên. |
@@ -43,4 +45,4 @@ Người dùng duyệt bản thử 003 và STYLE_GUIDE, cho phép sửa toàn b�
 | 029 | 2035 → 2039 | 78 → 78 | Nợ132; trả48penny còn28; chưa hoàn thiện tiêu hóa; việc nghiên cứu thường không chứng minh biết nghề.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật. |
 | 030 | 2004 → 2010 | 73 → 73 | 27penny; Backlund chưa nhận việc/ứng tiền/vé; quyền3bản và nợ132 tiếp diễn; nguồn xám chưa xác định.; Không sửa thoại, dấu chứng cứ; giữ thứ tự, tri thức hạn chế, rủi ro và quyền quyết định nhân vật. |
 
-Các chương ghi trong bảng đã được kiểm lời thoại và thứ tự chữ số bằng máy, đọc đối chiếu phần thay đổi về sự kiện, tri thức, manh mối và nhịp câu. Các phép so văn bản không tự chứng minh tương đương ngữ nghĩa. Báo cáo sẽ chốt sau khi hoàn tất đủ 30 chương.
+Đã đối chiếu 30/30 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
