@@ -1,3 +1,9 @@
+# Lưu trữ contract Arc2 — hoàn tất031–068
+
+**Contract dưới đây là lịch sử trước khi viết. Trạng thái cuối tạiFINAL_RECAP/CURRENT_STATE;điềuchỉnhactualtrongCHAPTER_OUTLINEphảighiđèplanngược. STOPtrước069.** 068cash1376p/debt130£/31Augminimumcovered;SeptemberdayUNKNOWN,khôngngày30Sepmặcđịnh. 053tối9Aug/056tối10Aug;criticalguideclockchỉ063;artifactvẫnLOWguardedchưadisabled064–068.
+
+---
+
 # Hợp đồng nối cảnh — hoàn tất041–068
 
 User yêu cầu hoàn tấtArc2,review/QA/commit từng lô, tổng kết/memory/đường dài/manh mối/3hướngArc3; cấm viết069. Baseline dc1c323;001–040đóngbăng trong côngviệc này. Tất cả tác giả chỉ viết tệp được giao, khôngmetadata/commit/reader.

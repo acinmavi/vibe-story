@@ -1,6 +1,6 @@
 # Arc 002 — Cánh cửa cuối ca
 
-**HƯỚNG A ĐÃ ĐƯỢC DUYỆT04/11/2026; triển khai38chương. Các diễn biến chưa viết vẫn là PLAN.** 38 chương 031–068, dự kiến 1–13/8/1349. Thời gian/cỡ arc có thể đổi sau góp ý Arc 1. Trạng thái thật vẫn dừng 030; approval Arc002=true, phạm vi031–068. Phác thảo 031–075 trong long-game/roadmap.md là bản cũ, không phải lệnh viết hoặc lịch thăng cấp được duyệt.
+**HƯỚNG A ĐÃ ĐƯỢC DUYỆT04/11/2026; triển khai38chương. Các diễn biến chưa viết vẫn là PLAN.** 38 chương 031–068, dự kiến 1–13/8/1349. Thời gian/cỡ arc có thể đổi sau góp ý Arc 1. Trạng thái thật đã hoàn tất031–068;approvalArc002=true,Arc3chưa duyệt. Phác thảo 031–075 trong long-game/roadmap.md là bản cũ, không phải lệnh viết hoặc lịch thăng cấp được duyệt.
 
 ## Ba hướng được cân nhắc
 
@@ -86,3 +86,7 @@ HướngA và quyền điều chỉnh đã được bạn duyệt. Tác giả ch
 ## Quyết định triển khai04/11/2026
 
 Bạn chọn A, yêu cầu35–40chương và cho phép điều chỉnh các phần còn lại/startArc2. Chốt38chương031–068, thêm035/039/046/051/055/058 nhưoutline; giữ lịch1–13/8, Seq9đếncuối và các giới hạn đãreview. Các giá/cơ chế/đáp án tiếp nối được chốt làm hồ sơ tác giả, nhưng chỉ chuyển sang trạng thái thật sau khi viết. Không đòi duyệt lại từng chi tiết thông thường. Chính sách can thiệpNeil/Tingen phải được thiết kế với hậu quả thật trước nhánh đó, không ép nguyên tác tự trở về kết quả cũ.
+
+## Chốt thực tế
+
+Đãhoàn tất38chương031–068,1–13/8/1349. [Bàn giao](FINAL_RECAP.md)làtrạngtháiđãviết;[reviewhoàntất](../../reviews/arc-002-completion.md)giữQA/giớihạn. Bảngđiểmvàkếhoạchtrênlàlịchsửthiếtkế,khôngđánhgiáđộcgiảhoặcsựkiệnchưađượcviết. Khôngmở069/Arc3.

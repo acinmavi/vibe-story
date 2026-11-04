@@ -20,20 +20,26 @@
     {
       "id": 2,
       "title": "Cánh cửa cuối ca",
-      "status": "in_progress",
-      "chapter_range": "031–068 authorized;031–064 written",
-      "date_range": "1–13Augplanned;asofnoon6Augactual",
+      "status": "complete",
+      "chapter_range": "031–068",
+      "date_range": "1349-08-01 through1349-08-13",
       "genre": "bounded spatial mystery and coordinated rescue",
-      "location": "Tingen031–033;BacklundAUarchive034–036",
-      "mechanism": "fixed paired thresholds and mechanical configuration, PLAN not yet encountered",
-      "antagonist_motive": "coercive protection and concealed responsibility, PLAN authoronly",
-      "resolution": "coordinated civilian/specialist extraction with tested load/timing, PLAN",
-      "protagonist_power": "Seq9untrained;no new demonstrated magicalability through040",
-      "institution": "ordinarywork/leaseverification;policevisit5Aug037/meeting6Aug040,independentmedicalrequestopen",
-      "moral_cost": "respect consent and distribute expertise;decline monopoly on knowledge",
-      "relationship_change": "NellprofessionallimitsandEdithautonomy;Agnesoperationalcosts;Silaspolitecontrol/unverifiedcareclaims,notfriendorenemyconclusivelyestablishedtoMC",
-      "next_arc_gate": "after068 separateArc3approval",
-      "actual_date": "1349-08-12"
+      "location": "Tingen031–033;BacklundAshwickAU034–068;MaraPOVTingen051",
+      "mechanism": "Fixed paired thresholds controlled by mechanical configuration, no memory alteration",
+      "antagonist_motive": "Silas coercive safety/control and concealment of responsibility after2Aug shelf accident; actions independently witnessed, legalverdict pending",
+      "resolution": "Separate food/voice/consent clues, tested six-foot bridge/alternate+two-door branch control;22s actualguidehandoff then visibleprofessional arrest, allpeopleout",
+      "protagonist_power": "Seq9 throughout;incomplete digestion,no newcombatmagic/Seq8recipe",
+      "institution": "patrol followup5/6/7Aug;specialistdeployment8Aug;Marshcontact/directexam12Aug;professionalcustody afterrescue",
+      "moral_cost": "rightarm injury/leftpalm abrasion,temporaryworkingnote loss,paidresearchfee/ordinarylivingcosts;choose people over paper/control",
+      "relationship_change": "Nell/Edith/Jonahretainagency;Agnesaccountability withoutabsolution;Miraconditionalaccess;MaraTheoindependentchoices deliveredbyletter",
+      "next_arc_gate": "Arc3 proposals only;explicit newapproval required before069",
+      "actual_date": "1349-08-13",
+      "long_tail": [
+        "130GBP debt/Septemberdatequestion",
+        "19AugNeildecision",
+        "conditionalSeq8source",
+        "Tingenpursuit/originstillopen"
+      ]
     }
   ]
 }

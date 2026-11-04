@@ -54,6 +54,57 @@
       "result": "escape topublicstreet,patrolresponds immediately,nopaperloss",
       "cost": "forearmaggravated,medical4p+food2p044,missedwork",
       "agency": "Nellcart/route;Evanwithdraws;Rowequestionsseparatewitnesses;Marshordinarycare"
+    },
+    {
+      "scene_id": "A2-F2",
+      "chapter_range": "059–062",
+      "story_date": "1349-08-11/12",
+      "mc_sequence": "9 MysteryPryer incomplete",
+      "klein_identity": null,
+      "klein_sequence": null,
+      "enemy_sequence_author_only": "8 MeleeScholar;POVnotverified",
+      "win": "restoretestedalternate/holdbranch,reachpatientandwithdrawMC",
+      "lose": "bridgeanchorloss/civilianheld/patientnotaccessible",
+      "verified_abilities": [
+        "ordinaryobservation/left-hand lightweightreportline,notdoorgrossload",
+        "enemytrainedbody+prybar/hammeratweakjoints,notbarehandbeam-breaking"
+      ],
+      "prepared_items": [
+        "primary/independentalternate tested057058",
+        "D1/D2normalbolts/toolports/shields",
+        "mainlog retained/ownworkingnotes expendable"
+      ],
+      "enemy_tactics": "damageprimary059beforepersonload,retreatB,ascendprivatestairs/toolattackD1,seekcontrol of ropeaccess",
+      "team_tactics": "replace/reroute/retestalternate060,keepD2verified,MCretreat/lightline,firstguardcrossfixedfootspan,Marshrealbedexam062",
+      "result": "patientprepared withconsent;D1damaged,criticalguidewedgeunloadedthrough062",
+      "cost": "overnightwork/delaywithactivecare;ownnotesripped/recoveredpartly065;rightarmstillpain/leftpalmabrasion;Agnesbusinessloss",
+      "canon_or_au": "localAU,noKlein"
+    },
+    {
+      "scene_id": "A2-F3",
+      "chapter_range": "063–064",
+      "story_date": "1349-08-12",
+      "mc_sequence": "9 incomplete/no combatmagic",
+      "klein_identity": null,
+      "klein_sequence": null,
+      "enemy_sequence_author_only": "8MeleeScholar,notMCidentified",
+      "win": "bothvictims/entirecrewout,controlassailant/scene",
+      "lose": "unsupportedload/patientfall/bothdoorblockslostbeforehandoff",
+      "available_abilities": [
+        "MCordinaryreports/clearsouterpath",
+        "Nellmechanics,Marshclinical,Edithconsent/help,Vossteamsecurity"
+      ],
+      "items": [
+        "same6ftfixedbridge/independentalternate/ropes",
+        "steel-facedguidewedge tested40s,abort25s",
+        "normalshields/hookrods/bolts/restraints"
+      ],
+      "turning_point": "D1failsbeforetransfer→pausepatientonroomfloor→D2confirmedholds→22srealhandoff/twopinconfirmations/wedgeretrieved;stablepainpauseafterpin",
+      "enemy_tactics": "prybardownD2thenfrontlungeatopeneddoor towardropeholder",
+      "coordination": "medical/civilianoutFIRST;VossteamVISIBLEcrossbridgepatient-sideD2,controlledunbolt/frontrestraint;escortreversebridgeindividual loads",
+      "result": "victimsandallcrewout;Silasrestrained/toolsseparate;artifactstillLOWfixedguardednotdisabled",
+      "cost": "injury/fatigue/patientongoingcare/damageddoors/workingnotes;nocashreward/loot",
+      "canon_or_au": "localAU;noTheWorld/no borrowedfuturepowers"
     }
   ],
   "entry_schema": [
@@ -90,7 +141,7 @@
     {
       "scene_id": "A2-F2",
       "chapter_range": "060–062",
-      "status": "planned_not_actual",
+      "status": "fulfilled, see actual combat_scenes",
       "mc_sequence": "9",
       "enemy_sequence_author_only": "8MeleeScholar;POVunknown",
       "win": "buytestedshorttimeforrescue,notdefeatenemy",
@@ -103,13 +154,13 @@
     {
       "scene_id": "A2-F3",
       "chapter_range": "062–064",
-      "status": "planned_not_actual",
+      "status": "fulfilled, see actual combat_scenes",
       "win": "twopeopleincludingstretcherpatientandsupportersout",
       "lose": "overload/stretcherfall/returnloop",
       "coordination": "Nellmechanical;Edithpatienttiming;Marshcare;Vossteamouterrestraints;Evanvisualsignals",
       "limits": "alltiming/loadtested057–058;nohumanexperimentaltesting;novelruleatclimaxforbidden"
     }
   ],
-  "as_of_chapter": 64,
+  "as_of_chapter": 68,
   "arc001_note": "No direct canon cast encounter, Tarot membership, World mission or Klein origin investigation during Arc001. Future planned leads remain unverified."
 }

@@ -1,7 +1,7 @@
 {
-  "as_of_chapter": 64,
+  "as_of_chapter": 68,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 183,
+  "cash_pence": 1376,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
@@ -54,24 +54,41 @@
     "049breakfast1p→198;050food2p→196;051MaraPOVnoEvancash;052dinner2p→194. No debtpayment/reward.",
     "053same9Augeveningnoextraexpense;054breakfast1p→193;055meal2p→191;056dinner2p→189. No newpower/repayment.",
     "057 breakfast1→188;058meal2→186;059dinner2→184;060breakfast1→183. No other income/advance/repayment.",
-    "061–064 continuous rescue, no new meals/payment or repayment;183p remains. Working notes torn/left, no original evidence lost."
+    "061–064 continuous rescue, no new meals/payment or repayment;183p remains. Working notes torn/left, no original evidence lost.",
+    "065meal2→181;066breakfast1→180;067meal2→178;068dinner2→176+7GBP1680jobbalance=1856−2GBP480Ionaauthorizedreceipt=1376p(5GBP14sh8p). Debt132→130;31AugfirstminimumfullypaidEARLY,Septdateawaitsconfirmation. No reward/3paper sale/lodging14Augprepayment."
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 0,
   "fee_credited_pounds": 12,
   "watch_sale_credited_pounds": 6,
   "potion_package_price_pounds": 150,
-  "iona_debt_pounds": 132,
+  "iona_debt_pounds": 130,
   "monthly_minimum_pounds": 2,
   "first_due_date": "1349-08-31",
   "priority_purchase_right": "first3 research papers subject to lawful ownership and separately agreed price",
-  "artifact_ownership": "none; registry sheet17 and seal held by specialist church custody",
-  "room_charges_outstanding": "none at Ada; Backlund basic lodging verified034/directly paid by archive for booked work period;meals/laundry extra",
-  "backlund_offer": "accepted033 and actual site/scope verified034–035;8-pound ordinary assessment job,1pound advanced within8,7 unpaid;meals/personalpost personalcash",
+  "artifact_ownership": "none; Phiếu17/seal in Ruth team custody027; fixed paired thresholds at Ashwick guarded/sealed access, counterweight LOW, not yet disabled or moved064–068",
+  "room_charges_outstanding": "Ada settled033; archive directly paid booked Backlund lodging through1349-08-13;1349-08-14 onward NOT booked/paid, ask price/vacancy next morning",
+  "backlund_offer": "completed068: authorized ordinary catalog/provenance/unresolved-source deliverables accepted;8GBP total includes1GBP advance033 and7GBP balance paid068;zero fee outstanding",
   "personal_research_rights": "Iona priority first3 lawful independently owned research papers at separately agreed price; client-paid deliverables excluded033",
   "travel_status": "arrivedBacklund morning4Aug034;no fare refund in cash",
   "drawer_key": "returned to Ruth031 with receipt; no authority to access old drawer",
   "pressure_sketch": "original012sketch/test heldRuth032; checkedcopytravels;037permittedRuthletter/transcriptcopiesnew,notoriginalrecords/artifacts",
   "current_lodging_key": "Backlund lodging key received034;old room6key returned033",
-  "current_work_custody": "ordinary measuring notes12ft6in and floor-limit sketch; archive stock returned; no right to open latticed controls; technical signoff belongs Nell/tradesperson"
+  "current_work_custody": "own working pages recovered with permission065; relevant sheets retained by Rowe with permitted personal copy; source originals remain with rightful custodians; no Silas keys/tools/artifact loot",
+  "first_minimum_payment": {
+    "due": "1349-08-31",
+    "paid_chapter": 68,
+    "pounds": 2,
+    "cash_pence": 480,
+    "authorized_receiver": "Beatrice Shaw",
+    "evidence": "Iona9Aug personal authorization compared with separate direct office notice/current staff identity; signed/stamped receipt applies first minimum and principal132→130"
+  },
+  "next_minimum_period": {
+    "period": "1349-09",
+    "pounds": 2,
+    "exact_date": null,
+    "status": "Shaw forwarded date clarification to Iona068; no31September or unilateral amendment"
+  },
+  "cash_display": "5 pounds 14 shillings 8 pence",
+  "health": "rightforearm injury025/aggravated043/care044 still painful; leftpalm minorabrasion061; medicalfollowup requested066, not healed"
 }

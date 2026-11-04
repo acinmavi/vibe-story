@@ -99,3 +99,7 @@ Root đọc toàn văn; blind reviewer đọc riêng057–058 rồi059–060, kh
 ## Lô061–064
 
 Root đọc toàn văn; blind reviewer phủ độc lập031–064, không sealed. PASS: đầu ngoắc mất≠then mất;đường chân cầu cốđịnh≠guidecáng;Marshkhám thật062trướcđồnghồ063. D1vỡ→dừng cáng nềnphòng→xácnhậnD2giữ→chuyển22s/chốt2ngườixácnhận/nêmthu. D2giữsuốtnạnnhânra. Voss+độiquacầuthật,bắtfrontsideconnector,rútngườitừnglượtcùngcầu;khôngteleport/MCđấubậc8. Root/BsửaP3spanEnglish/thờigianrát tay/tấmchắnđãsẵntrong/đoạnđếmtiềnlệch062,trim2câulặp064. Ngườiđủ,taychưakhỏi,đốitrọngvẫnthấp/guardedkhôngtựcoilàoff.
+
+## Lô065–068 và khóa Arc2
+
+Root đọc toàn văn; blind reviewer đã đọc đủ38chương031–068,khôngsealed. PASS:065thangthuđúngnguồn/lờikhaiEdithJonahriêng,tainạn2Augcụthểnhưngchưaphánquyếttoànlỗi;066intro/indexonly/chưacôngthức.067Rusknhậndiệnmới+AgnesgiaoviệccũđốichủArthurFenwick;Mara9viết10gửi13tới;Ruthkhôngtinsau7.068nghiệmthuđúngphạmvi8£gồm1ứng/7thựctrả;Shawđốiriêngủyquyền/tên/nơilàmviệc/trả2£áp31Aug/cash1376p/debt130£. KỳSeptemberchưa ngày/phòng14Augchưatrả;Neilchỉselfdeadline19Aug,nocanonwarning. Rootfix065directionphrase/068clarifycôngthứcBẬCKẾTIẾPchưacó. Không069. TổngArc270.926từ,38chương;toàntruyện135.182từ. QAcuốivàđồngbộmemoryghiởcompletionreport.

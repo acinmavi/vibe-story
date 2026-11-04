@@ -51,4 +51,8 @@
 
 ## Điều chỉnh theo duyệt04/11/2026
 
-38chương031–068, giữ lịch1–13/8 để không kéo dài cứu hộ. Sáu nhịp thêm tại035/039/046/051/055/058 phát triển nghề, quyền tự quyết, giá nguồn tri thức và thử phương án; không thêm sáu ngày chờ. Lô mở đầu031–033. Phần sau lô chỉ là kế hoạch, không phải sự kiện đã xảy ra.
+38chương031–068, giữ lịch1–13/8 để không kéo dài cứu hộ. Sáu nhịp thêm tại035/039/046/051/055/058 phát triển nghề, quyền tự quyết, giá nguồn tri thức và thử phương án; không thêm sáu ngày chờ. Lô mở đầu031–033. Arcđãhoàn tất; bảngtrênlàdàn ýđượcduyệt,bảnbàngiaoghiđiềuchỉnhthật.
+
+## Đối chiếu sau bản068
+
+38chương031–068đãviết. Nhữngđiềuchỉnhthậtđènhịpdựkiến:053tối9/8,056tối10/8;050khôngcòntờdụgốcđểđốichữ;057058nêmGUIDEcầuthườngkhôngnêmchốtđồng049;059pháprimarytrướcngườiqua,060khôiphụckiểmlạialternate.061062chưachịunêmcritical,Marshkhámgiườngthật062;06322shandoff/pin2confirm/nêmthu.064khôngnângđốitrọng:khốivẫnLOWguarded;VossđiquacầutớipatientsideD2/mởcókiểmsoát/bắtfrontconnector/rútcùngcầu.065thangvàtainạn cónguồnlờikhai/vậtchứng.067ArthurFenwick/Rusknguồnmới;068Shawủyquyền/thựctrả2£,Septngàychưachốt,Neilselfdeadline19Augkhôngwarningsent. XemFINAL_RECAPchoactual chronology;khôngdùngdòngkếhoạchcũghisựcốđã xảyra.

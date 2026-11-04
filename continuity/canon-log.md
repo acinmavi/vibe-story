@@ -1,6 +1,6 @@
-# Canon / AU / UNKNOWN — bàn giao sau 030
+# Canon / AU / UNKNOWN — bàn giao sau068
 
-Ngày chốt truyện: **đêm 31/7/1349, Tingen **. CANON chỉ mốc gốc phần 1; không có nghĩa tương lai AU chắc chắn giữ nguyên. Ngày wiki không được nâng thành ngày đã kiểm nguyên văn. Nguồn được đối trong phiên chuẩn bị Arc 2; các trang chỉ đọc được mở đầu không dùng để chứng minh toàn chương.
+Ngày chốt truyện: **tối13/8/1349, Backlund**. Các dòng31/7 và phần bàn giaoArc1dưới đây là mốc lịch sử, không trạng thái hiện hành. CANON chỉ mốc gốc phần 1; không có nghĩa tương lai AU chắc chắn giữ nguyên. Ngày wiki không được nâng thành ngày đã kiểm nguyên văn. Nguồn được đối trong phiên chuẩn bị Arc 2; các trang chỉ đọc được mở đầu không dùng để chứng minh toàn chương.
 
 ## Mốc đối chiếu
 
@@ -16,7 +16,7 @@ Ngày chốt truyện: **đêm 31/7/1349, Tingen **. CANON chỉ mốc gốc ph�
 |29/8|CANON baseline, AU future UNKNOWN|Old Neil chết 162–165|Ngày wiki Volume 1. Nếu có cảnh báo/hồ sơ mới đi tới đúng người, phải dựng lại nhân quả; không khóa chết bằng “canon tự cân bằng” |
 |31/8|CANON baseline| Klein nhận Hề, 168|[Clown Potion](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505/clown-potion_33320651393651504) đối mốc nội dung, ngày theo wiki. Không áp ngược Seq8 vào cuối 7 |
 |Tháng 9, 204–213|CANON baseline, AU future UNKNOWN|Bi kịch Tingen /biến cố Megose–Ince–sổ 0-08|Ngày 9/9 thường được dẫn nhưng **chưa xác minh độc lập trong phiên này**; dùng tháng và thứ tự. Không cho MC biết chính xác mọi bước nhờ đọc lịch nguồn |
-|Sau Tingen, 214–216; khoảng 16/9|CANON baseline| Klein tới Backlund, Sherlock, 15 Minsk|Ngày wiki [Volume 2](https://lordofthemysteries.fandom.com/wiki/Volume_2%3A_Faceless). Arc 2 đề xuất kết 25/8 nên không cho gặp Sherlock |
+|Sau Tingen, 214–216; khoảng 16/9|CANON baseline| Klein tới Backlund, Sherlock, 15 Minsk|Ngày wiki [Volume 2](https://lordofthemysteries.fandom.com/wiki/Volume_2%3A_Faceless). Arc2thực kết13/8,khônggặpSherlock |
 |264–267; khoảng 1/10|CANON baseline|Tạo Thế Giới và buổi họp 5 người|[A Five-Person Gathering](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505/a-five-person-gathering_36292124517387967) mở đầu xác nhận tạo hình nhân Thế Giới; ngày theo wiki. Tuyệt đối không để Thế Giới hoạt động trong Arc 2 |
 |564–566; khoảng 1/1350|CANON baseline / điểm rẽ AU tương lai| Cattleya liên hệ riêng 564, hậu quả 565, họp 566; ngày 24/1 thường chỉ họp đầu|Đối mở đầu [564](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505/knowledge-as-a-pursuer_39382079414268120), [565](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505/eye-of-mystery-prying_39382079397478832), [566](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505/the-details-of-clothes_39462125256632249). Không đồng nhất ngày họp với ngày liên hệ riêng. Fork MC nhận Ẩn Giả chưa được kích hoạt |
 
@@ -27,7 +27,7 @@ Ngày chốt truyện: **đêm 31/7/1349, Tingen **. CANON chỉ mốc gốc ph�
 | Báo AU Welch/Naya | Công chúng → người báo tin → cảnh sát | MC đọc; Klein có đọc không UNKNOWN | Không đưa chi tiết cuốn sổ vào bài báo hồi tố |
 | Hồ sơ 15/22/24/26 và kiểm 28 | Đầu mối Ruth → đội xử lý → mạng nhà thờ | Chưa chỉ rõ giáo phái/đơn vị; không biết chuyển đến Dunn/ Neil chưa | Nếu chọn chuyển, ghi người/giờ/nội dung rồi kiểm lại nhánh Neil / Tingen |
 | Chặn đường sách Kestrel | Nguồn cung → khách hàng → giới occult | Đã mất doanh thu/nguồn bị thu; khách hàng nào UNKNOWN | Không mặc định Kestrel phục vụ Antigonus/Ince/Hội Moses; phải có bằng chứng trước nối |
-| MC rời Tingen nếu được duyệt | Mất nhân chứng tại chỗ, thư/tín dụng/giữ nhà | Chưa rời | Thỏa thuận lấy lời khai/địa chỉ, tiền và thuốc; không xóa nghĩa vụ vì đổi thành phố |
+| MC đãrờiTingen3/8 | Mất nhân chứng tại chỗ, thư/tín dụng/giữ nhà | Đãrời033,giữđịachỉ/liênlạc | Thỏa thuận lấy lời khai/địa chỉ, tiền và thuốc; không xóa nghĩa vụ vì đổi thành phố |
 
 **Không có cầu nhân quả đã chứng minh vào Klein ** khác với **đã chứng minh không có ảnh hưởng**. Hai câu không đồng nghĩa. Mọi diễn biến sau 31/7 vẫn cần kiểm đầu vào AU.
 
@@ -48,3 +48,17 @@ Evan đếnBacklund và làm ở khoAshwickAU, nơi ở/khách khớp nguồn; l
 ## AU đã viết037–040,5–6/8/1349
 
 Chiều5/8tuầntrakiểm đúnghẹn036;thưRuth3/8tới,đối thêm nguồnTingen và tách giờ lấyxe sáng28/6khỏigiờgiao chiều. Sáng6/8đo/kiểmsàn bằngvật,khôngngườithử;trưa6/8gặpSilas,sauđóyêucầu tiếp xúc/khámđộc lập vàhẹnsáng7/8. TênJonahPell/tìnhtrạng/tựnguyện làlờiSilas,chưa phát hiện cơ chếkhônggian trêntrang. Khôngsựkiệncanonneomới,không nhânvậtcanonxuấthiện,khôngđọcngàywiki làmkiếnthứcMC. KhảnănglantruyềnhồsơcũtớituyếnKlein vẫnUNKNOWN. Khôngtuyênbố đãđối nguyênvănmọisức mạnhSeq8;chỉdùngđộngtác thểchất cóthể do kinhnghiệm,khôngđặtphépmới.
+
+## Đồng bộ kết Arc2 —13/8/1349
+
+| Nhánh | Loại | Sự thật và mức chắc | Hậu quả/đường truyền |
+|---|---|---|---|
+| Klein hiện tại | CANONbaseline/INFERENCE | Tingen,Seq9ThầyBói làsuyluậnchắctừneođầutháng8/ch118vàHề31/8;chưaxácminhcănphòng/giờcụthể13/8,MCchưagặp | KhôngWorldpersona/Sherlock/Gehrmanởmốcnày;K0khôngnhậntinvềMC |
+| Ashwick/cặp ngưỡng/đội cứu | AU |034–068BacklundOC,42Rowegặpvòng/ngaybáo,47độiđến,62khámthật/63cứu/64bắt,65ladder/accidentaccount | Khođóng/đơnmất/ngườibịthươngđượcchăm/pháplýbồihoàntiếp;khôngtựnốitổchứccanon |
+| Nguồn tri thức | AU/UNKNOWN | Mira066intro/indexpermissionvàSeq8sourcequerycóđiềukiện,khôngformula;affiliationCattleyaUNKNOWN | Khônggặpcanon/khôngxóanợ/khôngtựthamgiaTarot |
+| Tiền/công/nợ | AU |068nghiệmthu8£gồm1ứng/7thựctrả,2£quaShawáp31Aug;cash1376p/debt130 | NghĩavụSeptemberngàycụthểchưachốt;phòngtừ14Augchưađặt/chi |
+| Neil | CANONbaselinefuture/AUdecisionpending |068MCchỉtựhạnchậmnhất19Aug,chưagửi/chưagặp;29Augnguyên tácvẫnlàngàynguồnthứcấp | TrướcArc3phảichọnđầuvàocảnhbáo/ngườinhận/nộidung,đốilạinguyênnhân;nếucócanthiệphữuhiệukhônggiữmọikếtquảcanonmặcnhiên |
+| Hồ sơTingen | AU/UNKNOWNpropagation | Ruth7Auglàthôngtinmớinhấtđượcgiao050;067nêukhôngthưmới,Kestrelchưacótinbắt | Ruthđơnvị/giáopháichưagán;khôngsuyDunn/Neilđãđọc;khôngcầuđãchứngminh≠đãchứngminhkhôngảnhhưởng |
+| Tarot/Cattleya/Bernadette | CANONbaseline/conditionalAUfuture | MCnotjoined/zeroevents;KleinK0;chưaforkẨnGiả. Cattleyacóagency/mạng/vịtríriêng | NguồnnhậtkýRoselle/vaitròBernadette–KleinphảitínhlạikhiAUđổiCattleya,khôngtựcopycanon |
+
+Nguyên tác sắp tới:nhánhDerrickkhoảng20/8theowikihọp,Neil29/8vàHề31/8theoneođãghi;Tingenbiếncốtháng9,chưađốichắcngày9/9trongphiênnày. ĐâykhôngphảiTriThứcMCđãkiểmhoặcdeadlinean toànchoAU. Đãgiữnguồn/giớihạnprimarycũ,khôngtuyênbốràhếtphần1. [RàgiớihạnẨnGiả](../reviews/arc002-lore-completion.md)nhấnmạnhkhôngdùngWeChat2026/fanfic/thôngsốSeq8chưakiểm.

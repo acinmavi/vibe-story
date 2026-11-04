@@ -1,4 +1,4 @@
-# Sổ tri thức — đối nguồn đến064, chờ chốt068
+# Sổ tri thức — kết Arc2, sau068
 
 Bốn tầng phải giữ riêng. Tài liệu tác giả không biến thành chứng cứ trong POV. Ký ức đọc nguyên tác không có độ chắc như một sự kiện đã kiểm ở hiện tại.
 
@@ -17,7 +17,7 @@ Bốn tầng phải giữ riêng. Tài liệu tác giả không biến thành ch
 | Cặp ngưỡng đồng | Hai khung cố định, active theo chốt đồng/khối thấp; vật vô sinh qua, người cùng đồ mang quay về phía khung |042 Rowe bất ngờ bị trả ngoàiA;047 vật/cấu hình;054 Edith kể lần thoát cũ ởB. Không thử thêm người, không đủ mọi quy tắc sinh học | Không biết | Không sửa ký ức, không giọng gọi; cánh gỗ thường khác chốt điều khiển |
 | Cầu/nêm/tải | Cứu ngoài A/B, giới hạn theo bộ phận đã thử |049 nêm nhánh đồng hỏng không mở vòng.057058 nêmguide thường40s,22snhịp/25shủy; toànmẫu6m40.059primarybịphá/060alternatethửlại;061062criticaltimerchưa chạy | Không biết | Dự phòng có trước phá hoại; lỗ dụng cụ không là đường người đi bí mật |
 | Khám thật | Marsh là bác sĩ thường, chưa gán Danh sách |062 đội đã sang nhịp cố định;Marsh tới giường khám/chăm/chuẩn bị,Jonah đồng ý,còn trên giường trước lượt chuyển | Không biết | Phân biệt mô phỏng và khám thật, không chữa khỏi tức thì |
-| Mara/Theo | Có đời sống riêng tại Tingen |050 chỉ tin có thể có trong thư7/8; chưa tự biết quyết định9/8 | Không biết |051POVMara:Theo từ chối bảo lãnh mới, chọn ít tiền;2sh/nợ cũ không tự hết. Thư9/8chưa gửi khi cảnh diễn ra |
+| Mara/Theo | Có đời sống riêng tại Tingen |067 nhận thư viết9/8/gửi10/8/tới13/8, biết phần Mara kể về lựa chọn9/8; không tự biết toàn cảnh051 | Không biết |051POVMara:Theo từ chối bảo lãnh mới, chọn ít tiền;2sh/nợ cũ không tự hết. Thư9/8chưa gửi khi cảnh diễn ra;067đã tới, không làm mất độ lệch lúc051 |
 | Iona/Selby/Ruth | Biết phần nghiệp vụ họ dự; không mặc định biết xuyên không | Không biết bậc/giáo phái;Ruth chưa được khai Seq9/công thức/nguồn Duy | Không có liên hệ đã viết | Quyền biết giới hạn, không ai toàn tri |
 | Klein/Ngu Giả/Thế Giới | Ngu Giả=Klein;13/8baselineTingenSeq9 là suy luận đối neo;Thế Giới chưa tạo | Ký ức đọc biết bí mật tương lai nhưng chưa xác minh vị trí hiện tại | Giữ vai Ngu Giả của mình;chưa biết MC,không có personaThếGiới lúc này | Không có cuộc gặp; hiểu nguyên tác ngoài truyện không thành cảnh đã viết |
 | Cattleya/Bernadette/Mira | Hai nhân vật nữ có mục tiêu riêng;Mira chưa được xác minh thuộc mạngCattleya | Chưa có kênh liên lạc trực tiếp hoặc lòng tin;Mira bán dịch vụ có giới hạn | Không biết nhánh OC này | Không cameo/không gia nhập Tarot/không tặng công thức |
@@ -31,3 +31,7 @@ Mỗi thư ghi ngày viết và nguồn người gửi có thể biết. Không 
 ##063–064đãviết
 
 Patient/chăm sóc đãra;Jonahhandoff22s/chốtxácnhận2người,nêmthu.D1vỡtrướclượtchuyểnnhưngD2giữđếncivilianout;độiquacầufixedtớiD2,mởcókiểmsoát,bắtSilasfrontconnector,rútcùngcầuđủngười.Vậtcònfixed/khốithấp,guardedkhôngbằngđãoff.Chưacótiền7£/trảnợ/chứngkiếncôngthứcSeq8hoặctinMara9Aug.
+
+## Bốn tầng ở kết068
+
+TácgiảbiếtSilasSeq8vàbiblekén,nguồnP01P02chưakhóađủ;Evankhôngtựnhậncácđiềunày. Evanvàđộcgiảđãthấynghiệmthucôngthường/nhận7£/Shawđốihaiủyquyền/biênnhậntrả2£áp31Aug,gốc130£/cash1376p. 067ArthurFenwick đượcnhậndiệnquaRusknguồnmới+Agnesgiaoviệccũ,khôngtênhồitố. 066Miraintro/indexpermissiononly,Seq8sourcexét riêngchưacôngthức. Neilchỉkýứcchưakiểm,deadline19Augtựquyết/chưacảnhbáo;KleinK0khôngnhậntin/cócuộcgặpmới. ĐộcgiảbiếtthêmtoànPOVMara051;Evanchỉphầnthư067đượckể. VậtcònLOWguardedkhôngbằngoff;tráchnhiệmpháplý/bồihoàn/chămtiếpcònongoing.

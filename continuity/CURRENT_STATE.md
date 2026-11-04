@@ -1,21 +1,31 @@
-# Trạng thái hiện tại — sau chương064
+# Trạng thái hiện tại — kết Arc 2, sau068
 
-Ngày 1349-08-12; Backlund Ashwick AU, morning; all rescued and crew out, Silas in custody. Arc2 đã duyệt031–068; chưa được viết069/Arc3.
+**Tối 13/8/1349, Backlund. Arc2 hoàn tất38chương031–068; chưa được viết069/Arc3.** Evan ở phòng khách đặt hết hôm nay; sáng14/8phải hỏi chỗ/giá trước nhận đêm tiếp. Xem [bàn giao toàn arc](../arcs/arc-002/FINAL_RECAP.md).
 
-Tiền 183p; nợIona 132£. 8£công gồm1£ứng,7£chưa nhận nếu chưa có cảnh nghiệmthu. Phòng/vé khách trả trực tiếp. Seq9chưa tiêu hóa hoàn toàn; không tự cấp phép/côngthức/gray.
+## Người, sức mạnh và tiền
 
-## Sự kiện mới đã viết
+Evan/Duy vẫn Seq9 Người Dòm Ngó Bí Mật, uống20/7; tiêu hóa chưa hoàn toàn, không%đáng tin, không phépchiếnđấu/nguồn xám gọi được. Tayphải025/nặngthêm043/chăm044còn đau, lòngtrái rát061; theo dõi/nghỉ/việcnhẹ, không tự khỏi.
 
-- 061: Silas ordinarytools damage D1; hookloss NOT bolt loss. Outerteam restores hook/shield/visibility;D2alwaysheld. Evan abandons ONLY own working notes, frees left hand/lightweightREPORTline, retreats; primaryresultsretained, no Ruth originals lost/no duel/gray. Leftpalm minorabrasion/rightarmstillpain.
-- 062: firstguard crosses tested FIXEDfootbridge→innerlandingpatient-sideD2,Marsh/crewfollow. EmptycángtoROOMfloor; FIRSThands-onwoundexam/wash/redress/support,Jonahconsents. PatientSTILLbed atchapterend/wedgeUNLOADED.
-- 063: D1failsbeforeactualhandoff;pausewithpatientoncángsupportedROOMfloor,verifyD2held/guardbeforeproceeding. Realguidehandoff22s/2pinconfirmations,wedgewithdrawn,belowabort25s;40stestnotwholeoperation.
-- 063: supported pauseforpainAFTERpin,Jonahagreescontinue;patientarrivesoutside,Edithcrossesfixedfootpathseparately. D2holds throughout;staffstillinsidemustwithdraw.
-- 064: medicalcrewallout;Voss+2professionalsVISIBLEcrosssamebridgejoininsideguardpatient-sideD2,controlledunboltviaouterrod+insidehandle;Silasattacksfrontwithprybarfromprivateconnector,D1behindbroken. Shield/hookrod/teamrestraint/toolremoval/cuffs,notMCbeatingSeq8 orbulletproofpower.
-- 064: prisonerescortedREVERSEsamebridgeincontrolledindividual loads/toolsseparate;allremainingcrewreroutedout/countconfirmed. No new public/privatewalkshortcut.
-- 064: artifactSTILLFIXED/weightLOW;guardedsealedpoints/physicalaccesscontrolled,notyetdisabled/dismantled. No postcapturehumantrial/noMCloot. Jonahcáng/Edith/NellwithMarshforongoingcare,nothealed.
+Tiền **1.376p =5£14sh8p**. Công thường8£đã gồm1£ứng033;7£còn lại được nghiệmthu/thựctrả068, khôngthưởngbắtđịch. TrảIona2£quaBeatriceShawcóủyquyền vàbiênnhận áp kỳtốithiểu31/8;gốc **130£**. KỳSeptembertối thiểu2£,ngàycụthểchờIona trảlời,không31/9/khôngtựsửa. Ba nghiêncứuriêngđầu chỉưu tiênmua theo giáthỏa thuận,chưa bán;đồkháchthuêkhôngtínhlại. Vé/phòngkháchtrảtrực tiếp,khôngtiềnmặt mới.
 
-## Giới hạn và việc cần theo
+## Vụ Ashwick đã khép phần trung tâm
 
-Central rescue achieved;065needsmissingladderactor/independentwitness+physicalcustody,accident/accountability/care. Artifact guarded doesNOTmean allmechanism/sourceknown. No newmagic/recipe/Sequence/contact. Cash183p/debt132£,7£jobbalanceSTILLunpaid. MCdoesnotknow051privatechoiceuntilletteractuallydelivered.
+Edith ởchămJonah,khôngđồngphạm;Jonahbịthương2/8,tựxinra/khám055,Marshkhámthật062. Cángthậtchuyểntải22s063,chốt2ngườixácnhận/nêmthu;Edithquariêng,064toànđộirútđủ. Vossvàđộiđiquađúngcầuđãkiểm,từpatientsideD2mởcókiểmsoát/bắtSilasởconnector,rútcùngcầu,khôngMCđấubậc8.
 
-Các sự kiện trước giữ nguồn tại KNOWLEDGE_LEDGER,resources,setup-payoff và bản thảo. Chìa cũ/gốc rãnh đã bàn giao;không tự đưa vềtúi. K0/Tarot/Cattleya/Bernadette không đổi khi không có cảnh mới.
+065thangcũhaiđoạn/bulông/lót/dụngcụđượcthuđúngnguồn,EdiththấySilastháo/Jonahthấyđoạnmangđi,lờiriêngcógiớihạn. Hai lời kể tai nạn:Silasbảodọndướigiáchưakêxong,vậtnặngnghiêngđèchânJonah,rồingănkhámngoài. Chưaphánquyếtlỗikếtcấu/tráchnhiệmpháplý. Jonah/Edithtiếptụcđượcchăm;Agnesnhậnphầntinlờichuyển/ghinghỉviệc/đóngkho,giữhồsơ,bồihoànchưaxong.
+
+KhungA/BvẫncốđịnhAshwick,đốitrọng **thấp**,đội canh/niêmđiểmtiếpcận;**chưađượccoilàđãvôhiệuhoặctháoxong**. Khôngchiếnlợiphẩm. Nêmcơcấu049hỏng5skhôngmởvòng;guidewedgecầu057058thử40s,nhịp22s/hủy25s,không40scảcuộccứu.
+
+## Quyền biết và nguồn mới
+
+Mira066chỉmởđọcnhậpmôncógiámsát/chỉmụcđượcphép,giờchưa xácnhận;nguồnSeq8xinriêng,chưacôngthức/nguyênliệu/giá/đủđiềukiệnđọc. LiênhệCattleyachưa xácminh. ArthurFenwick067làngườihỏiRusk028:nhậndiệnmớiRusk9/8/ thư10/8+giấygiaoviệccũAgnes,khônghồitốtênđãbiếtbanđầu.
+
+Mara9/8viết/10/8gửi/13/8tới;Evan067mớibiếtphầncôkểvềTheo từchốibảolãnhmới/giữviệcthử. KhôngtựbiếttoànPOV051;nợcũ/2shmấtchưa xóa. TinRuthmớinhấtvẫnthư7/8nhận9/8,Kestrelchưacótinbắtmới;Dale/gốcthư014mất/hai vụ014025chưaghépchung.
+
+## Mốc tiếp theo chỉ để bàn giao
+
+- **14/8:**thu xếp chỗở/giá,việcnhẹ vàtheodõitay;chưađượctrảtrước.
+- **Chậmnhất19/8:**Evanphảiquyếtđịnhcó/cáchcảnhbáogiớihạnchuyệnNeilhaygiữimlặng. Hiện **chưa gửi cảnhbáo**,chưagặpNeil/Klein,chưalàmđổicanon.
+- **Trước viếtArc3:**tácgiảkhóanguồnP01/P02(tinnhắn/giọngmình),lậpđầuraKestrel/Gideon/hai vụhànhhung vànguồnđờiEvan/đồnghồ trongoutlineđượcduyệt. Khôngtựmở069đểgiảiquyết.
+
+KleinK0/khôngquenMC;khôngTarot/ThếGiớinhiệmvụ/Cattleya/Bernadettecontact. BaselineKleinTingenSeq9ngày13/8làsuyluậnđốineo,khôngEvankiểmđượchiệntại. Nhữngquyềnbằngchứngtươnglai vẫn chưađượckíchhoạt.

@@ -1,12 +1,11 @@
-# Kế hoạch tác giả — chỉ dùng khi đến lô 013 trở đi
+# Tiến triển con đường Ẩn Giả — trạng thái sau068
 
-Không phải sự kiện đã xảy ra. Không thay canon hay gắn thông tin nguồn cộng đồng thành ký ức công thức của MC.
+**Lịch sử đã xảy ra:**017đốicôngthứcSeq9bằnghainguồn;018gói150£trừ12£cônggiámđịnhvà6£bánđồnghồ,cònnợ132£;019uống20/7/1349. Khôngkhoảnkýthác12£tiềnmặt,khôngquyềnlấyhồsơkháchvôđiềukiện. XemPOWER_AND_ITEMS/resourceschoquyềnvàcustodythật.
 
-- Đầu mối độc lập: Iona Vale, người giám định sách và chứng từ có mạng lưới nghiên cứu tư nhân, không Cattleya/Bernadette và không cấp cao bất ngờ. Có thể từ chối, không tin MC vì lời đoán thần bí.
-- 013: công đối chiếu nguồn gốc sách có giá trị thật; chỉ cấp quyền gặp người bán, chưa tặng công thức/nguyên liệu. Khoản ký thác12 pound chỉ được dùng nếu xác minh được vụ tráo sổ, không phải tiền mặt đã lĩnh.
-- 017: gói giao dịch riêng gồm công thức Seq9 và nguyên liệu có tổng giá150 pound (giá AU của giao dịch cụ thể, không tuyên bố giá chuẩn canon). Không đủ tiền thì ký nợ có điều kiện, quyền từ chối có thật. Bản công thức được đối chiếu nguồn thứ hai, không đọc trí nhớ sách thành công thức chính xác; không in định lượng bịa.
-- 018: bán đồng hồ kỷ vật nguyên chủ được6 pound;12 pound công đối chiếu được xác nhận và khấu trừ. Còn132 pound nợ Iona, đến hạn theo đợt và quyền ưu tiên mua ba bản nghiên cứu đầu tiên; không xóa nợ cuối Arc. Tiền lương ít ỏi giữ ăn ở, không đủ trả potion. Nguồn nguyên liệu có danh sách giao nhận, kiểm niêm và người thẩm định độc lập; không loot/vay vô hạn. Thỏa thuận cho quyền nhận hồ sơ vụ xưởng nếu thành công là ràng buộc rủi ro, không thiện tâm miễn phí.
-- 019,20/7/1349: uống Seq9 trong phòng thuê phù hợp, có giám sát người hiểu việc và quy trình dừng trước uống nếu sai. Sau uống không có nút reset. Đợt tri thức gây đau, mất ngủ, thiếu đoạn nhớ; dấu lạnh xám giảm một phần, MC không chứng minh ai bảo hộ. Không vào Nguyên Bảo, không chiến đấu/bói toán thành thạo, không đoán cơ chế chỉ bằng linh thị. Iona quan sát dấu lạnh nhưng chưa biết nguồn gốc, không gọi tên tồn tại cao.
-- 020 trở đi: bằng chứng cơ học vẫn quyết định. MC bắt đầu học nhìn/kiểm tra có giới hạn; tiêu hóa chỉ khởi đầu, không đủSeq8 hoặc dùng năng lựcSeq7. Khả năng bỏ qua lời thì thầm không đồng nghĩa miễn nhiễm, không cứu đồng đội bằng sương xám.
+041luyệnlinhthịngắntheophụlụcIonacótrướckhirờiTingen,dừngvìnhức. Cácngàycứu/nghỉthiếu/ngườibịthươngkhôngtựlàgiờluyệntập. 066ghiđúnggiớihạn/không%/khôngtựchấmmộtvụánthành100%tiêuhóa. 068vẫnSeq9chưađủthăngbậc.
 
-Root phải sửa kế hoạch nếu văn đã viết tạo giá/nguồn khác trước đó. Không tự áp đặt sự kiện chưa xảy ra lên ledger hiện tại.
+**Nguồntri thứcthật:**046Mira12ptrađầumục;066introreadinggiámsát/indexpermission,ngàygiờchưa xácnhận;nhãnHọcGiảCậnChiếndẫnđếnyêucầuđốinguồnriêng. Chưabảncôngthức/nguyênliệu/giácuối/quyềnđọcnộidungkín. Côngvănphòngthườngkhônglàba bàiIonađãmua. MiraaffiliationCattleyaUNKNOWN.
+
+**Cổngtươnglai,chưathựchiện:**trướcSeq8phảicónguồncôngthứchợppháp/đốiđộthậtcủabản,giá/quyềnsửdụng/nguyênliệuđủkiểm,tiêuhóavàchuẩnbịluyệnthật. KhônginrecipeWeChat2026/fanficdướinhãnphần1. Khôngbậc8cậnchiếnthànhphépSeq7hoặcđỡđạn. Thôngsốcụthểchưa kiểm primarythìgiữUNKNOWN.
+
+NợIona130£sau2£thựctrả068,tiềnsống1376p;khôngnguồnvayvôhạn. Phòngtừ14/8,ngàyđọcvàtheodõitayphảisắptrướcbấtkỳkếhoạchmua/nghiêncứumới. Khôngviết069đểtựmởcổng.

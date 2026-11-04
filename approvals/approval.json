@@ -1,5 +1,5 @@
 {
-  "stage": "arc2_writing",
+  "stage": "arc2_complete",
   "chapter1": {
     "approved": true,
     "approval_text": "khá hay , tôi duyệt chương 1 - bạn tiếp tục làm cả arc ( tầm 30-50 chương)",
@@ -27,5 +27,17 @@
     "chapter_count": 30,
     "completed_at_utc": "2026-11-04T04:44:55Z",
     "next_gate": "explicit human approval of arc002"
+  },
+  "arc002_completion": {
+    "completed": true,
+    "chapter_count": 38,
+    "start_chapter": 31,
+    "end_chapter": 68,
+    "completed_at_utc": "2026-11-04T08:42:58.380140+00:00",
+    "next_gate": "explicit approval of Arc3 concept/outline;no069"
+  },
+  "arc003": {
+    "approved": false,
+    "status": "options_only;no chapter prose or chapter outline approved"
   }
 }

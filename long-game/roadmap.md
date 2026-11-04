@@ -1,18 +1,12 @@
-# Đường dài 8 arc — phác thảo, không đóng đinh
+# Đường dài — đánh giá lại theo phạm vi thật
 
-1. **001–030: Mục lục không tên** (Tingen): đầu óc sau xuyên không, xác định timeline, Seq9, vụ giấy tờ biến dạng.
-2. **031–075: Những người sao chép lịch sử** (Tingen/Backlund): nguồn công thức Seq8, đối thủ trong hội kín, quyết định can thiệp hay không vào bi kịch Tingen.
-3. **076–135: Mặt sau tờ báo** (Backlund): đụng tổ chức buôn thông tin, bí mật phân phối qua ký ức.
-4. **136–205: Hải đồ tẩy mực** (bờ biển và tàu): khai phá giao dịch vật phẩm/hải trình, tiếp xúc Cattleya và tạo điểm rẽ để MC thay cô gia nhập Hội Tarot ở thời điểm thích hợp.
-5. **206–285: Thành phố không được nhắc đến** (công nghiệp đất liền): tranh chấp tri thức và cứu trợ; Thế Giới–Ẩn Giả bắt đầu hợp tác trong nhiệm vụ thật, phát triển sự tin cậy.
-6. **286–380: Khảo cổ những ngày chưa từng có** (di tích): điều tra di tích và những bất thường lịch sử; Klein độc lập kiểm tra thân phận MC nhưng chưa đủ bằng chứng chiếc kén.
-7. **381–490: Quốc hội của những người câm** (đa quốc gia): tổ chức và chiến lược tranh đoạt tri thức; quan hệ bạn bè của MC và Thế Giới gặp phép thử, tuyến điều tra của Klein tiến triển theo sức mạnh.
-8. **491–620: Danh sách 0 — Ẩn Giả?** (cõi thần bí): lựa chọn giữa thành thần, giữ con người và giúp/đứng ngoài kế hoạch Klein; quyền chọn thực sự, không mặc định thắng.
+1. **Arc1 — Mục lục không tên:**001–030,28/6–31/7/1349,đã hoàn tất. Evan từ người thường thànhSeq9; chặn vụPhiếu17 nhưng còn nguồn vật/Kestrel/hậu quả pháp lý và nguồn gốc thân phận.
+2. **Arc2 — Cánh cửa cuối ca:**031–068,38chương đã hoàn tất,1–13/8/1349. Trạng thái thật đọc tại[CURRENT_STATE](../continuity/CURRENT_STATE.md), không suy từ dàn ý. Mystery không gian cố định và cứu hộ phối hợp;giữSeq9,quyền tra nguồn không tự thành công thức.
+3. **Arc3:**chưa duyệt/chưa viết; [ba hướng lựa chọn](../arcs/arc-003/OPTIONS.md). Nếu mở, bắt đầu069;chưa khóa sốchương/địađiểm/Danh sách. Cần chốt chính sáchNeil và đáp án tácgiả tuyến001 trước bản thảo.
+4. **Mạng tri thức biển:**chỉ mở khi nghề/nguồn/chi phí/lý do di chuyển đủ. Cattleya có mục tiêu tàu/nghiên cứu/quan hệBernadette riêng;không buộc gặp vì đến sốarc.
+5. **Fork láẨnGiả:**mục tiêuAUtrongbible,quanh giai đoạnCattleya gia nhậpcanon nếu nhânquả cho phép. GiữKlein tựmời/giữ uy tínNguGiả,tính lại nguồnnhật kýRoselle và mạngBernadette. Không làm yếuCattleya đểnhường ghế.
+6. **Hợp tácThếGiới–ẨnGiả:**chỉ saupersona/cổnggia nhập,qua giao dịch→nhiệmvụthật→bấtđồng/cái giá→tin cậy. Xen nhiệm vụ độc lập,khôngmọi chiến thắngđều nhờMCbiếttruyện.
+7. **Điều tra kén:**Klein tự mở nguồn,đối hànhvi/văn hóa/timing;chỉ kết luận khi có quyền quan sát kén thật và ít nhất3đầumốiđộc lập đãkiểm. MCkhônggợiý/tựthúgiúpđiều tra.
+8. **Lựa chọn cuối tuyến:**khảo cổ/quyền biết/giữnhân tính có thể mở rộng,nhưng chưa duyệt620chương hay kếtDanh sách0. Không tăng bậc vì sắp hếtarc.
 
-Mỗi lần chuẩn bị arc mới cần đánh giá tính trùng lặp và hậu quả canon, chọn 1 trong 3 concept trước khi outline 20–50 chương. Không phát sinh arc theo lịch nếu chưa được yêu cầu.
-
-**Mốc bắt buộc**: Klein chỉ xác nhận nguồn gốc từ kén sau khi có khả năng quan sát kén thật trong Nguyên Bảo; không gắn sự kiện đó với số chương tùy tiện. Tham khảo `bible/tarot-and-world.md`.
-
-## Ghi chú chuẩn bị Arc2
-
-Các khoảng chương ở trên là phác thảo cũ, không phải cổng duyệt hoặc lịch tăng Danh sách. Đề xuất mới nằm tại[ARC_PLAN](../arcs/arc-002/ARC_PLAN.md):031–062, giữSeq9 đến cuối và kế thừa hậu quảArc1. Chỉ sau khi bạn duyệt mới cập nhật toàn bộ khoảng chươngArc3trở đi; không tự coi031–075/Seq8 là ràng buộc đã được duyệt.
+Các khoảng031–075/076–135/491–620trongphác thảo cũ đãđược rút khỏi lịch thực thi. Xem[đánhgiá sauArc2](POST_ARC_002_ASSESSMENT.md)cho mốc trảlời hứa,khả năng lặp cơchế và rủirocanon. Mỗi arc mới cần lựa chọn vàphê duyệt riêng;commit tài liệu đề xuất khôngphải quyền viết.

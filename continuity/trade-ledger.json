@@ -36,9 +36,9 @@
       "confidence": "contractcheckedindependently033/siteverified034",
       "danger_of_disclosure": "clientconfidentiality;excludeRuthsensitivecasefiles",
       "price_or_favor": "8GBPtotal,1GBPadvancewithin8,clientpaysbookedbasictravel/lodgingdirectly",
-      "resources_delivered": "1GBPadvance033,remaining7notyetpaid;no formula",
+      "resources_delivered": "1GBPadvance033+7GBPbalance068=8GBPtotal;ordinarydeliverablesaccepted/sampled;travel/lodgingdirectpaidnotcash",
       "future_canon_risk": "localAU,noKleinconnectionproven",
-      "consequence": "lawfuljobresourcepath;clientdeliverablesexcludedfromIona3privateresearchpriority"
+      "consequence": "completed068,zero fee outstanding;no capture reward;clientdeliverables notprivateIona3papers"
     },
     {
       "chapter": 46,
@@ -52,6 +52,19 @@
       "resources_delivered": "resultsheet/accessrequestonly,noformula/ingredients/newpower",
       "future_canon_risk": "MiraCattleyaaffiliationUNKNOWN",
       "consequence": "researchnetworkentranceearned,nofreeadvancement/Ionadebtforgiveness"
+    },
+    {
+      "chapter": 66,
+      "seller": "MiraCole/sourcecustodian",
+      "buyer": "EvanHarlowe",
+      "knowledge": "supervised introductoryreading/indexpermission and separately submittedSeq8source query",
+      "information_origin": "lawfulcustodian reply to paidboundedsearch046",
+      "confidence": "permission scope checked;Seq8formula authenticity/content/access UNKNOWN",
+      "danger_of_disclosure": "no fullcopy/resale/transfer;noMCSeq9confession/casefile trade",
+      "price_or_favor": "coveredreply to12psearch;furtherreading/contentfee toquote BEFOREagreement",
+      "resources_delivered": "conditionsheet/indexonly;readingtimeunconfirmed,noformula/materials/potion",
+      "future_canon_risk": "MiraCattleyaaffiliationUNKNOWN",
+      "consequence": "earned opportunity with constraints,not automaticadvancement orIona3paper sale"
     }
   ],
   "entry_schema": [
@@ -67,12 +80,22 @@
     "future_canon_risk",
     "consequence"
   ],
-  "as_of_chapter": 64,
+  "as_of_chapter": 68,
   "pending_offer": {
     "chapter": 33,
     "counterparty": "BacklundAshwickarchiveviaIona",
-    "status": "accepted033,actualscope/lodgingverified034–035;8GBPfee/1GBPadvanceincluded,7pending",
-    "cash_or_fare_received": "1GBPadvancecash;fare/lodgingpaiddirectlyseparate,notcash",
+    "status": "completed068;no jobfee due",
+    "cash_or_fare_received": "8GBPtotal inclusive1advance;7balanceactuallypaid068;basicfare/lodgingdirectseparate",
     "knowledge_disclosed": "ordinaryprovenanceworkonly,nodivinesecrets/caseconfidentialrecords"
-  }
+  },
+  "repayments": [
+    {
+      "chapter": 68,
+      "receiver": "BeatriceShaw authorizedbyIona",
+      "pounds": 2,
+      "receipt": "signed/stamped;first31Augminimumapplied;principal132→130",
+      "source_of_cash": "ordinary7GBPjobbalance,notknowledge-sale/capture reward",
+      "next_due": "Septemberperiod,exactdayawaitsIona"
+    }
+  ]
 }

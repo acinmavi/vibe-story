@@ -1,3 +1,9 @@
+# Ghi chú lưu trữ: review thiết kế trướcArc2
+
+Arc2nayđãhoàn tất031–068;reviewhiệnhànhtại[completion](../../reviews/arc-002-completion.md). Dướiđâylàlịchsửreviewkếhoạch,khônglàtrạngtháichưa031hoặclệnhmởarc.
+
+---
+
 > Cập nhật04/11/2026: bạn đã duyệt hướngA và giao quyền điều chỉnh. Chốt38chương031–068;review mở rộng PASS,031–033 đã viết và review. Các dòng về “chưa được viết031/chờduyệt” bên dưới là lịch sử của hồ sơ trước khi bạn mở cổng, không còn là chỉ thị hiện tại. Kết quả lô mới ở[arc002-batches](../../reviews/arc002-batches.md).
 
 # Review thiết kế Arc002 — lịch sử review và cập nhật triển khai

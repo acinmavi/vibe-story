@@ -1,12 +1,12 @@
 {
-  "phase": "arc2_writing",
-  "last_written_chapter": 64,
+  "phase": "arc2_complete",
+  "last_written_chapter": 68,
   "do_not_write_after_chapter": 68,
   "arc": 2,
-  "date_in_story": "1349-08-12",
-  "character_sequence": "9 Mystery Pryer; digestion incomplete, untrained in combat magic",
-  "location": "Backlund Ashwick AU, morning; all rescued and crew out, Silas in custody",
+  "date_in_story": "1349-08-13",
+  "character_sequence": "9 Mystery Pryer; digestion incomplete, no combat spells or Seq8 formula",
+  "location": "Backlund lodging, night; booked lodging ends today",
   "canon_confidence_after_divergence": "No observed Klein contact or new canon event; local AU investigation, propagation to canon remains UNKNOWN",
-  "next_approval_required": "Arc3 requires separate approval after068; Arc2 authorized in batches",
+  "next_approval_required": "Explicit approval of Arc3 concept/outline before any069; no automatic continuation",
   "tarot_membership": "none"
 }
