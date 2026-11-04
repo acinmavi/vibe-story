@@ -1,8 +1,10 @@
-# Checkpoint — hoàn tất Arc2 đang chạy, sau048
+# Checkpoint — hoàn tất Arc2 đang chạy, sau052
 
 User yêu cầu hoàn tất041–068 trongphiênnày,review/QA/commit lô2–4;rồirecap/memory/longgame/openclues/3Arc3options,dừngtrước069. Khôngđượcfinalsớmkhi cònchương.
-RootđãđọcFULL041–048;blindreviewerPASS2lô. Lastpublished48,date8Augafternoon,cash199p,debt132£,Seq9incomplete.45–48QApasses,currentcommitxemHEAD;44commitb669bfb.001–040baselineinitialdc1c323giữnguyên.
-AuthorA=/root/arc2_author_a currentlydrafting053–054(awaitactual052read);AuthorB=/root/arc2_author_bprepares055–056(awaitAactual).49–52stagedreadyrootread/blindreview;45–48promoted/removedfromdrafts. Reviewer=/root/arc2_completion_reviewer,sawpublicthrough048NOsealed. Hermitcuratorfinishedwithboundedunknownstatsandformula,rulesinreviews/arc002-lore-completion.md.
+RootđãđọcFULL041–052;blindreviewerPASS2lô. Lastpublished52,date9Augevening,cash194p,debt132£,Seq9incomplete.45–48QApasses,currentcommitxemHEAD;44commitb669bfb.001–040baselineinitialdc1c323giữnguyên.
+AuthorA=/root/arc2_author_a currentlydrafting053–054(awaitactual052read);AuthorB=/root/arc2_author_bprepares055–056(awaitAactual).49–52reviewed/promoted/QApassed;45–48promoted/removedfromdrafts. Reviewer=/root/arc2_completion_reviewer,sawpublicthrough048NOsealed. Hermitcuratorfinishedwithboundedunknownstatsandformula,rulesinreviews/arc002-lore-completion.md.
 Onlywritersassigneddraftsno metadata/git;rootpromote/update/QA/commit. Stagingfullyauthorizedthrough068andnotinchapters untilreviewed;no069. Allscriptszero-dep:record_arc2_batch.pyconsumesrootcurateddataandmoneychecks;sync_arc2_readers.pyreadonlysource. Don'ttrustRTKwc;usePythonlen(split).
 C1A/B12ft6in,outerwoodleaf≠innerbrasspawl;Rowefirstloop042unexpectedroutineexam thenonlyobjecttests,dispatchimmediate.048offsetservicebay/pillar/shaft/missingladder,remainingrails/beam,can'tturnstretcher;water/fabricactivebutpatientstillnotindependent. Vossdeployed8Aug,notlateclimax;noMCnewpowers/graywin/noCattleyaaffiliationforMira.
-Nextrootread49–52,review/promote/commit;continue53–56/57–60/61–64/65–68thenfullmemory/recap/options. Followproductioncontractactualdatessource,053mustEVENING9Augafter052actual(notafternoon). Finalcash1376p/debt130ONLYif068receiptsreallyoccur;sourceunknown/fourlayerskeep. Arc3approvedfalse,cap68.
+Nextrootread53–56,review/promote/commit;continue57–60/57–60/61–64/65–68thenfullmemory/recap/options. Followproductioncontractactualdatessource,053mustEVENING9Augafter052actual(notafternoon). Finalcash1376p/debt130ONLYif068receiptsreallyoccur;sourceunknown/fourlayerskeep. Arc3approvedfalse,cap68.
+
+050custodyfixcritical:originallurenote014vẫnmất,nohandwritingforensicproof. Daleonlyalibi/sourceclaim,identityIvesnewexternalrecordsnotJonasrestoredmemory.051MaraPOVreader_only;MCdoesnotknow9Augprivatechoiceuntilletterlater.053mustEVENING9Augafter052.

@@ -1,19 +1,20 @@
-# Trạng thái hiện tại — sau chương048
+# Trạng thái hiện tại — sau chương052
 
-Ngày 1349-08-08; BacklundAshwickAU,afternoon;specialistteamVossincharge. Arc2 đã duyệt031–068; chưa được viết069/Arc3.
+Ngày 1349-08-09; BacklundAshwickAU,nightafterfirstEdithvoice;Mara051TingenPOVseparate. Arc2 đã duyệt031–068; chưa được viết069/Arc3.
 
-Tiền 199p; nợIona 132£. 8£công gồm1£ứng,7£chưa nhận nếu chưa có cảnh nghiệmthu. Phòng/vé khách trả trực tiếp. Seq9chưa tiêu hóa hoàn toàn; không tự cấp phép/côngthức/gray.
+Tiền 194p; nợIona 132£. 8£công gồm1£ứng,7£chưa nhận nếu chưa có cảnh nghiệmthu. Phòng/vé khách trả trực tiếp. Seq9chưa tiêu hóa hoàn toàn; không tự cấp phép/côngthức/gray.
 
 ## Sự kiện mới đã viết
 
-- 045MiraColecontactthroughIona predeparture lawfulresearchcontactlist;Agnespermitsboundedabsence,Roweperimeteractive,Nellstays;ordinarypumpbibliographicworknotclientcasefiles/noCattleyaaffiliationproven.
-- 046Mira12pfee buysboundedsource-indexsearch/accessconditions;three-source-resultnotformula,potion,teacherorunconditionalpermission;officeworknotEvannewcopyrightpaper/doesnottriggerIona3paperpriority.
-- 047Vossunitarrives8Aug,deployscontacts/perimeters/toolsimmediately;objectsandropepassAandB,priorRoweand040configurationcompare;BhumanreturnonlySilasclaim,nofreshhumantest/universalbiologyproof.
-- 048ordinarylowservicehatchopensshallowbay,offsetpillarandverticalshaft;oldladderremovedwithtoolmarksunknownactor/date,upperrail/beamremain;longstretcherproxycannotturn,notnormalwalkthroughdoor.
-- 048framesanchorednearsharedstructuralsupport/unknownpatientposition;teamactivelysurveysupperbypass/bracing;Marshsendswater/cleanfabric/questionsbutSilasonlyconfirmsreceipt,notindependentJonahcontact.
+- 049oneobject-onlyexposedreturn-armloadtest:softwedgefails~5seconds;weightstayslow/mainkeyedpawlclosed,covercatch040distinct,NOT5secondopenpath. Activealternativeroutes/support/suppliescontinue.
+- 050Ruthletterdated7Augarrives9Aug:014lurenoteoriginalLOSTsoNOgraphologicalproof;Dalesindependentbookhandoverlocation/receiptsstrengthenborrowednamehypothesis,notall-dayalibi/noclaimallactscleared.
+- 050IvesMercerworkingidentityfromNEWpackingroster+handoverwitness+receiver;PikeandMercerdifferentroles,Jonasdoesnotrecallmore;original014/025groupsnotproven same;Gideonpartialassetprocess/Kestrelstilluncaught.
+- 050MaraTheoupdatesknownonlythrough7Augletter:workwithoutnewguaranteeandolddebt/2shunresolved;doesnotcontain9Auginterludeevents.
+- 052independentvoicecallsNellandselfidentifiesEdith,Nellrecognizes;Voss/Marshcalledimmediately,JonahweakbutresponsiveonlyEdithreport;cleanwater/fabrichavereachedthemperherreport.
+- 052EdithturnsawayatJonahdistress,Silastakesnextsupply/contact;teamkeepscontact/uppersurveyactive,nohiddenMCinvestigation;end9Augnight,same-eveningescalation053next.
 
 ## Giới hạn và việc cần theo
 
-Cash199p;Iona132£/job7£unpaid. NoEdithlocationorindependentpatientconsentyet. MainbrassreleasebehindB,nofreepublicpull;frame/wallnotindestructiblebutunsafeunbracedwithpatientinside. Miraonlysource-indexservice. Teamalreadyatwork,notlateclimaxrescue.
+Edithpresenceatvoicecontactstronglycorroborated,self-ID+Nellnotbiometrics;whyshestaysandJonahownwillnotyetheard. 053mustEVENING9Augnotjumpbackafternoon. Daleinvitationauthorand014/025linkunknown;missingnotehasnotmagicallyreturned. Cash194p.
 
 Các sự kiện trước giữ nguồn tại KNOWLEDGE_LEDGER,resources,setup-payoff và bản thảo. Chìa cũ/gốc rãnh đã bàn giao;không tự đưa vềtúi. K0/Tarot/Cattleya/Bernadette không đổi khi không có cảnh mới.

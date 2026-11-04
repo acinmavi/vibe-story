@@ -41,7 +41,7 @@ Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hư
 
 ## Arc002 — Cánh cửa cuối ca
 
-Đã có 18/38 chương. [Đọc liền](ARC_002.md). Arc1 giữ nguyên.
+Đã có 22/38 chương. [Đọc liền](ARC_002.md). Arc1 giữ nguyên.
 
 | Chương | Tên | Từ |
 |---:|---|---:|
@@ -63,3 +63,7 @@ Chương001 đãduyệt và giữnguyên. Arc002 đã được bạn duyệt hư
 |046|[Giá của một đầu mục](chapters/046.md)|1927|
 |047|[Người nhận khu ngoài](chapters/047.md)|1851|
 |048|[Chỗ thang không còn](chapters/048.md)|1866|
+|049|[Miếng gỗ dưới lực kéo](chapters/049.md)|1914|
+|050|[Chữ ký của người vắng mặt](chapters/050.md)|2017|
+|051|[Đường chỉ mặt trong](chapters/051.md)|1833|
+|052|[Tiếng gọi qua góc tường](chapters/052.md)|1818|

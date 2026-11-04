@@ -80,3 +80,10 @@ QA/cached-diffkếtquả đượcghi trongcommit lô;nguồn001–040khôngđổ
 
 ## Lô045–048
 Root đọcFULL4chương;blindreviewerđọcstagingkhôngsealed/futureoutline,PASS/no blocker. Mira1901/0461927;0471851/0481866;actualtổng7545từ. Tiền215−2−12−2=199p. Mira chỉdịchvụ nguồn cóphí,nocôngthức/power/affiliationcanon. Vossdeployimmediately,objectonly/priorincident;BreturnchỉclaimSilas. Khoangthấp→gócquanhtrụ→giếngthiếuthang→tầngtrênkhôngchocángqua;đangcấp nước/vải/tìmcầukhôngngồichờ. Dấudụngcụchưaai/ngàynàoxácminh;hai giảthuyếttháocôlập hoặc sửa rồi bịlợidụngcònđứng. Checkedepistemiclimits/notindestructiblewall. QA/cached-diffchạytrướccommit;khôngArc3.
+
+## Lô049–052
+Root đọcFULL4chương;blindreviewPASS. Rootđối014bắtlỗicustodytrongdraft050:tờdụgốcbịlấy/mấtnênkhôngđượctựdưamẫuchữtrởlại. Đãsửa050nhậnrõkhôngcógốc/khônggiámđịnhchữký;nguồnvịtríDalechỉlàmmạnhgiảthuyếtmượntên,ai viết/ra lệnh cònUNKNOWN. Reviewerđối014và032:khôngblocker. Sửa051'hai buổi mới hẹn thêm'đểphânbiệtkỳthử2Aug,độngtáckéothànhđặtmảnhvảibìnhthường.
+049nêm5sgiữvậtchứkhôngđườngmở;050nguồnIvesmớikhôngépJonasnhớ;051Mara-onlyknowledgeđượclưu reader_only,khôngMC_verified.052firstvoiceNell/self-ID,teamnhậnngay;Edithchưatựnguyện/khôngaccomplicechưakhép. Hai giảthuyết:ởlạichămbệnhdướihạnchếhoặctựnguyệnbanđầurồibịngăn.053đổithành9Augtối nối052thực,khôngquayngượcchiều.
+Money199−1−2−2=194p,noEvanexpense051;QAtrướccommit,noArc3.
+
+049–052actualcounts1914/2017/1833/1818,total7582;check_project/qaarc/diffPASS52ch105357words;001–048đốib1f31d2khôngđổi.

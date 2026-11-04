@@ -28,6 +28,7 @@ save("continuity/resources.json", resources)
 knowledge = load("continuity/character-knowledge.json")
 knowledge["as_of_chapter"] = end
 knowledge["MC_verified"].extend(batch["facts"])
+knowledge["reader_seen"].extend(batch.get("reader_only", []))
 knowledge["current_snapshot"] = {"as_of_chapter": end, "date": batch["date"], "cash_pence": batch["cash_end"], "sequence": "9 Mystery Pryer, digestion incomplete", "location": batch["location"], "Klein_contact": "none; K0 unchanged", "knowledge_limit": batch["limits"]}
 save("continuity/character-knowledge.json", knowledge)
 for name in ["open-loops", "klein-investigation", "partnership-ledger", "tarot-meeting-ledger", "combat-loadouts", "cattleya-bernadette-ledger", "trade-ledger"]:

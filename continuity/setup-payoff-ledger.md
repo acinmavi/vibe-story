@@ -76,3 +76,6 @@ A2R2:7AugRowe/Marshđếnđúnghẹn,nhưngkhámđộclậpchưathành;giữnguy
 
 ###045–048
 Mira:tra12pđãtrả,kếtquảchỉđầumục/quyềntiếpcận,khôngcôngthức. A2C1/C5kiểmvậttừA/Bvàcấuhìnhtrước,nofreshhumantest;BreturnchỉclaimSilas. A2C6thiếuthangcódấudụngcụ,actor/datechưađóng;A2C7cángproxyvướnggóc/giếng,khaythứcănquađược. Nước/vảichuyểnngay,cầnkiểmđãtớibệnhnhân,tựnguyệnvẫnchưa. Độichuyêntráchđãtiếpcận8Augkhôngchờclimax.
+
+###049–052
+P15:originallurenote014vẫnmất;050khôngcómẫuđểgiámđịnh,nênchỉđốiDalevịtrí/receipts+phủnhận,giảthuyếtmượntênmạnhhơn,authorship/ra lệnhunknown. P14Mercerworkingidentitytừnguồnmới,khôngJonasnhớlạimặt,khônggộpPike. P10Theo9Augtừchốibảolãnhmới/giữviệcthử,reader-onlyquaMara,thưchưagửiMC. A2C8nêm5sloadfailurekhông5smởcửa;A2C2C3voiceEdith/contact/requestdoctor052chưafulltwist. Voss/Marshđãnhận,lờihẹnkhôngbịquên.
