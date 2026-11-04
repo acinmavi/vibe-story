@@ -73,3 +73,6 @@ P05Kestrel/P15Dalevàhaivụgiậtgiấy/P06ngườihỏiRuskgiữmở;037không
 
 ###041–044
 A2R2:7AugRowe/Marshđếnđúnghẹn,nhưngkhámđộclậpchưathành;giữnguyênyêucầu. A2C5:Roweincidenttrước thửvật,chốtđồng≠thenwoodleaf;khônglọtthànhquyluậtsinhhọcphổquát. Bịngăn043báongay,khônglặpmấtgiấynhưArc1. Dispatchbắtđầu042,044bổsung/confirm8Aug,khôngchờclimaxmớitới. P07linhthịngắndừngkhinhức,khôngtựđo100%hoặccógraycứu.
+
+###045–048
+Mira:tra12pđãtrả,kếtquảchỉđầumục/quyềntiếpcận,khôngcôngthức. A2C1/C5kiểmvậttừA/Bvàcấuhìnhtrước,nofreshhumantest;BreturnchỉclaimSilas. A2C6thiếuthangcódấudụngcụ,actor/datechưađóng;A2C7cángproxyvướnggóc/giếng,khaythứcănquađược. Nước/vảichuyểnngay,cầnkiểmđãtớibệnhnhân,tựnguyệnvẫnchưa. Độichuyêntráchđãtiếpcận8Augkhôngchờclimax.

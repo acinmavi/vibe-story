@@ -1,11 +1,11 @@
 {
   "phase": "arc2_writing",
-  "last_written_chapter": 44,
+  "last_written_chapter": 48,
   "do_not_write_after_chapter": 68,
   "arc": 2,
-  "date_in_story": "1349-08-07",
+  "date_in_story": "1349-08-08",
   "character_sequence": "9 Mystery Pryer; digestion incomplete, untrained in combat magic",
-  "location": "BacklundAshwickAU,lateafternoonaftermedicalcare;perimeterguarded",
+  "location": "BacklundAshwickAU,afternoon;specialistteamVossincharge",
   "canon_confidence_after_divergence": "No observed Klein contact or new canon event; local AU investigation, propagation to canon remains UNKNOWN",
   "next_approval_required": "Arc3 requires separate approval after068; Arc2 authorized in batches",
   "tarot_membership": "none"

@@ -39,6 +39,19 @@
       "resources_delivered": "1GBPadvance033,remaining7notyetpaid;no formula",
       "future_canon_risk": "localAU,noKleinconnectionproven",
       "consequence": "lawfuljobresourcepath;clientdeliverablesexcludedfromIona3privateresearchpriority"
+    },
+    {
+      "chapter": 46,
+      "seller": "MiraCole",
+      "buyer": "EvanHarlowe",
+      "knowledge": "boundedsource-indexsearchandaccessconditions",
+      "information_origin": "lawfulcatalogs/provenancecontacts,notfullpotionformula",
+      "confidence": "sourceindexentriesconfirmed,content/permissionnotguaranteed",
+      "danger_of_disclosure": "privatequery/clientownership;MCdoesnotconfessSeq9orcocoon",
+      "price_or_favor": "12pplusseparatelyboundedofficehelpforworkspace/useofindex",
+      "resources_delivered": "resultsheet/accessrequestonly,noformula/ingredients/newpower",
+      "future_canon_risk": "MiraCattleyaaffiliationUNKNOWN",
+      "consequence": "researchnetworkentranceearned,nofreeadvancement/Ionadebtforgiveness"
     }
   ],
   "entry_schema": [
@@ -54,7 +67,7 @@
     "future_canon_risk",
     "consequence"
   ],
-  "as_of_chapter": 44,
+  "as_of_chapter": 48,
   "pending_offer": {
     "chapter": 33,
     "counterparty": "BacklundAshwickarchiveviaIona",

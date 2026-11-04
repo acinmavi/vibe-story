@@ -1,7 +1,8 @@
-# Checkpoint hoàn tất Arc2 đang chạy
+# Checkpoint — hoàn tất Arc2 đang chạy, sau048
 
-User đã yêu cầu hoàn tất tới068 trong phiên này,review/QA/commit từnglô;rồi recap/memory/longgame/openclues/3Arc3options;khôngdừngxinphépgiữalô,không069.
-Root đãđọc041–044FULL,blindreviewPASS;lastpublished44,date7Auglate,cash215p,debt132£,Seq9untrained. AuthorA đangstaging049–050;045–046đãstaged;authorBstaging047–048. Writerschỉassigneddrafts,rootpromote/metadata/QA/commit. Stagingđềuđượcauthorizethrough068,khôngphảiArc3.
-Canonicaltodo:quy-bi-ke-den-sau-arc002-writing. Productioncontract:arcs/arc-002/PRODUCTION_CONTRACT.md;budgetfixedbymoneyactualmustverify. Rootscriptsrecord_arc2_batch.pyconsumescuratedbatchJSONwithprecheck(noautoresolvemystery);sync_arc2_readers.pyread-onlysourcegenerator. Baselineinitialdc1c323;001–040phảiđối byteunchanged.
-Roweunexpectedloop042,ordinarywoodleafnotcontrolpawl,objectonlyafterreport;Marshpatientaccessnotachieved,professionalsdispatchongoing8Aug. 043cartescapeordinaryworkersnotpaper-theft;044armtreatedordinary4p+food2. Continue045–048aftercommit44;then7batchesuntil68. NoKlein/Tarot/World,formulaSeq8unknown,noMCSeq8;Silas8authoronlynotbodymeter;nograywin.
-Finalmoneycontract1376pafterpaid7£and2£Iona,goc130£onlyifonpage;validateeveryevent. EndArc3approvedfalse,do_not_write_after68.
+User yêu cầu hoàn tất041–068 trongphiênnày,review/QA/commit lô2–4;rồirecap/memory/longgame/openclues/3Arc3options,dừngtrước069. Khôngđượcfinalsớmkhi cònchương.
+RootđãđọcFULL041–048;blindreviewerPASS2lô. Lastpublished48,date8Augafternoon,cash199p,debt132£,Seq9incomplete.45–48QApasses,currentcommitxemHEAD;44commitb669bfb.001–040baselineinitialdc1c323giữnguyên.
+AuthorA=/root/arc2_author_a currentlydrafting053–054(awaitactual052read);AuthorB=/root/arc2_author_bprepares055–056(awaitAactual).49–52stagedreadyrootread/blindreview;45–48promoted/removedfromdrafts. Reviewer=/root/arc2_completion_reviewer,sawpublicthrough048NOsealed. Hermitcuratorfinishedwithboundedunknownstatsandformula,rulesinreviews/arc002-lore-completion.md.
+Onlywritersassigneddraftsno metadata/git;rootpromote/update/QA/commit. Stagingfullyauthorizedthrough068andnotinchapters untilreviewed;no069. Allscriptszero-dep:record_arc2_batch.pyconsumesrootcurateddataandmoneychecks;sync_arc2_readers.pyreadonlysource. Don'ttrustRTKwc;usePythonlen(split).
+C1A/B12ft6in,outerwoodleaf≠innerbrasspawl;Rowefirstloop042unexpectedroutineexam thenonlyobjecttests,dispatchimmediate.048offsetservicebay/pillar/shaft/missingladder,remainingrails/beam,can'tturnstretcher;water/fabricactivebutpatientstillnotindependent. Vossdeployed8Aug,notlateclimax;noMCnewpowers/graywin/noCattleyaaffiliationforMira.
+Nextrootread49–52,review/promote/commit;continue53–56/57–60/61–64/65–68thenfullmemory/recap/options. Followproductioncontractactualdatessource,053mustEVENING9Augafter052actual(notafternoon). Finalcash1376p/debt130ONLYif068receiptsreallyoccur;sourceunknown/fourlayerskeep. Arc3approvedfalse,cap68.
