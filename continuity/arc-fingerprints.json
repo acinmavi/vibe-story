@@ -1,5 +1,21 @@
 {
   "arcs": [
-    {"id":1, "title":"Mục lục không tên", "location":"Tingen print shop / old catalog", "mechanism":"restricted local registry substitution", "antagonist_motive":"erase incriminating ledger while protecting family", "resolution":"controlled test + material evidence + social negotiation", "genre":"forensic occult mystery", "moral_cost":"trade safety for evidence"}
+    {
+      "id": 1,
+      "title": "Mục lục không tên",
+      "location": "Tingen print shop / old catalog",
+      "mechanism": "restricted local registry substitution",
+      "antagonist_motive": "Kestrel profit and evidence suppression; Gideon theft to cover medical debts",
+      "resolution": "independent vehicle provenance plus material traces and bounded witness comparison, voluntary confession and specialist quarantine",
+      "genre": "forensic occult mystery",
+      "moral_cost": "reject using Theo as bait; lose checking wage/copies, incur132-pound debt and strained trust",
+      "status": "complete",
+      "chapter_range": "001–030",
+      "date_range": "1349-06-28 through1349-07-31",
+      "protagonist_power": "ordinary through018; newly advanced Mystery Pryer019 onward",
+      "institution": "printshop custody, transport depot, independent book assessment and local official reception",
+      "relationship_change": "Mara limited cooperation without full restored trust; Theo chooses another work route",
+      "next_arc_gate": "requires separate human approval; change at least4 fingerprint dimensions"
+    }
   ]
 }

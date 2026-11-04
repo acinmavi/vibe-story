@@ -1,5 +1,7 @@
 # Review chương 001 — 04/11/2026
 
+> Hồ sơ trướcduyệt. Sau đó người dùng đãduyệt001 và toànArc1; trạng thái hiện tại xem approvals/approval.json và DOC_TRUYEN.md.
+
 Đã đọc toàn bộ Story Bible, hồ sơ Arc 001 và continuity. Chỉ sửa chương 001; 002–030 vẫn là dàn ý.
 
 - Bỏ nhận diện kén và hàng kén trống khỏi điểm nhìn MC. Tin nhắn và vệt trắng là dấu hiệu AU, chưa chứng minh nguồn gốc.

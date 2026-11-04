@@ -1,15 +1,12 @@
-# Checkpoint Arc 001 — 04/11/2026
+# Checkpoint hoàn tất Arc001 —04/11/2026
 
-- Mục tiêu: người dùng duyệt001 và yêu cầu cảArc1 khoảng30–50chương. Chọn30theooutline. Tiếp tục tới030, dừng trướcArc2, không dừng giữa chừng tự ý.
-- Phạm vi duy nhất /Users/ethannguyen/Documents/20261103/vibe-story/quy-bi-ke-den-sau/project. Không remote/push/repo khác. Mọi shell bắt đầu rtk.
-- Chương001 đãduyệt, commit a0d1886; mởduyệt d065502; hash001 trong approvals/approval.json, tuyệtđối khôngsửa.
-- Commit lô:002–004 21d0e7f;005–007 e40d5b4;008–010 53ab503;011–013 f4630e4;014–016 47175a6;017–019 fbadc80;020–022 99d4355;023–025 c8dc33a.
-- Đã hoàn tất026–028, tiếp theo029–030 và tài liệu kếtArc. Sau đó blind_008_010 chỉ đọc văn, không sealed; root sửa findings/update ledgers/QA/commit. Các writer không được đọc sealed, chỉ rangecontractđượcgiao.
-- Đã đọc toàn Bible/Arc1/continuity. Hợpđồng từnglô đến030:continuity/production-contract.md. Kếhoạch giá150−12−6=132pound:advancement-plan.md; thực tế đọc ledgers và chaptertext, không ép văn theo plan sai.
-- Hiện25:26/7, Seq9mới uống20/7,chưa tiêuhoá, vẫn đau/whispers/thiếuđoạnnhớ; coldgraychỉcảmnhậnchủquan, khôngNguyênBảo/bảohộmiễnnhễm/phépSeq7. Cash76p,132poundnợIona, min2pound/tháng từ31/8,ưu tiênmua3nghiêncứu cóquyền sởhữu.
-- Vụxưởng:317gỗ/371phiếu,phiếuniêmcóthểlệchkýứcchỉgiảthuyết; nguồnBramgốcsổxe+phiếu371giữriêngngoàihệ; bảnchépđầutiênmất014, bảnvẽrãnh012ởphòng.020khôngcho ngườimớitiếpxúc,bảnkêthườnglậpnguồnđộclập.
-- Báotuầntra014,nộpfactsnhàthờ15/7ở017,bổsung22/7ở021;024dựkiến hẹnnhómOC kiểm28/7,khẩnnguyphảibáongay. Không Klein/Dunn/Neil/Leonard xuất hiện,khôngTarot/Cattleya/Bernadette trực tiếp.
-- Mara giữsổgiađình, chưa biếtpotion/nợ/xuyênkhông. Theo tựrútđườnggiao022, mấtcông; hẹnKestrel24/7chưa gặp. KhôngdùngTheo mồi.
-- QA mỗi lô: python3 .agents/skills/quy-bi-ke-den-sau/scripts/check_project.py . ; python3 scripts/qa_arc.py ; git diff --check (đều qua rtk proxy). Độdài1800–3000từ từngchương.
-- Cuối030:cậpnhậtphase/gate arc1_complete,Arc2false;đóngcasechính,giữnợ/quan hệ/nguồnphiếu; tạoDOC_TRUYEN.md vàARC_001.mdghépđọc tiện, reviewkếtarc, QA/commitclean.
-- Canonical work_state list quy-bi-ke-den-sau-arc001; khác lists là truyệnkhác,khôngđụng. Tools work_state đãcó.
+- Yêu cầu đãthực hiện: chương001 được duyệt, viết hếtArc1 theo khung30 chương;64.256 từ. Khôngviết031/Arc2.
+- Phạmvi duy nhất quy-bi-ke-den-sau/project. Git local, khôngremote/push. Mọi shell rtk. Chương001khóa hash khôngsửa.
+- Approval d065502;001duyệt a0d1886. Commit lô002–00421d0e7f;005–007e40d5b4;008–01053ab503;011–013f4630e4;014–01647175a6;017–019fbadc80;020–02299d4355;023–025c8dc33a;026–0284ba1e05. Commit029–030 cuối xem gitHEAD.
+- Đọc: DOC_TRUYEN.md hoặcARC_001.md; review:reviews/arc-001-completion.md vàarc001-batches.md.
+- Ngày cuối31/7/1349, Evan ởTingen, Seq9chưatiêuhóa, cash27p, nợIona132pound;min2pound/tháng từ31/8,ưu tiên3bảnnghiêncứuhợppháp. Phòng26–31cònphảitrả. Backlundđangthẩmtra,chưanhậntiền/việc/vé/chưađi.
+- Vụgianlậncónguồn độc lập/nhậntộiGideon,chuyêntráchOCquảnthúcbộniêm;Kestrelchưabắt. GốcBramgiữriêng,sơđồ012còn,bảnchépIona còn, tậpEvanmất014/025khôngsốnglại.
+- Mara/Theogiữagency;Marachưabiếtxuyênkhông/ma dược/nợ,quan hệchưahòagiảihoàntoàn.
+- Khôngcanonneođổi,khôngKlein/Tarot/Cattleya/Bernadettegặp,khôngNguyênBảo/miễnnhễm/Seq8. Giớihạn nguồn ởcanon-review.md;khôngtuyênbốđãkiểmhếtnguyêntác.
+- Phasearc1_complete,Arc2approvedfalse. Nếu người dùng muốnviếttiếp, đọcBible+state+review trước,lấyduyệtArc2 rõràng. Khôngtựviếttiếp vìpromptcũ.
+- Canonicalwork_state listquy-bi-ke-den-sau-arc001; listsarc-001/publish-vibe-storykhác làtruyệnkhác,khôngđụng.

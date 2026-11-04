@@ -2,7 +2,7 @@
 
 | ID | Gieo ở chương | Thông tin độc giả được biết | Chương có thể giải nghĩa |
 |---|---:|---|---:|
-| C1 | 1 | Tên trên một phiếu xuất hiện trước khi nhân vật xác nhận thân phận | 10+ |
+| C1 | 1 | Tên Evan nằm trong ô người nhận mà anh nhớ ban đầu để trống; chưa biết giấy hay trí nhớ thay đổi | 10+ |
 | C2 | 3 | Dấu đóng ở bản phụ lệch vị trí khác bản gốc | 12+ |
 | C3 | 6 | Người chứng kiến cùng tài liệu mô tả một sự kiện khác nhau | 20+ |
 | C4 | 9 | Hòm hàng ngoài xưởng giữ mã số cũ | 18+ |

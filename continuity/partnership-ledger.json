@@ -1,7 +1,26 @@
 {
   "visibility": "author_only",
   "current_trust": "unacquainted",
-  "steps": ["transaction", "parallel_case", "joint_mission", "earned_friendship", "private_confidence", "shared_origin_confirmation"],
+  "steps": [
+    "transaction",
+    "parallel_case",
+    "joint_mission",
+    "earned_friendship",
+    "private_confidence",
+    "shared_origin_confirmation"
+  ],
   "missions": [],
-  "entry_schema": ["chapter_range", "location", "shared_goal", "mc_contribution", "world_contribution", "disagreement", "cost", "trust_delta", "canon_ripple"]
+  "entry_schema": [
+    "chapter_range",
+    "location",
+    "shared_goal",
+    "mc_contribution",
+    "world_contribution",
+    "disagreement",
+    "cost",
+    "trust_delta",
+    "canon_ripple"
+  ],
+  "as_of_chapter": 30,
+  "arc001_note": "No direct canon cast encounter, Tarot membership, World mission or Klein origin investigation during Arc001. Future planned leads remain unverified."
 }

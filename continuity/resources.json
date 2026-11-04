@@ -1,12 +1,12 @@
 {
-  "as_of_chapter": 28,
+  "as_of_chapter": 30,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 76,
+  "cash_pence": 27,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
   "checking_wage": "forfeited027, explicitly not acceptance of full shipment contents",
-  "power": "9 Mystery Pryer, undigested",
+  "power": "Seq9, incomplete digestion; no Seq8 or combat spells",
   "potion_formula": "received and checked through two in-world sources; no invented recipe printed",
   "ingredients": [
     "checked batch used20 July, no surplus assumed"
@@ -29,7 +29,10 @@
     "Mara forfeited2sh of her own withheld pay, no Evan cash payment or Theo old debt cancellation",
     "forearm abrasion and spiritual fatigue025; ordinary injuries persist",
     "no cash reward or debt forgiveness for solving case;76p last explicit cash count",
-    "routine room/food costs accrued since18 July, to settle at030-day close"
+    "routine room/food costs accrued since18 July, to settle at030-day close",
+    "029 paid36p due25 July rent plus12p bread19–30:76-48=28p",
+    "030 paid bread1p directly:27p, no reward or unrecorded travel money",
+    "first minimum debt payment2 pounds due31 August, not1 August"
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 0,
@@ -40,5 +43,7 @@
   "monthly_minimum_pounds": 2,
   "first_due_date": "1349-08-31",
   "priority_purchase_right": "first3 research papers subject to lawful ownership and separately agreed price",
-  "artifact_ownership": "none; registry sheet17 and seal held by specialist church custody"
+  "artifact_ownership": "none; registry sheet17 and seal held by specialist church custody",
+  "room_charges_outstanding": "26–31 July, next billing period; not waived",
+  "backlund_offer": "verification requested, no acceptance, fare, advance or ticket received"
 }

@@ -18,3 +18,6 @@ Không thay neo canon. Dừng chương 001 chờ duyệt.
 
 ## Ghi chú kiểm công thức trước lô thăng cấp
 Nguồn cộng đồng Advancement có liệt kê nguyên liệu, nhưng chưa truy được chương nguyên tác phần 1 xác nhận toàn bộ công thức. Khi viết giao dịch, không bịa định lượng hoặc dùng công thức phần 2; chỉ thể hiện việc đối chiếu bản đầy đủ qua hai nguồn trong truyện, nguồn cung, chi phí và giám sát. Không để kiến thức độc giả tự sinh nguyên liệu.
+
+## Rà cuối toàn Arc001
+Reviewer riêng đã rà001–030 theoBible vàgiớihạnnguồn trên, khôngthấy neo canonbịđổi/chiếmagency/vượtcấp. Seq9 tại20/7, khônggặpcanon/Tarot/NguyênBảo, khôngSeq8. Đây làkiểmnhấtquánvănđãviếtvớiràochắn,nókhôngthaythếđốitoànvănnguyêntác.

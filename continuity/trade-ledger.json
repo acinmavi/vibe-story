@@ -41,5 +41,12 @@
     "future_canon_risk",
     "consequence"
   ],
-  "as_of_chapter": 19
+  "as_of_chapter": 30,
+  "pending_offer": {
+    "chapter": 30,
+    "counterparty": "Backlund private archive via Iona",
+    "status": "verification requested; not accepted",
+    "cash_or_fare_received": 0,
+    "knowledge_disclosed": "ordinary job questions only, no divine secrets or sensitive case file"
+  }
 }

@@ -49,3 +49,9 @@
 - C9nguồngốc nốiKestrel,012khôngđọctên. Chuyêntráchđãđượchẹn hỗtrợquảnthúc,khônggiảiánthayMC/canongiải hộ. Gideontựmởngăn/tựnhậntráchnhiệmkhôngđổhếtphép.
 - Sửa028‘đãngừng’mạnhquáthànhchưaghinhậnsai mớiởphầnđốisauquảnthúc; câu‘nhớlại’ làbiênbảntómtắtcầnlàmrõ,khôngbịa lờisaiMCtrướcđó.
 - Khépđườnggianlận vàpháttán;nguồnphápsư/vật vàbắtKestrel cònmở. Tàisản/cắtca/nợ132/quan hệMara vẫnchịugiá.
+
+## 029–030 và kiểm cuối
+- Blindreview028–030:khônglỗichặn,3nhómhook/chưavàoArc2. Sửa030‘đầuthángsau’thànhkỳtrảcuốitháng8,‘tốitrước’thànhhômtrước; bỏcâumeta‘đoạnkết’.
+- Reviewer canon riêng rà001–030 theoBible/giớihạnnguồn,khôngthấyđổineocanon/chiếmagency/vượtcấp;nêucùnglỗihạnnợđãsửa. Khôngtuyênbốđốitoànvănnguyêntác.
+- Rútvănlặp020/024,giữnguồnvàgiớihạn;mọichươngvẫn1800–3000từ. C1sổclueđược sửa mô tảkhớp001đãduyệt,khôngsửachương001.
+-76−36−12=28p;030bánh1p,còn27p.Phòng26–31cònphátsinh,nợ132poundvàquyềnưu tiênnghiêncứukhôngbiếnmất.

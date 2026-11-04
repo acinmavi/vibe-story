@@ -1,9 +1,9 @@
 {
-  "as_of_chapter": 28,
+  "as_of_chapter": 30,
   "loops": [
     {
       "id": "L1",
-      "question": "Why was a second cocoon released at same moment?",
+      "question": "Why did an additional cocoon release on28 June1349? Author-only, not established by MC.",
       "due_arc": 7,
       "status": "open"
     },
@@ -32,6 +32,17 @@
       "due_arc": 1,
       "status": "resolved_case",
       "resolution": "Kestrel acquisition/code instructions independently documented026, Gideon theft admitted027; capture and artifact provenance remain follow-up"
+    },
+    {
+      "id": "L6",
+      "question": "Can Evan verify and accept Backlund work while meeting132-pound debt and lawful research obligations?",
+      "due_arc": 2,
+      "status": "open"
     }
-  ]
+  ],
+  "future_thread_groups": {
+    "1": "artifact source, Kestrel and inquiry about method",
+    "2": "Iona debt, livelihood and verified Backlund opportunity",
+    "3": "gray sensation, earlier Evan and transmigration origin"
+  }
 }
