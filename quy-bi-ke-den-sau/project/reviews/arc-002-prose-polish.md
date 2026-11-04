@@ -19,5 +19,10 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 033 | 1906 → 1906 | 83 → 83 | 8£ gồm ứng1£, vé/phòng trả trực tiếp; nợ132£ và ba nghiên cứu riêng giữ nguyên.; Quyền dừng/phạm vi công việc, ngày3/8 và custody gốc Ruth/chìa đã trả không đổi. |
 | 034 | 1813 → 1814 | 68 → 68 | Cảnh đóng cửa chỉ quan sát khối thấp/nẹp đồng, chưa biết vòng.; Giữ Seq9/tay phải đau, kỹ thuật thuộc Nell, công/phòng và chi4p còn235p. |
 | 035 | 1835 → 1838 | 76 → 76 | Giữ lỗi Evan nhầm hai lần ghi thành hai bản; không chuyển nghề đo/tải của Nell.; Mẩu nhắn chỉ được Nell đọc, chưa lộ chữ cho Evan; tiền232p/nợ132£ không đổi. |
+| 036 | 1847 → 1858 | 82 → 82 | Hai suất/hai bát/hai thìa và chai rửa vết thương không xác nhận Edith ở trong hoặc bị thương.; Giữ lần gặp1/8, vắng hai tối, báo tìm người5/8 và hẹn tuần tra trong ngày. |
+| 037 | 1863 → 1864 | 62 → 62 | Pike/giờ nhận xe và giờ giao hòm tách biệt; không đồng nhất người áo sẫm.; Phấn trắng chỉ giải thích phù hợp nghề, không giám định; ca thêm và chữ phù hợp không chứng minh âm mưu/xuyên không. |
+| 038 | 1809 → 1815 | 60 → 60 | Đo12foot6inch/vạch A và hai cách đo giữ nguyên; chưa được thử người.; Dấu bùn chưa xác định chủ/quay ở đâu; Nell/thợ giữ quyền kiểm sàn, không biến Evan thành kỹ sư. |
+| 039 | 1805 → 1812 | 60 → 60 | Không dùng người nhẹ hơn để thử tải; phép thử vật bị lệch không được dùng kết quả.; Ván mở/thanh đỡ hụt/nhánh cơ cấu sau lưới và mối kê trượt giữ riêng; không suy sức chịu tải chung. |
+| 040 | 1860 → 1862 | 85 → 85 | Jonah/Edith tự nguyện vẫn chỉ lời Silas; không thêm xác nhận trực tiếp.; Động tác Silas không xác định Danh sách; chốt/khối hạ cuối ca giữ nguyên; hẹn sáng7/8 và quyền báo khẩn không mất. |
 
-Đã đối chiếu 5/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+Đã đối chiếu 10/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.

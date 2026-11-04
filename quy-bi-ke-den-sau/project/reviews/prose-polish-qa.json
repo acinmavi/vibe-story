@@ -393,6 +393,61 @@
       "sha_before": "21b23b328814c79ca1efbdb7ad19429fc338dfd1c0636343295df30c2fcd411d",
       "sha_after": "ccd5041f5787d117bd95bece53fa15883840d90f6ebfa23cda890c9431d6bb38",
       "note": "Giữ lỗi Evan nhầm hai lần ghi thành hai bản; không chuyển nghề đo/tải của Nell.; Mẩu nhắn chỉ được Nell đọc, chưa lộ chữ cho Evan; tiền232p/nợ132£ không đổi."
+    },
+    {
+      "chapter": 36,
+      "before": 1847,
+      "after": 1858,
+      "paragraphs_before": 82,
+      "paragraphs_after": 82,
+      "changed_paragraphs": 6,
+      "sha_before": "1fab66118386aa6a64caa0073b293d36fca1a69cfaced096f6c9be2d7f7ab88e",
+      "sha_after": "8d11341e1b16ca65b45248a7e5d9832de26d4d89ff1a7a9f7e0039d486f20f1e",
+      "note": "Hai suất/hai bát/hai thìa và chai rửa vết thương không xác nhận Edith ở trong hoặc bị thương.; Giữ lần gặp1/8, vắng hai tối, báo tìm người5/8 và hẹn tuần tra trong ngày."
+    },
+    {
+      "chapter": 37,
+      "before": 1863,
+      "after": 1864,
+      "paragraphs_before": 62,
+      "paragraphs_after": 62,
+      "changed_paragraphs": 3,
+      "sha_before": "5165af87f16136a8be6c82563d6d944be094f411e264ec6862f6e94bb8439e83",
+      "sha_after": "04d7d01e03d17b8ba6457c49434c6f7e2b08fa2e7c7a7b6b31e59156ee703a5b",
+      "note": "Pike/giờ nhận xe và giờ giao hòm tách biệt; không đồng nhất người áo sẫm.; Phấn trắng chỉ giải thích phù hợp nghề, không giám định; ca thêm và chữ phù hợp không chứng minh âm mưu/xuyên không."
+    },
+    {
+      "chapter": 38,
+      "before": 1809,
+      "after": 1815,
+      "paragraphs_before": 60,
+      "paragraphs_after": 60,
+      "changed_paragraphs": 6,
+      "sha_before": "2f74c23f7b05030002ae4d9890906f27145e5cebc26642fc8f1f286e31d297da",
+      "sha_after": "153b11f657a1fc5868628fa049970eae1ad4e1c7d6eb6b256d9fa543d4aa69fc",
+      "note": "Đo12foot6inch/vạch A và hai cách đo giữ nguyên; chưa được thử người.; Dấu bùn chưa xác định chủ/quay ở đâu; Nell/thợ giữ quyền kiểm sàn, không biến Evan thành kỹ sư."
+    },
+    {
+      "chapter": 39,
+      "before": 1805,
+      "after": 1812,
+      "paragraphs_before": 60,
+      "paragraphs_after": 60,
+      "changed_paragraphs": 5,
+      "sha_before": "e07e1e88405a6ca5d69331e6ebb8c34c4b74e11f1c9f690acf950734ec1e821d",
+      "sha_after": "344c73de6563d156685607834b38e9bda9259c38b453144d5d43a91bec55269e",
+      "note": "Không dùng người nhẹ hơn để thử tải; phép thử vật bị lệch không được dùng kết quả.; Ván mở/thanh đỡ hụt/nhánh cơ cấu sau lưới và mối kê trượt giữ riêng; không suy sức chịu tải chung."
+    },
+    {
+      "chapter": 40,
+      "before": 1860,
+      "after": 1862,
+      "paragraphs_before": 85,
+      "paragraphs_after": 85,
+      "changed_paragraphs": 5,
+      "sha_before": "8a1ba2659f737fa5aeb43509287a932a243937a4b22814b3512af281468b49c2",
+      "sha_after": "4c9130cc0ce59d05683f7309f4e166c97e81389cde0f981b83dfa093daab8d85",
+      "note": "Jonah/Edith tự nguyện vẫn chỉ lời Silas; không thêm xác nhận trực tiếp.; Động tác Silas không xác định Danh sách; chốt/khối hạ cuối ca giữ nguyên; hẹn sáng7/8 và quyền báo khẩn không mất."
     }
   ]
 }
