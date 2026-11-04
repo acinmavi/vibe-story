@@ -29,5 +29,10 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 043 | 1889 → 1883 | 64 → 64 | Chỉ thoát nhờ xe/nhân chứng, không thắng tay đôi; tay phải đau tăng, tay áo trái được Nell kéo.; Giữ hai người/hai bao/đường ra phố và không biết tiếng giày sau lưng do vấp hay dừng; không vào cửa thấp. |
 | 044 | 1904 → 1907 | 53 → 53 | Giữ scar trái cũ khác chấn thương phải, khám4p/ăn2p/còn215p; không tự khỏi.; Đội tới8/8 không là lệnh chờ khẩn; Marsh vẫn chưa tiếp xúc Jonah; không ghi người trẻ theo ra cổng là fact. |
 | 045 | 1901 → 1901 | 61 → 61 | Mira chỉ môi giới có giá/không xác minh tổ chức; chưa trả12p tới046.; Ba phiếu thử không là công thức/khảo cứu riêng; chưa nhận Seq8 hay năng lực; tiếp nhận đội chiều8/8 giữ nguyên. |
+| 046 | 1927 → 1929 | 51 → 51 | 12p là phí tra riêng, không quyền đọc/công thức; chỉ mục cần xin phép riêng.; Hai tên hãng chưa thành đổi tên tới thông báo thương mại; hai bộ phận và phụ trương giữ đủ. |
+| 047 | 1851 → 1850 | 52 → 52 | Nguồn B là Silas tự kể, không nâng thành tận mắt; vật từ B qua chưa đủ khái quát.; Khối thấp/chốt đồng khác then gỗ, hai khung cố định cách12foot6inch; không tháo nền khi phòng người chỉ có lời Silas. |
+| 048 | 1866 → 1864 | 48 → 48 | Thang tháo chưa rõ ai/ngày, lan can và dầm chưa phá; không đồng nhất hatch với đường cáng.; Đồ gửi vào chưa xác nhận tới giường, chưa có tiếng Jonah; phạm vi thợ/Nell và khung chịu lực được giữ. |
+| 049 | 1914 → 1917 | 49 → 49 | Nêm chịu khoảng5giây không tạo đường mở; khối thấp/chốt chính đóng, chưa nâng từ ngoài.; Không đưa cáng hay người thử; phá sâu/bắn mù vẫn chưa bảo đảm bệnh nhân; gỗ mẫu được giữ riêng. |
+| 050 | 2017 → 2023 | 39 → 39 | Thư7/8 không biết9/8; Dale có alibi khoảng đã đối, không vô can hoàn toàn; không giám định chữ tờ đã mất.; Mercer/Pike khác người, Jonas không nhớ thêm; hai vụ hành hung chưa nối, không nối Backlund; Mara không mất nợ/hai shilling tự về. |
 
-Đã đối chiếu 15/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+Đã đối chiếu 20/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.

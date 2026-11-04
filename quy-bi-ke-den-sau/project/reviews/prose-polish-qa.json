@@ -503,6 +503,61 @@
       "sha_before": "17026f950a7ae9fbbb7e6f732dbe7311b38177ac137a90f0016e0b0249b704e4",
       "sha_after": "4adc760b769ca770d93c9c5fec489aa4236898668254bbc2c7a7e62f36b0f964",
       "note": "Mira chỉ môi giới có giá/không xác minh tổ chức; chưa trả12p tới046.; Ba phiếu thử không là công thức/khảo cứu riêng; chưa nhận Seq8 hay năng lực; tiếp nhận đội chiều8/8 giữ nguyên."
+    },
+    {
+      "chapter": 46,
+      "before": 1927,
+      "after": 1929,
+      "paragraphs_before": 51,
+      "paragraphs_after": 51,
+      "changed_paragraphs": 6,
+      "sha_before": "a69340ef956f4fd7a41416bd68198229c35cde18d23e48722c796ffb48b59061",
+      "sha_after": "1149a4cded938538e12e1784a95435214adaadf0fb74574b8dcec0468da49155",
+      "note": "12p là phí tra riêng, không quyền đọc/công thức; chỉ mục cần xin phép riêng.; Hai tên hãng chưa thành đổi tên tới thông báo thương mại; hai bộ phận và phụ trương giữ đủ."
+    },
+    {
+      "chapter": 47,
+      "before": 1851,
+      "after": 1850,
+      "paragraphs_before": 52,
+      "paragraphs_after": 52,
+      "changed_paragraphs": 5,
+      "sha_before": "0e4fedc987a8865136ba516b75a5d52352bec4c9a6163d083ecc02785d60db90",
+      "sha_after": "21071e621d30c2b86c8167a302c75012256e3c36bf341791d9c2630f45b4dcd0",
+      "note": "Nguồn B là Silas tự kể, không nâng thành tận mắt; vật từ B qua chưa đủ khái quát.; Khối thấp/chốt đồng khác then gỗ, hai khung cố định cách12foot6inch; không tháo nền khi phòng người chỉ có lời Silas."
+    },
+    {
+      "chapter": 48,
+      "before": 1866,
+      "after": 1864,
+      "paragraphs_before": 48,
+      "paragraphs_after": 48,
+      "changed_paragraphs": 4,
+      "sha_before": "2fc97c03fda190648de5165476439dfb45ad4e87289123331a7608c546f1e1e0",
+      "sha_after": "36389ed406c4afdb3e54b0d89120d48a3c7946c744450f2756e6bff6f0d3372a",
+      "note": "Thang tháo chưa rõ ai/ngày, lan can và dầm chưa phá; không đồng nhất hatch với đường cáng.; Đồ gửi vào chưa xác nhận tới giường, chưa có tiếng Jonah; phạm vi thợ/Nell và khung chịu lực được giữ."
+    },
+    {
+      "chapter": 49,
+      "before": 1914,
+      "after": 1917,
+      "paragraphs_before": 49,
+      "paragraphs_after": 49,
+      "changed_paragraphs": 6,
+      "sha_before": "23546a4c510a0f9337fa0d95267d9d21e4a09a298efeb31bcf3a68bfcd80c5ca",
+      "sha_after": "073277de41b5d2f9e188bed1fcccbb6b84a7642b70cb1ccacb333e52a36756f0",
+      "note": "Nêm chịu khoảng5giây không tạo đường mở; khối thấp/chốt chính đóng, chưa nâng từ ngoài.; Không đưa cáng hay người thử; phá sâu/bắn mù vẫn chưa bảo đảm bệnh nhân; gỗ mẫu được giữ riêng."
+    },
+    {
+      "chapter": 50,
+      "before": 2017,
+      "after": 2023,
+      "paragraphs_before": 39,
+      "paragraphs_after": 39,
+      "changed_paragraphs": 6,
+      "sha_before": "d90a5f31e145f360dcacc75d1e04228cc536fdbc0690dcb505ac3d6574745f41",
+      "sha_after": "dbe736f3d675bd7183ed7ccfae53c5ce3a9d1d3f9838026e84cd2f1cba63095c",
+      "note": "Thư7/8 không biết9/8; Dale có alibi khoảng đã đối, không vô can hoàn toàn; không giám định chữ tờ đã mất.; Mercer/Pike khác người, Jonas không nhớ thêm; hai vụ hành hung chưa nối, không nối Backlund; Mara không mất nợ/hai shilling tự về."
     }
   ]
 }
