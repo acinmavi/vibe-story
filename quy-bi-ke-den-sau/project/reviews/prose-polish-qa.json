@@ -39,8 +39,8 @@
       "paragraphs_after": 128,
       "changed_paragraphs": 29,
       "sha_before": "7da66f3fceb77160d5f4be1aa49a6895cca9ef30251a5b72c938296095558056",
-      "sha_after": "3e77aca376d0a052d6d3b3133b5590eb7426774670ea5ac1880a84f4a61dbc3c",
-      "note": "Áp dụng bản thử003 đã duyệt, hoàn nguyên suy diễn vị trí đứng bên bàn sau review độc lập; giữ C2, thiếu hiểu biết nghề giấy và các câu ngắn."
+      "sha_after": "7b464ca26d2dbd5503c07132110717d794552c4140d4e8f891242d3b26b595eb",
+      "note": "Theo bản thử003 đã duyệt; review hoàn nguyên vị trí Gideon chưa nêu và giữ hai người cùng đặt bó bìa. C2, lỗi nghề giấy và câu ngắn giữ nguyên."
     },
     {
       "chapter": 4,
