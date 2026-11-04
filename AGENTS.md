@@ -17,3 +17,5 @@
 - Viết chương 2–30 theo các lô 2–4; mỗi lô cập nhật continuity, kiểm tra rồi commit local. Không remote, không push, không thay repo khác, không chạy ở nền.
 - QA: `python3 .agents/skills/quy-bi-ke-den-sau/scripts/check_project.py .`.
 - Trong các cảnh dùng lore, ưu tiên câu chuyện hơn trình bày từ điển. Không sao chép diễn biến hay đoạn hội thoại nguyên tác.
+- BẮT BUỘC đọc `bible/narrative-contract.md` trước thiết kế hoặc viết tiếp: cuối arc tăng tốc bằng các tuyến đã gieo hội tụ và hệ quả nối nhau, không phá mạch chung; trả các chi tiết đã hứa với độc giả; ngày tháng, năng lực, tri thức và phong cách nhân vật phải nhất quán. Thay đổi cần nguyên nhân và quá trình; lệch bất thường phải được nhận thấy, gieo dấu và giải thích có nhân quả.
+- Theo dõi `continuity/setup-payoff-ledger.md` cùng `continuity/open-loops.json`. Không đánh dấu đã trả chỉ vì tác giả có ý định dùng sau. Trước Arc2 phải bổ sung kiểm kê chi tiết còn thiếu và chốt mốc tái xuất/trả cho các tuyến mở; cổng duyệt Arc2 giữ nguyên.
