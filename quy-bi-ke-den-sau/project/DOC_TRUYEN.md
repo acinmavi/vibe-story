@@ -1,6 +1,6 @@
 # Đọc truyện — Quỷ Bí Chi Chủ: Kẻ Đến Sau
 
-Arc001 — **Mục lục không tên**, hoàn tất30 chương; 64374 từ theo split().
+Arc001 — **Mục lục không tên**, hoàn tất30 chương; 64375 từ theo split().
 
 [Đọc liền toàn Arc](ARC_001.md) · [Báo cáo kết Arc](reviews/arc-001-completion.md)
 
@@ -14,7 +14,7 @@ Arc1 và Arc2 đã hoàn tất; văn phong001–068 đã được biên tập th
 |004|[Địa chỉ trên giấy gói](chapters/004.md)|2254|
 |005|[Một penny mua tin cũ](chapters/005.md)|2201|
 |006|[Hai người đứng ở cửa kho](chapters/006.md)|2071|
-|007|[Đến cuối tuần](chapters/007.md)|2320|
+|007|[Đến cuối tuần](chapters/007.md)|2321|
 |008|[Tiền đã trả](chapters/008.md)|1992|
 |009|[Số trên gỗ](chapters/009.md)|2040|
 |010|[Phía bên kia con dấu](chapters/010.md)|2313|
