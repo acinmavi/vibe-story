@@ -49,5 +49,8 @@ Số từ đếm bằng split(), gồm tiêu đề; đoạn là khối cách b�
 | 063 | 1867 → 1870 | 63 → 63 | Giữ đầy đủ thứ tự giây/thoại, chốt hai người xác nhận và nêm thu; không sửa đoạn đếm ngắn.; D1 hỏng trước cáng qua/D2 còn; Edith đi riêng sau cáng, đội vẫn chưa rút hết. |
 | 064 | 1843 → 1849 | 44 → 44 | Giữ D2 mở có kiểm soát từ phía bệnh nhân, nhóm đi/rút chính cầu; không đi A/B.; Không cho đối trọng nâng/khung tắt; giữ Silas khống chế bằng đội và dụng cụ. |
 | 065 | 2018 → 2023 | 41 → 41 | Thang hai đoạn thu đúng nguồn; Edith thấy tháo/Jonah thấy mang đi, không nhập lời khai.; Không phán trách nhiệm kết cấu/pháp lý, không hoàn bồi hay trả 7£ sớm; khung còn thấp/guarded. |
+| 066 | 1888 → 1890 | 45 → 45 | Mira chỉ quyền intro/index giám sát và xin nguồn riêng, không công thức/giá/thăng bậc.; Giữ nợ132£ tới thanh toán, phòng chưa gia hạn, không đo tiêu hóa hoặc gán vệt xám dẫn đường. |
+| 067 | 1837 → 1840 | 44 → 44 | Giữ Rusk9/8 nhận diện/thư10/8 và giấy Agnes có trước, không hồi tố tên.; Giữ thưMara9/8 gửi10/8 nhận13/8, Evan chỉ biết phần được kể; tiền chưa nhận/ủy quyền chỉ nhận2£. |
+| 068 | 1849 → 1854 | 40 → 40 | Giữ toàn bộ khoản8/1/7£,1856→1376p,2£áp31/8/gốc130, không tự sửa kỳSeptember.; Giữ chưa công thức/chưa tiêu hóa/phòng hết13/8; Neil chỉ ký ức chưa gặp/chưa gửi, deadline19/8. |
 
-Đã đối chiếu 35/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.
+Đã đối chiếu 38/38 chương thuộc arc. Bản gốc nằm trong Git tại commit nguồn; không xóa hoặc viết đè lịch sử.

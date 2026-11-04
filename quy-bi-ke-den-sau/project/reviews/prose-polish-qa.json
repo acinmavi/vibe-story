@@ -723,6 +723,39 @@
       "sha_before": "1839076a0bcf197c556600085b48ddcf4f845d216655cb33b21544e3cc3eb2ca",
       "sha_after": "6c10822c314b621df23a8383a45a1fa7d37849349d4a78fcd753fee4ea1ddf62",
       "note": "Thang hai đoạn thu đúng nguồn; Edith thấy tháo/Jonah thấy mang đi, không nhập lời khai.; Không phán trách nhiệm kết cấu/pháp lý, không hoàn bồi hay trả 7£ sớm; khung còn thấp/guarded."
+    },
+    {
+      "chapter": 66,
+      "before": 1888,
+      "after": 1890,
+      "paragraphs_before": 45,
+      "paragraphs_after": 45,
+      "changed_paragraphs": 5,
+      "sha_before": "073e2ac96e001c14d5f4cce3a4ecc84b9bec3bd942395f373772f98f0e889f6e",
+      "sha_after": "3e2a035c6334b3baf26d0a4bd8ca411bd6fa703d9162916c59d431a88cd213bb",
+      "note": "Mira chỉ quyền intro/index giám sát và xin nguồn riêng, không công thức/giá/thăng bậc.; Giữ nợ132£ tới thanh toán, phòng chưa gia hạn, không đo tiêu hóa hoặc gán vệt xám dẫn đường."
+    },
+    {
+      "chapter": 67,
+      "before": 1837,
+      "after": 1840,
+      "paragraphs_before": 44,
+      "paragraphs_after": 44,
+      "changed_paragraphs": 5,
+      "sha_before": "02a2d9f36f1541fe56187b3a7c5300f313021b0146694d51cbe4bce77de8b67a",
+      "sha_after": "445a723ffe3ab8889746d16f05fc36de61c5868ef73358253bef9b2341e3458b",
+      "note": "Giữ Rusk9/8 nhận diện/thư10/8 và giấy Agnes có trước, không hồi tố tên.; Giữ thưMara9/8 gửi10/8 nhận13/8, Evan chỉ biết phần được kể; tiền chưa nhận/ủy quyền chỉ nhận2£."
+    },
+    {
+      "chapter": 68,
+      "before": 1849,
+      "after": 1854,
+      "paragraphs_before": 40,
+      "paragraphs_after": 40,
+      "changed_paragraphs": 7,
+      "sha_before": "67e0e05bca451ad1e49166a4d21d5a98ba3741249c667a4984e85940c667374b",
+      "sha_after": "294544e3f619160b6e2d926c749d381d38e28f6f3440a47cf97d942a45c92d3b",
+      "note": "Giữ toàn bộ khoản8/1/7£,1856→1376p,2£áp31/8/gốc130, không tự sửa kỳSeptember.; Giữ chưa công thức/chưa tiêu hóa/phòng hết13/8; Neil chỉ ký ức chưa gặp/chưa gửi, deadline19/8."
     }
   ]
 }
