@@ -17,5 +17,10 @@ Người dùng duyệt bản thử 003 và STYLE_GUIDE, cho phép sửa toàn b�
 | 003 | 2162 → 2210 | 128 → 128 | Áp dụng nguyên văn bản thử 003 đã duyệt; giữ C2, thiếu hiểu biết nghề giấy và các câu ngắn được duyệt. |
 | 004 | 2241 → 2257 | 111 → 111 | Giữ thứ tự mua đúng mẫu, lịch, bỏ bản đồ, bữa ăn và nghe Tingen/Loen; không tăng khả năng nhận diện hoặc đổi tiền. |
 | 005 | 2194 → 2201 | 93 → 93 | Giữ thông báo chỉ tìm thông tin, không thành cáo phó; giữ ký ức sách riêng với chứng cứ. Giữ nhịp tên Welch/Naya, Chỉ bấy nhiêu và Không mắc. |
+| 006 | 2066 → 2071 | 121 → 121 | Giữ mọi giới hạn nhân chứng: Mara đến sau dỡ hòm; Jonas không chắc ngày, mặt, tên và cuối chuyến. Không biến cầm phiếu thành ký nhận; giữ mất lượt công và cuối chương không buông giấy. |
+| 007 | 2317 → 2320 | 97 → 97 | Giữ ngày 3/7, tiền ăn ghi nợ và năm penny; giữ sự bất định về lịch Klein, tháng chín và ngưỡng cầu cứu ngay nếu có nạn nhân. Không chọn con đường sớm. |
+| 008 | 1994 → 1992 | 126 → 126 | Giữ 12sh lương cũ, đổi 1sh để trả 6p, trả Ada 3sh+3p, còn104p; không quy Kestrel thành chủ mưu. Giữ quyền quyết định của Mara và giới hạn lời hứa giúp Theo. |
+| 009 | 2051 → 2040 | 118 → 118 | Giữ317 trên gỗ/371 trên phiếu, chưa chắc cùng kiện; Bram chỉ xác nhận việc xem hai số, không xác nhận nguồn gốc/thứ tự. Giữ phí1p, còn103p, không lấy hòm/phiếu gốc. |
+| 010 | 2312 → 2313 | 107 → 107 | Giữ kho xe/kho sau, khoảng rời mắt và khả năng đổi tờ; không chứng minh dấu sửa ký ức. Giữ bỏ lượt xem sổ để bảo vệ nguồn, tìm hiệu sách có điều kiện, không đặt cọc. |
 
 Các chương ghi trong bảng đã được kiểm lời thoại và thứ tự chữ số bằng máy, đọc đối chiếu phần thay đổi về sự kiện, tri thức, manh mối và nhịp câu. Các phép so văn bản không tự chứng minh tương đương ngữ nghĩa. Báo cáo sẽ chốt sau khi hoàn tất đủ 30 chương.
