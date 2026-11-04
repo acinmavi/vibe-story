@@ -59,3 +59,13 @@ Ví dụ dấu đỏ chương 003 cần hai đối tượng rõ: bản gốc có
 5. Báo ví dụ trước/sau, số từ theo cùng cách đếm và số đoạn. QA cấu trúc chỉ bổ trợ; người dùng duyệt văn rồi mới áp dụng trong phạm vi được cho phép.
 
 Phạm vi đã duyệt: áp dụng tiêu chuẩn bản thử cho chương 001–068 (hoàn tất Arc 1 trước, tiếp Arc 2), QA từng chương, commit theo nhóm tối đa 5 chương; không push, merge hoặc viết thêm chương. Cập nhật bản đọc và số từ theo văn bản đã sửa. Riêng SHA khóa chương 001 phải có bản lưu SHA cũ và căn cứ người dùng cho phép biên tập; giữ nguyên các cổng duyệt arc. Không đổi sự kiện trong continuity.
+
+## Chỉ thị nhịp truyện — người dùng04/11/2026
+
+Xác minh thông tin đời thường theo mức cần thiết: hỏi ngày, xem lịch hoặc báo là đủ để biết ngày hiện tại; không bắt nhân vật lặp nguồn chỉ để diễn tả thận trọng. Ký ức về sự kiện tương lai vẫn có thể sai, nhưng đó là câu hỏi khác.
+
+Mỗi lượt điều tra cần thêm dữ kiện, đổi giả thuyết, gây hệ quả hoặc buộc lựa chọn. Khi một câu hỏi không tiến triển, nhân vật đổi cách tiếp cận thay vì hỏi lại cùng điều qua nhiều chương. Giữ các giới hạn chứng cứ cần cho lời giải, chỉ nói lại khi điều kiện đã thay đổi.
+
+Giới thiệu mục đích công việc bằng tiếng Việt rõ trước thao tác: làm nghề gì, đang cần hoàn thành gì, vì sao kết quả ấy quan trọng. Chọn động tác thể hiện tay nghề, sai lầm, quan hệ hoặc manh mối; các lượt đếm, chép, gấp, giữ giấy, kiểm túi thường lệ có thể lược thuật. Cảnh điều tra/cứu nạn kể qua mục tiêu, trở ngại, quyết định và kết quả; không biến thành biên bản quy trình.
+
+Không kéo dài để đạt số từ khi biên tập nhịp. Vẫn giữ thời gian, tiền, nhân quả, năng lực và manh mối thiết yếu. Yêu cầu này cho phép rút các cảnh xác minh/trình bày lặp của bản cũ; không mở quyền tạo biến cố mới hoặc tự đổi lời giải.

@@ -1,7 +1,7 @@
 # ARC 001 — MỤC LỤC KHÔNG TÊN (Chương 1–30)
 
 ## Premise
-Trần Duy tỉnh trong thân xác Evan Harlowe ở một xưởng in thuộc Tingen, thời điểm Chu Minh Thụy cũng vừa thức tỉnh. Trước khi biết mình đang trong Quỷ Bí Chi Chủ, anh phải xoay xở với công việc, ngôn ngữ, thân phận và những phiếu mục lục có vẻ tự đổi. Sau khi biết vụ Welch/Naya, anh chỉ xác nhận thế giới và niên biểu bằng nhiều nguồn. Một vụ biển thủ kết hợp vật phẩm Phi Phàm cấp thấp tại xưởng in tạo ra câu đố độc lập. Cuối arc, MC tìm đường thành Danh sách 9 Kẻ Dòm Ngó Bí Ẩn nhờ giao dịch có giá thật; bị tri thức xâm nhiễm lần đầu, dấu sương mù xám giảm một phần tác hại. Vụ xưởng in kết thúc; manh mối nối tới mạng lưới nghiên cứu của các arc sau.
+Trần Duy tỉnh trong thân xác Evan Harlowe ở một xưởng in thuộc Tingen, thời điểm Chu Minh Thụy cũng vừa thức tỉnh. Trước khi biết mình đang trong Quỷ Bí Chi Chủ, anh phải xoay xở với công việc, ngôn ngữ, thân phận và những phiếu mục lục có vẻ tự đổi. Sau khi biết vụ Welch/Naya, anh nhận ra thế giới từ địa danh và tin báo; ngày hiện tại được hỏi rõ qua lịch ở hiệu thuốc. Một vụ biển thủ kết hợp vật phẩm Phi Phàm cấp thấp tại xưởng in tạo ra câu đố độc lập. Cuối arc, MC tìm đường thành Danh sách 9 Kẻ Dòm Ngó Bí Ẩn nhờ giao dịch có giá thật; bị tri thức xâm nhiễm lần đầu, dấu sương mù xám giảm một phần tác hại. Vụ xưởng in kết thúc; manh mối nối tới mạng lưới nghiên cứu của các arc sau.
 
 ## Hoàn cảnh và mốc thời gian
 - Ngày 28/6/1349: tỉnh dậy; ngạc nhiên với thế giới; không phát hiện Quỷ Bí ngay.
