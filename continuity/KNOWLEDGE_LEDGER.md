@@ -1,38 +1,33 @@
-# Sổ tri thức — nền sau030, cập nhật đến040
+# Sổ tri thức — đối nguồn đến064, chờ chốt068
 
-Bốn tầng không được trộn: **Tác giả** = bible/solution đã chốt hoặc sự kiện trên trang; ** Evan ** = đã kiểm / ký ức truyện / suy đoán; ** Klein ** = canon đến thời điểm này và chưa có chứng cứ gặp OC; **Độc giả** = những gì 001–030 đã kể, không gồm sealed solution. Đáp án Arc 2 trong SCENARIO_SOLUTIONS là đề xuất, chưa thuộc sự thật Arc 1.
+Bốn tầng phải giữ riêng. Tài liệu tác giả không biến thành chứng cứ trong POV. Ký ức đọc nguyên tác không có độ chắc như một sự kiện đã kiểm ở hiện tại.
 
-| Vấn đề | Tác giả | Evan | Klein | Độc giả |
+| Vấn đề | Sự thật tác giả | Evan đã biết | Klein đã biết trong truyện | Độc giả đã thấy |
 |---|---|---|---|---|
-| Danh tính | Duy trong thân Evan; kén bổ sung là AU bible, không thế giới ảo | Biết mình là Duy, mảnh ký ức Evan; chưa chứng minh cơ chế/kén | Không biết Duy/ Evan; chưa có đầu mối | Thấy trải nghiệm xuyên không; không được trình bày chứng cứ kén |
-| Tin nhắn/người thứ tư/giọng mình | Nguồn cụ thể còn phải khóa trong tuyến nguồn gốc; không giải bằng chỉ là giấc mơ | Nhớ cảnh báo, không biết ai gửi/điều kiện kích hoạt | Không biết | Thấy 001, chưa biết đáp án |
-| Thế giới | Loen/ Tingen 1349; Klein tuyến canon riêng |004–007 đối lịch/báo; ký ức đọc phần 1 có sai số; không có địa chỉ Klein | Biết hoàn cảnh riêng; không biết có độc giả khác | Biết MC đang kiểm trí nhớ, không phải mọi ký ức đều đúng |
-| Phiếu 17 | Sealed Arc 1: vật phẩm AU ảnh hưởng ký ức người đọc mục lục đóng dấu và tin tính chính thức; nguồn độc lập/độ trễ hữu hạn; vật ngoài hệ không đổi. Nguồn chế tạo chưa khóa |027 biết liên hệ bộ dấu/phiếu, có lệch hồi tưởng và rãnh độc lập; chưa đo đủ điều kiện/giới hạn | Chưa biết vụ này trên trang | Đủ nối thủ đoạn gian lận; chưa được xác nhận toàn bộ cơ chế/nguồn |
-| Gideon | Bán sách lấy tiền nợ chữa bệnh; nhận trách nhiệm 016/027. Không xóa tội bằng ô nhiễm | Đã thấy giấy và lời nhận | Không được mặc định nhận hồ sơ | Cùng thấy động cơ và hậu quả đình chỉ, chưa biết phán quyết |
-| Kestrel | Sealed Arc 1: hướng dẫn dùng dấu, khai thác đường sách. Chưa có bản án/bắt giữ | Có chỉ dẫn đổi mã 026 và hành vi 023, chưa đủ biết mọi tổ chức/đồng phạm | Chưa biết | Nghi ngờ mạnh và có chứng từ; chưa biết số phận |
-| Dale /2 vụ giật giấy | Chưa có nguồn trên trang chứng minh chung hung thủ hay chữ ký Dale thật |014 mất giấy; 025 mất bản chép khác. Chỉ biết mô tả/đường thoát | Không biết | Không được suy danh tính từ việc xuất hiện gần nhau |
-| Ma dược | Seq9 thật, 20/7; 12£ công+6£ đồng hồ bù gói 150£ | Đã đối 2 nguồn/uống; chưa được trao kiến thức vô hạn | Chưa biết MC là Beyonder | Biết khoản nợ và giới hạn, không biết% tiêu hóa |
-| Vệt xám | AU chỉ giảm một số rủi ro truyền tri thức; không là bản sao Nguyên Bảo; chưa xác nhận nguồn trên trang | Chỉ cảm giác lạnh/bớt áp lực và vẫn đau; chưa gọi được, không chứng minh miễn nhiễm | Không biết dấu này; không biết nguồn kén của MC | Thấy cảm giác chủ quan, không được bảo đảm an toàn |
-| Iona / Selby | Biết pha/uống/diễn biến quan sát, không mặc định biết xuyên không | Tin có giới hạn, không biết Danh sách/giáo phái của họ | Không có liên hệ đã viết | Có thể thấy họ ghi nhận hiện tượng, không có đáp án nguồn |
-| Klein /Ngu Giả/Thế Giới | Ngu Giả= Klein; **Thế Giới chưa được tạo cuối 7** | Ký ức đọc biết liên hệ tương lai; không có quyền chứng thực hoặc công khai | Biết vai Ngu Giả riêng, chưa có persona Thế Giới; không biết MC | Có thể biết nhờ nguyên tác, nhưng truyện chưa cho cuộc gặp |
-| Cattleya / Bernadette | Có quan hệ và mục tiêu độc lập theo bible; chưa gặp MC | Ký ức độc giả không là kênh liên lạc hay lòng tin | Chưa được cấp kiến thức tương lai/cuộc gặp theo kế hoạch | Chưa có cảnh của họ trong Arc 1 |
+| Duy/Evan/kén | Duy trong thân Evan; kén bổ sung là AU bible, không thế giới ảo | Mình là Duy, có mảnh ký ức Evan; chưa chứng minh cơ chế/kén | Chưa có nguồn về MC, K0 | Trải nghiệm xuyên không, chưa chứng cứ kén |
+| Người thứ tư/tin nhắn/giọng mình001 | Nguồn cụ thể còn cần khóa trước Arc3 | Nhớ cảnh báo, chưa biết người gửi/điều kiện | Không biết | Thấy cảnh báo; cửa Ashwick không giải nó |
+| Phiếu17 | Vật AU ảnh hưởng hồi tưởng khi dựa vào mục lục có dấu; nguồn chế tạo chưa khóa | Đối rãnh/nguồn ngoài hệ, thấy liên hệ và kết quả quản thúc; không đủ toàn cơ chế | Không mặc định nhận hồ sơ Ruth | Thủ đoạn gian lận và giới hạn kiểm chứng, chưa nguồn chế tạo |
+| Gideon/Kestrel | Gideon bán sách, Kestrel khai thác dấu/đường đổi mã | Có chứng từ026/lời nhận027, thư037/050 về kê tài sản và truy tìm | Không có cầu truyền tin đã chứng minh | Trách nhiệm không được xóa bằng hoàn cảnh; Kestrel chưa bị bắt |
+| Ca thêm/phấn/Pike/Mercer | Nguồn nghề và chứng từ mới có thể giải phần đời thường, không nguồn xuyên không |037: ca thêm vì tiền phòng, phấn kiện, Pike né vì giấy thiếu;050: Mercer nhận phiếu theo nguồn mới. Jonas vẫn không nhớ chắc | Không biết | Cùng nhận thông tin có nguồn; không có mẫu bụi001 được giữ giả tạo |
+| Dale/014/025 | Chưa có căn cứ chung thủ phạm; giấy dụ gốc đã mất |050 nguồn vị trí/biên nhận của Dale tăng giả thuyết mượn tên, chưa chứng minh người viết/ra lệnh hoặc Dale vô can mọi việc | Không biết | Không có giám định chữ từ vật đã mất; hai vụ vẫn tách |
+| Ma dược/giới hạn | Seq9 thật20/7; gói150£ bằng12£công+6£đồnghồ+132£nợ | Đã uống/đối nguồn, biết đau/whisper, chưa đo%/chưa Seq8 | Không biết MC là Beyonder | Biết chi phí và giới hạn, không công thức Seq8 |
+| Vệt xám | AU giảm một số rủi ro tri thức, không bản sao Nguyên Bảo; nguồn chưa chứng minh | Chỉ cảm giác lạnh/bớt áp lực, vẫn đau, không gọi được để cứu người | Không biết | Cảm giác chủ quan, không bảo đảm miễn nhiễm |
+| Silas | Seq8 theo thiết kế tác giả, kiểm soát vì nỗi sợ và che trách nhiệm; không toàn tri | Thấy lực/kinh nghiệm/dụng cụ/đe dọa, không đọc được bậc; claims tự nguyện bị bệnh nhân bác | Không biết | Hành vi leo thang từ điềm tĩnh kiểm soát đến phá đường cứu; chưa được xác nhận Danh sách |
+| Hai suất ăn/Edith/Jonah | Edith ở chăm Jonah, không đồng phạm |052–055 giọng/tên/ý muốn có đối nguồn. Edith có thể ra một mình nhưng không đưa cáng;Jonah tự xin khám/ra | Không biết | Twist được chuẩn bị bằng khẩu phần/đồ rửa/hatch/cáng; không suy tự nguyện từ việc cô chưa đi |
+| Cặp ngưỡng đồng | Hai khung cố định, active theo chốt đồng/khối thấp; vật vô sinh qua, người cùng đồ mang quay về phía khung |042 Rowe bất ngờ bị trả ngoàiA;047 vật/cấu hình;054 Edith kể lần thoát cũ ởB. Không thử thêm người, không đủ mọi quy tắc sinh học | Không biết | Không sửa ký ức, không giọng gọi; cánh gỗ thường khác chốt điều khiển |
+| Cầu/nêm/tải | Cứu ngoài A/B, giới hạn theo bộ phận đã thử |049 nêm nhánh đồng hỏng không mở vòng.057058 nêmguide thường40s,22snhịp/25shủy; toànmẫu6m40.059primarybịphá/060alternatethửlại;061062criticaltimerchưa chạy | Không biết | Dự phòng có trước phá hoại; lỗ dụng cụ không là đường người đi bí mật |
+| Khám thật | Marsh là bác sĩ thường, chưa gán Danh sách |062 đội đã sang nhịp cố định;Marsh tới giường khám/chăm/chuẩn bị,Jonah đồng ý,còn trên giường trước lượt chuyển | Không biết | Phân biệt mô phỏng và khám thật, không chữa khỏi tức thì |
+| Mara/Theo | Có đời sống riêng tại Tingen |050 chỉ tin có thể có trong thư7/8; chưa tự biết quyết định9/8 | Không biết |051POVMara:Theo từ chối bảo lãnh mới, chọn ít tiền;2sh/nợ cũ không tự hết. Thư9/8chưa gửi khi cảnh diễn ra |
+| Iona/Selby/Ruth | Biết phần nghiệp vụ họ dự; không mặc định biết xuyên không | Không biết bậc/giáo phái;Ruth chưa được khai Seq9/công thức/nguồn Duy | Không có liên hệ đã viết | Quyền biết giới hạn, không ai toàn tri |
+| Klein/Ngu Giả/Thế Giới | Ngu Giả=Klein;13/8baselineTingenSeq9 là suy luận đối neo;Thế Giới chưa tạo | Ký ức đọc biết bí mật tương lai nhưng chưa xác minh vị trí hiện tại | Giữ vai Ngu Giả của mình;chưa biết MC,không có personaThếGiới lúc này | Không có cuộc gặp; hiểu nguyên tác ngoài truyện không thành cảnh đã viết |
+| Cattleya/Bernadette/Mira | Hai nhân vật nữ có mục tiêu riêng;Mira chưa được xác minh thuộc mạngCattleya | Chưa có kênh liên lạc trực tiếp hoặc lòng tin;Mira bán dịch vụ có giới hạn | Không biết nhánh OC này | Không cameo/không gia nhập Tarot/không tặng công thức |
 
-## Quy tắc truyền tin
+## Luật truyền tin
 
- Ruth biết hồ sơ theft/assault và triệu chứng, **không có cảnh MC khai Seq9 /công thức/xuyên không**. Không gọi cô hay Iona / Selby là Nighthawks hoặc gán Danh sách khi chưa có nguồn. Mara biết tính cách đổi, đồng hồ đã bán, tay đau; không biết potion/nợ 132£/ký ức đọc. Theo biết tuyến xe và tự rút; không được biến thành chuyên gia occult. Bram giữ chứng từ ngoài hệ; độc lập nguồn không chứng minh ông vô tội mọi việc.
+Mỗi thư ghi ngày viết và nguồn người gửi có thể biết. Không thưRuth7/8biết chuyện9/8;không tự chuyểnMaraPOV051sangEvan. Ruthgiữgốc012/nháp,Evancócopy/biênnhận;Bramgiữgốcsổ/phiếu,thưdụ014vẫnmất. Khi quan hệ mới hoặc nguồn mới xuất hiện, thêm chương và mức chắc thay vì sửa lịch sử cho giống kết quả.
 
-Tài liệu trinh thám của Klein hiện K0. Các trường future trong klein-investigation.json là điều kiện tương lai, không là ký ức hiện tại. Chỉ khi có nguyên nhân riêng của Klein mới mở điều tra, không để MC cố ý gieo dấu, giải thích hay chủ động hỗ trợ.
+Điều tra của Klein chỉ mở khi anh nhận một nguồn hợp lý qua quyết định riêng. MC có thể tự tra đời mình nhưng không tự thú, cố gieo dấu hay giúp Klein chứng minh kén. Các trường future trong JSON là cửa tương lai, chưa là ký ức hiện tại.
 
-## Chênh lệch đã xác minh031–033
+##063–064đãviết
 
-Evan/độc giả biết chìa trảRuth031, gốc bảnvẽ/nháp bàn giao032 và bản sao theo người; nhận18p công thường, đã thanh toánAda,239p sauứng và ăn033. Nguồn thuê/đại diệnAgnesWard được kiểm qua đầu mối tòa nhà độc lập; nhận việc8£/ứng1£trongphí, vé/phòng trả trực tiếp; rờiTingen3/8, chưa tớiBacklund. Quyền3nghiêncứu riêng không gồm sản phẩm khách trả tiền.
-
-Ruth032 chỉ báo mối liên hệ tạm giữa việc dùng mục lục đóngdấu làm căn cứ và lệch hồi tưởng; không khẳngđịnh toàn cơ chế hoặc nguồn. Cô nhận thêm triệu chứng/địa chỉ, chưa được khai ma dược/Danh sách/xuyênkhông. Người hỏiRusk chỉ có mô tả và câu hỏi nghề, không có tên xác minh. Theo tự hỏi một điều kiện thử việc, chưa hợp đồng lâu dài. Các dòng lịch sử ở bảng030 không làm mất các cập nhật này. Klein không nhận thôngtin mới trên trang;K0giữnguyên. Không ai trong POV biết nhân vật/bíẩnBacklund chưa xuất hiện.
-
-## Chênh lệch034–036: bốn tầng
-
-Tác giả giữ cơ chế/động cơ trongsealed;không chuyển choEvan. Evan và độcgiả chỉ thấy chuông/khối nặng/cửa bắc, hai suất ăn và chai được bếp nhận là đồ rửa vết thương. Nguồn “Edith thôi việc” là lời chuyển choAgnes, không lờiEdith; chưa thấy mặt người nhận hộp. Cả giảthuyếtEdithđãđi/người khác ăn lẫnEdithởtrong đều còn hợp lệ. Nell có lần gặp trực tiếp chiều1/8; người giữ phòng báo hai đêm vắng, không phảiEvanđãđi kiểm phòng. Tuầntra có báo tìm người và hẹn kiểm trong ngày5/8. Klein không nhận thôngtin trên trang,K0không đổi. Không ai trong POV được đọc tênSilas/bậc8/Jonah hoặc cơ chế vòng từ bảnthiếtkế.
-
-## Chênh lệch037–040
-
-**Tác giả:** đáp ánsealed không được chuyển vào lời kể. **Evan/độcgiả:**037 có thưRuth với hồ sơ mới nốiPike lấyxe sáng28/6→giao chiều bằngsốxe/giấyxuất, không gán đãxem009;giấy thiếu giải thích né mặt, không địnhdanh người áo sẫm. Phấn côngviệc/ca thêm/giới hạn lờiJonas có nguồn, không lời giải chết/chuyểnhồn.038–039 đo vật12foot6inch và thử sàn theo nghề, chưa chứng minh vòng.040 nghe tênSilasVey,JonahPell vàlờicáchlytựnguyện, chưa thấy/nghe bệnhnhân độc lập. Một động tác chặn tay không đọc được Danh sách. **Klein:**không nhận thôngtin trêntrang,K0khôngđổi;MCkhông gài dấu/vạchbí mật đểgiúpđiềutra. Ytếđộclập/sáng7/8làviệccần theo,không làviệcđãthựchiện.
+Patient/chăm sóc đãra;Jonahhandoff22s/chốtxácnhận2người,nêmthu.D1vỡtrướclượtchuyểnnhưngD2giữđếncivilianout;độiquacầufixedtớiD2,mởcókiểmsoát,bắtSilasfrontconnector,rútcùngcầuđủngười.Vậtcònfixed/khốithấp,guardedkhôngbằngđãoff.Chưacótiền7£/trảnợ/chứngkiếncôngthứcSeq8hoặctinMara9Aug.

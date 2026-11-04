@@ -95,3 +95,7 @@ Giảthuyết tựnguyện nghỉ khôngcònđứngsauJonah;độngcơbảohộ�
 ## Lô057–060
 
 Root đọc toàn văn; blind reviewer đọc riêng057–058 rồi059–060, không sealed. PASS: đường6ft/nhánh D1D2/lỗdụngcụ; nêmguide40s≠chốtđồng049;22s/abort25s≠toànlượt6–8phút. Pháhoại bằngbẩy/búa vàođiểmyếu đãgieo056, trướcngườiqua;dựphòngđãthử058vẫnkiểmlại060. Chưa ai vào khám thực tế,khônglấygiườngmôphỏng làmđãkhám. Rootclarifyvịtríngườigiữ059vàtrim1câulặp060. Tiền183p,khôngpower mới.
+
+## Lô061–064
+
+Root đọc toàn văn; blind reviewer phủ độc lập031–064, không sealed. PASS: đầu ngoắc mất≠then mất;đường chân cầu cốđịnh≠guidecáng;Marshkhám thật062trướcđồnghồ063. D1vỡ→dừng cáng nềnphòng→xácnhậnD2giữ→chuyển22s/chốt2ngườixácnhận/nêmthu. D2giữsuốtnạnnhânra. Voss+độiquacầuthật,bắtfrontsideconnector,rútngườitừnglượtcùngcầu;khôngteleport/MCđấubậc8. Root/BsửaP3spanEnglish/thờigianrát tay/tấmchắnđãsẵntrong/đoạnđếmtiềnlệch062,trim2câulặp064. Ngườiđủ,taychưakhỏi,đốitrọngvẫnthấp/guardedkhôngtựcoilàoff.

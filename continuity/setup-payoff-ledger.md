@@ -85,3 +85,6 @@ A2C2/C3/C7đãhộitụ:Edithcóthểra1mìnhnhưngchămJonahkhôngquacáng;pati
 
 ###057–060
 A2C8/C8a:phươngánnêmcơcấu049bịbỏ;057058nêmmớiđúngguidecầuthườngđược thử40s,nhậntải22s/abort25s,khôngnângđốitrọng/tắtvòng. A2C7cầuvàdựphòngqua6ftđãchịutảiriêng.056tools/weakjoint→059SilaspháprimaryBEFOREpersonload→060khôiphụckiểmlạialternate. D1D2tinytoolportskhôngđườngđibí mật. Patientchưakhámvếtthương,criticalclockchưachạy.
+
+###061–064
+C8guide/nêmtimingđãtrảtrong22schuyểntải063,khôngpowercứu. C7cáng/footpathphânbiệt,patientexam062rồicứu063;Edithquariêng,nộidungsốngười064đủ. C1–5cơchếbịvượtngoàiA/Bchứkhôngđộtngộthếthiệulực. Silasbịđộikhốngchếvìcảncứu/phá/dùngdụngcụ;chưatoànlờikhai/bảnán. C6thangcầntrả065;P06/P08cầncảnh067068,khôngđánhdấutrướckhiin.

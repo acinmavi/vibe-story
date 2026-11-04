@@ -14,7 +14,7 @@ Vật phẩm làm việc:**Cặp ngưỡng đồng**, vật phẩm AU cấp th�
 | R2 | Khi chốt đồng đóng và đối trọng hạ hoàn toàn, người sống đi xuyên ngưỡng A bị trả về phía A, và tương tự với B. Hai chiều đối xứng, không chọn theo tên/ý nghĩ |042 Rowe gặp lần bất ngờ khi đi khám thường; sau đó chỉ thử vật dưới giám sát; 047 đối hướng từ hai đầu, lời chứng Edith xác nhận 054 |
 | R3 | Đồ vô sinh đi qua bình thường; vật đang mang cùng người đi theo người. Không tách cơ thể/đồ mặc, không đưa tay riêng qua để cắt người. Dây nối hai phía vẫn truyền lực |042 vật/dây; 047 giới hạn; không phát sinh khả năng cắt không gian trong trận |
 | R4 | Mở chốt hoặc nâng đối trọng khỏi vị trí thấp vô hiệu hóa vòng; cửa trở lại lối bình thường. Có thể đi đường dịch vụ ngoài cả hai ngưỡng mà không tắt phép |042 chốt, 047 cấu hình; 048 chân thang dịch vụ |
-| R5 | Lực kéo khiến nêm mềm gãy; thời gian giữ phải được đo 049 và tái kiểm 057. Không có pin linh tính vô hạn trong người Silas, cái giá là cơ cấu cố định, tiếng động, bảo trì và mất đường rút của chính ông |034/040 tiếng chuông–đối trọng, 049 thử hỏng |
+| R5 | Nêm mềm thử vào nhánh hồi cơ cấu đồng049 bị ép hỏng khoảng5s trong khi chốt chính vẫn đóng/khối thấp: không tạo5sđường mở. Nêm057–058 là dụng cụ KHÁC giữ má dẫn cầu thường, đã thử40s/nhịp22s/dừng25s. Không dùng lại kết quả sai vị trí hoặc gọi đó là tắt vật phẩm |049,057–058,060 |
 | R6 | Không gây mất ký ức, dụ bằng giọng người thân, tiên tri, ảnh hưởng toàn thành phố hay làm người hóa vật. Không thương lượng thắng bằng máu/xám của MC | Các nhân chứng thống nhất 036–042; không dùng lời cảnh báo 001 làm chìa khóa |
 
 Nguồn lực vật phẩm: cơ cấu khép kín cố định, sức nặng duy trì trạng thái chốt; không suy rằng mọi món occult đều vận hành không linh tính. Việc tháo dỡ cuối arc thuộc chuyên trách sau sơ tán, không cho MC tháo khung khi người đang ở trong để may rủi. Muốn bác “chỉ phá tường”: Nell chỉ ra tường chịu lực/phòng Jonah; đập ẩu gây sập, nhưng đường dịch vụ được gia cố vẫn là phương án vật lý hợp lệ. Muốn bác “ném dây kéo người”: người qua ngưỡng vẫn trở về cùng đồ mang; dây truyền lực không vô hiệu R2. Cứu qua lối ngoài khung, không sáng chế ngoại lệ phút cuối.
@@ -33,7 +33,7 @@ Nguồn lực vật phẩm: cơ cấu khép kín cố định, sức nặng duy 
 | Bắt Silas ngay khi ông ra ngoài | Sau040 ông giữ phíaB, nói qua rào, không ra khu công cộng. Khi có căn cứ giam giữ, đội giữ lối ngoài; không để ông đi mua hàng rồi viện cớ không bắt |
 | Phá khung/tường | Khung gắn lõi chịu lực cạnh phòng Jonah, kiểm kết cấu048 cho thấy phá ẩu có nguy cơ sập đúng khu bệnh nhân. Sau sơ tán mới tháo có chống đỡ; không tuyên bố tường bất hoại |
 | Nâng đối trọng | Cần tiếp cận chốt/lẫy từ phíaB. Cơ cấu không có nút ngoài chỉMCquên dùng. Nell có thể chuẩn bị nâng từ ngoài sau khi mở đường dịch vụ; thiết lập đường kéo/tải057 |
-| Chèn chốt | Dùng được nhưng lực làm nêm hỏng,049 đo thời gian;057 tái kiểm. Chỉ mua vài nhịp, không cửa mở vô hạn |
+| Chèn cơ cấu đồng | 049 đã bỏ phương án: chốt chính không mở, nêm mềm chỉ giữ nhánh hồi cục bộ rồi hỏng. Cứu bằng cầu ngoài ngưỡng;057–058nêmguidecầu không thuộc cơ cấu đồng |
 | Bắn qua cửa | Không có góc bắn sạch, người bị thương ở gần phíaB, không bảo đảm giữ chốt sau hạ địch. Đội cân nhắc056, không mặc định rằng không ai có súng |
 | Edith bò qua một mình | Cô làm được nhưng muốn cứu Jonah; người ngoài không ép cô bỏ bệnh nhân. Sau tiếp xúc có đồ y tế/hướng dẫn ngay, không để cô gánh toàn bộ |
 | Dây kéo người qua ngưỡng | Người và vật mang cùng trở về theoR2/R3; dây truyền lực không vô hiệu vòng. Lối dịch vụ ngoài khung mới đưa được cáng |
@@ -101,3 +101,9 @@ P07 phải có nhật ký thời điểm/đau/whisper/độ chắc; không biể
 ## 7. Khóa sau review vòng hai
 
 Silas040 thừa nhận có một người bị thương, gọi là cách ly tự nguyện;048 chỉ biết vị trí phòng có thể có người từ lời ông và kết cấu, chưa biết đủ danh tính/động cơ.052–054 mới kiểm độc lập và xác nhận cưỡng ép.060 là chuẩn bị;061–064 một lượt cứu liên tục trong thời gian đã đo057. Nêm không giữ từ rạng tới trưa. Nếu tính thời gian không khớp, sửa kế hoạch trước khi viết, không kéo dài hiệu lực vật phẩm hay hạ tốc độSilas.
+
+## Đối chiếu bản đã viết đến060 — ưu tiên hơn sơ đồ dự kiến cũ
+
+Giữ hai loại nêm riêng nhưR5trên.057–058khóađườngouterbệ→6ft→innerfloor→phòng,nhánhSilasB→private stairs→D1→connector→D2→innerfloor. Lỗchỉvừadụngcụ/đèn,khônglốinhânlựcbí mật. Primaryhaiđầugác+giằngdướilan can+dây;alternateômbeam/columnđộc lập,thửprimarychùng. 40squan sátguide,nhịp22s/dừng25s,toànmẫu6m40/dựtính6–8min.059đãpháprimarybằngbẩy/búatrướcngườiđi,khôngphátoàndầm;060đãkhôiphục/kiểmlạialternate. Criticalclockchưachạy;khámthựctếphảidiễnratrướcchuyểnJonah.
+
+Đến064:khôngnângđốitrọngtronglượtcứu.Crewđithẳngfixedfootspan,trướcMarshkhám062;guidehandoff22s063rồinêmthu.D1vỡtrướcnhậntải,D2giữđượcđếnpatient/civilianout.Vossđiquacầuđãkiểm,từpatientsideD2mởcókiểmsoát,bắtSilasởconnectortrướcmặt,rútcùngcầu.Giữcanh/niêmđiểmtruycậpvậtphẩm,weightvẫnLOW,khôngđồngnghĩađãoffhoặctháodỡ.Đâyđèphươngánnângđốitrọngtrongsơđồcũ.
