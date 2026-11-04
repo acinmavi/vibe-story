@@ -22,8 +22,17 @@ for number, chapter in enumerate(chapters, 1):
         errors.append(f"word count {chapter.name}: {count}")
 if len(chapters) != state["last_written_chapter"]:
     errors.append("story state does not match chapter count")
-if len(chapters) > 30:
-    errors.append("arc 002 is not authorized")
+arc2 = approval.get("arc002", {})
+limit = arc2.get("end_chapter", 30) if arc2.get("approved") else 30
+if len(chapters) > limit:
+    errors.append(f"chapter count exceeds authorized limit {limit}")
+if arc2.get("approved"):
+    if not arc2.get("approval_text") or not arc2.get("approved_at_utc"):
+        errors.append("arc 002 approval lacks explicit evidence")
+    import re
+    beats = [int(n) for n in re.findall(r"^\|\s*(\d{3})\s*\|", (root / "arcs/arc-002/CHAPTER_OUTLINE.md").read_text(), re.M)]
+    if beats != list(range(arc2["start_chapter"], limit + 1)):
+        errors.append("arc 002 outline does not match authorized range")
 if approval["chapter1"]["approved_sha256"] != hashlib.sha256(chapters[0].read_bytes()).hexdigest():
     errors.append("approved chapter 001 changed")
 for file in (root / "continuity").glob("*.json"):

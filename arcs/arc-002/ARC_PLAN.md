@@ -1,6 +1,6 @@
 # Arc 002 — Cánh cửa cuối ca
 
-**ĐỀ XUẤT / AU CHỜ DUYỆT. Chỉ dàn ý, không có nội dung chương.** 32 chương 031–062, dự kiến 1–13/8/1349. Thời gian/cỡ arc có thể đổi sau góp ý Arc 1. Trạng thái thật vẫn dừng 030; approval Arc 002=false. Phác thảo 031–075 trong long-game/roadmap.md là bản cũ, không phải lệnh viết hoặc lịch thăng cấp được duyệt.
+**HƯỚNG A ĐÃ ĐƯỢC DUYỆT04/11/2026; triển khai38chương. Các diễn biến chưa viết vẫn là PLAN.** 38 chương 031–068, dự kiến 1–13/8/1349. Thời gian/cỡ arc có thể đổi sau góp ý Arc 1. Trạng thái thật vẫn dừng 030; approval Arc002=true, phạm vi031–068. Phác thảo 031–075 trong long-game/roadmap.md là bản cũ, không phải lệnh viết hoặc lịch thăng cấp được duyệt.
 
 ## Ba hướng được cân nhắc
 
@@ -43,17 +43,17 @@ Không đưa tất cả OC vào ngay đầu arc. Đặc điểm, mục tiêu và
 | Cách thắng | Hội tụ chứng cứ → quản thúc vật | Thử giới hạn → phối hợp mở đường/cứu người trong hạn giờ |
 | Dư âm | Nợ/tín nhiệm/hậu quả pháp lý | Cơ sở đóng cửa, mất việc, trách nhiệm cứu trợ và mạng tri thức mới |
 
-## Nhịp 32 chương
+## Nhịp 38 chương
 
-031–036: trả các nghĩa vụ ngắn Arc 1, thẩm tra và di chuyển có điều kiện; không dồn toàn bộ thành biên bản. 037–044: người/địa hình/thử giả thuyết; 045–052: đảo chiều động cơ người bên trong, va chạm quyền kiểm soát và chuẩn bị phương án. 053–059: hai ngày cao điểm, chủ yếu vài giờ 12/8, mỗi quyết định làm mất một lựa chọn. 060–062: hậu quả người/vật/tiền, mở Arc 3; không giải hết bằng một lời thú tội.
+031–037: trả các nghĩa vụ ngắn Arc 1, thẩm tra và di chuyển có điều kiện; không dồn toàn bộ thành biên bản. 038–047: người/địa hình/thử giả thuyết; 048–058: đảo chiều động cơ người bên trong, va chạm quyền kiểm soát và chuẩn bị phương án. 059–065: hai ngày cao điểm, chủ yếu vài giờ 12/8, mỗi quyết định làm mất một lựa chọn. 066–068: hậu quả người/vật/tiền, mở Arc 3; không giải hết bằng một lời thú tội.
 
-**Bước ngoặt:** Edith không phải đồng phạm của Silas dù có thể rời một mình; cô giữ Jonah sống. Đã gieo đồ ăn đủ hai người, mẩu thuốc thiếu, dấu vật chuyển ngược, và tín hiệu dừng khi nghe tiếng đập ở phòng bệnh. Phát hiện này thay mục tiêu từ “mở cửa bắt hung thủ” sang “mở lối có thể mang người nằm”. Độc giả có thể đoán trước 050.
+**Bước ngoặt:** Edith không phải đồng phạm của Silas dù có thể rời một mình; cô giữ Jonah sống. Đã gieo đồ ăn đủ hai người, mẩu thuốc thiếu, dấu vật chuyển ngược, và tín hiệu dừng khi nghe tiếng đập ở phòng bệnh. Phát hiện này thay mục tiêu từ “mở cửa bắt hung thủ” sang “mở lối có thể mang người nằm”. Độc giả có thể đoán trước 054.
 
-**Cao trào:** Silas đang ở phía trong ngưỡng B, không thể bị bắt ở bàn tiếp khách. Ông hạ đối trọng, đóng cặp ngưỡng và phá phần lan can/điểm tựa còn lại của đường dịch vụ để chặn cứu hộ. Thang đã bị tháo trước045; không tháo cùng một chiếc lần hai. Nhóm phải mở đường đủ tải cho cáng. Nell phụ trách kết cấu; Edith quyết định lúc chuyển người bệnh; đội chuyên trách và bác sĩ đã có mặt, giữ khu ngoài và xử lý vật nguy hiểm. Evan góp quan sát, truyền tín hiệu và trì hoãn trong vài nhịp bằng các vật cản đã thử; không đấu thắng Silas. Hai cửa chống cháy và đường vòng của Silas được đo trước052; đội ngoài khóa chặn đường ông có thể đi tắt. Mất tập đo, chấn thương và cơ sở đóng cửa là giá thật. Không có lực lượng xuất hiện đúng giây để giải cứu một kế hoạch thiếu đường thoát.
+**Cao trào:** Silas đang ở phía trong ngưỡng B, không thể bị bắt ở bàn tiếp khách. Ông hạ đối trọng, đóng cặp ngưỡng và phá phần lan can/điểm tựa còn lại của đường dịch vụ để chặn cứu hộ. Thang đã bị tháo trước048; không tháo cùng một chiếc lần hai. Nhóm phải mở đường đủ tải cho cáng. Nell phụ trách kết cấu; Edith quyết định lúc chuyển người bệnh; đội chuyên trách và bác sĩ đã có mặt, giữ khu ngoài và xử lý vật nguy hiểm. Evan góp quan sát, truyền tín hiệu và trì hoãn trong vài nhịp bằng các vật cản đã thử; không đấu thắng Silas. Hai cửa chống cháy và đường vòng của Silas được đo 057–058, trước059; đội ngoài khóa chặn đường ông có thể đi tắt. Mất tập đo, chấn thương và cơ sở đóng cửa là giá thật. Không có lực lượng xuất hiện đúng giây để giải cứu một kế hoạch thiếu đường thoát.
 
 ### Trình tự báo tin và cứu hộ
 
-035 (5/8) là nghi vấn người tự bỏ việc; có báo mất tích nhưng chưa chứng cứ giam giữ.040–042 (7/8) xuất hiện hiện tượng lặp và hành hung: báo ngay, ngừng khảo sát khu nguy hiểm, cử đội có nghiệp vụ.044 (8/8) đội đến, kiểm khu ngoài, liên hệ qua rào, không để dân thường tự tiến vào.048–050 (9–10/8) xác nhận người bị giữ và Jonah cần cáng; có nước, thuốc, hướng dẫn y tế qua khe ngay, không chờ đến trận cuối.051–052 (10–11/8) thử đường đủ tải dưới giám sát, cân nhắc và bác các cách phá cơ cấu có thể làm sập phòng người bệnh.053 (11/8) Silas đẩy thời hạn sang rạng12: đội đang hiện diện đổi phương án khẩn, không chờ đoàn chi viện xa. Nhân viên dân sự chỉ tham gia phần nghề nghiệp họ đồng ý đảm nhận.
+036 (5/8) là nghi vấn người tự bỏ việc; có báo mất tích nhưng chưa chứng cứ giam giữ.042–044 (7/8) xuất hiện hiện tượng lặp và hành hung: báo ngay, ngừng khảo sát khu nguy hiểm, cử đội có nghiệp vụ.047 (8/8) đội đến, kiểm khu ngoài, liên hệ qua rào, không để dân thường tự tiến vào.052–054 (9–10/8) xác nhận người bị giữ và Jonah cần cáng; có nước, thuốc, hướng dẫn y tế qua khe ngay, không chờ đến trận cuối.056–057 (10–11/8) thử đường đủ tải dưới giám sát, cân nhắc và bác các cách phá cơ cấu có thể làm sập phòng người bệnh.059 (11/8) Silas đẩy thời hạn sang rạng12: đội đang hiện diện đổi phương án khẩn, không chờ đoàn chi viện xa. Nhân viên dân sự chỉ tham gia phần nghề nghiệp họ đồng ý đảm nhận.
 
 ## Ma dược và tiến triển
 
@@ -65,7 +65,7 @@ Giữ Seq9 đến cuối arc. Luyện linh thị cực ngắn có người theo 
 
 Lịch đề xuất: rời Tingen 3/8 sau thẩm tra, tới Backlund 4/8; thời gian cụ thể theo lịch chuyến tàu AU sẽ ghi khi viết, không gán là giá cước/lịch tàu canon. Hành lý, địa chỉ liên lạc và lời khai được bàn giao, không mang bản gốc Bram /vật quản thúc. Tiền ứng240p+8p=248p. Ngân sách cá nhân từ sau khoản ăn031 đến13/8 tối đa120p, gồm ăn, đi lại tại chỗ, khám/thuốc và dịch vụ Mira; phí chưa báo giá không tự coi là0. Vé/phòng, vật liệu cầu, bác sĩ cho nạn nhân và hoạt động cứu hộ do khách/đơn vị phụ trách duyệt chi trực tiếp, không là thưởng hoặc nợ mới củaMC. Nếu chi cá nhân vượt dự trù phải ghi và điều chỉnh, không trì hoãn chữa bệnh để khớp số.
 
-Phần công còn lại7£=1680p khi nghiệm thu công việc thông thường, không phải thưởng bắt địch. Với mức chi0–120p, tổng trước trả nợ là1808–1928p; sau trả Iona 2£ còn1328–1448p (5£10sh8p đến6£0sh8p). Đây là khoảng dự toán, **không phải số dư thật**. Khoản2£ có biên nhận được áp vào kỳ31/8, gốc132→130£ chỉ sau khi việc chi trả062 được viết. Quyền3nghiên cứu chưa bán, không trừ hai lần. Bản thảo phải chốt từng khoản và một số dư chính xác.
+Phần công còn lại7£=1680p khi nghiệm thu công việc thông thường, không phải thưởng bắt địch. Với mức chi0–120p, tổng trước trả nợ là1808–1928p; sau trả Iona 2£ còn1328–1448p (5£10sh8p đến6£0sh8p). Đây là khoảng dự toán, **không phải số dư thật**. Khoản2£ có biên nhận được áp vào kỳ31/8, gốc132→130£ chỉ sau khi việc chi trả068 được viết. Quyền3nghiên cứu chưa bán, không trừ hai lần. Bản thảo phải chốt từng khoản và một số dư chính xác.
 
 ## Klein, Tarot, Cattleya và Bernadette
 
@@ -81,4 +81,8 @@ Kho đóng: người thợ cần việc, Agnes chịu trách nhiệm bồi thư�
 
 Arc3 mở từ14/8; phải đánh giá quyết định trước20/8, sớm hơn mốc29/8 baseline Neil: MC phải cân nhắc trách nhiệm biết trước. Không được “quên Neil ” cho tiện. Nếu có cảnh báo định danh/chi tiết, dựng nhánh AU và hậu quả thay vì ép quay lại kết quả gốc. Cần bạn chọn chính sách can thiệp trước khi viết đoạn này, không lén quyết trong Arc 2.
 
-Cần bạn duyệt: A hay B/C; 32 chương và 1–13/8; Seq9 hết arc/tiến triển nguồn Seq8; vật phẩm không gian AU có giới hạn; đáp án dự kiến các chi tiết Arc 1 trong sealed; ngưỡng can thiệp Neil / Tingen về sau. Nếu Arc 1 sửa sự kiện gốc, kế hoạch này phải tái kiểm, không viết 031 tự động.
+HướngA và quyền điều chỉnh đã được bạn duyệt. Tác giả chốt38chương; các diễn biến chưa viết vẫn là dự kiến, không làm thay đổi snapshot sau030. Nếu bạn góp ý sửaArc1, kiểm lại các nguyên nhân liên quan trước khi viết tiếp.
+
+## Quyết định triển khai04/11/2026
+
+Bạn chọn A, yêu cầu35–40chương và cho phép điều chỉnh các phần còn lại/startArc2. Chốt38chương031–068, thêm035/039/046/051/055/058 nhưoutline; giữ lịch1–13/8, Seq9đếncuối và các giới hạn đãreview. Các giá/cơ chế/đáp án tiếp nối được chốt làm hồ sơ tác giả, nhưng chỉ chuyển sang trạng thái thật sau khi viết. Không đòi duyệt lại từng chi tiết thông thường. Chính sách can thiệpNeil/Tingen phải được thiết kế với hậu quả thật trước nhánh đó, không ép nguyên tác tự trở về kết quả cũ.

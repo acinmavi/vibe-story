@@ -1,5 +1,5 @@
 {
-  "stage": "arc1_complete",
+  "stage": "arc2_writing",
   "chapter1": {
     "approved": true,
     "approval_text": "khá hay , tôi duyệt chương 1 - bạn tiếp tục làm cả arc ( tầm 30-50 chương)",
@@ -13,7 +13,14 @@
     "target_chapters": 30
   },
   "arc002": {
-    "approved": false
+    "approved": true,
+    "approval_text": "ok với đề xuất A , độ dài thì tăng lên tầm 35-40 chương , các phần còn lại bạn điều chỉnh xem như nào , có thể start arc 2 được luôn không ?",
+    "approved_at_utc": "2026-11-04T05:40:54Z",
+    "concept": "A — Cánh cửa cuối ca",
+    "target_chapters": 38,
+    "start_chapter": 31,
+    "end_chapter": 68,
+    "workflow": "2–4 chapters per batch; independent review/QA/local commit; no push"
   },
   "arc001_completion": {
     "completed": true,
