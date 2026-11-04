@@ -1,7 +1,0 @@
-{
-  "visibility":"author_only",
-  "current_status":"not_joined",
-  "entries":[],
-  "entry_schema":["meeting_id","story_date","chapter","participants","mc_spoken_facts","each_fact_confidence","source_of_information","withheld_information","why_withheld","fool_authority_action","world_independent_action","other_members_agency","trade_refs","canon_ripple"],
-  "hard_rules":["fool_preserves_public_authority","mc_not_omniscient","world_identity_not_outed","sensitive_secrets_not_broadcast","mc_not_every_meeting_star"]
-}

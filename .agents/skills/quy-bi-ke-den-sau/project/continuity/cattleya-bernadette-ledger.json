@@ -1,5 +1,0 @@
-{
-  "visibility":"author_only",
-  "events":[],
-  "entry_schema":["event_id","chapter","story_date","cattleya_goal","bernadette_goal","klein_goal_if_present","mc_goal","trust_change","information_exchanged","price","canon_anchor","au_consequence"]
-}

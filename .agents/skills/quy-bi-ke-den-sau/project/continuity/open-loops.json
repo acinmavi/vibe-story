@@ -1,9 +1,0 @@
-{
-  "as_of_chapter": 1,
-  "loops": [
-    {"id":"L1", "question":"Why was a second cocoon released at same moment?", "due_arc":7, "status":"open"},
-    {"id":"L2", "question":"Why does a worn catalog card have a fresh date?", "due_arc":1, "status":"open"},
-    {"id":"L3", "question":"What did previous Evan know before dying?", "due_arc":2, "status":"open"},
-    {"id":"L4", "question":"Who can detect the pale gray signature?", "due_arc":3, "status":"open"}
-  ]
-}
