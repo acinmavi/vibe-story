@@ -1,0 +1,7 @@
+{
+  "visibility": "author_only",
+  "current_trust": "unacquainted",
+  "steps": ["transaction", "parallel_case", "joint_mission", "earned_friendship", "private_confidence", "shared_origin_confirmation"],
+  "missions": [],
+  "entry_schema": ["chapter_range", "location", "shared_goal", "mc_contribution", "world_contribution", "disagreement", "cost", "trust_delta", "canon_ripple"]
+}

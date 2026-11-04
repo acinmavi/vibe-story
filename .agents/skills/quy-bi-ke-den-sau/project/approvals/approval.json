@@ -1,0 +1,6 @@
+{
+  "stage": "chapter1_review",
+  "chapter1": {"approved": false, "approval_text": "", "approved_at_utc": "", "approved_sha256": ""},
+  "arc001_writing": {"approved": false, "approval_text": ""},
+  "arc002": {"approved": false}
+}
