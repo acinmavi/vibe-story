@@ -1,12 +1,12 @@
 {
-  "phase": "chapter1_review",
+  "phase": "arc1_writing",
   "last_written_chapter": 1,
-  "do_not_write_after_chapter": 1,
+  "do_not_write_after_chapter": 30,
   "arc": 1,
   "date_in_story": "1349-06-28",
   "character_sequence": "ordinary",
   "location": "unknown district, actual Tingen",
   "taro_membership": "none",
   "canon_confidence_after_divergence": "not evaluated",
-  "next_approval_required": "explicit human approval of chapter 001"
+  "next_approval_required": "explicit human approval before arc 002"
 }

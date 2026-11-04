@@ -1,6 +1,18 @@
 {
-  "stage": "chapter1_review",
-  "chapter1": {"approved": false, "approval_text": "", "approved_at_utc": "", "approved_sha256": ""},
-  "arc001_writing": {"approved": false, "approval_text": ""},
-  "arc002": {"approved": false}
+  "stage": "arc1_writing",
+  "chapter1": {
+    "approved": true,
+    "approval_text": "khá hay , tôi duyệt chương 1 - bạn tiếp tục làm cả arc ( tầm 30-50 chương)",
+    "approved_at_utc": "2026-11-04T03:55:18Z",
+    "approved_sha256": "758a1f9b3d96c315b5955cc358206c64cde3af7b0e8254f1466a2a1791892731"
+  },
+  "arc001_writing": {
+    "approved": true,
+    "approval_text": "khá hay , tôi duyệt chương 1 - bạn tiếp tục làm cả arc ( tầm 30-50 chương)",
+    "approved_at_utc": "2026-11-04T03:55:18Z",
+    "target_chapters": 30
+  },
+  "arc002": {
+    "approved": false
+  }
 }
