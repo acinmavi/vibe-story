@@ -11,3 +11,5 @@ Trần Duy tỉnh thành Evan Harlowe ở Tingen ngày28/6/1349. Tri thức có 
 Chương001 đã được bạn duyệt và giữ nguyên. **Dừng sau068. Chưa viết069/Arc3; đề xuất và commit tài liệu không là phê duyệt viết tiếp.** Các hồ sơ giải đáp trongarcs có spoiler tác giả, không phải tri thức nhân vật.
 
 Fanfiction phi thương mại, không phải tác phẩm chính thức hoặc được tác giả gốc chứng thực; không sao chép lời văn nguyên tác.
+
+[Handoff cho phiên tiếp theo](HANDOFF.md).
