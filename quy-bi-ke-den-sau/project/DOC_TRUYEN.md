@@ -1,6 +1,6 @@
 # Đọc truyện — Quỷ Bí Chi Chủ: Kẻ Đến Sau
 
-Arc001 — **Mục lục không tên**, hoàn tất30 chương; 64375 từ theo split().
+Arc001 — **Mục lục không tên**, hoàn tất30 chương; 64387 từ theo split().
 
 [Đọc liền toàn Arc](ARC_001.md) · [Báo cáo kết Arc](reviews/arc-001-completion.md)
 
@@ -14,13 +14,13 @@ Arc1 và Arc2 đã hoàn tất; văn phong001–068 đã được biên tập th
 |004|[Địa chỉ trên giấy gói](chapters/004.md)|2254|
 |005|[Một penny mua tin cũ](chapters/005.md)|2201|
 |006|[Hai người đứng ở cửa kho](chapters/006.md)|2071|
-|007|[Đến cuối tuần](chapters/007.md)|2321|
-|008|[Tiền đã trả](chapters/008.md)|1992|
+|007|[Đến cuối tuần](chapters/007.md)|2324|
+|008|[Tiền đã trả](chapters/008.md)|1996|
 |009|[Số trên gỗ](chapters/009.md)|2040|
 |010|[Phía bên kia con dấu](chapters/010.md)|2313|
 |011|[Giá để xem](chapters/011.md)|2007|
 |012|[Nắng ngang mặt giấy](chapters/012.md)|2060|
-|013|[Giá của một cái gáy sách](chapters/013.md)|2225|
+|013|[Giá của một cái gáy sách](chapters/013.md)|2226|
 |014|[Tờ giấy ở cửa sau](chapters/014.md)|2073|
 |015|[Người chờ ngoài cửa](chapters/015.md)|1989|
 |016|[Ngăn kéo thứ hai](chapters/016.md)|2163|
@@ -36,7 +36,7 @@ Arc1 và Arc2 đã hoàn tất; văn phong001–068 đã được biên tập th
 |026|[Sổ không đi theo xe](chapters/026.md)|2041|
 |027|[Ngăn kéo mở từ bên trong](chapters/027.md)|2096|
 |028|[Chiếc ghế được mang đi](chapters/028.md)|2138|
-|029|[Một chỗ để tra lại](chapters/029.md)|2039|
+|029|[Một chỗ để tra lại](chapters/029.md)|2043|
 |030|[Địa chỉ để đi tới](chapters/030.md)|2010|
 
 ## Arc002 — Cánh cửa cuối ca
