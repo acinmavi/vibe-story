@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 52,
+  "as_of_chapter": 56,
   "reader_seen": [
     "protagonist awakens in borrowed body; industrial city; date on warehouse ledger: 28 June 1349",
     "catalog recipient appears to change; independent pencil note remains unchanged",
@@ -125,7 +125,13 @@
     "050IvesMercerworkingidentityfromNEWpackingroster+handoverwitness+receiver;PikeandMercerdifferentroles,Jonasdoesnotrecallmore;original014/025groupsnotproven same;Gideonpartialassetprocess/Kestrelstilluncaught.",
     "050MaraTheoupdatesknownonlythrough7Augletter:workwithoutnewguaranteeandolddebt/2shunresolved;doesnotcontain9Auginterludeevents.",
     "052independentvoicecallsNellandselfidentifiesEdith,Nellrecognizes;Voss/Marshcalledimmediately,JonahweakbutresponsiveonlyEdithreport;cleanwater/fabrichavereachedthemperherreport.",
-    "052EdithturnsawayatJonahdistress,Silastakesnextsupply/contact;teamkeepscontact/uppersurveyactive,nohiddenMCinvestigation;end9Augnight,same-eveningescalation053next."
+    "052EdithturnsawayatJonahdistress,Silastakesnextsupply/contact;teamkeepscontact/uppersurveyactive,nohiddenMCinvestigation;end9Augnight,same-eveningescalation053next.",
+    "0539Augeveningafter052:Edithdirectlyaskshelpforboth,Vossescalatesprotection/contact,Marshcleanmaterials/guidance,Silasphysicallycloses/shutters/key/threatcutscontact;no newmutespellclaimed.",
+    "05410Augmorning:Edithcanoffsetcrawlalonewhenshutterunlockedbutcannotturn/supportJonahstretcher;stayscarehimNOTSilasaccomplice;bothwantout. HerpastBreturnwasunexpectedescapeattemptbeforeoutsidequestioning,nohumanexperiment.",
+    "055outsideplatformstopsbeforegap;smallnonloadbearingairventnearroomopenedwithtwoscrewsletsMarshHEARpatient,notwalk/cángroute. Jonahownvoicegivesname/yesexam/nochoiceofstaying/takemeout/noauthoritytoothersrefusingcare;no physicalwoundexam yet.",
+    "056SilasSEESboards/ropesandreactswithordinarygrillelock/contactpressure,notnewrule/mindreading;Marshsupplycontinues,Edithanswers,teamkeepscontact.",
+    "056AgnesadmitsknowingaccidentandcopyingresignationfromSilaswithoutEdithmeeting;closesbusiness/cancels2jobsandkeepsoldrecordforscrutiny;Nelldoesnotinstantlyforgive.",
+    "056physicalprybar/short-hammerseenwithSilasnearweakrailconnection;Nellmarksbackupneed;partialwallinspectionshowsloadsharing/dustmovement,teamcontinueswork/materialstonightandloadprep11Aug."
   ],
   "MC_remembers_original": [
     "book-one names and early Seer period; uncertain dates and current whereabouts",
@@ -141,12 +147,12 @@
   ],
   "forbidden_leak": "MC may remember book-one privately but cannot treat it as verified, expose high secrets, or know offscreen Klein events firsthand.",
   "current_snapshot": {
-    "as_of_chapter": 52,
-    "date": "1349-08-09",
-    "cash_pence": 194,
+    "as_of_chapter": 56,
+    "date": "1349-08-10",
+    "cash_pence": 189,
     "sequence": "9 Mystery Pryer, digestion incomplete",
-    "location": "BacklundAshwickAU,nightafterfirstEdithvoice;Mara051TingenPOVseparate",
+    "location": "BacklundAshwickAU,night;Edith/Jonahaskexit,upperroutepreparing",
     "Klein_contact": "none; K0 unchanged",
-    "knowledge_limit": "Edithpresenceatvoicecontactstronglycorroborated,self-ID+Nellnotbiometrics;whyshestaysandJonahownwillnotyetheard. 053mustEVENING9Augnotjumpbackafternoon. Daleinvitationauthorand014/025linkunknown;missingnotehasnotmagicallyreturned. Cash194p."
+    "knowledge_limit": "Bothwanthelpandvoluntaryclaimrefuted;neitherreleasedyet. Voss/Marshactiveandclinicalurgencycouldchangeplanimmediately. No sourceprovingartifactcreator orSilasSequence;noMCnewskills. Future057–058musttestprimary/alternateandtiming,planrescueASAP11Augnotidlewait12. Cash189/debt132."
   }
 }

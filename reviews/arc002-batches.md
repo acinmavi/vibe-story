@@ -87,3 +87,7 @@ Root đọcFULL4chương;blindreviewPASS. Rootđối014bắtlỗicustodytrongdra
 Money199−1−2−2=194p,noEvanexpense051;QAtrướccommit,noArc3.
 
 049–052actualcounts1914/2017/1833/1818,total7582;check_project/qaarc/diffPASS52ch105357words;001–048đốib1f31d2khôngđổi.
+
+## Lô053–056
+RootđọcFULL/independentblindPASS.053nốiđúng9Augtối,054EdithởchămJonahkhôngđồngphạm,055Jonahownvoicebáclờitựnguyện,056Silasphảnứngvớithứthấy/côngcụbẩychỗyếu,Agneschịuđóngviệcvàphầnđãbỏqua. Bệvàôthoángchỉchonghe,khônglàwalkthroughrouteđãbịlờ. Supply/care/độichuyêntráchliêntục,khôngngồichờ. Rootchỉđổi3mệnhđềkhẳngđịnh'khôngphépcâm'khôngthểMCbiếtthànhgỗ/chìa/tiếngchânquan sát;055'ngồidướibàn'→'ngồiởbànphíadướibệ'.
+Giảthuyết tựnguyện nghỉ khôngcònđứngsauJonah;độngcơbảohộámảnhvskiểmsoátvìlợiriêngcònmở.194−1−2−2=189p;chưaMCpower/phiđơnmới. QAtrướccommit;069cấm.

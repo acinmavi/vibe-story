@@ -1,7 +1,7 @@
 {
-  "as_of_chapter": 52,
+  "as_of_chapter": 56,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
-  "cash_pence": 194,
+  "cash_pence": 189,
   "workshop_arrears_shillings": 0,
   "rent_debt_shillings": 0,
   "mara_loan_pence": 0,
@@ -51,7 +51,8 @@
     "NoIona132-poundrepayment,7-poundjobbalanceormagicitemreceived037–040",
     "041dinner2p→222;042breakfast1p→221;043noexpense;044medical/wash/bandage/medicine4p→217+meal2p→215. No automatic reimbursement,7GBP unpaid.",
     "045breakfast2p→213;046paidMira12pboundedsource-indexlookup→201;047food2p→199;048noexpense. No formula/newpower or debtpayment.",
-    "049breakfast1p→198;050food2p→196;051MaraPOVnoEvancash;052dinner2p→194. No debtpayment/reward."
+    "049breakfast1p→198;050food2p→196;051MaraPOVnoEvancash;052dinner2p→194. No debtpayment/reward.",
+    "053same9Augeveningnoextraexpense;054breakfast1p→193;055meal2p→191;056dinner2p→189. No newpower/repayment."
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 0,

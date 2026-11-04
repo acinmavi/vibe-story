@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 52,
+  "as_of_chapter": 56,
   "loops": [
     {
       "id": "L1",
@@ -45,9 +45,10 @@
       "id": "L7",
       "question": "WhereisEdithPrice,andwho receivestwomeals/woundcareintheannex?",
       "due_arc": 2,
-      "status": "open",
+      "status": "presence_and_consent_resolved_extraction_pending",
       "first_chapter": 36,
-      "limits": "NoEdithidentificationorcoercionproven;SilasclaimsotherinjuredJonahPell,patientnotheardindependently;policepursuesotheraddresses"
+      "limits": "NoEdithidentificationorcoercionproven;SilasclaimsotherinjuredJonahPell,patientnotheardindependently;policepursuesotheraddresses",
+      "resolution": "052–055EdithidentityvoicecorroboratedandJonahindependentlyrequestscare/exit;stillphysicallyinside"
     },
     {
       "id": "L8",
