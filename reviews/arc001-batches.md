@@ -33,3 +33,8 @@
 - Bổ sung017 nộp facts cho đầu mối tiếpnhận, không để mua thuốc làmquêntrìnhbáo.019 có2khảnăng vệtxám vàđối ghi chép riêng, khôngthửgọi/tiếpxúclại; cógiám sát quađêm/ngưỡnggọihỗtrợ.
 -150−12−6=132pound nợ thật,min2pound/tháng từ31/8; livingcash47+72−36−7=76p. Formula/materials khôngmiễnphí, recipekhôngbịađịnhlượng.
 - Seq9 mới, còntiếngnói/đau/nôn/mấtđoạnnhớ/chưatiêuhóa; vệt xám chưa biếtnguồn, khôngNguyênBảo/miễnnhễm/phépchiếnđấu.
+
+## 020–022
+- Blindreview chỉ019–022, rootđọc toàn020. C7có nhóm/nguồn/đồngý, khôngcho ngườimới nhiễm; vẫn còn gợinhớ/quên/ghithiếu, khôngchứngminhfullcơchế.
+- Sửa bản saovôhại thànhbảnkênguồnđộc lập/phầnchưachắcdừnggiao; kẹp thợmới vừa mangtớichưaphânloại;022giữphiếugốc371riêngđốisổxe. KhônggánJonas từnggọitênmộtngườimà006khôngnói.
+- Seq9khôngđọctâmtrí/giảián;whispergợisai bịbác.021bổsung hồsơđãnhận15/7. Theo/Mara tựrútviệc/mấtcông;khôngbịdùngmồi.

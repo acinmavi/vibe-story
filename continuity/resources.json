@@ -1,5 +1,5 @@
 {
-  "as_of_chapter": 19,
+  "as_of_chapter": 22,
   "currency": "12 pence = 1 shilling; 20 shillings = 1 pound",
   "cash_pence": 76,
   "workshop_arrears_shillings": 0,
@@ -22,7 +22,9 @@
     "014 lawful private Bram copy lost to attackers; external original and012 sketch survive",
     "shoulder/ankle bruises from014, not magically healed",
     "018 living cash47+72-36-7=76p, separate from watch proceeds",
-    "019 gray sensation does not provide reusable ability or verified protection"
+    "019 gray sensation does not provide reusable ability or verified protection",
+    "020 workshop day unpaid, no wage assumed;76p last explicitly counted living cash",
+    "new room/food charges continue, not forgiven; next settlement tracked at arc close"
   ],
   "ada_meals_debt_pence": 0,
   "conditional_fee_pounds": 0,

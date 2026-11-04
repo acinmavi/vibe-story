@@ -1,5 +1,45 @@
 {
   "visibility": "author_only",
-  "trades": [],
-  "entry_schema": ["chapter", "seller", "buyer", "knowledge", "information_origin", "confidence", "danger_of_disclosure", "price_or_favor", "resources_delivered", "future_canon_risk", "consequence"]
+  "trades": [
+    {
+      "chapter": 13,
+      "seller": "Evan Harlowe",
+      "buyer": "Iona Vale and survey owner",
+      "knowledge": "ordinary provenance assessment of180-pound six-volume survey",
+      "information_origin": "observed binding/map/ownership inconsistencies, corrected initial error and independent check",
+      "confidence": "accepted by rights holder in017",
+      "danger_of_disclosure": "client confidentiality; no divine secrets",
+      "price_or_favor": "12-pound conditional assessment fee and introduction",
+      "resources_delivered": "fee confirmed017, credited to potion package018, never cash",
+      "future_canon_risk": "no observed change to canon anchors",
+      "consequence": "access earned through three evenings of work and lawful research rights"
+    },
+    {
+      "chapter": 17,
+      "seller": "Selby Wren, financed by Iona Vale",
+      "buyer": "Evan Harlowe",
+      "knowledge": "Mystery Pryer formula compared with independently sourced full copy",
+      "information_origin": "two in-world documentary sources; not perfect reader memory or an invented printed recipe",
+      "confidence": "in-world checks completed; risk remains",
+      "danger_of_disclosure": "hazardous occult knowledge and supplier confidentiality",
+      "price_or_favor": "150-pound formula/material package;12 assessment credit,6 watch sale,132 debt",
+      "resources_delivered": "formula017, inspected ingredients018, consumed019",
+      "future_canon_risk": "AU protagonist advancement only; canon cast not involved",
+      "consequence": "minimum2 pounds monthly from31 August plus priority purchase right over first3 lawful research papers; no automatic debt forgiveness"
+    }
+  ],
+  "entry_schema": [
+    "chapter",
+    "seller",
+    "buyer",
+    "knowledge",
+    "information_origin",
+    "confidence",
+    "danger_of_disclosure",
+    "price_or_favor",
+    "resources_delivered",
+    "future_canon_risk",
+    "consequence"
+  ],
+  "as_of_chapter": 19
 }
