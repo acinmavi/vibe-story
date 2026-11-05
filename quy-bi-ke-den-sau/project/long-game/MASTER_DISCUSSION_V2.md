@@ -167,3 +167,75 @@
 4. **Định mệnh Neil:** muốn giữ bi kịch nhưng Evan đã can thiệp, hay cứu Neil thành công tạo AU lớn? Chưa tự phán quyết.
 5. **Ai/điều gì bị mất ở Tingen:** người Evan đã thực sự thân, và ít nhất một lời hứa/cảnh cho thấy thiệt hại trước sau.
 6. **Độ dài hai Arc Tingen:** không tự đóng khung 001–068 cũ nếu các cao trào/quan hệ cần thay. Tuy nhiên nhịp phải lên sớm; không kéo 10 chương trước khi xuất hiện lựa chọn chủ động/hiện tượng đáng chú ý.
+
+---
+
+## 7. Đã chốt nguồn trí nhớ; thảo luận bí ẩn xuyên suốt và kết thúc (05/11/2026)
+
+### 7.1 Quyết định người đọc đã chốt
+
+Trần Duy trước xuyên không **đã đọc cả phần 1 Quỷ Bí Chi Chủ lẫn phần 2 Túc Mệnh Chi Hoàn**, theo dõi, tra cứu, ghi nhớ sâu về thế giới và hệ thống Phi Phàm. Đây là sở thích và trí nhớ tự nhiên của người hâm mộ, **không** có kho dữ liệu siêu nhiên, cơ chế nhớ hoàn hảo, tự chế công thức bị nguyên tác giữ kín. Anh có thể nhớ rất tốt những thông tin đã đọc và biết liên kết chúng; sự kiện AU đổi làm các dự đoán giảm đáng tin. Các tài liệu đề xuất cũ ghi “chỉ phần 1” hoặc “phần 2 chưa chắc đã đọc” **bị thay thế ở cấp thiết kế** bởi quyết định này, nhưng chưa thay bible/continuity đang phản ánh truyện V1.
+
+Hệ quả trực tiếp: Duy **đã biết thế giới Quỷ Bí liên quan Trái Đất thời đại cũ**, nên “trở về nhà” chủ yếu là khát vọng trở về **thời đại, gia đình và những con người đã mất**, chứ không chỉ quay về một tọa độ địa lý. Không xây twist rằng anh chỉ đến cuối truyện mới bất ngờ biết hai thế giới cùng hành tinh; có thể Klein chưa biết ở mốc 1349, hai người ở mức thông tin khác nhau.
+
+### 7.2 Những sự thật đã có và ranh giới canon/AU
+
+- **CANON** theo phần 1–2 và tư liệu đối chiếu: ba kén được giải phóng đầu tiên liên quan Amanises, Roselle và Klein; ở mốc 1349, Klein là người thứ ba trong cơ chế Nguyên Bảo. Còn nhiều kén chưa mở. Cơ chế giải phóng liên quan điều kiện, không phải thả người ngẫu nhiên; việc xuất hiện người thứ tư **cùng lúc** là một nhánh AU cần lý do.
+- **AU đã tồn tại trong bible dự án:** Evan/Duy là linh hồn bổ sung xuất hiện cùng 28/06/1349; có vết xám hạn chế, chưa thể truy cập Nguyên Bảo. Chương 001 đã gieo “Hành khách thứ tư đã được xác nhận”; “Vui lòng không mở cửa khi nghe thấy tiếng gọi của chính mình”; âm thanh tự gọi Duy rồi Evan. **Chưa có nguồn, điều kiện kích hoạt, mục đích và câu trả lời khóa** cho hai dấu này.
+- **Không được biến** tờ tin nhắn thành app/system trao nhiệm vụ, bảo hộ của Thiên Tôn, nguồn quyền năng miễn phí, hoặc phép giải thích gộp cả vụ Phiếu17/Ashwick vào cùng âm mưu.
+- **Trục điều tra:** Evan biết lịch sử và bí mật từ sách nhưng **không biết vai trò chính mình**; Klein độc lập phát hiện sự khác thường từ nguồn xác minh riêng, và chỉ khi có quyền quan sát thật + nguồn đối chứng mới có kết luận về kén.
+
+### 7.3 Ba mô hình lời giải cấp tác giả — chưa chốt
+
+**Hướng A — Lỗi giải phóng đồng thời (khuyến nghị làm trục chính).** Khi kén thứ ba/Klein được kích hoạt vào 28/06, một yếu tố gọi thứ hai và điều kiện thân xác Evan vừa qua đời tạo ra **một lần phát hành phụ bất thường**, vi phạm nhịp mặc định một kén/lần. Cần thiết kế *nguyên nhân cụ thể có thể kiểm chứng* cho tín hiệu gọi thứ hai và tại sao đúng thân Evan; không dùng chữ “lỗi” để che thiếu cơ chế. Evan **không phải người được chọn**. Vệt xám chỉ là vết tiếp xúc không ổn định, vừa làm suy giảm nhỏ một số cú sốc tri thức vừa tạo nguy cơ bị lần theo.
+
+**Hướng B — Sự can thiệp của Evan nguyên chủ vào điểm giao (hỗ trợ nếu chọn A).** Duy đến đúng thân Evan vì một lựa chọn hoặc sự kiện có ý nghĩa trong những giờ cuối đời Evan, chứ không phải thân xác ngẫu nhiên. Những mảnh ký ức, sẹo, đồng hồ, nhân chứng trong đời Evan trở thành dấu kiểm ngoài tầm biết của Duy. Không mặc định Evan nguyên chủ còn sống như một linh hồn thứ hai nếu không thiết kế giới hạn và hậu quả. Hướng này đem lại chủ đề: Duy sống tiếp cũng phải tôn trọng đời người đã mất.
+
+**Hướng C — Có thực thể/chủ mưu cố ý thả người thứ tư.** Tạo đối thủ thao túng lâu dài, đổi lại rủi ro cao: một người đủ chạm cơ chế Nguyên Bảo sẽ mạnh quá sớm, dễ biến Evan thành quân cờ có người bảo hộ, cạnh tranh trực tiếp trục Klein–Thiên Tôn. Chỉ chấp nhận nếu quyền hạn, động cơ, điều kiện, sai lầm và bằng chứng độc lập khóa từ trước. **Không khuyến nghị.**
+
+**Tổ hợp ưu tiên để thảo luận:** A + một phần B; bí ẩn xuất phát từ sự cố cơ chế và lựa chọn con người, **không** phải mọi thứ do một trùm giật dây.
+
+### 7.4 Ba câu hỏi đầu truyện phải có payoff riêng
+
+1. **“Hành khách thứ tư”**: ai/điều gì đánh số, sự kiện “xác nhận” thực chất là gì, tại sao lần giải phóng lệch nhịp? *Dự kiến phần đầu trả sự khác biệt có thật; giữa truyện tìm hai đầu mối độc lập; cuối mới xác nhận.*
+2. **“Đừng mở cửa khi nghe giọng mình”**: đó là loại cửa nào (cửa thực, biểu tượng về bản ngã, hay cửa ánh sáng của Nguyên Bảo), ai cảnh báo, người gọi có thật là Duy hay một dấu vọng/mô phỏng? **Phải khóa câu trả lời trước viết lại 001–002**. Không hồi tố rằng một cảnh Ashwick đã vô tình giải thích nó.
+3. **Vì sao Duy thành Evan**: phần đời nguyên chủ nào không được phép chôn cùng thân xác? Phải tìm nguồn sống, nhân chứng/tài liệu và hậu quả mới, **không** cho hồi ức thuận tiện tự hiện đủ đáp án khi cần.
+
+Để tránh bí ẩn vô tận: mỗi 1–2 Arc trả **một phần thực chất** (người, sự kiện, giới hạn hay hậu quả), chỉ giữ lớp liên quan kén tới khi Klein đủ tư cách quan sát. Không dùng lặp đi lặp lại các giấc mơ làm tiến triển giả.
+
+### 7.5 Quy tắc triển khai Klein + nhân vật chính không biết tất cả
+
+- Evan đã đọc cả hai phần, có thể biết *nguyên lý tổng quát* của kén/Tiền Kỷ Nguyên. Thứ anh không biết là **tại sao tình huống riêng của mình xảy ra** và diễn biến sau AU.
+- Evan có quyền nghi nhiều, nhưng **không có bằng chứng tại hiện trường** chứng minh mình là kén thứ tư. Klein có quyền chứng minh bằng dữ kiện riêng; Evan không tự thú “tôi đọc câu chuyện về anh” để bỏ qua quá trình điều tra.
+- Có thể cởi mở dần về ký ức đời hiện đại từ đêm nghĩa trang, giữ riêng tri thức hậu trường và bí mật Ngu Giả. Klein là nhân vật có các lần phát hiện và lựa chọn độc lập.
+- Cú pháp tin nhắn điện thoại trong cảnh 001 phải có cơ chế có thể kiểm: là trải nghiệm thật của Duy thời hiện đại, thông tin xuất hiện trong giai đoạn đi vào kén, hay ảo tượng có dấu vết bên ngoài? Mỗi phương án khác nhau về tính chân thực của “người gửi”.
+
+### 7.6 Ba hướng kết thúc — **chưa duyệt**
+
+**Kết A — Quê hương là nơi mình chọn gắn bó (khuyến nghị về cảm xúc).** Cuối hành trình Evan biết chân tướng kén và thời đại cũ, không có lối trở lại quá khứ nguyên vẹn, nhưng có thể gìn giữ hoặc truy tìm dấu vết chân thật của gia đình/đời cũ. Chọn bảo vệ hiện tại và những người anh yêu thương, không phải vì bị buộc ở lại hay “quên quê”. Có một hành động cụ thể giữ lời hứa với bản thân. **Điểm yếu:** không phải quyền chọn về nhà theo nghĩa đen nếu không tồn tại phương án ấy; không giả vờ đây là lựa chọn vật lý giữa hai thế giới.
+
+**Kết B — Một đường trở về thật nhưng có giá (kết mạnh/AU lớn).** Cho một cơ hội xuyên thời gian có thể kiểm chứng, không “tỉnh dậy mọi thứ chỉ là giấc mơ”, không dựng một Trái Đất song song tùy tiện. Cửa phải được gieo từ đầu, cần cấp độ/quyền năng cực cao, và trả giá thật khi dùng. Evan có thể chọn rời Klein và người thân mới hoặc từ bỏ cơ hội. **Điểm yếu:** dễ phá vỡ hệ thống thế giới và quyền năng cao cấp của nguyên tác; chưa có cơ chế được khóa, cần phê duyệt rõ, không tự thực thi.
+
+**Kết C — Khóa hiểm họa bằng sự hy sinh tri thức/quyền năng.** Duy hoàn thành điều tra nguyên nhân thứ tư và phải lựa chọn giữa bảo tồn bản ngã/quyền lực/lối đi về với việc tránh gây nguy hại cho bạn bè và những người trong thế giới hiện tại. Có thể kết bittersweet nhưng không ép hy sinh mạng sống; phải có giá/lựa chọn thấy được. **Điểm yếu:** nếu chỉ thêm một lần Klein được cứu nhờ Evan biết trước có thể làm Klein mất chính tuyến trưởng thành của mình.
+
+**Khuyến nghị để thảo luận:** Mạch nhân vật của Kết A + một **lựa chọn thật có hệ quả** từ Kết C; *chưa chốt* có cửa thời gian vật lý hay không. Đảm bảo câu hỏi “Tôi có thể về nhà không?” từ buổi bói 08/07 được trả lời trên trang, không chỉ trong bí mật tác giả. Trần Duy không trở thành thần theo mặc định; con đường Ẩn Giả có thể tới cao mà vẫn có một kết thúc tự chủ.
+
+### 7.7 Hành trình gieo – trả dự kiến
+
+| Giai đoạn | Độc giả thấy gì | Lời giải đã trả / còn giữ |
+|---|---|---|
+| Ch001–010 | Tin nhắn, giọng mình; hỏi đường về nhà; Klein nhận dấu lạ | Evan có tri thức lớn nhưng không biết nguyên do riêng; quẻ không hiện đáp án |
+| Cuối Arc1 | Có một hậu quả thực của vệt xám và một dấu đời Evan khác ký ức Duy | Không gộp Phiếu17 là kén |
+| Arc2 Tingen | Biết trước thất bại trước lựa chọn cứu người; người thân chịu tác động | Tách quy luật nguyên tác và lịch AU; bí ẩn không lấn bi kịch người thật |
+| Backlund / các Arc giữa | Có nguồn sống về nguyên chủ, vết tin nhắn và cơ chế chọn thân; Klein tích dữ kiện riêng | Trả tại sao Evan chứ không chỉ chuyện kén nói chung |
+| Mạng biển / Tarot | Có thông tin mới về cơ chế kén hoặc dấu xám từ nguồn quyền cao; rủi ro chia sẻ tri thức | Giới hạn của kinh nghiệm đã đọc ngày càng rõ |
+| Giai đoạn cao | Klein kiểm chứng một kén mở thêm theo cách độc lập; Evan nhận ra nguyên do thực | Trả nguyên do, ai/điều gì gửi cảnh báo, điều kiện “cửa” |
+| Kết | Evan hành động theo lựa chọn không thể hoàn tác | Trả câu hỏi về nhà và mâu thuẫn giữa con người Duy/Evan |
+
+### 7.8 Điểm người đọc cần chốt
+
+1. Bí ẩn **A + B (sự cố giải phóng + đời Evan nguyên chủ)** hay cần thủ phạm chủ động kiểu C?
+2. Cuối truyện muốn **có cơ hội trở về vật lý thật sự** dù đó là một AU lớn, hay một kết thúc chủ yếu về lựa chọn ở lại/gìn giữ quê hương?
+3. Có thích để “không mở cửa” báo trước **nguy cơ đánh mất bản ngã** (thiên về tâm lý/huyền học) thay vì một cánh cửa vật lý hay không?
+
+**Không khóa ba đáp án trước khi người đọc quyết định.** Khi đã chọn, lập solution-sealed riêng cho cấp tác giả, clue ledger fair-play và các mốc tiết lộ cho Evan/Klein/độc giả; chỉ sau đó chỉnh outline Arc1–2.
