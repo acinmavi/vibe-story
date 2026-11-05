@@ -12,6 +12,12 @@ Trần Duy biết rất nhiều câu trả lời vì đã đọc Quỷ Bí Chi C
 
 Nguyên tắc nhận diện tác phẩm: tuyến vụ án OC gắn vào người và sự kiện có hậu quả; thế giới nguyên tác không làm nền trang trí; Klein là nhân vật hoạt động độc lập và còn nguy hiểm khi bị đẩy khỏi quỹ đạo. Tránh giữ độc giả trong những cảnh kiếm từng penny, giới thiệu phố xá, ký lại giấy, hỏi quyền xem lặp đi lặp lại.
 
+## Ưu tiên thiết kế cập nhật 05/11/2026 — Evan tìm đường về, Klein nhận ra sự tương đồng
+
+Theo đề xuất mới của người đọc, **Arc1 phải có cuộc bói toán tìm đường trở về (08/07 hoặc sau đó)**; Evan đã nghi đây là QBCC từ 004–005, mạnh dạn tìm người tên Klein nhưng chưa xác minh trọn thân phận. Klein thấy một dấu bất thường trong quẻ và tính cách, không nhìn xuyên được kén hay xác nhận 'đồng hương'. Họ tìm hiểu, hợp tác hạn chế qua Arc1 và đầu Arc2. Sau biến cố Tingen, Evan hiện diện đêm **15/09/1349** ở nghĩa trang khi Klein hồi sinh: 'đi thăm mộ' vừa là sự thật vừa che việc anh đang chờ, và cuộc gặp phải mang mặc cảm vì can thiệp trước đó không cứu được bạn mình. Họ bắt đầu nói thật về **ký ức thế giới hiện đại**, không nhất thiết chia sẻ danh tính Ngu Giả, nguồn kén hay kiến thức đọc nguyên tác. Chi tiết được khóa ở mức đề xuất trong [EVAN–KLEIN EARLY BOND V2](EVAN_KLEIN_EARLY_BOND_V2.md).
+
+Điểm mới này **thay thế** mọi câu dưới đây ngụ ý Klein không quen Evan cho tới Backlund hoặc Arc2 mới chỉ có liên hệ xã giao. Arc2 phải là hành trình đồng hành thực sự ngay từ Tingen, còn cuối Arc2 họ bước qua ngưỡng tin tưởng nhờ cảnh nghĩa trang.
+
 ## 2. Chân dung nhân vật chính
 
 **Tên:** Trần Duy (27 tuổi ở Việt Nam) / Evan Harlowe (24 tuổi ở Tingen). Ký ức kiếp trước đọc trọn phần 1, không phải đã học thuộc từng chương, từng ngày và từng câu thần chú. Evan nguyên chủ có tay nghề và mối quan hệ công việc, nhưng ký ức của Duy về đời Evan chỉ đến từng mảnh có thể kiểm chứng.

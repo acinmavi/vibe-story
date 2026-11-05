@@ -2,6 +2,10 @@
 
 **DRAFT, chưa duyệt viết lại văn xuôi.** Hai Arc đã có bản hoàn tất và bản Reader Edition ở branch khác. Blueprint này đề xuất tái cấu trúc trên một branch rewrite tương lai; không sửa văn chương và không thay đổi canon ngay tại đây. [Master Plan](MASTER_STORY_PLAN_V2_PROPOSAL.md) · [Power V2](EVAN_ADVANTAGES_AND_POWER_V2.md).
 
+## Quyết định mới: bói toán về nhà → cộng tác Tingen → chứng kiến hồi sinh
+
+Tài liệu [Evan–Klein Early Bond V2](EVAN_KLEIN_EARLY_BOND_V2.md) là phương án ưu tiên so với các lựa chọn sơ bộ ở dưới: Evan đã **nghi đang ở QBCC** từ 004–005, tìm Klein ở Câu lạc bộ Bói toán ngày **08/07 hoặc sau**, hỏi về đường trở về (động cơ thật); Klein chỉ cảm được dấu lạ chứ không xem ra kén. Họ quen nhau và hợp tác nhỏ từ Arc1, **đầu Arc2 phải có nhiều nhiệm vụ chung** khi vẫn ở Tingen. Cảnh trọng tâm cuối Arc2: sau tang lễ 15/09 Klein hồi sinh và thấy Evan ở nghĩa trang, người viện cớ “đi thăm mộ” nhưng thực chất cũng chờ kiểm lời tiên liệu; anh đã phải trả giá vì từng cố can thiệp để cứu Klein/những người khác. Từ đó Evan–Klein có thể thừa nhận nguồn gốc thời hiện đại từng phần, đồng hành ở Backlund. Quan hệ với Ngu Giả, kén, Tarot vẫn cần mốc/điều kiện riêng.
+
 ## Mục tiêu cảm giác đọc
 
 - Trước hết độc giả thấy Evan **làm được một việc đáng giá** trước chương 004, không chỉ tìm thức ăn/làm quen phố.
