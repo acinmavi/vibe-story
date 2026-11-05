@@ -69,3 +69,11 @@ Mỗi lượt điều tra cần thêm dữ kiện, đổi giả thuyết, gây h
 Giới thiệu mục đích công việc bằng tiếng Việt rõ trước thao tác: làm nghề gì, đang cần hoàn thành gì, vì sao kết quả ấy quan trọng. Chọn động tác thể hiện tay nghề, sai lầm, quan hệ hoặc manh mối; các lượt đếm, chép, gấp, giữ giấy, kiểm túi thường lệ có thể lược thuật. Cảnh điều tra/cứu nạn kể qua mục tiêu, trở ngại, quyết định và kết quả; không biến thành biên bản quy trình.
 
 Không kéo dài để đạt số từ khi biên tập nhịp. Vẫn giữ thời gian, tiền, nhân quả, năng lực và manh mối thiết yếu. Yêu cầu này cho phép rút các cảnh xác minh/trình bày lặp của bản cũ; không mở quyền tạo biến cố mới hoặc tự đổi lời giải.
+
+## Cổng duyệt tiếng Việt và nhịp kể sau từng chương (05/11/2026)
+
+Sau mỗi lần viết hoặc biên tập một chương, đọc lại toàn văn như một độc giả chưa xem bible/hồ sơ tác giả. Mỗi câu phải rõ ai đang nói hoặc hành động, điều gì dẫn tới phản ứng tiếp theo. Những chỗ phải đọc hai lần vì diễn đạt mơ hồ cần được sửa, trừ bí ẩn có chủ ý đã có dấu mốc cho độc giả.
+
+Mỗi cảnh cần có mục tiêu, trở ngại và thay đổi cụ thể. Lược bỏ thủ tục lặp lại khi không tạo chứng cứ, lựa chọn hoặc hệ quả mới; dành thời lượng cho mối nguy, cảm xúc và quyết định có giá phải trả. Không tăng tốc bằng cách biến cảnh thành danh sách sự kiện.
+
+Sau khi sửa, kiểm nối chương trước/sau, niên đại, tiền, đồ vật, bí mật, năng lực, tri thức nhân vật và những hậu quả tồn đọng. Đọc thành tiếng những đoạn dồn dập để tránh câu cụt, đại từ mơ hồ và chuyển ý không có cầu nối. Biên tập cấu trúc lớn phải được người đọc duyệt trước khi merge.

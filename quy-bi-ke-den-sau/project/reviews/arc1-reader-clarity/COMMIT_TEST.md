@@ -1,7 +1,3 @@
-# Arc 1 reader-clarity — write-access verification
+# GitHub write-access verification
 
-This commit verifies that the ChatGPT GitHub connector can write to the isolated `edit/arc1-reader-clarity-20261104` branch. It does not change any story chapter or the `main` branch.
-
-Planned editorial scope: chapters 002–030, preserving chapter 001 and Arc 2 continuity. The full reader-edition manuscript is maintained separately pending import and verification.
-
-Date: 2026-11-05.
+The write permission check succeeded on 2026-11-05. The complete Arc 1 reader-clarity revision (chapters 002–030, consolidated Arc 1 reader file and documentation) was subsequently committed on the same branch. This verification file is retained as an audit note.

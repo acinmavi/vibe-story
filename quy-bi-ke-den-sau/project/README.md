@@ -2,8 +2,8 @@
 
 Trần Duy tỉnh thành Evan Harlowe ở Tingen ngày28/6/1349. Tri thức có nguồn, quyền biết và cái giá; các vụ án OC làAU, giữ hành trình riêng của Klein.
 
-- [Mục lục toàn truyện](DOC_TRUYEN.md):68chương,113.081từ theo khoảngtrắng.
-- [Arc1 — Mục lục không tên](ARC_001.md):001–030,51.236từ,hoàn tất. [Bàn giao](arcs/arc-001/FINAL_RECAP.md).
+- [Mục lục toàn truyện](DOC_TRUYEN.md):68chương,86.564từ theo khoảngtrắng.
+- [Arc1 — Mục lục không tên](ARC_001.md):001–030,24.719từ,hoàn tất. [Bàn giao](arcs/arc-001/FINAL_RECAP.md).
 - [Arc2 — Cánh cửa cuối ca](ARC_002.md):031–068,38chương,61.845từ,hoàn tất. [Tổng kết](arcs/arc-002/FINAL_RECAP.md), [review/QA](reviews/arc-002-completion.md).
 - [Trạng thái hiện tại](continuity/CURRENT_STATE.md), [canon/AU](continuity/canon-log.md), [manh mối/lời hứa còn mở](continuity/setup-payoff-ledger.md).
 - [Đánh giá đường dài](long-game/POST_ARC_002_ASSESSMENT.md), [Arc3: đã chọn A để chuẩn bị](arcs/arc-003/OPTIONS.md).
@@ -17,3 +17,5 @@ Fanfiction phi thương mại, không phải tác phẩm chính thức hoặc đ
 [Prompt mở phiên chuẩn bị Arc3](arcs/arc-003/SESSION_PROMPT.md).
 
 [Biên tập nhịp kể và làm rõ công việc — đọc lại từ002](reviews/pacing-revision/REPORT.md).
+
+**Bản biên tập cấu trúc Arc 1 (chương 002–030):** [Báo cáo đọc và kiểm nhịp truyện](reviews/arc-001-reader-clarity-20261104.md). Nên đọc lại từ chương 002 và kiểm tra đoạn nối chương 030 → 031 trước khi merge.

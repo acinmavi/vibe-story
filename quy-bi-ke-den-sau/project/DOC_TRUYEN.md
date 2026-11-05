@@ -1,6 +1,6 @@
 # Đọc truyện — Quỷ Bí Chi Chủ: Kẻ Đến Sau
 
-Arc001 — **Mục lục không tên**, hoàn tất30 chương; 51236 từ theo split().
+Arc001 — **Mục lục không tên**, hoàn tất30 chương; 24719 từ theo split().
 
 [Đọc liền toàn Arc](ARC_001.md) · [Báo cáo kết Arc](reviews/arc-001-completion.md)
 
@@ -9,35 +9,35 @@ Arc1 và Arc2 đã hoàn tất; văn phong001–068 đã được biên tập th
 | Chương | Tên | Từ |
 |---:|---|---:|
 |001|[Phiếu không có người nhận](chapters/001.md)|3000|
-|002|[Chỉ nhận ba hòm](chapters/002.md)|2160|
-|003|[Mép dấu đỏ](chapters/003.md)|2025|
-|004|[Địa chỉ trên giấy gói](chapters/004.md)|1995|
-|005|[Một penny mua tin cũ](chapters/005.md)|1579|
-|006|[Hai người đứng ở cửa kho](chapters/006.md)|1518|
-|007|[Đến cuối tuần](chapters/007.md)|1293|
-|008|[Tiền đã trả](chapters/008.md)|1849|
-|009|[Số trên gỗ](chapters/009.md)|1658|
-|010|[Phía bên kia con dấu](chapters/010.md)|1679|
-|011|[Giá để xem](chapters/011.md)|1800|
-|012|[Nắng ngang mặt giấy](chapters/012.md)|1309|
-|013|[Giá của một cái gáy sách](chapters/013.md)|1868|
-|014|[Tờ giấy ở cửa sau](chapters/014.md)|1700|
-|015|[Người chờ ngoài cửa](chapters/015.md)|1596|
-|016|[Ngăn kéo thứ hai](chapters/016.md)|1586|
-|017|[Ô còn để trống](chapters/017.md)|1484|
-|018|[Sáu pound cho một cuộc đời](chapters/018.md)|1676|
-|019|[Đặt chiếc cốc xuống](chapters/019.md)|1905|
-|020|[Không đưa thêm người đọc](chapters/020.md)|1565|
-|021|[Câu không được gửi](chapters/021.md)|1402|
-|022|[Trả lại dây buộc](chapters/022.md)|1679|
-|023|[Giá của một bản chép](chapters/023.md)|1643|
-|024|[Lịch hẹn trong phong bì](chapters/024.md)|1343|
-|025|[Qua cửa hiệu giấy](chapters/025.md)|1972|
-|026|[Sổ không đi theo xe](chapters/026.md)|1547|
-|027|[Ngăn kéo mở từ bên trong](chapters/027.md)|1722|
-|028|[Chiếc ghế được mang đi](chapters/028.md)|1699|
-|029|[Một chỗ để tra lại](chapters/029.md)|1633|
-|030|[Địa chỉ để đi tới](chapters/030.md)|1351|
+|002|[Chỉ nhận ba hòm](chapters/002.md)|1088|
+|003|[Mép dấu đỏ](chapters/003.md)|725|
+|004|[Địa chỉ trên giấy gói](chapters/004.md)|768|
+|005|[Một penny mua tin cũ](chapters/005.md)|761|
+|006|[Người cầm phiếu trước anh](chapters/006.md)|640|
+|007|[Trước tháng chín](chapters/007.md)|673|
+|008|[Tiền đã trả](chapters/008.md)|752|
+|009|[Số trên gỗ](chapters/009.md)|641|
+|010|[Phía bên kia con dấu](chapters/010.md)|667|
+|011|[Giá để xem](chapters/011.md)|1732|
+|012|[Nắng ngang mặt giấy](chapters/012.md)|655|
+|013|[Giá của một cái gáy sách](chapters/013.md)|900|
+|014|[Tờ giấy ở cửa sau](chapters/014.md)|930|
+|015|[Người chờ ngoài cửa](chapters/015.md)|603|
+|016|[Ngăn kéo thứ hai](chapters/016.md)|825|
+|017|[Ô còn để trống](chapters/017.md)|837|
+|018|[Sáu pound cho một cuộc đời](chapters/018.md)|625|
+|019|[Đặt chiếc cốc xuống](chapters/019.md)|1021|
+|020|[Không đưa thêm người đọc](chapters/020.md)|553|
+|021|[Câu không được gửi](chapters/021.md)|508|
+|022|[Trả lại dây buộc](chapters/022.md)|581|
+|023|[Giá của một bản chép](chapters/023.md)|516|
+|024|[Lịch hẹn trong phong bì](chapters/024.md)|581|
+|025|[Qua cửa hiệu giấy](chapters/025.md)|670|
+|026|[Sổ không đi theo xe](chapters/026.md)|556|
+|027|[Ngăn kéo mở từ bên trong](chapters/027.md)|965|
+|028|[Chiếc ghế được mang đi](chapters/028.md)|477|
+|029|[Một chỗ để tra lại](chapters/029.md)|586|
+|030|[Địa chỉ để đi tới](chapters/030.md)|883|
 
 ## Arc002 — Cánh cửa cuối ca
 
