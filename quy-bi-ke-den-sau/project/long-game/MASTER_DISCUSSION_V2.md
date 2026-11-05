@@ -114,3 +114,56 @@
 - Khi người đọc xác nhận một lựa chọn, cập nhật mục tương ứng bằng **Ngày — Quyết định — Phạm vi — Tác động Arc1/Arc2 — Câu hỏi còn mở**.
 - Không biến lời “ý hay”, “discuss tiếp”, hay yêu cầu ghi chú thành phê duyệt toàn bộ outline/đoạn kết.
 - Giữ file này là **bản thảo thiết kế tập trung** cho sáu mục; sau khi chốt từng mục mới đồng bộ bible, roadmap, timeline/continuity tương ứng trên nhánh rewrite.
+
+---
+
+## 6. Phản hồi của người đọc — trí nhớ, đồng hành và Old Neil (05/11/2026)
+
+**Nguồn yêu cầu:** Người đọc đồng ý với định hướng Evan tò mò, thích phiêu lưu, là một độc giả bước vào thế giới từng đọc. Muốn trí nhớ tốt về diễn biến, các con đường, danh sách, tên gọi, công thức, cách đóng vai và tri thức thần bí học; muốn tận dụng lợi thế để đi nhanh hơn, nhưng cần người hướng dẫn thực hành. Lo lắng việc Evan đi cùng sẽ làm Klein bớt tự trưởng thành; muốn một cặp bổ trợ kiểu Holmes–Watson **hoặc** hoạt động độc lập là chính và chỉ giúp nhau khi cần. Bi kịch Tingen phải có nạn nhân gần gũi, được xây dựng tình cảm trước khi mất. Trọng tâm Tingen phải là khám phá thế giới, địa phương và con người thay vì cơm áo gạo tiền. Đề nghị Old Neil làm người dẫn đạo của Evan.
+
+### 6.1 Chân dung V2.1 — đã thống nhất hướng, cần chốt nguồn kiến thức
+
+- Trần Duy là fan rất tâm huyết, trí nhớ **rất tốt đối với nội dung truyện** chứ không phải trí nhớ toàn năng với thực tế. Khi được thấy người/vật/câu nói quen thuộc, có thể nhanh chóng nhớ lại chuỗi tình tiết và các giới hạn liên quan. Kiến thức giúp hành động sớm, không phải đứng im chờ điều tra hồ sơ.
+- Trái tim nhân vật: **tò mò, thích phiêu lưu, hào hứng với huyền học** như người mê đọc cuối cùng được sống trong trang sách. Đồng thời có gia đình/quê hương và mong muốn trở về; đôi khi vui, ngạc nhiên, hài hước, có thể liều khi thấy thứ hấp dẫn và vì thế gặp sai lầm.
+- **Điểm cần xác nhận riêng:** Tiểu sử hiện tại chỉ ghi Duy đọc trọn phần 1. Không mặc nhiên suy ra anh biết toàn bộ công thức/nhập vai 9→0: một số chi tiết chỉ được tiết lộ ngoài phần 1 hoặc trong tư liệu khác. Có thể cập nhật rằng trước xuyên không Duy đọc cả phần 2 và nghiên cứu tư liệu chuyên sâu, hoặc giới hạn anh nhớ chính xác **những công thức đã từng đọc**; giữ chỗ trống với những thứ không được công bố. Không tự thêm kỹ thuật nhớ siêu nhiên. Một trí nhớ tốt có thể nhớ một công thức nhưng không thay xác thực nguyên liệu/chất lượng, giá, nghi thức và an toàn khi pha.
+- Nếu đổi thành người đã đọc cả phần 2, tri thức về tương lai **không đồng nghĩa hiện thực AU sẽ xảy ra y hệt**; kiểm rõ ngày, ký ức phiên bản, những thông tin bị thay đổi do Evan có mặt.
+
+### 6.2 Evan–Klein — điểm cân bằng cần giữ
+
+**Hướng đề xuất ưu tiên:** Hai người **có hành trình riêng, nhiều lần giao nhau, rồi hợp tác ngày càng sâu**; không đi cặp 24/7 trong Arc1–2. Khi làm chung, chia việc theo năng lực thật, không rập khuôn Holmes luôn suy luận còn Watson chỉ kể/chăm sóc.
+
+- Klein: trực giác, bói toán, chuẩn bị thực địa, quyết đoán, nguy cơ và trách nhiệm Nighthawks; tiếp tục tự khám phá Tarot/Nguyên Bảo, tự nhập vai, tự mắc và sửa lỗi, có các thắng lợi không cần Evan.
+- Evan: biết bối cảnh/nguy cơ lớn, kết nối lý thuyết huyền học, nghiên cứu trên nguồn mở, đọc và đối chiếu thông tin, có thể thấy một khả năng mà Klein chưa biết; **cần Klein hoặc thầy dẫn từ lý thuyết thành kỹ thuật**.
+- Có ít nhất một cảnh **Evan đoán đúng rồi Klein phát hiện biến số/đề xuất cách thực hiện**; một cảnh **Klein tự giải quyết mà Evan không có mặt**; một cảnh **Evan tự xử lý vụ khác**; một cảnh hai người xung đột vì mục tiêu khác nhau rồi hóa giải bằng hành động.
+- Không buộc Klein phải sống lệch khỏi mọi trải nghiệm tự trưởng thành trong canon chỉ vì Evan biết trước. Nếu hỗ trợ ngăn một mất mát, thay đổi hệ quả toàn bộ tuyến, không giả sử Klein sẽ vẫn cư xử y hệt bản gốc.
+- Gặp thường xuyên nên xuất phát từ thành phố, công việc và nhóm người chung; hợp tác chính thức trong vụ Nighthawks đòi giấy phép/ủy quyền, không lấy việc là bạn làm thẩm quyền.
+
+**Cổng cần người đọc chốt:** thiên về “cặp bạn đồng hành với nhiều tuyến riêng” (khuyến nghị) hay “hai tuyến tương đối tách bạch chỉ giúp nhau lúc cần”; đây là quyết định về mật độ cùng khung, không phải chọn ai giỏi hơn.
+
+### 6.3 Old Neil — từ lý thuyết đến thực hành, có giá
+
+**Vì sao hợp lý:** Old Neil là Mystery Pryer Seq9, người dạy Klein thần bí học và nghi thức sau khi Klein gia nhập Nighthawks; biết các nguồn sách, chợ ngầm và có kinh nghiệm thực hành. Nhưng ông thuộc hệ thống Nighthawks, **không có quyền tự ý truyền mọi bí mật nội bộ/đưa công thức hoặc thành phần cho người ngoài**, và bản thân đang có nguy cơ ô nhiễm từ Hiền Giả Ẩn Nặc. Canon cơ sở: Klein học với Neil từ đầu 07/1349; Neil mất khống chế 29/08/1349.
+
+**Đường gặp cụ thể, không ép quen:** Sau buổi xem bói 08/07 với Klein, Evan đến hiệu sách Rusk với một đầu mối nghề in/mục lục có giá. Old Neil vốn quan tâm sách/bản thảo, nên có thể đến tìm tài liệu phi mật hoặc giúp đối một quyển sách thường; Rusk hoặc Klein giới thiệu **trong phạm vi dân sự**. Evan nêu một câu hỏi lý thuyết thông minh nhưng phạm sai lầm cơ bản khi thực hành; Neil nhận ra sự tò mò và thiên hướng của học trò. Nếu cần học phần hạn chế, phải có sự thẩm định/đồng ý phù hợp và cơ chế bảo mật; việc Neil ghé hiệu sách không tự mở Blackthorn.
+
+**Nhịp học ngắn gọn:** (a) 1–2 lần gặp để Neil chỉ ra khoảng cách lý thuyết–thực tế; (b) Evan làm một việc có ích đổi lại chỉ dẫn an toàn và danh mục sách; (c) chỉ sau kiểm tư cách/giới hạn, được giám sát thử linh thị, nghi thức cơ bản hoặc được chỉ nguồn nguyên liệu với rủi ro thật; (d) Evan tự thực hiện, chịu hậu quả từ lỗi, còn Neil không chế ma dược miễn phí. Nếu vốn đã nhớ công thức, kịch tính chuyển từ “tìm được công thức chưa?” sang “đâu là nguyên liệu thật, pha đúng, kiểm soát an toàn và ai chịu trách nhiệm?”.
+- **Căng thẳng đạo đức lớn:** Evan biết tương lai nguyên tác của Neil; càng thân, càng không thể im lặng. Nhân vật phải chủ động thử bảo vệ Neil theo một cách có nhân quả và giới hạn, nhưng **không tự động cứu được** hoặc bắt buộc thất bại. Nếu can thiệp có tác dụng, phải viết lại Neil/Klein/Dunn và mọi hệ quả.
+- **Không dùng Neil như máy dạy học.** Ông có bản sắc, nỗi đau tình riêng, sự cô độc, tình yêu tri thức, và những lựa chọn tự đưa ông đến nguy hiểm. Evan cần thời gian thật bên ông trước khi phản ứng với bi kịch có sức nặng.
+- **Rủi ro riêng:** biết sẵn bí mật đời tư của Neil không cho Evan quyền tiết lộ; cố “nói đúng đáp án” có thể khiến Neil hoảng sợ, không tin hoặc che giấu hơn. Nếu Neil bị ô nhiễm, không được giả lập một phương thuốc chữa chưa có trong lore.
+
+### 6.4 Tingen là một nơi đáng yêu trước khi trở thành bi kịch
+
+- Duy trì đủ sinh kế hợp lý nhưng **xử lý trong các cảnh có ý nghĩa**, không dùng hàng loạt chương trả tiền nhà, ký giấy, xem hai dấu khác nhau làm lõi truyện.
+- Dành khoảng trống cho Evan vui với con phố, cửa hiệu, câu lạc bộ, chợ sách, phương tiện, ẩm thực, nghi thức, sinh hoạt xóm và bạn bè; mô tả sống động qua biến cố/chọn lựa, không thành tour giới thiệu địa danh.
+- Tạo **ít nhất hai quan hệ gần gũi có nhiều cảnh** trước đại biến cố: ví dụ Old Neil (người thầy) và một đồng nghiệp/người bạn có mục tiêu độc lập (Mara hoặc Theo). Gieo chi tiết đời thường đáng nhớ và một lời hứa chưa kịp thực hiện. Klein cũng phải có phần quan hệ riêng, không chỉ là người bị Evan dẫn đi.
+- Biến cố Tingen phải **lấy đi một điều thật sự có giá trị với Evan**. Nạn nhân/loss cụ thể cần chốt trước outline, không giết tùy tiện cho đủ bi thương. Nếu cứu Neil thì hậu quả khác vẫn phải tạo chuyển biến nhân vật, nhưng không cần giết thêm người để bù chỉ tiêu.
+- Một biến cố khiến Evan nhìn lại câu 'mình biết trước tất cả' phải tác động đến hành động sau đó: đối thoại với Klein, nợ đạo đức với người đã giúp, thay đổi cách sử dụng tri thức.
+
+### 6.5 Các cổng quyết định tiếp theo
+
+1. **Phạm vi đọc trước xuyên không:** chỉ phần 1 và tra tư liệu, hay cả phần 2 + danh mục công thức? Mức nhớ chi tiết đến đâu?
+2. **Mô hình hai nhân vật:** đồng hành nhiều nhưng xen nhiệm vụ riêng, hay chủ yếu tách tuyến?
+3. **Điều kiện Old Neil làm thầy:** một mentor bán chính thức ngoài nghiệp vụ mật, hay cần một kênh được cơ quan phê chuẩn? Không để buổi giới thiệu ở Rusk = vào Nighthawks.
+4. **Định mệnh Neil:** muốn giữ bi kịch nhưng Evan đã can thiệp, hay cứu Neil thành công tạo AU lớn? Chưa tự phán quyết.
+5. **Ai/điều gì bị mất ở Tingen:** người Evan đã thực sự thân, và ít nhất một lời hứa/cảnh cho thấy thiệt hại trước sau.
+6. **Độ dài hai Arc Tingen:** không tự đóng khung 001–068 cũ nếu các cao trào/quan hệ cần thay. Tuy nhiên nhịp phải lên sớm; không kéo 10 chương trước khi xuất hiện lựa chọn chủ động/hiện tượng đáng chú ý.
