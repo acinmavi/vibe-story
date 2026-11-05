@@ -285,3 +285,72 @@ Nguồn: https://lordofthemysteries.fandom.com/wiki/Transmigrators ; https://lor
 3. **Lời giải kén:** chọn trục kích hoạt chồng lấn có quy tắc cụ thể hay một nguyên nhân khác đơn giản hơn mà bảo vệ canon?
 4. **Mốc sức mạnh:** Seq2 cuối phần 1; Seq1 các Arc phần 2; Seq0 sau Klein thức nếu đủ điều kiện — có phê duyệt định hướng hay vẫn đề xuất?
 5. **Mục tiêu trước tận thế:** bảo vệ người thân và giành quyền tự quyết hay cố cứu toàn bộ thế giới; có thể biến đổi qua các giai đoạn.
+
+---
+
+## 9. Chốt Danh sách 2; đề xuất quyền hạn chế từ sương mù xám; Hội Tarot thời Ngu Giả ngủ; quyết định cứu Old Neil (05/11/2026)
+
+**Bối cảnh:** Đây là cuộc thảo luận thiết kế, tuyệt đối không được coi toàn bộ giả thuyết là canon. Người đọc **đã chốt** mốc Evan đạt Seq2 **Hiền Giả (Sage) ở thời điểm cuối phần 1 của nguyên tác, khi Klein lên Seq0 Ngu Giả và bước vào ngủ sâu (năm 1352)**. Evan chưa phải Chân Thần ở mốc này. Những cách thức cụ thể chuyển giao quyền, mô hình tổ chức Hội Tarot và kết cuộc Old Neil **còn phải thiết kế/duyệt**, không tự sửa 001–068.
+
+### 9.1 Từ ngữ
+
+- **AU** = Alternate Universe, nghĩa là **lịch sử rẽ nhánh/thiết lập riêng của truyện**, không buộc là đa vũ trụ song song. Kể từ khi Duy/Evan xuất hiện và hành động, một phần sự kiện nguyên tác có thể đổi, kéo theo hậu quả. Khi giải thích cho người đọc, dùng tiếng Việt thay cho chữ AU không cần thiết.
+- **Canon** = dữ kiện/sự kiện nguyên tác đã xác nhận.
+- **Đề xuất** = cách chúng ta muốn viết fanfiction nhưng chưa được viết trên trang/chưa được duyệt.
+- **Lưu ý lore:** Hiền Giả Ẩn Nặc (Hidden Sage) là Tính Duy Nhất con đường Ẩn Giả đã có ý thức, gần cấp 0, **không phải Chân Thần Seq0 đã dung hợp đủ**. Quá trình truy đuổi tri thức của ông ta vẫn có thể tác động người con đường Ẩn Giả, kể cả nếu Evan nhận một bảo hộ hạn chế. Nguồn https://lordofthemysteries.fandom.com/wiki/Hidden_Sage .
+
+### 9.2 Mốc Evan đạt Seq2 vào cuối phần 1 — ĐÃ CHỐT mục tiêu thiết kế
+
+- 1352: Klein trở thành Ngu Giả Seq0 và ngủ để chống ý chí Thiên Tôn; Evan **đã đạt Seq2 Hiền Giả**, có vị trí Thiên Sứ và trách nhiệm riêng trong Hội Tarot. Mốc này dành cho phần 1 **nguyên tác**, không phải Arc001 dự án.
+- Đây là tốc độ cực nhanh; phải dựng đường nguyên liệu, công thức, đặc tính Phi Phàm, nghi thức, sự bảo trợ có chi phí và các nguồn lực hợp lệ. Trí nhớ sách và khả năng tiêu hóa nhanh **không** giúp tự tạo đặc tính/đi tắt nghi thức. Cho phép một số bậc thiên tri thức tiêu hóa nhanh bất thường nhưng có cảnh thực hành, hậu quả.
+- Tiến tới Seq1 / tranh đoạt thần vị ở giai đoạn hậu giấc ngủ: **đề xuất chưa khóa**, vẫn cần nguồn đặc tính Seq1, Tính Duy Nhất Hermit, nghi thức Seq0 và tranh chấp nguồn quyền giữa Bernadette, Steam, Hidden Sage, Moses Ascetic Order... Không mặc định Ngu Giả chỉ cần ban phát. Không tự khóa Seq0/kết thúc toàn truyện.
+
+### 9.3 Klein trao **đặc ân sương mù xám có giới hạn** trước giấc ngủ — ĐỀ XUẤT, không phải chuyển quyền sở hữu Nguyên Bảo
+
+Người đọc muốn Klein tin Evan và có thể để lại một phần quyền năng bảo hộ để giảm ảnh hưởng từ tồn tại cấp 0 / Hiền Giả Ẩn Nặc trên con đường Ẩn Giả. Hướng an toàn và thú vị hơn là **lời chúc phúc, vật làm môi giới, quyền tiếp cận được ràng buộc** do Ngu Giả thiết lập khi còn thức, thay vì cắt một phần lõi Nguyên Bảo hay trao quyền thần minh trực tiếp.
+
+**Bộ quyền hạn đề xuất:**
+1. **Lọc và ổn định:** khi Evan bị kiến thức truy đuổi hoặc chịu ảnh hưởng huyền học, mối liên hệ có thể lọc/mài bớt một đợt có mức độ hữu hạn, với hao phí linh tính và giới hạn số lần; **không miễn nhiễm hoàn toàn** với ô nhiễm cấp Chân Thần hoặc mọi nghi thức. Trong các đòn tấn công trực diện cấp thần linh, Evan Seq2 vẫn có thể bị đánh bại/bắt/giết.
+2. **Kết nối bảo mật:** cho phép Evan nhận một số thông tin nhiệm vụ/kiểm tra tín hiệu Hội Tarot và gửi cảnh báo vào kênh được xác nhận; không đọc lời cầu nguyện của tín đồ như Ngu Giả, không nhìn trộm mọi thành viên, không tự tạo thánh chỉ vô hạn.
+3. **Triệu tập có điều kiện, nếu người dùng duyệt:** Evan có thể tổ chức/điều phối cuộc gặp nội bộ của thành viên đã được ủy quyền trên kênh/khu vực đã chuẩn bị, theo quy tắc thời hạn và quỹ năng lượng có sẵn; **không có quyền kiểm soát cổng lõi**, không tự sửa Cung Điện Sương Mù, không dùng năng lực Fool/Error/Door cấp 0, không đưa người lạ vào theo ý mình.
+4. **Giới hạn quan trọng:** dấu cấp quyền có thể yếu đi hoặc bị gián đoạn khi Klein/Tiên Tôn tranh đoạt, có nguy cơ tín hiệu bị khai thác, thậm chí phải **tự phong ấn/hủy kết nối** để không làm nguy hiểm giấc ngủ của Klein. Nếu Evan dùng quá mức, bảo hộ suy giảm, để người khác phát hiện mùi Nguyên Bảo hoặc gây phản tác dụng.
+
+**Cơ sở tham khảo:** Nguyên Bảo có cơ chế nhận lời cầu nguyện/nhận và ban vật phẩm, kết nối các sao đỏ; Ngu Giả từng bảo hộ thành viên qua ân huệ và các nghi thức, nhưng **không có dữ kiện xác nhận có thể chuyển quyền sở hữu Nguyên Bảo cho một Thiên Sứ của đường Ẩn Giả**. Đề xuất trên là cơ chế có giới hạn viết riêng cho fanfiction. Nguồn https://lordofthemysteries.fandom.com/wiki/Sefirah_Castle ; https://lordofthemysteries.fandom.com/wiki/Tarot_Club/Rituals .
+
+**Kiểm kịch bản:** Nếu Klein sắp ngủ, việc cắt đi quyền kiểm soát Nguyên Bảo sẽ dễ làm yếu cuộc tranh đấu với Thiên Tôn. Do đó tránh chuyển lõi; nếu có vật chứa ân huệ, phải xác định nguồn quyền năng dự trữ, khóa thu hồi, và hiệu lực không phụ thuộc vào Klein liên tục tỉnh táo.
+
+### 9.4 Evan điều phối Hội Tarot khi Ngu Giả ngủ — ĐỀ XUẤT trục truyện dài
+
+**CANON:** sau Klein ngủ, Hội Tarot vẫn gặp hàng tháng trên sương mù xám **không có người chủ trì** như trước, cùng những cuộc họp nhỏ; trước ngủ Klein giao công việc dài hạn và mong các thành viên giúp Ngu Giả thức tỉnh. Nguồn https://lordofthemysteries.fandom.com/wiki/Tarot_Club/Gathering ; https://lordofthemysteries.fandom.com/wiki/Tarot_Club .
+
+**Đề xuất lịch sử rẽ nhánh:** Ngu Giả chọn Evan — khi đó là thành viên Tarot Seq2 — giữ **vai trò điều phối được ủy thác**, không phải thay thần vị. Vẫn giữ nghi thức tôn kính và ghế chủ tọa của Ngu Giả trống/vô phạm; Evan họp với mọi người với tư cách **Ẩn Giả/Thiên Sứ**, công bố nội dung ủy nhiệm có thể xác minh, không mạo giọng Ngu Giả, không ban thần dụ không có nguồn.
+
+Các việc phù hợp để tạo Arc sau 1352:
+- **Bảo vệ tổ chức:** kiểm tra danh tính và tín hiệu; trừ nội gián, lộ bí mật, ngăn những tổ chức khác lợi dụng Ngu Giả ngủ, đối diện nguy cơ mối liên hệ sương mù xám bị giả mạo.
+- **Phân quyền:** Justice/Audrey chăm tâm lý/chủ trì hòa giải; Alger lo điều phối biển/mạng giáo hội; Fors mở liên lạc và di chuyển; Leonard tình báo/điều tra, các Major Arcana khác đều có mục tiêu tự quyết. Evan tổng hợp/đề xuất rồi các bên thảo luận, không ra lệnh như vua.
+- **Xây thế lực có trách nhiệm:** đưa sứ mệnh cứu trợ, chợ tri thức, hậu cần và tài nguyên vào một chiến lược để chống tận thế. Có thắng, có tổn thất; uy tín phải tự kiếm.
+- **Nhiệm vụ dài:** ghi nhận và hỗ trợ điều kiện giúp Ngu Giả tỉnh, bảo vệ các nguồn tin; đồng thời tự tìm vật phẩm và tài liệu để Evan đủ năng lực Seq1. Hai tuyến có lúc xung đột lợi ích: dùng nguồn lực Hội Tarot cho cá nhân hay cho mục tiêu chung?
+- **Hội Tarot khi thiếu Ngu Giả:** thành viên đặt vấn đề quyền đại diện, quyền phủ quyết, lòng tin đối với Evan; một lần Evan đưa quyết định sai và phải chịu hệ quả; không biến các Thiên Sứ khác thành cấp dưới ngoan ngoãn.
+
+**Cấu trúc gợi ý ba giai đoạn sau 1352:** (1) Nhiếp chính không phải thần — giữ tổ chức; (2) Mạng lưới chống tận thế — củng cố liên minh trong lúc truy nguồn Seq1; (3) Quyền biết và thần vị — sự can thiệp của đối thủ Hidden Sage/đấu giành Hermit, chờ Ngu Giả thức dậy. Đây **không phải dàn ý duyệt**, số arc và thứ tự còn mở.
+
+### 9.5 Evan là cháu Old Neil — tình thân không được gán tự động cho Trần Duy
+
+**Người đọc xác định:** Evan nguyên chủ có quan hệ **cháu ruột** và đã từng được Old Neil dẫn dắt; nhưng **Trần Duy là người lạ trong thân xác**, không có tình thân thực sự ở phút đầu tiên và phải tìm hiểu, cảm nhận qua trải nghiệm. Khi nhận ra Neil chính là người sẽ mất khống chế trong nguyên tác, Duy/Evan có một **lựa chọn đạo đức bắt buộc**, chứ không có sẵn tình thương vô điều kiện.
+
+**Thiết kế nhịp tình thân để không kéo dài 10 chương làm quen:**
+1. **Ngày đầu–tuần đầu:** Neil biết rõ cháu, gọi tên thân mật, nhớ ký ức gia đình, tìm cách giúp; Duy nhớ mảnh ký ức Evan nguyên chủ nhưng **thấy xa lạ, ngượng nghịu, thậm chí tội lỗi vì đang thay người**. Neil cảm được tính khí thay đổi, tạo căng thẳng bình thường không cần đọc hồn.
+2. **Sau khi gặp tên và manh mối đủ rõ:** Duy nhận ra “Old Neil” đúng là thầy của Klein, đã đọc về Celeste và cái chết/ảnh hưởng Hiền Giả Ẩn Nặc. Cú sốc đến từ **câu chuyện trong sách bỗng là người thân của thân xác đang mượn**, đồng thời Duy hiểu ai đó biết mình là cháu mà mình không thể đáp lại tương xứng.
+3. **Vài cảnh nghề và đời thường:** Neil giúp Duy từ lý thuyết sang thực hành trong phạm vi hợp lệ, có lỗi và bị rầy, uống cà phê, ghé bữa tối, nhớ một lời hẹn với cháu trước kia. Duy tạo **tình thân mới bằng lựa chọn và trả ơn**, không dựa ký ức gốc tự ban sẵn.
+4. **Lựa chọn cứu:** Duy cân nhắc (a) nói thẳng biết nguồn ô nhiễm và bị nghi ngờ, có nguy cơ Neil khép kín; (b) tìm bằng chứng/nguồn xử lý theo cách Neil chấp nhận, cảnh báo Dunn/Klein có mức tiết lộ phù hợp; (c) giảm tiếp xúc nguy hiểm, đồng hành để Neil không cô độc. **Phải thực sự hành động trước hạn**, dù chưa quyết định cứu thành công hay không. Quyết định phải có hậu quả kiểm được, kể cả sự thay đổi trong quan hệ.
+5. **Trả hậu quả:** nếu Neil chết, Duy phải sống với lựa chọn đã làm và các lời chưa kịp nói; nếu cứu được, Tingen/Klein/Dunn/lore phải đổi nhân quả, Neil vẫn có thương tổn, mặc cảm, trách nhiệm; không có “cứu xong, về như cũ”.
+
+**Lưu ý Neil vẫn là người độc lập:** mất Celeste là động lực/hành động riêng của ông, không đợi Evan xuất hiện mới trở thành đối tượng giải cứu; Celeste canon là hôn thê chứ không phải vợ. Không cho Neil cung cấp công thức, nguyên liệu hoặc tài liệu Nighthawks trái quyền chỉ vì là cậu ruột.
+
+### 9.6 Trạng thái quyết định và mốc tiếp
+
+**ĐÃ CHỐT:** (a) Duy đọc cả hai bộ truyện và ghi nhớ sâu kiến thức; (b) tính cách thích khám phá/tri thức vừa là lợi thế vừa là lời nguyền; (c) Evan nguyên chủ là **cháu ruột** Neil, Duy không có sẵn tình cảm; (d) Duy phải cân nhắc và chủ động **thử cứu** Neil khi nhận ra tương lai; (e) Evan đạt **Seq2 khi Klein ngủ**; (f) giai đoạn Ngu Giả ngủ đủ dài và quan trọng để phát triển mạng lưới, sức mạnh và tổ chức.
+
+**ĐỀ XUẤT còn cần duyệt cơ chế:** (a) đặc ân sương mù xám giới hạn, không chống được mọi thần linh/không làm yếu Klein; (b) quyền điều phối Hội Tarot hành chính, không ngồi ghế Ngu Giả; (c) tiến Seq1 rồi tranh đoạt Seq0 trong các Arc sau; (d) kết cục Old Neil; (e) lời giải kén thứ tư và đoạn kết toàn truyện.
+
+**Chưa thực hiện:** Không sửa \`bible/characters.md\`, \`power.md\`, \`tarot-and-world.md\`, \`continuity\`, \`chapters\`, hoặc viết chương 069. Chỉ ghi ý tưởng vào hồ sơ thảo luận chờ các cổng thiết kế tiếp theo.
