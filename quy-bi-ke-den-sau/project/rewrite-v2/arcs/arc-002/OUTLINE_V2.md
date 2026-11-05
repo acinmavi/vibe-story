@@ -10,15 +10,15 @@ Evan đã có người cậu, bạn bè và một thế giới mình muốn bả
 
 | Chương | Mốc | Sự kiện chính | Kết quả/chi phí |
 |---|---|---|---|
-| 031 | 1/8 | Buổi sáng sau vụ ga; Evan tập nhập vai và nhận biết sự mệt của Neil | Bước vào nguy cơ chậm, không đổi ngay thành câu chuyện thảm sát |
+| 031 | 1/8 | Buổi sáng sau vụ ga, Evan đọc về phương pháp nhập vai trong phạm vi được phép và nhận thấy Neil mệt mỏi | Anh còn là người thường; hồ sơ cấp ma dược vẫn chờ xác minh |
 | 032 | 2/8 | Klein đến thăm theo lời mời Neil; cả ba nói về biển và món ăn trước khi công việc chen vào | Bạn bè là người có đời sống, không phải máy giải án |
 | 033 | 3/8 | Evan phát hiện Neil né ngủ và có những dòng nhạc lặp trên giấy | Bằng chứng ô nhiễm đời thường, chưa phán đoán chỉ vì đọc truyện |
 | 034 | 4/8 | Mara định đi Pritz làm nghề in, Evan khuyên ở lại rồi nhận ra mình đang ép tương lai người khác | Vấn đề tự quyết của nhân vật phụ |
-| 035 | 5/8 | Evan và Klein khảo sát nhà kho cũ sau một lời nhờ; hiện tượng khác với vụ tàu tháng bảy | Không lặp cơ chế; tạo việc chung có phạm vi |
-| 036 | 6/8 | Neil hướng dẫn nghi thức sạch và cách dừng khi thấy tên thật nguy hiểm | Kiến thức thực hành, báo trước một lần Evan phải dừng |
-| 037 | 7/8 | Evan chủ động hỏi Neil về Celeste; Neil phản ứng mạnh rồi xin lỗi | Quan hệ có vết nứt đáng tin |
-| 038 | 8/8 | Klein riêng điều tra nguồn mất tích không liên quan Evan và kết luận bằng chứng cứ của mình | Giữ độc lập Klein |
-| 039 | 9/8 | Evan tìm một chuyên gia đáng tin nhưng bị từ chối vì không đưa được nguồn | Tri thức spoiler không đổi thành quyền lực xã hội |
+| 035 | 5/8 | Klein điều tra hiện tượng tại kho cũ; Evan chỉ xử lý bản đồ, danh mục và nhân chứng theo phân công, được bảo vệ khỏi khu nguy hiểm | Dunn nhận đủ báo cáo và y sĩ xác nhận Evan đã hồi phục; căn cứ sử dụng Seq9 được trình có phê chuẩn |
+| 036 | 6/8 | Sau khi có phê chuẩn chính thức cho liều Seq9 từ kho, Neil vẫn miễn cưỡng pha ma dược Kẻ Dòm Ngó Bí Ẩn trước người được phân công giám sát; Evan tự nguyện uống, trải qua nguy cơ và được theo dõi | **MỐC SEQ9**: liều thuốc thuộc tổ chức, không uống nhầm, không miễn kiểm tra; Evan vẫn tập sự/dân sự được giám sát, chưa thành Nighthawk chính thức |
+| 037 | 7/8 | Sau uống thuốc Evan có phản ứng tinh thần phải theo dõi; Neil chăm sóc nhưng hai cậu cháu vẫn bất đồng về sự nguy hiểm, Evan hỏi dè dặt chuyện Celeste | Không chữa lành miễn phí, không coi Neil đồng ý vì đã tự tay pha; gieo nỗi cô độc của ông |
+| 038 | 8/8 | Klein một mình điều tra nguồn mất tích và giải bằng chứng cứ; Evan nghỉ để ổn định Seq9, chỉ ghi lại triệu chứng và kiểm tra nhập vai với người có thẩm quyền | Klein không bị Evan thay vai, Evan chưa sẵn sàng chiến đấu |
+| 039 | 9/8 | Evan hoàn tất kiểm tra an toàn sơ bộ và bắt đầu thực hành nhập vai theo phạm vi được giao; tìm lời khuyên về nguồn tri thức nhưng phải chứng minh xuất xứ | Được tiếp tục làm nhân viên hỗ trợ tập sự, không mặc nhiên truy cập tài liệu tuyệt mật hoặc đi nhiệm vụ một mình |
 | 040 | 10/8 | Thư cũ của Celeste được Neil cất kín; Evan nhầm sự quan tâm với quyền lục tìm | Xung đột đạo đức và giới hạn riêng tư |
 | 041 | 11/8 | Neil gọi Evan bằng tên hồi nhỏ rồi nhận ra cháu không nhớ; Evan lần đầu kể về một cơn sợ thật | Một bước thừa nhận người khác không cần biết toàn bộ sự thật |
 | 042 | 12/8 | Bé Iris phát hiện nhân chứng vụ ga bị đe dọa; Evan chọn giúp bằng nghề sách thay vì chiến đấu | Giữ các tuyến xã hội sống tiếp |
@@ -40,7 +40,7 @@ Evan đã có người cậu, bạn bè và một thế giới mình muốn bả
 | 058 | 28/8 | Evan và Dunn đến ngăn Neil, song một đoạn nghi thức đã khởi động khi mọi người tới | Cửa sổ cứu đã khép, không bịa số phận |
 | 059 | 29/8 | Neil mất khống chế; những người có chuyên môn can thiệp, Evan chỉ có thể cứu một người ngoài phạm vi | Neil qua đời, Evan không giành công quyền lực |
 | 060 | 30/8 | Sau tang tóc, Evan trả lá thư chưa mở cho người giữ tư trang; Klein tự xử lý nỗi đau | Tình cảm qua hành động, không làm thành bài diễn văn |
-| 061 | 31/8 | Klein đón giai đoạn thăng cấp riêng; Evan chăm chấn thương và luyện cơ thể để tìm Seq8 | Phát triển tách tuyến; Evan chưa tự nhảy cấp |
+| 061 | 31/8 | Klein bước sang giai đoạn thăng cấp riêng; Evan vừa chịu tang Neil vừa tiếp tục hoàn thiện nhập vai Seq9 và bắt đầu tìm hiểu yêu cầu Seq8 | Chưa có nguồn đặc tính, công thức và huấn luyện Seq8; không tự nhảy cấp |
 | 062 | 2/9 | Các dự đoán về Tingen bắt đầu lệch do sự xuất hiện Evan; Evan cảnh báo có người nhận | Không coi 0-08 là chìa khóa chữa mọi lỗ |
 | 063 | 4/9 | Mara và Theo đứng trước nguy cơ từ một cuộc di tản; chọn việc mình tin là đúng | Những người dân Tingen có quyết định riêng |
 | 064 | 6/9 | Klein và Evan bất đồng về mức tiết lộ trong cảnh báo; rồi cùng cứu một người dân mà không vượt cấp | Hai người bổ trợ, không đồng lòng miễn phí |
@@ -53,6 +53,6 @@ Evan đã có người cậu, bạn bè và một thế giới mình muốn bả
 
 - **Cái chết Neil:** đã được người đọc khóa, Evan có nỗ lực cứu thực tế, theo thời gian và bằng chứng; không biến Neil thành nạn nhân bị nhà văn đặt vào chỗ chết bằng tình tiết cuối phút. Neil có mong ước và quyền tự quyết, Dunn/Klein có hành động chuyên môn độc lập.
 - **Tingen:** giữ hệ quả cấp lớn và Klein hồi sinh, nhưng bản văn phải là cách nhìn Evan và các nhân vật riêng, không chép cảnh đối thoại, chi tiết diễn tiến nguyên tác. Các cảnh trong nguyên tác cần đối thời gian/quyền biết.
-- **Evan Seq:** mốc nhập Seq9 phụ thuộc giải pháp ma dược đã được chốt trong Arc1; nếu không nhập ở Arc1 phải dời diễn biến Arc2, không dùng năng lực chưa có. Dù được Nighthawks cho thử việc, danh phận dân sự/dự bị không đồng nghĩa được thăng cấp tự động. Seq8 cần nguồn và tập luyện riêng. Mốc Seq2 cuối phần 1 vẫn giữ ở lộ trình toàn truyện, không dùng cấp 2 sớm để phá mối nguy Tingen.
+- **Evan Seq:** người thường đến hết Arc1, Seq9 từ chương **036 ngày 06/08/1349** (Old Neil pha theo phê chuẩn, có giám sát), chưa lên Seq8 trong Arc2. Theo dõi ổn định, luyện nhập vai, nguồn lực và rủi ro từng cảnh; vì làm công việc dân sự/tập sự nên **không có toàn quyền Blackthorn**, còn trách nhiệm bàn giao, bảo mật và hậu quả nếu rời Tingen. Mốc Seq2 cuối phần 1 nguyên tác giữ ở lộ trình xa.
 - **Bí mật:** Duy biết hai bộ truyện và nghi Klein là Chu Minh Thụy; Klein chưa chắc hiểu nguồn gốc Evan hoặc mình là nhân vật sách. Đêm nghĩa trang mới là lời hứa tiết lộ một phần quê nhà.
 - **Cuối Arc:** 068 đêm 15/9 sang ngày 16/9; tình bạn mở đường Backlund, không tuyên bố Evan bước vào Nguyên Bảo/Tarot ở giai đoạn này.
