@@ -35,3 +35,8 @@
 ## Lưu ý quyền quyết định
 
 Người dùng 05/11 yêu cầu viết lại và để Codex review cả hai Arc. Không tự xem ý định ấy là đã duyệt văn xuôi chương 001 mới. Giữ cửa duyệt pilot và outline trước khi chuyển từ dàn ý sang hàng loạt chương; không tự chốt tín hiệu kén thứ tư/đoạn kết tổng thể chưa được duyệt.
+
+
+## Blocker bổ sung — Ma dược và tư cách Nighthawks
+
+Không duyệt tình tiết Rusk mua đủ thành phần rồi Neil pha ngay cho cháu ở chương 016–017. Chỉ có thể cho Neil điều chế thuốc theo nhiệm vụ được phép; kho, công thức và quyền tiếp cận phòng điều chế được kiểm soát. Nếu Evan uống ngoài dự kiến, phải có nguyên nhân được gieo, sự lựa chọn có thật hoặc cơ chế nhầm lẫn không gượng; sau đó Dunn giám sát, điều tra trách nhiệm và có thể cho thử việc dân sự/dự bị, **không lập tức phong Nighthawk chính thức**. Old Neil thương cháu nên phản đối và có hậu quả quan hệ. Xem `../arcs/arc-001/POTION_ACCESS_V2_PROPOSAL.md`.

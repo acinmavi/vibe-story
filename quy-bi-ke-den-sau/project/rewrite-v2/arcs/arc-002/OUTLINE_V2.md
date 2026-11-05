@@ -53,6 +53,6 @@ Evan đã có người cậu, bạn bè và một thế giới mình muốn bả
 
 - **Cái chết Neil:** đã được người đọc khóa, Evan có nỗ lực cứu thực tế, theo thời gian và bằng chứng; không biến Neil thành nạn nhân bị nhà văn đặt vào chỗ chết bằng tình tiết cuối phút. Neil có mong ước và quyền tự quyết, Dunn/Klein có hành động chuyên môn độc lập.
 - **Tingen:** giữ hệ quả cấp lớn và Klein hồi sinh, nhưng bản văn phải là cách nhìn Evan và các nhân vật riêng, không chép cảnh đối thoại, chi tiết diễn tiến nguyên tác. Các cảnh trong nguyên tác cần đối thời gian/quyền biết.
-- **Evan Seq:** khoảng 031–060 vẫn Seq9 đang luyện; sau 061 tìm Seq8/nguồn huấn luyện, không bắt buộc lên Seq8 trong Arc2 nếu gây gượng. Mốc Seq2 cuối phần 1 vẫn giữ ở lộ trình toàn truyện, không dùng cấp 2 sớm để phá mối nguy Tingen.
+- **Evan Seq:** mốc nhập Seq9 phụ thuộc giải pháp ma dược đã được chốt trong Arc1; nếu không nhập ở Arc1 phải dời diễn biến Arc2, không dùng năng lực chưa có. Dù được Nighthawks cho thử việc, danh phận dân sự/dự bị không đồng nghĩa được thăng cấp tự động. Seq8 cần nguồn và tập luyện riêng. Mốc Seq2 cuối phần 1 vẫn giữ ở lộ trình toàn truyện, không dùng cấp 2 sớm để phá mối nguy Tingen.
 - **Bí mật:** Duy biết hai bộ truyện và nghi Klein là Chu Minh Thụy; Klein chưa chắc hiểu nguồn gốc Evan hoặc mình là nhân vật sách. Đêm nghĩa trang mới là lời hứa tiết lộ một phần quê nhà.
 - **Cuối Arc:** 068 đêm 15/9 sang ngày 16/9; tình bạn mở đường Backlund, không tuyên bố Evan bước vào Nguyên Bảo/Tarot ở giai đoạn này.

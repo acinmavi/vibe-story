@@ -6,6 +6,8 @@
 
 Trần Duy tỉnh dậy trong Evan sau tai nạn xe ngựa ngoài Tingen. Old Neil, cậu ruột Evan nguyên chủ, đến đón và chăm sóc. Duy có kiến thức mạnh từ hai phần nguyên tác, nhưng không có những ký ức sống của cháu mình. Mục tiêu đầu tiên là tìm đường về nhà; rồi Tingen, Neil, Mara, Rusk, Klein dần biến nơi tạm trú thành một nơi có người chờ. Công việc sách bán thời gian đủ nuôi sống mà không thành cốt truyện chính.
 
+**CỔNG LOGIC CẦN CODEx KIỂM:** Người đọc đề xuất Old Neil chính tay pha ma dược để Evan 'tình cờ' uống, sau đó Nighthawks giám sát và cân nhắc làm thành viên dự bị. **Chưa khóa cách uống, nơi giữ thuốc hoặc ngày lên Seq9.** Lựa chọn duyệt cần bảo vệ quyền sở hữu kho Nighthawks, hạn chế phòng điều chế, uy tín Old Neil, phép tuyển người của Dunn. Xem [Phương án tiếp cận ma dược](POTION_ACCESS_V2_PROPOSAL.md). Các dòng trước đây ghi Evan uống ở 017 đã bị thay thế ở mức dàn ý.
+
 **Bí ẩn địa phương:** tiếng tàu trên sân ga đóng đã khiến vài người sợ, rồi một thiếu nữ mất tích. Lời giải ở hồ sơ tác giả riêng. Tiền đề: không dùng ký ức tự đổi hay phiếu 317 của Arc cũ; vật phẩm cấp thấp làm lệch cảm nhận âm thanh với điều kiện và cái giá. Manh mối thật ở ống dẫn, lịch tàu, người chứng và việc cô gái tự chuẩn bị đường thoát. Cặp Evan–Klein phát huy ưu điểm khác nhau.
 
 ## Tiến trình 30 chương
@@ -27,10 +29,10 @@ Trần Duy tỉnh dậy trong Evan sau tai nạn xe ngựa ngoài Tingen. Old Ne
 | 013 | 16/7 | Một mảnh bùa gây tiếng tàu bằng ký ức âm thanh; Neil chỉ nguy cơ mở bằng tay trần | Giới thiệu luật vật phẩm hữu hạn, không cho kỹ thuật miễn phí |
 | 014 | 18/7 | Iris gửi tín hiệu qua cửa sổ kho giấy; hóa ra cô tự trốn người ép giao hàng | Nạn nhân có chủ đích, bí mật không phải bắt cóc siêu nhiên đơn giản |
 | 015 | 19/7 | Evan định dùng kiến thức nguyên tác để phán người bán bùa; Klein bác bỏ vì chứng cứ hiện trường khác | Cặp đôi lần đầu bất đồng nghề nghiệp |
-| 016 | 20/7 | Rusk giúp Evan tiếp cận nguồn nguyên liệu Danh sách 9 dưới giao kèo có giá; kiểm nguồn với Neil | Đường thăng cấp phải hợp lệ; công thức nhớ từ sách cần đối chiếu |
-| 017 | 21/7 | Evan thực hiện pha và uống ma dược Kẻ Dòm Ngó Bí Ẩn khi có hỗ trợ giám sát an toàn | Lên Seq9 có nguy cơ thật, không giải được vụ án ngay |
-| 018 | 22/7 | Tri thức cũ khiến Evan bị dội âm; dấu xám giảm rất ít, để lại chứng đau đầu và mất ngủ | Chi phí, nguồn gốc dấu xám chưa giải |
-| 019 | 23/7 | Evan dùng năng lực mới truy vết bùa; Klein giải câu đố tuyến đường bằng đối chứng hiện trường | Hai bộ kỹ năng bổ trợ, không ai cướp vai trò |
+| 016 | 20/7 | Sau vụ ga, Evan được Dunn gọi làm chứng và cân nhắc cộng tác viên dân sự; Neil phản đối cháu tiếp xúc nguy hiểm và không tự ý cấp thuốc | Có lý do giám sát và cho Evan–Klein phối hợp trong phạm vi cho phép; không có ma dược miễn phí |
+| 017 | 21/7 | Xung đột Evan–Neil về việc trở thành Phi Phàm; Evan yêu cầu tìm hiểu quy trình và chấp nhận nguy cơ, Dunn đặt giới hạn tiếp cận phòng mật | **Chưa uống ma dược**; thiết kế cơ chế uống ngoài dự kiến hoặc tuyển chọn hợp lệ trước khi khóa ngày |
+| 018 | 22/7 | Một vụ việc trong hồ sơ sân ga dẫn tới đánh giá nguy cơ của Evan, Neil dạy anh cách nhận biết rủi ro nhưng không tiết lộ bí mật nội bộ | Tri thức và sự tò mò có cái giá ngay cả khi còn là người thường |
+| 019 | 23/7 | Evan và Klein lần lượt giải một phần vụ bùa bằng bằng chứng/người chứng; nếu Evan vẫn chưa Seq9, mọi nhận xét huyền học phải từ suy luận hoặc chuyên gia hợp pháp | Hai bộ kỹ năng bổ trợ; **không dùng năng lực Seq9 trước khi được uống** |
 | 020 | 24/7 | Một kẻ buôn tên Vale đánh lạc hướng bằng lời khai giả; Evan suy đoán sai và làm Theo bị nghi | Sai lầm vì tin câu chuyện đã đọc hơn người sống |
 | 021 | 25/7 | Mara buộc Evan đối diện hậu quả; Theo chọn tự trình bày với người gác ga | Hàn gắn qua hành động, không do nữ phụ tha thứ ngay |
 | 022 | 26/7 | Neil giúp phân biệt bùa và cơ cấu âm; nhận ra lời nguyền lấy dần ký ức tên người từ kẻ sử dụng | Cái giá vật phẩm mở đường phá kế của Vale |
@@ -45,7 +47,7 @@ Trần Duy tỉnh dậy trong Evan sau tai nạn xe ngựa ngoài Tingen. Old Ne
 
 ## Kiểm tiến trình
 
-- **Evan Seq:** thường 001–016; Seq9 từ 017; không dùng linh thị hoặc pháp thuật trước khi uống và ổn định. Không lên Seq8 trong Arc này. Công thức và nguyên liệu chỉ qua nguồn/kiểm chứng/trả giá đủ rõ.
+- **Evan Seq:** vẫn là người thường đến khi **có cảnh uống thuốc hợp lệ về nhân quả**. Mốc 017 là dự kiến cũ đã bỏ; 016–019 hiện không dùng năng lực Phi Phàm. Nếu chọn tình huống uống ngoài dự kiến trong phần sau Arc1, phải kiểm lại 020–030 và nguồn/giám sát rõ. Không lên Seq8 trong Arc1.
 - **Tình cảm:** Neil chăm vì thân thuộc từ đời Evan; Duy chưa có tình thân, từ cảm kích → thân thiết → dám bảo vệ. Klein từ khách bói → bạn điều tra giới hạn; không khám phá Nguyên Bảo/kén thứ tư ngay.
 - **Tiền:** Evan có hành lý và tiền tích góp không lớn; Neil lo chỗ ngủ ngắn hạn; Rusk thuê việc thật trả phí. Chi phí ma dược khó, nếu vay phải ghi rõ bằng giao kèo và hậu quả.
 - **Vết thương:** chấn thương xe ngựa giảm dần theo khám y sĩ, không hồi phục trong 1 cảnh; Seq9 không xóa chấn thương bằng phép.
