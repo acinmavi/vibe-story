@@ -66,7 +66,7 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 丽娜 | Lina | Người liên lạc cấp trên, thuộc Linh Tri Hội |
 | 灵知会 | Linh Tri Hội | Tổ chức liên quan con đường Ma Nữ |
 | 命运隐士聚会 | Buổi tụ họp Ẩn Sĩ Vận Mệnh | Tín vật là huy hiệu |
-| 西维拉斯场 | Trường bắn Sivellas | Nhắc đến trong bài học bắn súng |
+| 西维拉斯场 | Sivellas Yard (sở cảnh sát) | Nhắc đến trong bài học bắn súng |
 | 托德 | Todd | Người hầu già trông coi trang viên |
 | 格莱林特子爵 | Tử tước Glaint | Quý tộc trẻ tại Backlund |
 | 奥黛丽 | Audrey | Thiên kim Bá tước Hall |
@@ -88,7 +88,7 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 戈尔 | Gore | |
 | 雷阿 | Rea | |
 | 里安 | Lean | Người thợ ở khu Đông |
-| 西维拉斯场 | Trường bắn Sivellas | Tên trường bắn trong lời Xio; kiểm tra nếu các chương sau dùng địa danh dạng khác |
+| 西维拉斯场 | Sivellas Yard (sở cảnh sát) | Tên cơ quan/cảnh sát Loen, không phải trường bắn; giữ thống nhất với các chương mới |
 
 ## Bổ sung sau chương 17–20
 
@@ -114,3 +114,35 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 真实造物主 | Tạo Vật Chủ Chân Thật | |
 
 **Biên tập:** Chú ý phân biệt Jane (bạn học cũ), Xio (Trọng Tài), Fors (Học Đồ) trong các đoạn hội thoại. Lời chú nghi thức cần được kiểm tra kỹ theo nguyên văn, không tự bổ sung bước thực hiện.
+
+## Bổ sung sau chương 21–30
+
+| Nguyên văn | Dùng thống nhất | Ghi chú |
+|---|---|---|
+| 寒冰之爪 | Móng Vuốt Băng Giá | Vũ khí Phi Phàm |
+| 手杖剑 | Kiếm Gậy | Biến hình khi đọc “Tuốt kiếm” bằng tiếng Hermes cổ |
+| 毒蔷薇 | Hoa Hồng Độc | Người mua vũ khí, bùa chú |
+| 工匠代理人 | Người Đại Diện Thợ Thủ Công | Bán vũ khí Phi Phàm |
+| 混乱之语 | Lời Nói Hỗn Loạn | Bùa đồng thau, kích hoạt bằng “Lam Tinh” |
+| 法辛 | Fasin | Cảnh sát trưởng, cha của Etris |
+| 艾翠丝 | Etris | Viên cảnh sát khu Cherwood |
+| 格拉维街 | Phố Gravi | |
+| 海蒂 | Heidi | Họ gia đình Beck và Rachel |
+| 埃姆林·怀特 | Emlyn White | Huyết tộc |
+| 帕特里克·布雷恩 | Patrick Bryan | Liên quan Linh Giáo Đoàn |
+| 收尸人 | Người Thu Xác | Danh Sách 9 con đường Tử Thần |
+| 扮演法 | Phương pháp nhập vai | |
+| 源堡 | Nguyên Bảo | Sefirah Castle |
+| 天尊 | Thiên Tôn | |
+| 风眷者 | Phong Quyến Giả | Thuộc con đường Bão Táp |
+| 史蒂夫 | Steve | Oán Hồn, phe Phóng Túng |
+| 泰尔 | Tyre | Người Sói, phe Phóng Túng |
+| 场景回溯 | Truy Hồi Hiện Trường | Năng lực được nhắc từ Danh Sách 7 |
+| 深红月冕 | Nguyệt Miện Đỏ Thẫm | Vật phẩm liên quan trăng tròn |
+| 西维拉斯场 | Sivellas Yard | Cơ quan cảnh sát, không phải trường bắn |
+| 2—081 | 2-081 | Vật phong ấn dạng nhẫn của Isengard |
+| 苏珊 | Susan | Bạn học cũ của Abner |
+| 罗曼 | Roman | Bạn học cũ của Abner |
+| 卡斯特 | Caster | Bạn học cũ của Abner |
+
+**QA tiếp theo:** rà lại cách gọi `西维拉斯场` trong các chương 1–20; vài chương cũ có thể đã dịch nhầm thành “Trường bắn”. Ngoài ra cần đối chiếu các phiên âm tên phố, nhân vật trước khi đóng EPUB.
