@@ -72,3 +72,20 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 奥黛丽 | Audrey | Thiên kim Bá tước Hall |
 
 *Chú ý QA:* `女巫` trong lời khai của Turner là tên Danh Sách 7 “Phù Thủy”, không phải tên con đường “Ma Nữ” nói chung. Cần soát lại cách gọi trong chương 0013 khi thống nhất thuật ngữ toàn sách.
+
+## Bổ sung sau chương 16
+
+| Chữ Hán / tên gốc | Dạng thống nhất | Ghi chú |
+|---|---|---|
+| 仪式魔法 | Ma pháp nghi thức | |
+| 蓝星 | Lam Tinh | Thiên thể tương ứng Thần Tri Thức và Trí Tuệ trong thần bí học |
+| 星灵体 | Tinh Linh Thể | |
+| 全知之眼 | Con Mắt Toàn Tri | Thánh Huy trên cuốn sách mở |
+| 永恒烈阳 | Mặt Trời Vĩnh Hằng | Chính Thần |
+| 莎伦 | Sharron | Người phụ nữ tóc vàng nhạt, váy đen trong trang viên |
+| 马里奇 | Maric | Người đồng hành của Sharron |
+| 杰森 | Jason | Kẻ bị truy đuổi, đang ẩn náu dưỡng thương |
+| 戈尔 | Gore | |
+| 雷阿 | Rea | |
+| 里安 | Lean | Người thợ ở khu Đông |
+| 西维拉斯场 | Trường bắn Sivellas | Tên trường bắn trong lời Xio; kiểm tra nếu các chương sau dùng địa danh dạng khác |
