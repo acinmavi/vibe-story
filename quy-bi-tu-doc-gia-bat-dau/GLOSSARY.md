@@ -89,3 +89,28 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 雷阿 | Rea | |
 | 里安 | Lean | Người thợ ở khu Đông |
 | 西维拉斯场 | Trường bắn Sivellas | Tên trường bắn trong lời Xio; kiểm tra nếu các chương sau dùng địa danh dạng khác |
+
+## Bổ sung sau chương 17–20
+
+| Chữ Hán / tên gốc | Dạng thống nhất | Ghi chú |
+|---|---|---|
+| 佛尔思·沃尔 | Fors Wall | Bạn cùng nhà và bạn thân của Xio |
+| 简 | Jane | Bạn học cũ của Abner, con ông Grant |
+| 查理·格兰特 | Charlie Grant | Chủ cửa hàng may mặc, cha của Jane |
+| 布雷恩先生 | Ông Bryan | Nhà kinh doanh xưởng may; không tự đồng nhất với người thân Abner |
+| 考普斯蒂 | Copsti | Thầy tại trường, có hội nhóm riêng |
+| 格莱林特子爵 | Tử tước Glaint | |
+| 学徒 | Học Đồ | Con đường Phi Phàm của Fors |
+| 亚伯拉罕家族 | Gia tộc Abraham | Gia tộc Thiên Sứ thời Kỷ Đệ Tứ |
+| 血皇帝图铎 | Huyết Hoàng Đế Tudor | |
+| 门先生 | Ngài Cửa | Tồn tại cấp cao liên quan lời nguyền trăng tròn |
+| 愚者 | Kẻ Khờ | |
+| 暴风山庄 | Trang viên Bão Táp | Tiểu thuyết của Fors |
+| 玫瑰学派节制派 | Phe Tiết Chế thuộc Học phái Hoa Hồng | |
+| 怨魂 | Oán Hồn | Danh Sách 5 con đường Dị Chủng |
+| 异种途径 | Con đường Dị Chủng | |
+| 黄铜符咒 | Bùa chú bằng đồng thau | Vật phẩm kích hoạt bằng từ “Lam Tinh” |
+| 曼哈斯猴 | Khỉ Manhas | Vật liệu lát não dùng chế tác bùa |
+| 真实造物主 | Tạo Vật Chủ Chân Thật | |
+
+**Biên tập:** Chú ý phân biệt Jane (bạn học cũ), Xio (Trọng Tài), Fors (Học Đồ) trong các đoạn hội thoại. Lời chú nghi thức cần được kiểm tra kỹ theo nguyên văn, không tự bổ sung bước thực hiện.
