@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-06 — sau lượt dịch chương 11–16
+Cập nhật: 2026-11-06 — sau lượt dịch chương 11–20
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **16 chương**, `chapters/0001.md` đến `chapters/0016.md`.
-- Chương cần làm tiếp: **0017**.
+- Đã dịch và biên tập, có file kiểm tra được: **20 chương**, `chapters/0001.md` đến `chapters/0020.md`.
+- Chương cần làm tiếp: **0021**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -18,8 +18,8 @@ Cập nhật: 2026-11-06 — sau lượt dịch chương 11–16
 - [x] Dịch và commit chương 0007–0010, đối chiếu điểm đầu/cuối và các tình tiết chính với nguồn trong `chapters.jsonl`
 - [x] Tạo lịch tự động dịch tiếp mỗi giờ (khả năng truy cập nguồn trong phiên tự động cần kiểm chứng)
 - [ ] Bổ sung nội dung nguồn bị thiếu/nhầm ở các ngoại truyện
-- [x] Dịch và commit chương 0011–0016 (đối chiếu theo từng đoạn nguồn)
-- [ ] Dịch từ chương 0017 trở đi, tuần tự, có đối chiếu nguồn
+- [x] Dịch và commit chương 0011–0020 (đối chiếu theo từng đoạn nguồn)
+- [ ] Dịch từ chương 0021 trở đi, tuần tự, có đối chiếu nguồn
 - [ ] QA tổng thể: đúng số chương, thứ tự, tên, thuật ngữ, không thiếu đoạn
 - [ ] Đóng gói **duy nhất một EPUB hoàn chỉnh** và kiểm tra bằng EPUBCheck
 
@@ -54,9 +54,9 @@ Mỗi lần dịch xong một chương, commit bản `chapters/NNNN.md` và cậ
 
 **Chương tiếp theo trong lượt trước:** `0011`. Nguồn khôi phục thành công từ ZIP người dùng: `341776.zip` và `quy_bi_doc_gia_du_an_dich_epub.zip` (bên trong có `qb_dich/chapters.jsonl`). Mỗi bản dịch trên được đối chiếu theo nội dung chương tương ứng, chưa phải kiểm định toàn bộ sách. Không đưa các ZIP nguồn lên repository công khai.
 
-## Lượt dịch tiếp theo — 2026-11-06 (chương 11–16)
+## Lượt dịch tiếp theo — 2026-11-06 (chương 11–20)
 
-Đã đọc ba file hướng dẫn, đối chiếu danh sách chương trên GitHub và dữ liệu gốc từ `qb_dich/chapters.jsonl` bên trong ZIP do người dùng cung cấp. Xác nhận 16/16 file chương từ 0001 đến 0016 đều tồn tại trên nhánh, không có lỗ hổng số thứ tự.
+Đã đọc ba file hướng dẫn, đối chiếu danh sách chương trên GitHub và dữ liệu gốc từ `qb_dich/chapters.jsonl` bên trong ZIP do người dùng cung cấp. Xác nhận 20/20 file chương từ 0001 đến 0020 đều tồn tại trên nhánh, không có lỗ hổng số thứ tự.
 
 | Chương | Tiêu đề tiếng Việt | Commit tạo file |
 |---|---|---|
@@ -66,7 +66,11 @@ Mỗi lần dịch xong một chương, commit bản `chapters/NNNN.md` và cậ
 | 0014 | Trang viên bỏ hoang | `ce4e4397` |
 | 0015 | Huấn luyện | `ef3ba4a4` |
 | 0016 | Ma pháp nghi thức | `db98360d` |
+| 0017 | Fors | `6d1e1c91` |
+| 0018 | Ba câu hỏi | `d076bc0d` |
+| 0019 | Lời nhờ vả của Jane | `fc689689` |
+| 0020 | Bùa chú bằng đồng thau | `530a0bc8` |
 
-**Chương cần dịch tiếp:** `0017` (`第17章佛尔思（第二更）`, Fors). Đã đối chiếu diễn biến và điểm kết thúc của từng chương với bản gốc; chưa thực hiện một lượt kiểm định độc lập toàn bộ nội dung, vì vậy chưa đánh dấu QA tổng thể.
+**Chương cần dịch tiếp:** `0021` (`第21章跟踪（第二更）`, Theo dõi). Đã đối chiếu diễn biến và điểm kết thúc của từng chương với bản gốc; chưa thực hiện một lượt kiểm định độc lập toàn bộ nội dung, vì vậy chưa đánh dấu QA tổng thể.
 
 **Nguồn bị thiếu ở phần ngoại truyện** vẫn giữ nguyên tình trạng ghi trong `SOURCE_GAPS.md`.
