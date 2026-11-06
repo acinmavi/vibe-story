@@ -1,9 +1,9 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-06 — sau lượt dịch chương 3–5
+Cập nhật: 2026-11-06 — sau lượt dịch chương 3–6
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **6 chương**, `chapters/0001.md` đến `chapters/0007.md`.
+- Đã dịch và biên tập, có file kiểm tra được: **6 chương**, `chapters/0001.md` đến `chapters/0006.md`.
 - Chương cần làm tiếp: **0007**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
@@ -30,7 +30,7 @@ Mỗi lần dịch xong một chương, commit bản `chapters/NNNN.md` và cậ
 > Tiếp tục dịch Quỷ Bí: Từ Đọc Giả Bắt Đầu trong acinmavi/vibe-story, nhánh translation/quy-bi-doc-gia-20261106. Đọc PROGRESS.md, dịch các chương kế tiếp từ bản nguồn tôi đã cung cấp, commit từng chương và cập nhật tiến độ. Chỉ xuất EPUB khi hoàn thành toàn bộ.
 
 
-## Cập nhật chương 3–5
+## Cập nhật chương 3–6
 
 - 0003 — Những điểm đáng ngờ — commit `fb539505`.
 - 0004 — Làm quen — commit `2cc035b2`.
