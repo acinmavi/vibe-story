@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-06 — sau lượt dịch chương 11–20
+Cập nhật: 2026-11-06 — sau lượt dịch chương 21–30
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **20 chương**, `chapters/0001.md` đến `chapters/0020.md`.
-- Chương cần làm tiếp: **0021**.
+- Đã dịch và biên tập, có file kiểm tra được: **30 chương**, `chapters/0001.md` đến `chapters/0030.md`.
+- Chương cần làm tiếp: **0031**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -19,7 +19,8 @@ Cập nhật: 2026-11-06 — sau lượt dịch chương 11–20
 - [x] Tạo lịch tự động dịch tiếp mỗi giờ (khả năng truy cập nguồn trong phiên tự động cần kiểm chứng)
 - [ ] Bổ sung nội dung nguồn bị thiếu/nhầm ở các ngoại truyện
 - [x] Dịch và commit chương 0011–0020 (đối chiếu theo từng đoạn nguồn)
-- [ ] Dịch từ chương 0021 trở đi, tuần tự, có đối chiếu nguồn
+- [x] Dịch và commit chương 0021–0030, đọc từng chương từ bản nguồn người dùng cung cấp
+- [ ] Dịch từ chương 0031 trở đi, tuần tự, có đối chiếu nguồn
 - [ ] QA tổng thể: đúng số chương, thứ tự, tên, thuật ngữ, không thiếu đoạn
 - [ ] Đóng gói **duy nhất một EPUB hoàn chỉnh** và kiểm tra bằng EPUBCheck
 
@@ -74,3 +75,24 @@ Mỗi lần dịch xong một chương, commit bản `chapters/NNNN.md` và cậ
 **Chương cần dịch tiếp:** `0021` (`第21章跟踪（第二更）`, Theo dõi). Đã đối chiếu diễn biến và điểm kết thúc của từng chương với bản gốc; chưa thực hiện một lượt kiểm định độc lập toàn bộ nội dung, vì vậy chưa đánh dấu QA tổng thể.
 
 **Nguồn bị thiếu ở phần ngoại truyện** vẫn giữ nguyên tình trạng ghi trong `SOURCE_GAPS.md`.
+
+## Lượt dịch tiếp theo — 2026-11-06 (chương 21–30)
+
+Đã đọc `PROGRESS.md`, `GLOSSARY.md`, `SOURCE_GAPS.md` và các chương gần nhất. Xác định chương đầu tiên còn thiếu bằng cách đối chiếu **danh sách file thực tế** trên GitHub. Trích 10 chương gốc đúng thứ tự từ `qb_dich/chapters.jsonl` trong ZIP do người dùng cung cấp và dịch trọn từng chương sang tiếng Việt. Mỗi chương đã commit riêng:
+
+| Chương | Tựa Việt | Commit tạo chương |
+|---|---|---|
+| 0021 | Theo dõi | `98be97bb` |
+| 0022 | Vụ án mất tích | `a3bb43b3` |
+| 0023 | Những con búp bê | `31265265` |
+| 0024 | Kết quả điều tra của Xio | `b2cda796` |
+| 0025 | Giấc mơ phiêu lưu | `a2e4c70d` |
+| 0026 | Vây bắt | `3354aa21` |
+| 0027 | Danh Sách 8 | `f06def1a` |
+| 0028 | Khúc dạo đầu | `ffa3d2a4` |
+| 0029 | Thảm khốc | `b42469ee` |
+| 0030 | Truy hồi | `1b4ac930` |
+
+QA phạm vi lượt này: xác minh **30/30 file** từ 0001 đến 0030 tồn tại liên tục, chương 0031 chưa có. Đã đọc đầu/cuối 10 chương gốc và dịch đủ các tình tiết, đối thoại theo thứ tự; xác nhận file 0021–0030 mỗi file có tiêu đề, nội dung tiếng Việt 9.800–12.300 ký tự, không lẫn đoạn chữ Hán. Đây là kiểm tra cấu trúc và kiểm tra biên tập trong quá trình dịch, **chưa phải QA độc lập đối chiếu từng câu**. Đã sửa phiên dịch `Sivellas Yard` ở chương 0022 và bổ sung thuật ngữ vào `GLOSSARY.md`.
+
+**Tiếp tục từ chương 0031**. Hai mục HTML ngoại truyện còn thiếu/trùng nội dung vẫn giữ trạng thái `missing` tại `SOURCE_GAPS.md`; không suy diễn và không tạo EPUB cuối.
