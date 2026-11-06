@@ -67,6 +67,6 @@ Mỗi lần dịch xong một chương, commit bản `chapters/NNNN.md` và cậ
 | 0015 | Huấn luyện | `ef3ba4a4` |
 | 0016 | Ma pháp nghi thức | `db98360d` |
 
-**Chương cần dịch tiếp:** `0017` (`第17章…`, tên chương cần đọc trực tiếp từ nguồn ở lượt sau). Đã đối chiếu diễn biến và điểm kết thúc của từng chương với bản gốc; chưa thực hiện một lượt kiểm định độc lập toàn bộ nội dung, vì vậy chưa đánh dấu QA tổng thể.
+**Chương cần dịch tiếp:** `0017` (`第17章佛尔思（第二更）`, Fors). Đã đối chiếu diễn biến và điểm kết thúc của từng chương với bản gốc; chưa thực hiện một lượt kiểm định độc lập toàn bộ nội dung, vì vậy chưa đánh dấu QA tổng thể.
 
 **Nguồn bị thiếu ở phần ngoại truyện** vẫn giữ nguyên tình trạng ghi trong `SOURCE_GAPS.md`.
