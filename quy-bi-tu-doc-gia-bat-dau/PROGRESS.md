@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-06
+Cập nhật: 2026-11-06 — sau lượt dịch chương 3–5
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **2 chương**, `chapters/0001.md` và `chapters/0002.md`.
-- Chương cần làm tiếp: **0003**.
+- Đã dịch và biên tập, có file kiểm tra được: **5 chương**, `chapters/0001.md` đến `chapters/0005.md`.
+- Chương cần làm tiếp: **0006**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -14,8 +14,10 @@ Cập nhật: 2026-11-06
 - [x] Tạo nhánh làm việc riêng và folder dự án
 - [x] Lưu bản dịch biên tập chương 0001
 - [x] Lưu bản dịch biên tập chương 0002
+- [x] Dịch và commit chương 0003–0005
+- [x] Tạo lịch tự động dịch tiếp mỗi giờ (khả năng truy cập nguồn trong phiên tự động cần kiểm chứng)
 - [ ] Bổ sung nội dung nguồn bị thiếu/nhầm ở các ngoại truyện
-- [ ] Dịch từ chương 0003 trở đi, tuần tự, có đối chiếu nguồn
+- [ ] Dịch từ chương 0006 trở đi, tuần tự, có đối chiếu nguồn
 - [ ] QA tổng thể: đúng số chương, thứ tự, tên, thuật ngữ, không thiếu đoạn
 - [ ] Đóng gói **duy nhất một EPUB hoàn chỉnh** và kiểm tra bằng EPUBCheck
 
@@ -27,3 +29,11 @@ Mỗi lần dịch xong một chương, commit bản `chapters/NNNN.md` và cậ
 
 > Tiếp tục dịch Quỷ Bí: Từ Đọc Giả Bắt Đầu trong acinmavi/vibe-story, nhánh translation/quy-bi-doc-gia-20261106. Đọc PROGRESS.md, dịch các chương kế tiếp từ bản nguồn tôi đã cung cấp, commit từng chương và cập nhật tiến độ. Chỉ xuất EPUB khi hoàn thành toàn bộ.
 
+
+## Cập nhật chương 3–5
+
+- 0003 — Những điểm đáng ngờ — commit `fb539505`.
+- 0004 — Làm quen — commit `2cc035b2`.
+- 0005 — Xio và Jane — commit `af32f588`.
+- Đã tạo lịch lặp mỗi giờ; lịch sẽ thử tải file nguồn người dùng và commit chương mới, nhưng chưa được xác thực thực tế ở phiên kế tiếp. Nếu mất quyền đọc nguồn, phải ghi blocker và không giả định đã dịch.
+- Repo công khai: cần xác minh quyền phân phối bản dịch trước khi công bố rộng rãi.
