@@ -23,3 +23,24 @@
 ## Nguyên tắc biên tập
 
 Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câu cụt, không tự thêm tình tiết. Thống nhất cách gọi/đại từ dựa vào ngữ cảnh và cấp bậc nhân vật. Khi chưa chắc cách phiên tên của nhân vật/địa danh mới, ghi lại tại đây sau khi đối chiếu thay vì phỏng đoán.
+
+## Bổ sung sau chương 7–10
+
+| Chữ Hán / tên gốc | Dạng thống nhất | Ghi chú |
+|---|---|---|
+| 艾布纳 | Abner | Tên gọi ngắn của Abner Bryan |
+| 休·迪尔查 | Xio Dilcha | Thường gọi là Xio |
+| 卡斯帕斯 | Kaspars | Người quen của cha Abner, quán rượu Dũng Sĩ |
+| 泽瑞尔 | Zreal | Thám tử quen Kaspars |
+| 智慧之眼 | Mắt Trí Tuệ | Người chủ trì tụ họp Phi Phàm |
+| 伽罗尔鱼 | Cá Garol | Nguyên liệu chính ma dược Người Đọc |
+| 曼哈斯猴 | Khỉ Manhas | Nguyên liệu chính ma dược Người Đọc |
+| 古弗萨克语 | Tiếng Feysac cổ | |
+| 赫密斯语 | Tiếng Hermes | |
+| 灵性之墙 | Bức Tường Linh Tính | Nghi thức phòng hộ |
+| 守知者 | Kẻ Gìn Giữ Tri Thức | Danh Sách 7 Người Đọc |
+| 博学者 | Học Giả Uyên Bác | Danh Sách sau Kẻ Gìn Giữ Tri Thức |
+| 恶魔 / 深渊途径 | Ác Ma / con đường Vực Thẳm | |
+| 教唆者 | Kẻ Xúi Giục | Con đường Ma Nữ |
+| 密修会 | Mật Tu Hội | |
+| 知识与智慧之神教会 | Giáo hội Tri Thức và Trí Tuệ | |
