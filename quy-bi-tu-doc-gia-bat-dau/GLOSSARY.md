@@ -44,3 +44,31 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 教唆者 | Kẻ Xúi Giục | Con đường Ma Nữ |
 | 密修会 | Mật Tu Hội | |
 | 知识与智慧之神教会 | Giáo hội Tri Thức và Trí Tuệ | |
+
+## Bổ sung sau chương 11–15
+
+| Chữ Hán / tên gốc | Dạng thống nhất | Ghi chú |
+|---|---|---|
+| 艾辛格·斯坦顿 | Isengard Stanton | Thám tử, biệt danh Mắt Trí Tuệ, người thầy của Abner |
+| 伦堡 | Lenburg | Vùng có Giáo hội Tri Thức |
+| 希尔斯顿区 | Khu Hillston | Địa chỉ nhà thám tử Isengard |
+| 格纳尔街 | Phố Gnar | Số nhà 16 của Isengard |
+| 冷血者 | Kẻ Máu Lạnh | Danh Sách thuộc con đường Vực Thẳm |
+| 太阳胸针 | Trâm Cài Mặt Trời | Vật phẩm trừ tà, thanh tẩy |
+| 特伦索斯特-图铎联合帝国 | Đế quốc Liên hiệp Trunsoest–Tudor | Lịch sử Kỷ Đệ Tứ |
+| 黑皇帝 | Hắc Hoàng Đế | Danh Sách 0 / danh hiệu |
+| 乔伍德区 | Khu Cherwood | |
+| 法官 | Quan Tòa | Danh Sách 6 (ngữ cảnh năng lực) |
+| 梦魇 | Ác Mộng | Danh Sách 7 (ngữ cảnh năng lực) |
+| 药师 | Dược Sư | Danh Sách 9 (ngữ cảnh năng lực) |
+| 特纳 | Turner | Tên thật của Hick, Kẻ Xúi Giục |
+| 希克 | Hick | Tên giả của Turner |
+| 丽娜 | Lina | Người liên lạc cấp trên, thuộc Linh Tri Hội |
+| 灵知会 | Linh Tri Hội | Tổ chức liên quan con đường Ma Nữ |
+| 命运隐士聚会 | Buổi tụ họp Ẩn Sĩ Vận Mệnh | Tín vật là huy hiệu |
+| 西维拉斯场 | Trường bắn Sivellas | Nhắc đến trong bài học bắn súng |
+| 托德 | Todd | Người hầu già trông coi trang viên |
+| 格莱林特子爵 | Tử tước Glaint | Quý tộc trẻ tại Backlund |
+| 奥黛丽 | Audrey | Thiên kim Bá tước Hall |
+
+*Chú ý QA:* `女巫` trong lời khai của Turner là tên Danh Sách 7 “Phù Thủy”, không phải tên con đường “Ma Nữ” nói chung. Cần soát lại cách gọi trong chương 0013 khi thống nhất thuật ngữ toàn sách.
