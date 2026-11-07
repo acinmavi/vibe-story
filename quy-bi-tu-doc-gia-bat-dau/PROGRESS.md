@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-06 — sau lượt dịch chương 21–30
+Cập nhật: 2026-11-06 — kiểm tra và đồng bộ sau chương 33
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **30 chương**, `chapters/0001.md` đến `chapters/0030.md`.
-- Chương cần làm tiếp: **0031**.
+- Đã dịch và biên tập, có file kiểm tra được: **33 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0033.md`.
+- Chương cần làm tiếp: **0034**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -96,3 +96,12 @@ Mỗi lần dịch xong một chương, commit bản `chapters/NNNN.md` và cậ
 QA phạm vi lượt này: xác minh **30/30 file** từ 0001 đến 0030 tồn tại liên tục, chương 0031 chưa có. Đã đọc đầu/cuối 10 chương gốc và dịch đủ các tình tiết, đối thoại theo thứ tự; xác nhận file 0021–0030 mỗi file có tiêu đề, nội dung tiếng Việt 9.800–12.300 ký tự, không lẫn đoạn chữ Hán. Đây là kiểm tra cấu trúc và kiểm tra biên tập trong quá trình dịch, **chưa phải QA độc lập đối chiếu từng câu**. Đã sửa phiên dịch `Sivellas Yard` ở chương 0022 và bổ sung thuật ngữ vào `GLOSSARY.md`.
 
 **Tiếp tục từ chương 0031**. Hai mục HTML ngoại truyện còn thiếu/trùng nội dung vẫn giữ trạng thái `missing` tại `SOURCE_GAPS.md`; không suy diễn và không tạo EPUB cuối.
+
+## Đồng bộ tiến độ ngày 2026-11-06 — chương 31–33
+
+- Đối chiếu danh sách thực tế trên nhánh cho thấy chương `0031.md` và `0032.md` đã tồn tại, dù phần tóm tắt đầu file chưa cập nhật.
+- `0031.md` — Lựa chọn của Jane; `0032.md` — Ly biệt. Hai file có trên GitHub trước lượt commit chương 33, cần QA độc lập toàn văn sau này.
+- `0033.md` — Ủy thác — commit `3e39a61e4e9576a0ed5e835a40128698f04727d7`. Dịch từ mục `第33章委托` trong bộ dữ liệu ZIP người dùng cung cấp; kiểm tra phần đầu và kết thúc chương.
+- Danh sách chương hiện liên tiếp 0001–0033; chương chưa có file nhỏ nhất là **0034**. Các nhắc tới chương 0031 trong nhật ký cũ chỉ là trạng thái lịch sử.
+- Ngoại truyện thiếu/trùng vẫn ở trạng thái `missing` theo `SOURCE_GAPS.md`; chưa tạo EPUB cuối.
+- **Không tự tắt, pause, disable hoặc hủy lịch tự động**, kể cả khi hoàn tất; chỉ người dùng quyết định tắt. Khi đã hoàn tất, các lượt sau chỉ kiểm tra trạng thái.
