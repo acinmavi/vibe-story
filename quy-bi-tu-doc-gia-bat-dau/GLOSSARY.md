@@ -315,3 +315,39 @@ Cần kiểm tra lại phiên âm tên riêng khi biên tập cuối, không coi
 | 地铁 | Tàu điện ngầm | Loại hình giao thông tại Backlund |
 
 **Lưu ý QA:** Kiểm tra phiên âm tên riêng và cách viết `Utravsky`, `Leonardo`, `Lanerwus` khi biên tập EPUB; không tự đồng nhất Danh Sách `Y Sĩ` với `Dược Sư`.
+
+
+## Thuật ngữ bổ sung chương 89–98
+
+| Gốc | Dịch thống nhất | Ghi chú |
+|---|---|---|
+| 荒芜者 | Kẻ Hoang Vu | Nhân sự vũ trang thuộc Giáo hội Mẫu Thần Đại Địa |
+| 塔玛拉家族 | Gia tộc Tamara | Gia tộc Thiên Sứ từ Kỷ Đệ Tứ |
+| 审讯者 | Người Thẩm Vấn | Danh Sách 7 thuộc con đường Trọng Tài |
+| 白玛瑙号 | Tàu Bạch Mã Não | Con tàu Xio từng gặp nhà Farnar |
+| 文森劳务与服务公司 | Công ty Lao động và Dịch vụ Vincent | Công ty mua lại cửa hàng Grant |
+| 金色面具 | Mặt Nạ Vàng | Người của Cục Tình báo Quân sự số Chín |
+| 马西 | Masi | Người đến thuê điều tra Walter |
+| 瓦尔特 | Walter | Trợ lý quản gia nhà Tử tước Conrad |
+| 康纳德子爵 | Tử tước Conrad | Chủ thuê Walter |
+| 塔利姆·杜蒙特 | Talim Dumont | Huấn luyện viên cưỡi ngựa, bạn hoàng tử |
+| 埃德萨克·奥古斯都 | Edessak Augustus | Tam hoàng tử Loen |
+| 红蔷薇庄园 | Trang viên Hoa Hồng Đỏ | Trang viên hoàng tử |
+| 利兰德·洛雷纳 | Liland Lorena | Thân phận trước đây của Lina |
+| 洛雷纳伯爵 | Bá tước Lorena | Cha của Liland/Lina |
+| 刺客 | Sát Thủ | Danh Sách 9 con đường Ma Nữ |
+| 女巫 | Phù Thủy | Danh Sách 7 biến người dùng thành phụ nữ; không đồng nhất với toàn con đường Ma Nữ |
+| 告白 | Lời Tỏ Tình | Khẩu súng ổ quay Phi Phàm |
+| 野蛮人 | Kẻ Man Rợ | Danh Sách được nhắc trong trao đổi vật phẩm |
+| 机械与烈火 | Máy Móc và Lửa | Quán rượu giáp khu Đông và khu Nhà Máy |
+| 威廉姆斯 | Williams | Người trung gian giới thiệu vụ việc cho Xio |
+| 凯利 | Kelly | Gia đình thuê điều tra người con mất tích |
+| 黑骷髅党 | Đảng Đầu Lâu Đen | Băng đảng tại khu Đông |
+| 永生会 | Hội Vĩnh Sinh | Nhánh liên quan Linh Giáo Đoàn |
+| 东拜朗复国会 | Hội Phục Quốc Đông Balam | Tổ chức liên quan Đảng Đầu Lâu Đen |
+| 诈骗师 | Kẻ Lừa Đảo | Năng lực ảo thuật của con đường tương ứng |
+| 挑衅 | Khiêu Khích | Hiệu ứng khiến mục tiêu xung đột |
+| 茱蒂 | Judy | Thành viên đội đến Backlund |
+| 卡伦 | Karen | Đồng đội của Judy |
+
+**QA cuối:** rà soát cách phiên âm địa danh, tên người mới trong phần tiếp theo trước khi đóng EPUB. Không tự thêm diễn biến hay sửa các nguồn ngoại truyện đang thiếu.
