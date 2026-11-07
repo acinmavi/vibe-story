@@ -3,8 +3,8 @@
 Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 44–53
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **64 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0064.md`.
-- Chương cần làm tiếp: **0065**.
+- Đã dịch và biên tập, có file kiểm tra được: **65 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0065.md`.
+- Chương cần làm tiếp: **0066**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -176,3 +176,5 @@ Xác minh từ GitHub sau khi ghi: 53 file chương liên tiếp từ 0001–005
 - 0063 — Một góc bức màn — commit `332a3a4e5b6bcd44e1192a2f8cc54ad31967a679` (58 đoạn nguồn).
 
 - 0064 — Đến cảng Enmat — commit `6607c4672b1e91ebc3a438ab7ce8923c2bfc8530` (70 đoạn nguồn).
+
+- 0065 — Buổi họp Tarot đầu tiên — commit `4cae27be7f578205c91e9e43877793acc8b823d7` (66 đoạn nguồn).
