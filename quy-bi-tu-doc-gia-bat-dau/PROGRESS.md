@@ -1,6 +1,6 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 44–53
+Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 59–68
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
 - Đã dịch và biên tập, có file kiểm tra được: **68 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0068.md`.
