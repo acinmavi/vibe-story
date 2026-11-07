@@ -3,8 +3,8 @@
 Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 44–53
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **62 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0062.md`.
-- Chương cần làm tiếp: **0063**.
+- Đã dịch và biên tập, có file kiểm tra được: **63 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0063.md`.
+- Chương cần làm tiếp: **0064**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -172,3 +172,5 @@ Xác minh từ GitHub sau khi ghi: 53 file chương liên tiếp từ 0001–005
 
 - 0061 — Phía trên màn sương xám — commit `78a278e1a4ecb746d9b8ceff636528a98730f7ab` (70 đoạn nguồn).
 - 0062 — Tháp — commit `c03fb591688c4712400a1cecd23ef6e2fa5f67d2` (57 đoạn nguồn).
+
+- 0063 — Một góc bức màn — commit `332a3a4e5b6bcd44e1192a2f8cc54ad31967a679` (58 đoạn nguồn).
