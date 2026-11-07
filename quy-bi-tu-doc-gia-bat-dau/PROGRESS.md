@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — hoàn thành đợt 10 chương 79–88
+Cập nhật: 2026-11-07 — đợt 10 chương 89–98
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **88 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0088.md`.
-- Chương cần làm tiếp: **0089**.
+- Đã dịch và biên tập, có file kiểm tra được: **98 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0098.md`.
+- Chương cần làm tiếp: **0099**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -251,3 +251,23 @@ Nguồn trực tiếp: `qb_dich/chapters.jsonl` trong ZIP gốc do người dùn
 | 0088 | Ma Nữ Đau Khổ | `123b7b2255866adb6b1499f55a83bf3c4de314bf` |
 
 QA: kiểm tra trực tiếp danh sách GitHub có **88/88 tệp từ 0001 tới 0088**, không lỗ hổng thứ tự; đọc lại đầu/cuối cả mười bản dịch, tất cả có nội dung 7.612–11.311 ký tự. Chưa phải một lượt QA độc lập đối chiếu từng câu trên toàn bộ tác phẩm. Hai phần ngoại truyện thiếu nguồn tiếp tục ở trạng thái `missing`; phần cuối nguồn TXT còn nhiễu chưa thể dùng làm EPUB cuối. Không commit nguồn Hán văn. **Chương tiếp theo cần dịch: 0089**. Không dừng tại chương 100 và không tự tắt, pause hoặc sửa lịch.
+
+
+## Lượt dịch 10 chương — 2026-11-07 (89–98)
+
+Đã đọc GLOSSARY.md, SOURCE_GAPS.md, PROGRESS.md và danh sách thực tế trên nhánh; xác nhận chưa có thư mục pending trong Library. Sử dụng dữ liệu người dùng tải lên `qb_dich/chapters.jsonl` trong `quy_bi_doc_gia_du_an_dich_epub.zip`, không truyện trên Internet. Đã commit riêng từng chương:
+
+| Chương | Tiêu đề tiếng Việt | SHA commit |
+|---|---|---|
+| 0089 | Xio trở về | `77fca32aa1c0491e812142d07a824f6313858861` |
+| 0090 | Abner trong trực giác của Xio | `a17da295b134d9cabde1abcf04127db599004425` |
+| 0091 | Azik và chiếc mặt nạ | `bea7c8482de952ac64b8dc18c8cd841b121f96ae` |
+| 0092 | Những gì Xio trải qua | `cff0d6179a70192e5b89c59abf696a8d3c6cbd47` |
+| 0093 | Ủy thác mới | `7c8f6f97ff33aa6e3de434cc867fa73d549b3410` |
+| 0094 | Hoàng tử | `0321bf92765f2ab5a6aed0615d8d6b81a35b2113` |
+| 0095 | Hoàng tử và Ma Nữ | `b12d1dbdbd5564cbcae4b37818772de1015972be` |
+| 0096 | Buổi tụ họp Phi Phàm đã lâu không gặp | `fc81eebfd4d5cd25fd1e5b4d6d6dabc9e7ef452f` |
+| 0097 | Điều tra | `e5c2ecd6546b0129b373d5d2aa222724f5e32dec` |
+| 0098 | Truy bắt hung thủ | `f13515070f318126edd9bd10ce318848a37aeed7` |
+
+QA bước đầu: GitHub xác nhận 98/98 tệp liên tiếp 0001–0098 không thiếu số; 10 tệp 0089–0098 có dung lượng 10.594–14.422 byte và chứa tiếng Việt, xem lại điểm đầu và cuối theo nguồn. Chưa tiến hành kiểm định độc lập từng câu trên toàn bộ truyện, do đó chưa được xem là QA cuối. Nguồn ngoại truyện chưa đúng vẫn giữ `missing` như SOURCE_GAPS.md. Không có EPUB cuối, chưa phát hành. Chương còn thiếu nhỏ nhất tiếp theo: **0099**, tiếp tục đến toàn bộ phần nguồn hợp lệ, không dừng tại 100. Lịch tự động không bị tắt hay thay đổi.
