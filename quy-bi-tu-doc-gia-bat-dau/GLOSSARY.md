@@ -351,3 +351,40 @@ Cần kiểm tra lại phiên âm tên riêng khi biên tập cuối, không coi
 | 卡伦 | Karen | Đồng đội của Judy |
 
 **QA cuối:** rà soát cách phiên âm địa danh, tên người mới trong phần tiếp theo trước khi đóng EPUB. Không tự thêm diễn biến hay sửa các nguồn ngoại truyện đang thiếu.
+
+
+## Thuật ngữ bổ sung chương 99–108
+
+| Nguyên văn | Tiếng Việt thống nhất | Ghi chú |
+|---|---|---|
+| 莫雷拉 | Morella | Luật Sư; quản lý công ty bình phong |
+| 律师 | Luật Sư | Danh Sách 9 con đường Hắc Hoàng Đế |
+| 通灵 | Thông Linh | Truy nhập thế giới tâm linh |
+| 通灵者 | Người Thông Linh | Danh Sách 7 thuộc con đường Tử Thần |
+| 心智体 | Tâm Trí Thể | Một bộ phận linh thể |
+| 场景回溯 | Truy Hồi Hiện Trường | Giữ thống nhất |
+| 荒芜者 | Kẻ Hoang Vu | Đội xử lý đặc biệt của Giáo hội Mẫu Thần Đại Địa |
+| 莱赫·阿森诺夫 | Lech Arsenov | Đội trưởng Kẻ Hoang Vu |
+| 守护者 | Người Bảo Hộ | Danh Sách 5 con đường Chiến Binh |
+| 茱蒂·洛雷托 | Judy Loreto | Nhà Sinh Vật Học Danh Sách 6 |
+| 卡伦·蒂亚 | Karen Tia | Tử tước Huyết tộc |
+| 深红学者 | Học Giả Đỏ Thẫm | Danh Sách 5 thuộc con đường Mặt Trăng |
+| 生物学家 | Nhà Sinh Vật Học | Danh Sách 6 con đường Người Canh Tác |
+| 德鲁伊 | Druid | Danh Sách tiếp theo của Nhà Sinh Vật Học |
+| 西莉卡 | Silica | Sứ giả chim bạc, vong linh |
+| 圣夜粉 | Bột Đêm Thánh | Vật liệu nghi thức |
+| 蓝色复仇者号 | Tàu Kẻ Báo Thù Xanh Thẫm | Thuyền của Alger; kiểm tra đối chiếu tên chữ Hán chính xác ở chương sau |
+| 嘉德丽雅 | Cattleya | Thượng tướng Tinh Tú |
+| 塞尼奥尔 | Senor | Thượng tướng Máu |
+| 布拉托夫·伊万 | Bratov Ivan | Trung tướng Hoàng Hôn |
+| 星之上将 | Thượng tướng Tinh Tú | |
+| 血之上将 | Thượng tướng Máu | |
+| 黄昏中将 | Trung tướng Hoàng Hôn | |
+| 心理炼金会 | Hội Luyện Kim Tâm Lý | |
+| 读心者 | Người Đọc Tâm | Danh Sách con đường Khán Giả |
+| 航海家 | Nhà Hàng Hải | Danh Sách thấp con đường Bão Táp |
+| 深眠花 | Hoa Ngủ Sâu | Dùng trong Bột Đêm Thánh |
+| 无瞳之眼 | Con Mắt Không Đồng Tử | Một phần ký hiệu của Kẻ Khờ |
+| 扭曲之线 | Đường Nét Vặn Vẹo | Một phần ký hiệu của Kẻ Khờ |
+
+**Cần biên tập:** Các cách phiên âm mới và thuật ngữ Danh Sách cần kiểm tra trong ngữ cảnh những chương tiếp theo, nhất là tên tàu, danh hiệu và mối liên hệ con đường Phi Phàm. Không tự chuyển phần ngoại truyện đang thiếu sang trạng thái hoàn chỉnh.
