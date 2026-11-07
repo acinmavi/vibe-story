@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — đợt 10 chương 89–98
+Cập nhật: 2026-11-07 — hoàn thành thêm đợt 10 chương 99–108
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **98 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0098.md`.
-- Chương cần làm tiếp: **0099**.
+- Đã dịch và biên tập, có file kiểm tra được: **108 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0108.md`.
+- Chương cần làm tiếp: **0109**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -271,3 +271,23 @@ QA: kiểm tra trực tiếp danh sách GitHub có **88/88 tệp từ 0001 tới
 | 0098 | Truy bắt hung thủ | `f13515070f318126edd9bd10ce318848a37aeed7` |
 
 QA bước đầu: GitHub xác nhận 98/98 tệp liên tiếp 0001–0098 không thiếu số; 10 tệp 0089–0098 có dung lượng 10.594–14.422 byte và chứa tiếng Việt, xem lại điểm đầu và cuối theo nguồn. Chưa tiến hành kiểm định độc lập từng câu trên toàn bộ truyện, do đó chưa được xem là QA cuối. Nguồn ngoại truyện chưa đúng vẫn giữ `missing` như SOURCE_GAPS.md. Không có EPUB cuối, chưa phát hành. Chương còn thiếu nhỏ nhất tiếp theo: **0099**, tiếp tục đến toàn bộ phần nguồn hợp lệ, không dừng tại 100. Lịch tự động không bị tắt hay thay đổi.
+
+
+## Lượt dịch chạy thủ công sau khi khôi phục lịch — 2026-11-07 (99–108)
+
+Đã kiểm tra PROGRESS/GLOSSARY/SOURCE_GAPS và danh sách GitHub trước khi chạy; nguồn dùng từ ZIP người dùng gửi, tệp `qb_dich/chapters.jsonl`. Lịch `Dịch Quỷ Bí đến hết` trước lượt này được kiểm tra thấy `is_enabled=false`, sau khi người dùng yêu cầu chạy tiếp đã **bật lại lịch cũ** và gọi `run_now`; không đổi lịch/tần suất. Đã dịch toàn văn từng chương và ghi nhận các commit riêng thực tế:
+
+| Chương | Tiêu đề | SHA commit |
+|---|---|---|
+| 0099 | Phía bên kia sân khấu | `a4897ea8935167cc65f1822b885c16b56b566bb1` |
+| 0100 | Thông Linh và Truy Hồi | `16577567e9361fc4c69fc443cc312ebd58396ee2` |
+| 0101 | Quy tắc nhập vai của Kẻ Gìn Giữ Tri Thức | `57d0da0b46459abf4daeb034e94353c4f30536c6` |
+| 0102 | Kẻ Hoang Vu | `38e5ed0ed031627c322a5d09d44c7fd80beed647` |
+| 0103 | Phong cách hành sự của phía chính thức | `196a6fe18eeb9c63f12d7881a63e052914846476` |
+| 0104 | Thử nghiệm Hiến tế | `0bced0097361b812c2048c843bbe640ccb586a07` |
+| 0105 | Dịch vụ chuyển phát nhanh sắp ra mắt | `d1073b5aae49b6c28f98c401cab7e281d1c2834d` |
+| 0106 | “Câu chuyện” được chia sẻ | `403ecb68539de638839a08ed5f69d34c82552b3c` |
+| 0107 | Hiến tế và Ban tặng (gồm lời tác giả) | `2d09d3cb6991d62832c75b6e166479648be71ebb` |
+| 0108 | Lời mời dự vũ hội (1/7) | `f7b92f1fda182d98671f98672d8353c7c5d1cbfc` |
+
+Kiểm tra sau commit: GitHub hiện có **108/108 file liên tục 0001–0108, không lỗ hổng**. Từng file mới có nội dung tiếng Việt từ 7.973 đến 12.271 ký tự; điểm mở đầu/kết thúc và thứ tự sự kiện đã được đối chiếu. Chương 0107 có phần tác giả ghi kèm trong dữ liệu nguồn, đã dịch cả phần này để tránh lược nội dung. Chưa hoàn tất QA độc lập từng câu toàn bộ tác phẩm, chưa tạo EPUB. Hai ngoại truyện bị trùng/thiếu nguồn tiếp tục `missing`. **Tiếp tục từ 0109; mốc 100 đã qua, tuyệt đối không dừng tại đó hoặc tắt lịch.**
