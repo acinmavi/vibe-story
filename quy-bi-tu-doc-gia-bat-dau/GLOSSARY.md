@@ -248,3 +248,36 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 铁血骑士 | Kỵ Sĩ Thiết Huyết | Danh Sách 4 con đường Thợ Săn |
 
 **QA thuật ngữ:** các tên mới phiên âm cần đối chiếu với chương sau; không tùy tiện coi Phù Thủy và Ma Nữ là đồng nghĩa trong mọi ngữ cảnh.
+
+## Bổ sung sau chương 69–78
+
+| Nguyên văn | Thống nhất tiếng Việt | Ghi chú |
+|---|---|---|
+| 贝尔纳黛·古斯塔夫 | Bernadette Gustav | Con gái cả Roselle, Nữ Hoàng Thần Bí |
+| 要素黎明 | Bình Minh Nguyên Tố | Tổ chức của Bernadette |
+| 艾瑞霍格 | Ariehogg | Cổ Long Danh Sách 2, ẩn tại Hedlak |
+| 安格尔威德 | Ankewelt | Rồng Không Tưởng |
+| 阿勒苏霍德 | Alzuhod | Rồng Ác Mộng, liên quan 0-08 |
+| 赫德拉克 | Hedlak | Ngôi làng nơi gia đình Xio lẩn trốn |
+| 斯托恩 | Storn | Thủ phủ hạt East Chester |
+| 格莱林特 | Glaint | Tử tước, quen Audrey và Fors |
+| 曼／戴莉 | Daly | Kẻ Gác Đêm; giữ cách gọi cũ |
+| 马特号 | Tàu Matt | Tàu khách đường sông |
+| 西恩·斯卡德 | Sean Scudder | Người cha trong vụ án trên tàu Matt |
+| 阿伦 | Allen | Con trai Scudder |
+| 达克威尔 | Darkwill | Dược Sư thuộc Học phái Sinh Mệnh |
+| 迈克·约瑟夫 | Mike Joseph | Phóng viên Báo Quan Sát Hằng Ngày |
+| 卡隆 | Caron | Cổ đông Công ty Coym |
+| 染血的所罗门金币 | Đồng tiền vàng Solomon nhuốm máu | Vật phong ấn có vận may và vận rủi |
+| 幸运者 | Người May Mắn | Danh Sách 7 con đường Bánh Xe Vận Mệnh |
+| 惩戒骑士 | Kỵ Sĩ Trừng Phạt | Gắn với quyền hành Trật Tự |
+| 克雷斯泰·塞西玛 | Crestet Sesima | Kẻ Gác Đêm, Kiếm của Nữ Thần |
+| 女神之剑 | Kiếm của Nữ Thần | Danh hiệu Sesima |
+| 毒蔷薇 | Hoa Hồng Độc | Biệt hiệu người dự tụ họp của Isengard |
+| 贝尔纳·卡拉维 | Bernard Caraway | Trung úy Cục Tình báo Quân sự số Chín |
+| 洛克哈德·西亚卡姆 | Lockhard Siakam | Thư ký Công tước Negan |
+| 斯特福德子爵 | Tử tước Stafford | Nhân vật từng thuê Bernard |
+| 未来号 | Tàu Tương Lai | Tàu của Thượng tướng Tinh Tú |
+| 海底杀手妮娜 | Sát Thủ Dưới Biển Nina | Hải tặc với tiền thưởng 3.600 bảng |
+
+Cần kiểm tra lại phiên âm tên riêng khi biên tập cuối, không coi bảng này thay thế đối chiếu bản gốc.
