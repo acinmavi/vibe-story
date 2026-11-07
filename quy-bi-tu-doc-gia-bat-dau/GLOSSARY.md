@@ -146,3 +146,30 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 卡斯特 | Caster | Bạn học cũ của Abner |
 
 **QA tiếp theo:** rà lại cách gọi `西维拉斯场` trong các chương 1–20; vài chương cũ có thể đã dịch nhầm thành “Trường bắn”. Ngoài ra cần đối chiếu các phiên âm tên phố, nhân vật trước khi đóng EPUB.
+
+## Bổ sung sau chương 34–43
+
+| Nguyên văn | Dùng thống nhất | Ghi chú |
+|---|---|---|
+| 雷伊 | Rey | Ma Nữ liên quan ủy thác tìm hiểu quý tộc |
+| 丽娜 | Lina | Giữ cách gọi đã có, thuộc Linh Tri Hội |
+| 谢尔曼 | Sherman | Người cung cấp tin cho Xio ở khu Đông, không đồng nhất với nhân vật trong truyện phần thưởng nếu chưa có căn cứ |
+| 普利兹港 | Cảng Pritz | Hải cảng lớn của Loen |
+| 恩马特港 | Cảng Enmat | Điểm ghé dự định khi trở lại |
+| 达米尔港 | Cảng Damir | Đích chuyến công tác của Abner và Xio |
+| 万城辉煌号 | Tàu Vinh Quang Vạn Thành | Tàu khách đi Damir |
+| 海风之帽 | Mũ Gió Biển | Vật phẩm của thám tử Isengard |
+| 预判之戒 | Nhẫn Dự Đoán | Vật phẩm trả công cho Xio |
+| 梦境迷宫塔 | Tháp Mê Cung Giấc Mơ | Bí cảnh giấc mơ |
+| 加斯东·维尔潘 | Gaston Vilpin | Hiệu trưởng trên đảo Damir |
+| 梦境符咒 | Bùa chú Giấc Mơ | Dùng mở cánh cửa dưới trường |
+| 公证人 | Công Chứng Viên | Danh Sách 6 thuộc con đường Mặt Trời |
+| 鉴定师 | Giám Định Sư | Danh Sách 7 của Gaston |
+| 龙眼巨蟒 | Trăn Long Nhãn | Nguyên liệu chính của Kẻ Gìn Giữ Tri Thức |
+| 艾尔诺斯 | Elnos | Tác giả tập bút ký thần bí học |
+| 苜蓿号 | Tàu Cỏ Ba Lá | Tàu trong bí cảnh tầng bảy |
+| 纳斯特 | Nast | Vua Năm Biển |
+| 特里斯 | Trissy | Kẻ Xúi Giục trong sự kiện trên biển, phân biệt Turner |
+| 切莉 | Cherry | Người phụ nữ sống sót trên tàu Cỏ Ba Lá |
+
+**QA khi biên tập tổng thể:** rà lại các phiên âm tên riêng mới (đặc biệt Gaston Vilpin, Alanson Edward, Elnos) và thuật ngữ các Danh Sách trước khi đóng EPUB.
