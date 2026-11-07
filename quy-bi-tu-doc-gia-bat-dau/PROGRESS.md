@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 59–68
+Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 69–78
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **68 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0068.md`.
-- Chương cần làm tiếp: **0069**.
+- Đã dịch và biên tập, có file kiểm tra được: **78 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0078.md`.
+- Chương cần làm tiếp: **0079**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -197,3 +197,22 @@ Xác minh từ GitHub sau khi ghi: 53 file chương liên tiếp từ 0001–005
 | 0068 | Gặp lại | `6cea5985525016611fb42c9511cc80067bc69366` |
 
 Đã gọi GitHub để xác minh cả mười file trên nhánh, tất cả có tiêu đề và nội dung, dung lượng 8.655–11.200 ký tự, đoạn kết tương ứng chương nguồn. Danh sách GitHub hiện liên tục 0001–0068, chương chưa có file nhỏ nhất là **0069**. Chưa QA độc lập từng câu toàn bộ truyện; các nguồn ngoại truyện thiếu vẫn ở trạng thái missing. Giữ lịch tự động bật và tiếp tục toàn bộ truyện, không dừng ở chương 100.
+
+## Lượt dịch chạy ngay — 2026-11-07 (69–78)
+
+Nguồn: chính ZIP đã được người dùng cung cấp `file_000000000c208209af37418359e4447d`, mục 69–78 trong `qb_dich/chapters.jsonl`. Không sử dụng truyện từ Internet. Đã dịch toàn văn từng chương, commit riêng:
+
+| Chương | Tựa tiếng Việt | SHA commit |
+|---|---|---|
+| 0069 | Phát hiện của Abner | `9ccc14bfd8364d94a56287b75af31b2f8a9e0e10` |
+| 0070 | Hạt East Chester | `8d90d3a9e113a8a82ade2f1893bb3de4990f2196` |
+| 0071 | Cuộc gặp | `e27d214cdc845da1b9294748546dccd211645d84` |
+| 0072 | Bí mật và ảnh hưởng | `59ee371fd9bc0e97f9bfed8bd7c89368342521a9` |
+| 0073 | Án mạng | `d09dea76c2b1e4e6df66c50d3d18d2016a53ae9a` |
+| 0074 | Đồng tiền vàng và Dược Sư | `9f24782e85a7511d8099a56fc8aacba06b6d9312` |
+| 0075 | Vận rủi | `3a664939f418487222a145c0ce36f642b6ee38da` |
+| 0076 | Đàn cello và violin | `f6a5dcbec422b51629e7bbccb5e893ee065f2a68` |
+| 0077 | Trò chuyện | `5d9d84122cc4324f4780b30b6a53070fbd12dd15` |
+| 0078 | Vũ hội | `3b5ec16e2f9caf62b5942df51ad9a2418f51fbf4` |
+
+QA: đọc từng mục nguyên văn, đối chiếu đầu/cuối cùng thứ tự diễn biến; GitHub đã xác nhận 78 file liên tiếp 0001–0078, cả 10 chương mới có tiêu đề và nội dung, không thiếu số. Chưa hoàn tất QA độc lập từng câu trên toàn bộ bản dịch 1.500+ chương. Không có EPUB cuối; 2 mục ngoại truyện thiếu nguồn vẫn missing. **Lượt kế tiếp: 0079–0088**, tiếp tục đến hết toàn bộ truyện, không dừng ở 100. Lịch tự động phải được giữ bật, không tự tắt.
