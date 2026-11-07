@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — hoàn thành thêm đợt 10 chương 99–108
+Cập nhật: 2026-11-07 — hoàn thành thêm đợt 10 chương 109–118
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **108 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0108.md`.
-- Chương cần làm tiếp: **0109**.
+- Đã dịch và biên tập, có file kiểm tra được: **118 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0118.md`.
+- Chương cần làm tiếp: **0119**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -291,3 +291,23 @@ QA bước đầu: GitHub xác nhận 98/98 tệp liên tiếp 0001–0098 khôn
 | 0108 | Lời mời dự vũ hội (1/7) | `f7b92f1fda182d98671f98672d8353c7c5d1cbfc` |
 
 Kiểm tra sau commit: GitHub hiện có **108/108 file liên tục 0001–0108, không lỗ hổng**. Từng file mới có nội dung tiếng Việt từ 7.973 đến 12.271 ký tự; điểm mở đầu/kết thúc và thứ tự sự kiện đã được đối chiếu. Chương 0107 có phần tác giả ghi kèm trong dữ liệu nguồn, đã dịch cả phần này để tránh lược nội dung. Chưa hoàn tất QA độc lập từng câu toàn bộ tác phẩm, chưa tạo EPUB. Hai ngoại truyện bị trùng/thiếu nguồn tiếp tục `missing`. **Tiếp tục từ 0109; mốc 100 đã qua, tuyệt đối không dừng tại đó hoặc tắt lịch.**
+
+
+## Đợt dịch tiếp 10 chương — 2026-11-07 (109–118)
+
+Đầu lượt đã đọc `PROGRESS.md`, `GLOSSARY.md`, `SOURCE_GAPS.md`, kiểm tra thực tế danh sách chương và Library pending. Nguồn dịch là ZIP do người dùng gửi (`qb_dich/chapters.jsonl`). Đã dịch và commit riêng từng chương, GitHub xác nhận SHA:
+
+| Chương | Tiêu đề tiếng Việt | Commit |
+|---|---|---|
+| 0109 | Lời nhờ cậy của Kẻ Hoang Vu (2/7) | `59d868f44e7525fadd28d87a2d310010c6aa28cb` |
+| 0110 | Ủy thác đầu tiên sau khi thành danh (3/7) | `85c1a485d630ced70d35172729d4b227610a0192` |
+| 0111 | Vị hôn phu của Roman (4/7) | `6e60ec391a87f4a9f85fc3e7e40b7202b74ae51d` |
+| 0112 | Theo dõi và kịch chiến (5/7) | `dc42702a6763b1164aadea4c8400aa9f0642a8c4` |
+| 0113 | Kịch chiến và trò chuyện | `a40519acae1384daa353ffac30da04f226be4d87` |
+| 0114 | Yến Tiệc Máu (7/7) | `52c2811d5653be3f77ad6fec55a3efba0b4785bf` |
+| 0115 | Các bên | `c94c1ec5006813d82e3e60184a5eee6934b43444` |
+| 0116 | Cuộc gặp gỡ kỳ lạ của một người bình thường | `dbcc26aafa8b6cb67a4c79a2425f0dd9ee85b46a` |
+| 0117 | Trước buổi vũ hội | `d376b10b13c6c6bee353fc1d565439f073582f56` |
+| 0118 | “Nghĩ ngợi lung tung” | `bc5fd03d052de984ad4369692f1db70fd8c2bba1` |
+
+Kiểm tra hậu commit: GitHub có **118/118 tệp liên tiếp 0001–0118, không khuyết số**. Đã đối chiếu các chương mới theo văn bản nguồn ở ZIP, bảo toàn nội dung cốt truyện và kết thúc từng chương; **chưa hoàn tất QA độc lập từng câu toàn bộ truyện**. Hai phần ngoại truyện bị thiếu/trùng nguồn và đoạn nguồn hỏng tiếp tục ở trạng thái `missing` theo `SOURCE_GAPS.md`. Chưa tạo EPUB cuối. **Chương tiếp theo: 0119**; tuyệt đối không dừng tại bất cứ mốc trung gian nào. Không tự tắt, pause, disable hoặc sửa lịch tự động.
