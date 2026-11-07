@@ -3,8 +3,8 @@
 Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 44–53
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **54 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0054.md`.
-- Chương cần làm tiếp: **0055**.
+- Đã dịch và biên tập, có file kiểm tra được: **59 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0059.md`.
+- Chương cần làm tiếp: **0060**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -161,3 +161,9 @@ Xác minh từ GitHub sau khi ghi: 53 file chương liên tiếp từ 0001–005
 - Đã xác minh từ GitHub: trước lượt này có 0001–0053 liên tiếp, bắt đầu ở 0054.
 - Chương **0054 — Chìa khóa**: bản dịch đã commit riêng, SHA `437b855b1c09440d6aa74be1ae26d2d7870e8d72`, đối chiếu nguyên văn mục `第54章钥匙` của nguồn `qb_dich/chapters.jsonl` (ZIP gốc do người dùng gửi). Không đăng nguyên văn nguồn.
 - Chương kế tiếp: **0055**. Vẫn đang thực hiện yêu cầu tiến tới chương 100; không đánh dấu hoàn thành sớm. Các nguồn ngoại truyện thiếu tiếp tục để `missing`. Lịch tự động giữ nguyên.
+
+## Kiểm tra bổ sung 2026-11-07
+
+- Danh sách trên nhánh đã có các file 0055–0058, được commit từ lượt trước nhưng chưa cập nhật ở đầu PROGRESS.md; cần QA độc lập.
+- 0059 — Năng lực mới — commit `7bf5c0542b7e479cd5ac84d66c70a3fdab730eef`, dịch từ mục `第59章新能力` của `qb_dich/chapters.jsonl` (43 đoạn).
+- Chương cần thực hiện tiếp theo: 0060. Không dùng nội dung chưa hoàn chỉnh để tính tiến độ, không dừng lịch.
