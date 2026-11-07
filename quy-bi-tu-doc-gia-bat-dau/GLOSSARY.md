@@ -281,3 +281,37 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 海底杀手妮娜 | Sát Thủ Dưới Biển Nina | Hải tặc với tiền thưởng 3.600 bảng |
 
 Cần kiểm tra lại phiên âm tên riêng khi biên tập cuối, không coi bảng này thay thế đối chiếu bản gốc.
+
+
+## Thuật ngữ bổ sung chương 79–88
+
+| Chữ Hán | Tiếng Việt thống nhất | Ghi chú |
+|---|---|---|
+| 乌特拉夫斯基 | Utravsky | Cha xứ khổng lồ, giám mục Nhà thờ Thu Hoạch |
+| 丰收教堂 | Nhà thờ Thu Hoạch | Thuộc Giáo hội Mẫu Thần Đại Địa |
+| 大地母神 | Mẫu Thần Đại Địa | Chính Thần |
+| 生命圣徽 | Thánh Huy Sự Sống | Biểu tượng bông lúa, hoa và suối quanh em bé |
+| 小丑面具 | Mặt Nạ Hề | Vật phong ấn có đặc tính sống |
+| 太阳神官 | Tư Tế Mặt Trời | Danh Sách con đường Mặt Trời |
+| 黎明骑士 | Kỵ Sĩ Bình Minh | Năng lực trừ tà |
+| 无暗之枪 | Ngọn Giáo Vô Ám | Năng lực Mặt Trời |
+| 机械心智 | Tư Duy Máy Móc | Thuật ngữ đã định |
+| 无面人 | Người Không Mặt | Danh Sách con đường Nhà Bói Toán |
+| 祭祀 / 赐予 | Hiến tế / Ban tặng | Nghi thức giao nhận qua Nguyên Bảo |
+| 神弃之地 | Vùng Đất Bị Thần Bỏ Rơi | |
+| 仲裁人 | Trọng Tài | Danh Sách 9 liên quan hoàng gia Augustus |
+| 学徒 | Học Đồ | Danh Sách 9 của Fors |
+| 丰收祭祀 | Tư Tế Thu Hoạch | Danh Sách 7 thuộc con đường Người Canh Tác |
+| 耕种者 | Người Canh Tác | Con đường của Y Sĩ, Tư Tế Thu Hoạch |
+| 医师 | Y Sĩ | Danh Sách 8; phân biệt Dược Sư |
+| 列奥纳多 | Leonardo | Bác sĩ tại phố Rotans |
+| 罗坦斯街 | Phố Rotans | Khu Cherwood |
+| 欢愉魔女 | Ma Nữ Hoan Du | Danh Sách 6 |
+| 痛苦魔女 | Ma Nữ Đau Khổ | Danh Sách 5 |
+| 兰尔乌斯 | Lanerwus | Kẻ lừa đảo bị truy nã |
+| 菲奥娜·瑞文伍德 | Fiona Ravenwood | Nữ cảnh sát trưởng, mẹ Susan |
+| 泽瑞尔 | Zreal | Thám tử, có thân phận gián điệp |
+| 奥塞斯夫人 | Phu nhân Oses | Xuất hiện trong nhật ký giả |
+| 地铁 | Tàu điện ngầm | Loại hình giao thông tại Backlund |
+
+**Lưu ý QA:** Kiểm tra phiên âm tên riêng và cách viết `Utravsky`, `Leonardo`, `Lanerwus` khi biên tập EPUB; không tự đồng nhất Danh Sách `Y Sĩ` với `Dược Sư`.
