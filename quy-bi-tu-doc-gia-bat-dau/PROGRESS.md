@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — hoàn tất lượt dịch 10 chương 34–43
+Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 44–53
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **45 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0045.md`.
-- Chương cần làm tiếp: **0046**.
+- Đã dịch và biên tập, có file kiểm tra được: **53 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0053.md`.
+- Chương cần làm tiếp: **0054**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -136,3 +136,22 @@ QA lượt này: xác nhận từ GitHub có **43/43 file liên tiếp**, không
 - Bản dịch nguyên chương cần biên tập/QA riêng; chưa phát hành EPUB. Giữ nguyên các ngoại truyện `missing` và giữ lịch tự động bật.
 
 - Chương 0045 — Buổi tụ họp Phi Phàm Giả của ông Gaston — commit `9a0ba9a756800062916a2525566c9b3df53c3eb7`; dịch từ 48 đoạn gốc trong `qb_dich/chapters.jsonl`. Đang tiếp tục mục tiêu đến 100, chưa hoàn thành.
+
+## Lượt dịch 10 chương — 2026-11-07 (44–53)
+
+Nguồn sử dụng: ZIP **do người dùng tải lên** `file_000000000c208209af37418359e4447d` chứa `qb_dich/chapters.jsonl`, đối chiếu đúng các mục 44–53. Đã dịch và commit riêng từng chương:
+
+| Chương | Tựa Việt | SHA commit tạo file |
+|---|---|---|
+| 0044 | Tạm biệt | `83433aeb9e46a8eca945402aef4f3e6f813251df` |
+| 0045 | Buổi tụ họp Phi Phàm Giả của ông Gaston | `9a0ba9a756800062916a2525566c9b3df53c3eb7` |
+| 0046 | Tác dụng phụ của Nhẫn Dự Đoán | `7a718c943c7dab27313ab184d86fd9ea70caf9e0` |
+| 0047 | Biến cố bất ngờ | `c4bc0f2a5a279c3105e30b5e4eedc8f2618f76a0` |
+| 0048 | Kịch chiến | `327a69fae03a3348009aa7f49f03da0b248ad738` |
+| 0049 | Ra khơi | `5093ca380faf1ac67922248bfbb812ec7a7278a3` |
+| 0050 | Tàu Giấc Mơ Hoàng Kim | `077a10d21207dd003b1b8f171322e2ba90cc6f84` |
+| 0051 | Dị biến | `6fb7c100d0ddb5ae8b585d80281bed02c4b92df0` |
+| 0052 | Đủ nguyên liệu | `5fc777552744c562871c92bba600b3c025fcb093` |
+| 0053 | Tàu đắm | `8ffbffad21048bb4b3e0ce3be55860493b054ff2` |
+
+Xác minh từ GitHub sau khi ghi: 53 file chương liên tiếp từ 0001–0053; mười file mới có nội dung tiếng Việt 8.666–11.136 ký tự, tiêu đề cùng đầu/cuối khớp diễn biến nguồn. Chưa phải QA độc lập đối chiếu từng câu toàn bộ truyện. **Mốc kế tiếp: chương 100; còn 47 chương (0054–0100)**. Không đánh dấu hoàn thành khi chưa dịch hết. Không tạo EPUB chưa đủ nguồn. Giữ lịch dịch tiếp và không tự tắt lịch.
