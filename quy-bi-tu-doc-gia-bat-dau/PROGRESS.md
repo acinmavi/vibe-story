@@ -3,8 +3,8 @@
 Cập nhật: 2026-11-07 — hoàn tất lượt dịch 10 chương 34–43
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **44 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0044.md`.
-- Chương cần làm tiếp: **0045**.
+- Đã dịch và biên tập, có file kiểm tra được: **45 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0045.md`.
+- Chương cần làm tiếp: **0046**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -134,3 +134,5 @@ QA lượt này: xác nhận từ GitHub có **43/43 file liên tiếp**, không
 - Chương 0044 — Tạm biệt — đã dịch đủ từ 41 đoạn nguồn và commit `83433aeb9e46a8eca945402aef4f3e6f813251df`.
 - Còn **56 chương (0045–0100)** thuộc mục tiêu này; chưa hoàn thành. Không đánh dấu các chương chưa dịch là hoàn tất.
 - Bản dịch nguyên chương cần biên tập/QA riêng; chưa phát hành EPUB. Giữ nguyên các ngoại truyện `missing` và giữ lịch tự động bật.
+
+- Chương 0045 — Buổi tụ họp Phi Phàm Giả của ông Gaston — commit `9a0ba9a756800062916a2525566c9b3df53c3eb7`; dịch từ 48 đoạn gốc trong `qb_dich/chapters.jsonl`. Đang tiếp tục mục tiêu đến 100, chưa hoàn thành.
