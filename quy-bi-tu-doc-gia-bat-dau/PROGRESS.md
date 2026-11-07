@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — đã commit thêm chương 79–83
+Cập nhật: 2026-11-07 — hoàn thành đợt 10 chương 79–88
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **83 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0083.md`.
-- Chương cần làm tiếp: **0084**.
+- Đã dịch và biên tập, có file kiểm tra được: **88 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0088.md`.
+- Chương cần làm tiếp: **0089**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -231,3 +231,23 @@ Nguồn: `qb_dich/chapters.jsonl` trong ZIP do người dùng cung cấp. Các c
 | 0083 | Yêu Cầu Của “Tháp” | `ce14d68e9a58a2d82ee6e8ff4867486e758ceba5` |
 
 Đã đọc từng mục trong ZIP và kiểm tra điểm đầu/cuối; chưa QA độc lập toàn văn. Mới đạt 5/10 chương của mục tiêu lượt này, **không nhận vơ đủ 10 chương**. Tiếp theo cần làm 0084–0088. Nguồn ngoại truyện chưa xác minh tiếp tục để `missing`; chưa có EPUB cuối. Lịch tự động giữ nguyên, không thay đổi.
+
+
+## Hoàn tất đợt 10 chương — 2026-11-07 (79–88)
+
+Nguồn trực tiếp: `qb_dich/chapters.jsonl` trong ZIP gốc do người dùng cung cấp (`file_000000000c208209af37418359e4447d`). Mỗi mục đọc đầy đủ, dịch từng đoạn sang tiếng Việt, đối chiếu mở đầu/kết thúc với bản gốc, commit thành tệp độc lập. **GitHub đã trả về commit SHA thực tế**:
+
+| Chương | Tiêu đề | Commit |
+|---|---|---|
+| 0079 | Người Khổng Lồ | `5af31e15715c634e774f463b0805376631c179c1` |
+| 0080 | Mặt Nạ | `80071a68649c3979109ccfd086a2c0ccbc676eec` |
+| 0081 | Bịa Nhật Ký | `eb498cc62ea85f782f41344d8756c736b6585cbd` |
+| 0082 | Hội Tarot Lại Bắt Đầu | `b9376600a08363985459e253ece04db7b9f686f4` |
+| 0083 | Yêu Cầu Của “Tháp” | `ce14d68e9a58a2d82ee6e8ff4867486e758ceba5` |
+| 0084 | Trao Đổi Trong Hội Tarot | `0f197d10eecdb70a438c08ed9817d7e85a234d54` |
+| 0085 | Vị Bác Sĩ Rời Nhà | `144875ff2103bafb7f158591654ac7523296a396` |
+| 0086 | Truy Hồi Và Trăng Máu | `4be4f03ffff641e225ca3d6ee734676de1029f08` |
+| 0087 | May Mắn | `bab33f33f2e2711bf65e3ff6023933b26a2e4594` |
+| 0088 | Ma Nữ Đau Khổ | `123b7b2255866adb6b1499f55a83bf3c4de314bf` |
+
+QA: kiểm tra trực tiếp danh sách GitHub có **88/88 tệp từ 0001 tới 0088**, không lỗ hổng thứ tự; đọc lại đầu/cuối cả mười bản dịch, tất cả có nội dung 7.612–11.311 ký tự. Chưa phải một lượt QA độc lập đối chiếu từng câu trên toàn bộ tác phẩm. Hai phần ngoại truyện thiếu nguồn tiếp tục ở trạng thái `missing`; phần cuối nguồn TXT còn nhiễu chưa thể dùng làm EPUB cuối. Không commit nguồn Hán văn. **Chương tiếp theo cần dịch: 0089**. Không dừng tại chương 100 và không tự tắt, pause hoặc sửa lịch.
