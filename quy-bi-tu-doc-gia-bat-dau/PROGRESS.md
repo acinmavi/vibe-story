@@ -3,8 +3,8 @@
 Cập nhật: 2026-11-07 — hoàn tất lượt dịch 10 chương 34–43
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **43 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0043.md`.
-- Chương cần làm tiếp: **0044**.
+- Đã dịch và biên tập, có file kiểm tra được: **44 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0044.md`.
+- Chương cần làm tiếp: **0045**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -126,3 +126,11 @@ QA phạm vi lượt này: xác minh **30/30 file** từ 0001 đến 0030 tồn 
 QA lượt này: xác nhận từ GitHub có **43/43 file liên tiếp**, không thiếu số từ 0001 đến 0043; kiểm tra tiêu đề, đoạn mở đầu và kết thúc của 10 chương mới, độ dài 8.208–10.028 ký tự/chương. Thuật ngữ cũ được duy trì; **chưa có QA độc lập đối chiếu từng câu toàn bộ tác phẩm**. Nguồn ngoại truyện thiếu/trùng vẫn giữ trạng thái `missing` trong `SOURCE_GAPS.md`. Không đưa ZIP hoặc văn bản nguồn gốc tiếng Trung vào repo.
 
 **Chương cần dịch tiếp theo: 0044.** Tiếp tục mục tiêu 10 chương trọn vẹn mỗi lượt; lịch tự động tuyệt đối không được tự tắt.
+
+## Bắt đầu mục tiêu dịch tới chương 100 (2026-11-07)
+
+- Kiểm tra danh sách GitHub: có đủ các file 0001–0043, chương thiếu đầu tiên là 0044.
+- Đã khôi phục bản ZIP của người dùng `file_000000000c208209af37418359e4447d`, bên trong có `qb_dich/chapters.jsonl`; mục 44 là `第44章暂离` (41 đoạn văn bản gốc).
+- Chương 0044 — Tạm biệt — đã dịch đủ từ 41 đoạn nguồn và commit `83433aeb9e46a8eca945402aef4f3e6f813251df`.
+- Còn **56 chương (0045–0100)** thuộc mục tiêu này; chưa hoàn thành. Không đánh dấu các chương chưa dịch là hoàn tất.
+- Bản dịch nguyên chương cần biên tập/QA riêng; chưa phát hành EPUB. Giữ nguyên các ngoại truyện `missing` và giữ lịch tự động bật.
