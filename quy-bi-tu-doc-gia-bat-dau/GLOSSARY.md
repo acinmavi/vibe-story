@@ -173,3 +173,40 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 切莉 | Cherry | Người phụ nữ sống sót trên tàu Cỏ Ba Lá |
 
 **QA khi biên tập tổng thể:** rà lại các phiên âm tên riêng mới (đặc biệt Gaston Vilpin, Alanson Edward, Elnos) và thuật ngữ các Danh Sách trước khi đóng EPUB.
+
+## Bổ sung sau chương 44–53
+
+| Nguyên văn | Thống nhất | Ghi chú |
+|---|---|---|
+| 亵渎之牌 | Lá Bài Báng Bổ | Vật phẩm/tri thức cấp cao của Roselle |
+| 白塔牌 | Lá Bài Tháp Trắng | Giả thuyết của Abner về Tháp Mê Cung Giấc Mơ |
+| 心理炼金会 | Hội Luyện Kim Tâm Lý | Tổ chức liên quan con đường Khán Giả |
+| 观众 | Khán Giả | Danh Sách 9; không nhầm với người quan sát bình thường |
+| 心理医生 | Bác Sĩ Tâm Lý | Danh Sách 7 |
+| 长者之树 | Cây Trưởng Lão | Quả dùng trong nguyên liệu ma dược Bác Sĩ Tâm Lý |
+| 银白战熊 | Gấu Chiến Bạc | Bàn tay phải là nguyên liệu Xio tìm |
+| 巨蟒 | Trăn khổng lồ | Phân biệt `龙眼巨蟒` = Trăn Long Nhãn |
+| 安妮·格温 | Annie Gwen | Nhà thám hiểm, thuyền trưởng Alenheim |
+| 阿伦海姆号 | Tàu Alenheim | Tàu buồm của Gwen |
+| 恐惧魔虫 | Ma Trùng Sợ Hãi | Mắt là nguyên liệu ma dược Quan Trị An |
+| 魔雾斑鸠 | Cu Gáy Ma Sương | Ma vật ở Damir |
+| 绝望魔犬 | Ác Khuyển Tuyệt Vọng | Ma vật có mắt dọc thế mạng |
+| 太阳光环 | Hào Quang Mặt Trời | Năng lực bảo vệ khỏi ô nhiễm tâm trí |
+| 达米尔·安德雷拉德 | Damir Andrelade | Ác quỷ thời Kỷ Đệ Tứ |
+| 极光会 | Hội Cực Quang | Tổ chức tà thần |
+| d先生 | Ngài D | Thần Sứ Hội Cực Quang |
+| 黄金梦想号 | Tàu Giấc Mơ Hoàng Kim | Chiến hạm Trung tướng Băng Sơn |
+| 冰山中将 | Trung tướng Băng Sơn | Edwina |
+| 达尼兹 | Danitz | Thủy thủ trên Giấc Mơ Hoàng Kim |
+| 黄昏中将 | Trung tướng Hoàng Hôn | Hải tặc |
+| 乔伊斯·迈尔 | Joyce Meyer | Vị hôn phu Anna, sống sót tàu Cỏ Ba Lá |
+| 安娜 | Anna | Vị hôn thê Joyce |
+| 安洁莉卡 | Angelica | Lễ tân Câu lạc bộ Bói Toán |
+| 伦纳德·米切尔 | Leonard Mitchell | Kẻ Gác Đêm ở Tingen |
+| 苜蓿号 | Tàu Cỏ Ba Lá | Giữ nhất quán với chương 43 |
+| 巨人后裔 | Hậu duệ Người Khổng Lồ | Nhân vật ghi bút ký Kỷ Đệ Tứ |
+| 苍白之灾 | Tai Ương Nhợt Nhạt | Biến cố cuối Kỷ Đệ Tứ |
+| 猎人 | Thợ Săn | Con đường Phi Phàm, Danh Sách 9 |
+| 水手 | Thủy Thủ | Con đường Bão Táp, Danh Sách 9 |
+
+**Lưu ý QA:** chữ Hán `特里斯` ở các chương mới nên được phiên là Tris, không tự đồng nhất với `特纳` (Turner). Cần kiểm tra cách viết tên riêng qua bản gốc toàn truyện.
