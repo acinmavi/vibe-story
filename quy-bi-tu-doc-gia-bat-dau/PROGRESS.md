@@ -3,8 +3,8 @@
 Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 44–53
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **65 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0065.md`.
-- Chương cần làm tiếp: **0066**.
+- Đã dịch và biên tập, có file kiểm tra được: **68 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0068.md`.
+- Chương cần làm tiếp: **0069**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -178,3 +178,22 @@ Xác minh từ GitHub sau khi ghi: 53 file chương liên tiếp từ 0001–005
 - 0064 — Đến cảng Enmat — commit `6607c4672b1e91ebc3a438ab7ce8923c2bfc8530` (70 đoạn nguồn).
 
 - 0065 — Buổi họp Tarot đầu tiên — commit `4cae27be7f578205c91e9e43877793acc8b823d7` (66 đoạn nguồn).
+
+## Lượt dịch 10 chương 0059–0068 — 2026-11-07
+
+Đối chiếu các mục nguồn tương ứng 59–68 trong file `qb_dich/chapters.jsonl` từ ZIP của người dùng. Đã dịch toàn bộ các đoạn theo từng chương, commit mỗi chương riêng biệt:
+
+| Chương | Tên chương | Commit tạo file |
+|---|---|---|
+| 0059 | Năng lực mới | `7bf5c0542b7e479cd5ac84d66c70a3fdab730eef` |
+| 0060 | Vùng đất chưa biết | `5a400f35ca6d61f7ce4cda519edc9b2ea96a22ce` |
+| 0061 | Phía trên màn sương xám | `78a278e1a4ecb746d9b8ceff636528a98730f7ab` |
+| 0062 | Tháp | `c03fb591688c4712400a1cecd23ef6e2fa5f67d2` |
+| 0063 | Một góc bức màn | `332a3a4e5b6bcd44e1192a2f8cc54ad31967a679` |
+| 0064 | Đến cảng Enmat | `6607c4672b1e91ebc3a438ab7ce8923c2bfc8530` |
+| 0065 | Buổi họp Tarot đầu tiên | `4cae27be7f578205c91e9e43877793acc8b823d7` |
+| 0066 | Lời nhắc nhở | `8e6f6abc483d30c52c76239cdf06b21eac54433f` |
+| 0067 | Tự kiểm điểm | `b00fc9c7c91dda9b5099867dc3a5cb2a1b0ce2c9` |
+| 0068 | Gặp lại | `6cea5985525016611fb42c9511cc80067bc69366` |
+
+Đã gọi GitHub để xác minh cả mười file trên nhánh, tất cả có tiêu đề và nội dung, dung lượng 8.655–11.200 ký tự, đoạn kết tương ứng chương nguồn. Danh sách GitHub hiện liên tục 0001–0068, chương chưa có file nhỏ nhất là **0069**. Chưa QA độc lập từng câu toàn bộ truyện; các nguồn ngoại truyện thiếu vẫn ở trạng thái missing. Giữ lịch tự động bật và tiếp tục toàn bộ truyện, không dừng ở chương 100.
