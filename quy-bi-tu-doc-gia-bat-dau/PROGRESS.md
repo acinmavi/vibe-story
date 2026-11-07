@@ -3,8 +3,8 @@
 Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 44–53
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **53 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0053.md`.
-- Chương cần làm tiếp: **0054**.
+- Đã dịch và biên tập, có file kiểm tra được: **54 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0054.md`.
+- Chương cần làm tiếp: **0055**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -155,3 +155,9 @@ Nguồn sử dụng: ZIP **do người dùng tải lên** `file_000000000c208209
 | 0053 | Tàu đắm | `8ffbffad21048bb4b3e0ce3be55860493b054ff2` |
 
 Xác minh từ GitHub sau khi ghi: 53 file chương liên tiếp từ 0001–0053; mười file mới có nội dung tiếng Việt 8.666–11.136 ký tự, tiêu đề cùng đầu/cuối khớp diễn biến nguồn. Chưa phải QA độc lập đối chiếu từng câu toàn bộ truyện. **Mốc kế tiếp: chương 100; còn 47 chương (0054–0100)**. Không đánh dấu hoàn thành khi chưa dịch hết. Không tạo EPUB chưa đủ nguồn. Giữ lịch dịch tiếp và không tự tắt lịch.
+
+## Tiếp tục mục tiêu chương 100 — 2026-11-07
+
+- Đã xác minh từ GitHub: trước lượt này có 0001–0053 liên tiếp, bắt đầu ở 0054.
+- Chương **0054 — Chìa khóa**: bản dịch đã commit riêng, SHA `437b855b1c09440d6aa74be1ae26d2d7870e8d72`, đối chiếu nguyên văn mục `第54章钥匙` của nguồn `qb_dich/chapters.jsonl` (ZIP gốc do người dùng gửi). Không đăng nguyên văn nguồn.
+- Chương kế tiếp: **0055**. Vẫn đang thực hiện yêu cầu tiến tới chương 100; không đánh dấu hoàn thành sớm. Các nguồn ngoại truyện thiếu tiếp tục để `missing`. Lịch tự động giữ nguyên.
