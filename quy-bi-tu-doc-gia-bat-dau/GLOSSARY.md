@@ -388,3 +388,36 @@ Cần kiểm tra lại phiên âm tên riêng khi biên tập cuối, không coi
 | 扭曲之线 | Đường Nét Vặn Vẹo | Một phần ký hiệu của Kẻ Khờ |
 
 **Cần biên tập:** Các cách phiên âm mới và thuật ngữ Danh Sách cần kiểm tra trong ngữ cảnh những chương tiếp theo, nhất là tên tàu, danh hiệu và mối liên hệ con đường Phi Phàm. Không tự chuyển phần ngoại truyện đang thiếu sang trạng thái hoàn chỉnh.
+
+
+## Thuật ngữ bổ sung chương 109–118
+
+| Nguyên văn | Thống nhất tiếng Việt | Ghi chú |
+|---|---|---|
+| 茱蒂·洛雷托 | Judy Loreto | Nhà Sinh Vật Học thuộc Kẻ Hoang Vu; có vật phẩm Ghi Lại |
+| 卡伦·蒂亚 | Karen Tia | Tử tước Huyết tộc, thường đóng vai người đánh xe |
+| 罗曼 | Roman | Bạn học cũ Abner, được Judy cải trang thay |
+| 亚历克斯 | Alex | Vị hôn phu của Roman |
+| 塔利姆·杜蒙特 | Talim Dumont | Huấn luyện viên cưỡi ngựa, liên hệ hoàng tử |
+| 温莎·贝林 | Windsor Bellin | Phụ nữ nghi là tín đồ Mặt Trăng Nguyên Thủy |
+| 原始月亮 | Mặt Trăng Nguyên Thủy | Tồn tại cần đề phòng, không đồng nhất Mẫu Thần Đại Địa |
+| 记录 | Ghi Lại | Năng lực con đường Cửa; ghi lại năng lực Phi Phàm khác |
+| 意识漫步 | Dạo Bước Trong Ý Thức | Năng lực bán thần con đường Khán Giả |
+| 操纵师 | Người Thao Túng | Danh Sách 4 con đường Khán Giả |
+| 莱曼诺的旅行笔记 | Bút Ký Du Hành Của Leymano | Vật phẩm của gia tộc Abraham |
+| 无面人 | Người Không Mặt | Năng lực biến đổi diện mạo |
+| 血之盛宴 | Yến Tiệc Máu | Sách thần bí học của công tước Huyết tộc |
+|扎特温 | Zatwin | Bán thần Học phái Hoa Hồng |
+| 被诅咒之物 | Vật Bị Nguyền Rủa | Vật phong ấn cấp cao của Giáo hội Bão Táp; cần rà lại tên nguyên văn |
+| 红恶魔 | Ác Quỷ Đỏ | Biệt danh Tannick |
+| 坦尼克 | Tannick | Đối tượng bị bắt, bị nghi là gián điệp Intis |
+| 韦恩 | Wayne | Thanh tra cảnh sát qua đời |
+| 肖科 | Shoko | Cảnh sát nghi ngờ nguyên nhân tử vong Wayne |
+| 心理炼金会 | Hội Luyện Kim Tâm Lý | Tổ chức có hội đồng bình nghị |
+| 懒惰 | Lười Biếng | Danh hiệu một thành viên Hội đồng Bình nghị |
+| 赫密斯 | Hermes | Nhân vật cổ xưa, có liên quan Hội Luyện Kim Tâm Lý |
+| 安格尔威德 | Ankewelt | Vua Rồng, liên quan giả thuyết của Abner |
+| 阿勒苏霍德 | Alzuhod | Rồng Ác Mộng |
+| 历史投影 | Hình Chiếu Lịch Sử | Năng lực liên quan Học Giả Cổ Đại |
+
+**QA:** Các phiên âm và quy chiếu Danh Sách trên được dùng như bảng làm việc; cần tiếp tục rà soát theo nguyên văn khi biên tập EPUB. Đừng trộn tên riêng, tổ chức và những nguồn ngoại truyện còn thiếu.
