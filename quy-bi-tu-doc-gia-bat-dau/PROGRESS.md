@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — hoàn thành lượt dịch 10 chương 69–78
+Cập nhật: 2026-11-07 — đã commit thêm chương 79–83
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **78 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0078.md`.
-- Chương cần làm tiếp: **0079**.
+- Đã dịch và biên tập, có file kiểm tra được: **83 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0083.md`.
+- Chương cần làm tiếp: **0084**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -216,3 +216,18 @@ Nguồn: chính ZIP đã được người dùng cung cấp `file_000000000c2082
 | 0078 | Vũ hội | `3b5ec16e2f9caf62b5942df51ad9a2418f51fbf4` |
 
 QA: đọc từng mục nguyên văn, đối chiếu đầu/cuối cùng thứ tự diễn biến; GitHub đã xác nhận 78 file liên tiếp 0001–0078, cả 10 chương mới có tiêu đề và nội dung, không thiếu số. Chưa hoàn tất QA độc lập từng câu trên toàn bộ bản dịch 1.500+ chương. Không có EPUB cuối; 2 mục ngoại truyện thiếu nguồn vẫn missing. **Lượt kế tiếp: 0079–0088**, tiếp tục đến hết toàn bộ truyện, không dừng ở 100. Lịch tự động phải được giữ bật, không tự tắt.
+
+
+## Lượt tiếp theo 2026-11-07: các chương 79–83
+
+Nguồn: `qb_dich/chapters.jsonl` trong ZIP do người dùng cung cấp. Các chương đã dịch trọn và commit riêng:
+
+| Chương | Tựa Việt | Commit |
+|---|---|---|
+| 0079 | Người Khổng Lồ | `5af31e15715c634e774f463b0805376631c179c1` |
+| 0080 | Mặt Nạ | `80071a68649c3979109ccfd086a2c0ccbc676eec` |
+| 0081 | Bịa Nhật Ký | `eb498cc62ea85f782f41344d8756c736b6585cbd` |
+| 0082 | Hội Tarot Lại Bắt Đầu | `b9376600a08363985459e253ece04db7b9f686f4` |
+| 0083 | Yêu Cầu Của “Tháp” | `ce14d68e9a58a2d82ee6e8ff4867486e758ceba5` |
+
+Đã đọc từng mục trong ZIP và kiểm tra điểm đầu/cuối; chưa QA độc lập toàn văn. Mới đạt 5/10 chương của mục tiêu lượt này, **không nhận vơ đủ 10 chương**. Tiếp theo cần làm 0084–0088. Nguồn ngoại truyện chưa xác minh tiếp tục để `missing`; chưa có EPUB cuối. Lịch tự động giữ nguyên, không thay đổi.
