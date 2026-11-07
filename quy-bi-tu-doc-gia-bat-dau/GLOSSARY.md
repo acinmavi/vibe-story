@@ -210,3 +210,41 @@ Viết tiếng Việt có nhịp truyện, hạn chế lặp chủ ngữ và câ
 | 水手 | Thủy Thủ | Con đường Bão Táp, Danh Sách 9 |
 
 **Lưu ý QA:** chữ Hán `特里斯` ở các chương mới nên được phiên là Tris, không tự đồng nhất với `特纳` (Turner). Cần kiểm tra cách viết tên riêng qua bản gốc toàn truyện.
+
+## Bổ sung sau chương 59–68
+
+| Nguyên văn | Tiếng Việt thống nhất | Ghi chú |
+|---|---|---|
+| 气息提取 | Trích Xuất Khí Tức | Năng lực Kẻ Gìn Giữ Tri Thức |
+| 机械心智 | Tư Duy Máy Móc | Trạng thái suy nghĩ bình tĩnh tuyệt đối |
+| 模拟 | Mô Phỏng | Học năng lực nhờ phân tích trong trạng thái Thuần Bạch Chi Nhãn |
+| 未知之地 | Vùng đất chưa biết | Nguồn sức mạnh phía sau Thuần Bạch Chi Nhãn theo giả thuyết của Abner |
+| 真理的化身 | Hóa thân của mọi chân lý | Một phần lời cầu nguyện của Abner |
+| 黄黑之王 | Vị Vua Vàng Đen | Tôn danh của Kẻ Khờ |
+| 塔 | Tháp | Danh hiệu Tarot của Abner |
+| 莫斯苦修会 | Hội Khổ Tu Moses | Tổ chức thờ Hiền Giả Ẩn Giấu |
+| 隐匿贤者 | Hiền Giả Ẩn Giấu | Tồn tại liên quan con đường Kẻ Dòm Ngó Bí Mật |
+| 窥秘人 | Kẻ Dòm Ngó Bí Mật | Danh Sách thấp liên quan Hội Khổ Tu Moses |
+| 原初魔女 | Ma Nữ Nguyên Sơ | Tồn tại cấp thần linh |
+| 堕落造物主 | Tạo Vật Chủ Sa Đọa | Cách Kẻ Khờ gọi Tạo Vật Chủ Chân Thật |
+| 长者之树的树心 | Lõi thân Cây Trưởng Lão | Nguyên liệu ma dược Học Giả Uyên Bác |
+| 康斯·弗纳尔 | Cons Farnar | Nhà khảo cổ học, chủ thuê Etris |
+| 卡特里娜 | Katrina | Vợ Cons Farnar |
+| 洛特 | Lott | Con trai Farnar |
+| 艾琳娜 | Elena | Con gái song sinh nhà Farnar |
+| 菲丽丝 | Felice | Con gái song sinh nhà Farnar |
+| 霍纳奇斯山脉 | Dãy núi Hornacis | Gắn với gia tộc Antigonus |
+| 阿兹克·艾格斯 | Azik Eggers | Giảng viên lịch sử |
+| 不定之雾 | Sương Mù Bất Định | Ngoại Thần |
+| 博格达 | Bogda | Bạn của Joyce và Anna |
+| 罗珊 | Roshan | Nhân viên Blackthorn |
+| 伦纳德 | Leonard | Kẻ Gác Đêm |
+| 戴莉 | Daly | Phi Phàm Giả có thể giúp liên hệ bói toán |
+| 掘墓人 | Kẻ Đào Mộ | Danh Sách 8, con đường Người Thu Xác |
+| 皮尔洛墓园 | Nghĩa trang Pierlo | Nơi Jane làm việc |
+| 艾德希兰 | Edsilan | Người lừa đảo tiếp cận Jane |
+| 污秽之语 | Lời Nói Ô Uế | Hiệu ứng bùa chú dùng khí tức Ác Ma |
+| 掌控欲望 | Khống Chế Dục Vọng | Hiệu quả vật phẩm được phục hồi |
+| 铁血骑士 | Kỵ Sĩ Thiết Huyết | Danh Sách 4 con đường Thợ Săn |
+
+**QA thuật ngữ:** các tên mới phiên âm cần đối chiếu với chương sau; không tùy tiện coi Phù Thủy và Ma Nữ là đồng nghĩa trong mọi ngữ cảnh.
