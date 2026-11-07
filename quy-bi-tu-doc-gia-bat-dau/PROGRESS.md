@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-06 — kiểm tra và đồng bộ sau chương 33
+Cập nhật: 2026-11-07 — hoàn tất lượt dịch 10 chương 34–43
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **33 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0033.md`.
-- Chương cần làm tiếp: **0034**.
+- Đã dịch và biên tập, có file kiểm tra được: **43 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0043.md`.
+- Chương cần làm tiếp: **0044**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -105,3 +105,24 @@ QA phạm vi lượt này: xác minh **30/30 file** từ 0001 đến 0030 tồn 
 - Danh sách chương hiện liên tiếp 0001–0033; chương chưa có file nhỏ nhất là **0034**. Các nhắc tới chương 0031 trong nhật ký cũ chỉ là trạng thái lịch sử.
 - Ngoại truyện thiếu/trùng vẫn ở trạng thái `missing` theo `SOURCE_GAPS.md`; chưa tạo EPUB cuối.
 - **Không tự tắt, pause, disable hoặc hủy lịch tự động**, kể cả khi hoàn tất; chỉ người dùng quyết định tắt. Khi đã hoàn tất, các lượt sau chỉ kiểm tra trạng thái.
+
+## Lượt dịch 10 chương — 2026-11-07 (34–43)
+
+Đã kiểm tra các file `PROGRESS.md`, `GLOSSARY.md`, `SOURCE_GAPS.md` và danh sách `chapters/` trước khi bắt đầu. Đã materialize ZIP gốc của người dùng, đọc 10 mục liên tiếp trong `qb_dich/chapters.jsonl`, dịch trọn chương sang tiếng Việt; commit **riêng từng chương** trên nhánh `translation/quy-bi-doc-gia-20261106`:
+
+| Chương | Tựa Việt | SHA commit |
+|---|---|---|
+| 0034 | Ứng phó | `4902e99e5b5f8e409e2743c5900a649d506c903c` |
+| 0035 | Ủy thác từ cảng Damir | `0890b9a44c7f28f869e3ca705f126d1444640fc7` |
+| 0036 | Cảng Pritz | `eb19380edc2bb10c65492d1dfc52d81f0af368a9` |
+| 0037 | Trăng Máu | `73bc066a6d577be4b6029eef09ba128da12d7589` |
+| 0038 | Mê Cung Giấc Mơ | `52bdbe9657cd5488db536b1cd8279602ac32a9fb` |
+| 0039 | Chuẩn bị tiến vào | `9ff3b2a6e740fd48ce442618b95da806efa453cf` |
+| 0040 | Tầng thứ chín | `f22284f5f48c57658cecee9ac568fa296d69e865` |
+| 0041 | Bút ký | `ce4149e5572be15fce7b4ce92f7bafc88c4eb771` |
+| 0042 | Tầng thứ bảy | `4fef092ca7bfd8c30fac2f4c2d8cf97224ce516e` |
+| 0043 | Ý nghĩa | `e1e036a7a36032da52ad5dea9cfcc0461a4d7da9` |
+
+QA lượt này: xác nhận từ GitHub có **43/43 file liên tiếp**, không thiếu số từ 0001 đến 0043; kiểm tra tiêu đề, đoạn mở đầu và kết thúc của 10 chương mới, độ dài 8.208–10.028 ký tự/chương. Thuật ngữ cũ được duy trì; **chưa có QA độc lập đối chiếu từng câu toàn bộ tác phẩm**. Nguồn ngoại truyện thiếu/trùng vẫn giữ trạng thái `missing` trong `SOURCE_GAPS.md`. Không đưa ZIP hoặc văn bản nguồn gốc tiếng Trung vào repo.
+
+**Chương cần dịch tiếp theo: 0044.** Tiếp tục mục tiêu 10 chương trọn vẹn mỗi lượt; lịch tự động tuyệt đối không được tự tắt.
