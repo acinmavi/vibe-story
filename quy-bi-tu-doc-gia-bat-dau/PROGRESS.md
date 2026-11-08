@@ -1,11 +1,11 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-08 — đã đưa đợt 0150–0159 lên nhánh dịch
+Cập nhật: 2026-11-08 — đã đưa bản dịch đến chương 0200 lên nhánh dịch
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **158 chương có file trên nhánh**, 0001–0128 và 0130–0159. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0160**.
-- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0159 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
+- Đã dịch và biên tập, có file kiểm tra được: **199 chương có file trên nhánh**, 0001–0128 và 0130–0200. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0201**.
+- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0200 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
 
@@ -392,3 +392,53 @@ ChatGPT web tạo một commit mỗi chương. Codex xác minh đúng phạm vi 
 | 0159 | `60ea9f6e1ffaae118cdf08d5ac78159682ad69e4` |
 
 Đợt tiếp theo: 0160–0200.
+
+## Lượt dịch 0160–0200 — 2026-11-08
+
+ChatGPT web tạo 41 commit riêng trên nhánh dịch. Codex đã pull, kiểm tra phạm vi từng commit, UTF-8, số đoạn và đối chiếu phần mở, giữa, kết với ZIP. Đã chuẩn hóa một số cách gọi và sửa câu mở đầu chương 0191. QA độc lập từng câu vẫn còn mở.
+
+| Chương | SHA commit bản dịch |
+|---|---|
+| 0160 | `446cb3c68ee907ec4bfa563b5fa16504714d9bfe` |
+| 0161 | `85c50bce6933a66a0beee40ed2325400d8c86f59` |
+| 0162 | `590da34713d3af45b43f46efe52fb2ec5a53f9f4` |
+| 0163 | `53e3929f0d9a75eb361f8ea48085ef3dec0618f4` |
+| 0164 | `a85b970477d1eab3adb2d433537cc82958195788` |
+| 0165 | `e7b51b1c6565ee1d5b81d987e171dfe06024cebe` |
+| 0166 | `8be8259684f346532276ce96ef24d5b546d60625` |
+| 0167 | `aab0638e7bc9eb838baf951e18c34cc010ed11c3` |
+| 0168 | `46ebfed6c6c6fcddbe8ab0daa2b635916ab8bda9` |
+| 0169 | `b360801ff532bbccc669480edd4b6029f64dfbb9` |
+| 0170 | `541fa752a57de6de11f932bf0fa34e3fd86cba81` |
+| 0171 | `2d574c9f331a890fe420d9490b9ab9cc057e74e3` |
+| 0172 | `5e48699946150c0f26b2bc8050d9612445096a99` |
+| 0173 | `8b2ac6487667a8bdd629009d1c31d3d0aac28e54` |
+| 0174 | `8fd750325708b2be241605a58924e5938e48d9f3` |
+| 0175 | `5ea0b33f94e8ef5bd5f72ffef7898f8a152332e8` |
+| 0176 | `26f5cdf9ed04ac911b6e0e6f7f9193840110ce6d` |
+| 0177 | `0157e4c59b8fe0cf032a0c40f40f7b75427b3dc2` |
+| 0178 | `033a986561224a00d774db1cfc0982f7fa400842` |
+| 0179 | `947c4fb8014c76ae45cbc49b3ce07d9c15d976d5` |
+| 0180 | `c175b3cc56a5a880f5624096dbabc6c324353dd2` |
+| 0181 | `26faa41c3bf08c0b0d3b0534d8a3334b89597a90` |
+| 0182 | `357ef39c815f81a25cd7f11d9434592c3e8313a2` |
+| 0183 | `09e2e19e810a96eff2c0e5ce6fe85022db4b100d` |
+| 0184 | `b7f289b9157a838da59c869e55a6208e9b47309b` |
+| 0185 | `5d218ec665f85aa8d0a5820fe1c4a20a433d3e1c` |
+| 0186 | `595b13ffd4da6d2881def32209df281220b06abb` |
+| 0187 | `a4870753c03cf5b8805aad9fcafd30e5bc71d0ad` |
+| 0188 | `c81c6bd4a3d693306164007b4d7dbd45c91b812b` |
+| 0189 | `579ea3f7d82c6a0940ac87436357694c75678d14` |
+| 0190 | `5392aa96b9c3efe4855f4e48a476afc2ce604466` |
+| 0191 | `eba632e313ae24e3cbd04f59ded9e3ed0c1998ed` |
+| 0192 | `ea2859bce102a3398ce0fa528864496c02b1a2b9` |
+| 0193 | `4965c239f0d9667ace8527d23ab57baa9ed9be24` |
+| 0194 | `ce7ea69dba7f423f8edad1d29ee9e03b13d30368` |
+| 0195 | `399d915fbe2aab8dd5f0f84916a5f1d7bec73073` |
+| 0196 | `50f3b9d259c3fc839761a018461b1093e5c6cd96` |
+| 0197 | `fb6ee563351d47604f9cb8cfdf58350f1389967e` |
+| 0198 | `fff2f2daca22d92084744fe104e2f908ebb9d3e5` |
+| 0199 | `4ae9c20767bcccf2e1bc390118cdad377c585374` |
+| 0200 | `66a895231aa33648612c57312b79ab48529beba4` |
+
+Đợt tiếp theo: 0201–0300.
