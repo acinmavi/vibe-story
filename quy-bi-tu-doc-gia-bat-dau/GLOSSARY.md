@@ -470,3 +470,12 @@ Cần kiểm tra lại phiên âm tên riêng khi biên tập cuối, không coi
 | 绝望魔女 | Ma Nữ Tuyệt Vọng | Cấp thăng tiến được nhắc trong chương 0130 |
 | 寄生者 | Kẻ Ký Sinh | Tiêu đề chương 0131 |
 | 红手套 | Găng Tay Đỏ | Nhóm được nhắc trong chương 0131 |
+
+
+## Bổ sung từ chương 0140–0149
+
+| Gốc/biến thể | Thống nhất tiếng Việt | Ghi chú |
+|---|---|---|
+| 麋鹿庄园 | Trang viên Nai Sừng Tấm | Trang viên của nghị sĩ Macht, chương 0146 |
+| 附身木偶 | Búp Bê Nhập Hồn | Vật phong ấn 1-025, chương 0145 |
+| 太阳光环 | Vầng Hào Quang Mặt Trời | Năng lực Robert kích hoạt bằng gương, chương 0145 |

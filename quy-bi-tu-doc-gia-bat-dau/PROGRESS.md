@@ -1,11 +1,11 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-08 — đã đưa đợt 0130–0139 lên nhánh dịch
+Cập nhật: 2026-11-08 — đã đưa đợt 0140–0149 lên nhánh dịch
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **138 chương có file trên nhánh**, 0001–0128 và 0130–0139. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0140**.
-- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Đợt 0130–0139 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
+- Đã dịch và biên tập, có file kiểm tra được: **148 chương có file trên nhánh**, 0001–0128 và 0130–0149. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0150**.
+- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0149 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
 
@@ -353,3 +353,23 @@ ChatGPT web dịch từ nguồn người dùng cung cấp và tạo một commit
 | 0139 | Gặp mặt | `12c0bf6857a962b514bd57d8f5fbca02b9c3df5d` |
 
 Giữ nguyên số tiêu đề chính thức. Xem `SOURCE_GAPS.md` về số 0129. Đợt tiếp theo: 0140–0149.
+
+
+## Lượt dịch 0140–0149 — 2026-11-08
+
+ChatGPT web dịch theo từng đoạn nguồn và tạo một commit cho mỗi chương. Codex xác minh chuỗi commit, số đoạn của cả mười chương, phần mở/kết, các đoạn lấy mẫu và cách dùng glossary. Đã sửa cách gọi Hội Tarot trong 0142 và cách diễn đạt vị trí kẻ địch trong 0147. Chưa hoàn tất QA độc lập từng câu toàn đợt.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0140 | Sharron và Maric | `e5b3b7d89bf786379c267b65632991c5a8c06b2f` |
+| 0141 | Kiếm của Nữ Thần | `fc99d9ae8eda1af0f705d881ef023198142ee041` |
+| 0142 | Manh mối của Audrey | `b8ed88c909d3b46fce7763cee9a3a813c875d36e` |
+| 0143 | Khúc Dạo Đầu | `1bf8c2223fa6de07aefd746f01b3c9d4e6ead453` |
+| 0144 | Bắt Đầu | `9d2637c400d5befffd83b90850dba46e45688f8a` |
+| 0145 | Từng Bước Tiến Tới | `ab3e6d82168ded817e3c6c45c5d0a90c1b7343f0` |
+| 0146 | Khúc Chuyển Tiếp | `5b85bcd1894bee0f909d84a387618ad8e17d838d` |
+| 0147 | Ba Chiến Trường (Chương thêm) | `531d79f3f274d5ca021b35fd18a7000a42a75b91` |
+| 0148 | Kịch Liệt (Chương thêm thứ hai) | `303aceb249dd359a6b7449653d3eefa694368165` |
+| 0149 | Hận Ý (Chương thêm thứ ba) | `795142986f0107a2c967df64309f2d390eeb5589` |
+
+Đợt tiếp theo: 0150–0159.
