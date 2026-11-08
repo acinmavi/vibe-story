@@ -1,11 +1,11 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-08 — đã đưa bản dịch đến chương 0200 lên nhánh dịch
+Cập nhật: 2026-11-08 — đã đưa bản dịch đến chương 0222 lên nhánh dịch
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **199 chương có file trên nhánh**, 0001–0128 và 0130–0200. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0201**.
-- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0200 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
+- Đã dịch và biên tập, có file kiểm tra được: **221 chương có file trên nhánh**, 0001–0128 và 0130–0222. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0223**.
+- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0222 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
 
@@ -442,3 +442,46 @@ ChatGPT web tạo 41 commit riêng trên nhánh dịch. Codex đã pull, kiểm 
 | 0200 | `66a895231aa33648612c57312b79ab48529beba4` |
 
 Đợt tiếp theo: 0201–0300.
+
+## Lượt dịch 0201–0210 — 2026-11-08
+
+Codex đã pull và kiểm tra từng commit, số đoạn và lấy mẫu đối chiếu với nguồn ZIP. QA độc lập từng câu vẫn còn mở.
+
+| Chương | SHA commit bản dịch |
+|---|---|
+| 0201 | `979434f6668c634f86ae60e7caf7b61673f1b441` |
+| 0202 | `f40543b1e80233b0f2b9a01c7d18ba09643cb99c` |
+| 0203 | `4ce0a5b45555669bc80a060f5547b2880f4da674` |
+| 0204 | `57bc464fbb5064396b40197b03bf923454a3cad7` |
+| 0205 | `b67b534158bfda017a97d3c2d2fbca61bd2372f0` |
+| 0206 | `9045680d12a2be7ea62951d57a0ea77b387f10e2` |
+| 0207 | `f6d6d9201664a5ad980126957d2e6461c609b6c6` |
+| 0208 | `8af07f8c8286c82ec916eeb424c8a8fa2c2c1cdf` |
+| 0209 | `12fb42f63793c7668deeceb416c2f3bc2a1f3b46` |
+| 0210 | `d15415bf657c7681c97a26fbb2967cc79ac67a96` |
+
+## Lượt dịch 0211–0220 — 2026-11-08
+
+Codex đã pull và kiểm tra từng commit, số đoạn và lấy mẫu đối chiếu với nguồn ZIP. QA độc lập từng câu vẫn còn mở.
+
+| Chương | SHA commit bản dịch |
+|---|---|
+| 0211 | `a4d6d87d959cc8694240e602181195f36e25b020` |
+| 0212 | `7e8e640cb2f9724753d7cc25f4bffa96ea6d90b4` |
+| 0213 | `4cdae58ba0641805f8ae8b11a5dd481bdf03bde1` |
+| 0214 | `f4bcca5377cce22dc396a340b088d23d387ae4a6` |
+| 0215 | `c3d8b5d6c3692ba646123d8f1e099bab4c80ce61` |
+| 0216 | `5cf7bcef37abb569727d242edfd3af2bcf7be96c` |
+| 0217 | `9ccc68ec22989d255693bd5192e1cc915b821869` |
+| 0218 | `48ea79402d791aad6f99e16328204bc1f41c87bc` |
+| 0219 | `45a85cc514ac3008fcb873435b691f58c02139cc` |
+| 0220 | `68e76cb7d1787d8e6732f126cf80da094d0f28e0` |
+
+## Lượt dịch 0221–0222 — 2026-11-08
+
+Codex đã pull và kiểm tra từng commit, số đoạn và lấy mẫu đối chiếu với nguồn ZIP. QA độc lập từng câu vẫn còn mở.
+
+| Chương | SHA commit bản dịch |
+|---|---|
+| 0221 | `82cb7f14027d0d61dc8bcad7c3e65e75e1514c12` |
+| 0222 | `9ee269b72be407b1f9c5c293c0ec735bc96652d8` |
