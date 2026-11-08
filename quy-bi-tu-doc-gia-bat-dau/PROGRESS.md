@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-07 — hoàn thành thêm đợt 10 chương 109–118
+Cập nhật: 2026-11-08 — hoàn thành đợt 10 chương 119–128
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **118 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0118.md`.
-- Chương cần làm tiếp: **0119**.
+- Đã dịch và biên tập, có file kiểm tra được: **128 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0128.md`.
+- Chương cần làm tiếp: **0129**.
 - Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -311,3 +311,25 @@ Kiểm tra sau commit: GitHub hiện có **108/108 file liên tục 0001–0108,
 | 0118 | “Nghĩ ngợi lung tung” | `bc5fd03d052de984ad4369692f1db70fd8c2bba1` |
 
 Kiểm tra hậu commit: GitHub có **118/118 tệp liên tiếp 0001–0118, không khuyết số**. Đã đối chiếu các chương mới theo văn bản nguồn ở ZIP, bảo toàn nội dung cốt truyện và kết thúc từng chương; **chưa hoàn tất QA độc lập từng câu toàn bộ truyện**. Hai phần ngoại truyện bị thiếu/trùng nguồn và đoạn nguồn hỏng tiếp tục ở trạng thái `missing` theo `SOURCE_GAPS.md`. Chưa tạo EPUB cuối. **Chương tiếp theo: 0119**; tuyệt đối không dừng tại bất cứ mốc trung gian nào. Không tự tắt, pause, disable hoặc sửa lịch tự động.
+
+
+## Lượt dịch 10 chương — 2026-11-08 (119–128)
+
+Trước khi dịch đã đọc `PROGRESS.md`, `GLOSSARY.md`, `SOURCE_GAPS.md`, danh sách chương thực tế trên nhánh, và kiểm tra thư mục Library pending (chưa tồn tại). Đã khôi phục ZIP **do người dùng tải lên**, sử dụng đúng `qb_dich/chapters.jsonl`. Dịch theo các mục gốc 119–128, không sử dụng nguồn Internet, không đưa nguyên văn Trung văn lên GitHub. Mỗi chương có commit riêng như dưới đây:
+
+| Chương | Tiêu đề | SHA commit đã được GitHub xác nhận |
+|---|---|---|
+| 0119 | “Kẻ Trộm” | `36fab7c0134b239019867a3da2501eeb5c3e5b26` |
+| 0120 | Hạt Giống | `2fe49be6926eb02b1af9e24c07890441cb81ab69` |
+| 0121 | Ứng phó | `bddadacc7fea515769eb99d3ae6eee3afd6e28b1` |
+| 0122 | Phong Tỏa | `f9b6eee7c75940cdb816d5ec14ed59a72d3381e` |
+| 0123 | Màn Mở Đầu | `2a26ca62db6d8f80601c291d73380d5d59031173` |
+| 0124 | Thế Giới Điên Cuồng Và Hỗn Loạn | `0ddb08c5e0408191ed68981bbf7028d781833497` |
+| 0125 | “Trang Nhất” Sắp Tới | `7494bc461329bdc6c879d707a7503a8465a50b19` |
+| 0126 | Lại Nổi Tiếng | `cfd4377a22adc192652039e20ce58571be49165c` |
+| 0127 | Sự Tiêu Hóa Ngoài Dự Kiến | `ff1506b80cb94f611bfac96c012d4d922e319080` |
+| 0128 | Tổng Kết Quy Tắc Nhập Vai “Kẻ Gìn Giữ Tri Thức” | `fb97ddcac14d120c7c97750ae35bdfa812cbd803` |
+
+Kiểm tra sau khi commit: nhánh có **128 tệp liên tục từ 0001 đến 0128, không khuyết số**. Mười tệp mới từ 10.324 đến 13.862 byte, đều có nội dung tiếng Việt. Đã soát mạch truyện, phần mở đầu và kết thúc theo bản gốc khi dịch; **chưa thực hiện QA độc lập đối chiếu từng câu của toàn truyện**, nên chưa phát hành EPUB. Các ngoại truyện sai/trùng hoặc thiếu nguồn tiếp tục giữ nguyên trạng thái `missing` trong `SOURCE_GAPS.md`.
+
+**Lượt kế tiếp phải xác định lại chương thiếu nhỏ nhất từ danh sách thực tế**, theo trạng thái lúc ghi là 0129. Mục tiêu tiếp tục tới hết toàn bộ nguồn hợp lệ, không có giới hạn chương 100 hay mốc trung gian; không tự ý thay đổi/tắt/pause/disable lịch dịch.
