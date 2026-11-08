@@ -1,11 +1,11 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-08 — đã đưa đợt 0140–0149 lên nhánh dịch
+Cập nhật: 2026-11-08 — đã đưa đợt 0150–0159 lên nhánh dịch
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **148 chương có file trên nhánh**, 0001–0128 và 0130–0149. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0150**.
-- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0149 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
+- Đã dịch và biên tập, có file kiểm tra được: **158 chương có file trên nhánh**, 0001–0128 và 0130–0159. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0160**.
+- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0159 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
 
@@ -373,3 +373,22 @@ ChatGPT web dịch theo từng đoạn nguồn và tạo một commit cho mỗi 
 | 0149 | Hận Ý (Chương thêm thứ ba) | `795142986f0107a2c967df64309f2d390eeb5589` |
 
 Đợt tiếp theo: 0150–0159.
+
+## Lượt dịch 0150–0159 — 2026-11-08
+
+ChatGPT web tạo một commit mỗi chương. Codex xác minh đúng phạm vi từng commit, UTF-8, số đoạn và đối chiếu phần mở/kết với ZIP. QA độc lập từng câu vẫn còn mở.
+
+| Chương | SHA commit |
+|---|---|
+| 0150 | `8c69ceaf7d174bce94442f046ddc4c053c87b080` |
+| 0151 | `4bd2ba4a314cc2a12c8b8c1027e2fc3343d323d8` |
+| 0152 | `1b1c648037f253696eba009639ced1fe10e2dcca` |
+| 0153 | `0883a31ffd97f1f1a844e6a4dc59e33932a07dc3` |
+| 0154 | `2a9e7a14af440f45af02f337ca6074f1ad68042a` |
+| 0155 | `33685227479e997ce72f4f366448fd669d90c0dd` |
+| 0156 | `1131771a259eb3e9238a804313188f9138d18f80` |
+| 0157 | `148155826022189ebd60946d895341e7a7ad687e` |
+| 0158 | `9a38022cdd079659981e70c9aa5e0817f71a47ab` |
+| 0159 | `60ea9f6e1ffaae118cdf08d5ac78159682ad69e4` |
+
+Đợt tiếp theo: 0160–0200.
