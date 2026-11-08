@@ -421,3 +421,42 @@ Cần kiểm tra lại phiên âm tên riêng khi biên tập cuối, không coi
 | 历史投影 | Hình Chiếu Lịch Sử | Năng lực liên quan Học Giả Cổ Đại |
 
 **QA:** Các phiên âm và quy chiếu Danh Sách trên được dùng như bảng làm việc; cần tiếp tục rà soát theo nguyên văn khi biên tập EPUB. Đừng trộn tên riêng, tổ chức và những nguồn ngoại truyện còn thiếu.
+
+
+## Thuật ngữ bổ sung chương 119–128
+
+| Chữ Hán | Tiếng Việt thống nhất | Ghi chú |
+|---|---|---|
+| 马赫特议员 | Nghị sĩ Macht | Nghị sĩ Hạ viện, cựu sĩ quan Loen |
+| 莉亚娜 | Liana | Phu nhân Macht |
+| 海柔尔 | Hazel | Con gái nghị sĩ Macht; Phi Phàm Giả con đường Kẻ Trộm |
+| 偷盗者 | Kẻ Trộm | Con đường Phi Phàm, không nhầm với kẻ trộm thông thường |
+| 雅各家族 | Gia tộc Jacob | Liên quan người thầy của Hazel |
+| 原始月亮 | Mặt Trăng Nguyên Thủy | Khí tức ô nhiễm; khác với Mẫu Thần Đại Địa |
+| 库恩 | Kuhn | Đội trưởng Kẻ Trừng Phạt tại Backlund |
+| 芬克尔 | Finkel | Quản gia Hoàng tử Edessak |
+| 审判之剑 | Thanh Kiếm Phán Quyết | Huy hiệu hoàng gia Augustus |
+| 代罚者 | Kẻ Trừng Phạt | Nhân sự Giáo hội Bão Táp |
+| 机械心智 | Tư Duy Máy Móc | Trạng thái lý trí gần tuyệt đối |
+| 土魔像 | Người Đất Ma Pháp | Tạo vật phòng thân của Judy |
+| 古代炼金师 | Nhà Luyện Kim Cổ Đại | Danh Sách cao của con đường Người Canh Tác |
+| 痛苦之鞭 | Roi Đau Đớn | Năng lực Người Thẩm Vấn |
+| 光明之火 | Lửa Ánh Sáng | Tấn công thuộc lĩnh vực Mặt Trời |
+| 审讯者 | Người Thẩm Vấn | Danh Sách thuộc con đường Trọng Tài |
+| 1-025 | 1-025 | Vật phong ấn dùng bói toán |
+| 2-001 | 2-001 | Vật phong ấn dùng cách ly không gian |
+| 神之歌者 | Ca Giả Của Thần | Danh hiệu Ace Snake |
+| 黑夜女神 | Nữ Thần Đêm Tối | Chính Thần |
+| 灾难之城 | Thành Phố Tai Ương | Chỉ dùng khi thật sự gặp nguyên văn phù hợp |
+| 海伦 | Helen | Phu nhân Huyết tộc, mẹ Karen |
+| 巫王 | Vu Vương | Danh Sách cao, xuất hiện trong lời suy đoán |
+| 麦康纳 | McConaughey | Thành viên Kẻ Trừng Phạt, cần rà phiên âm |
+| 罗伯特 | Robert | Thành viên Kẻ Trừng Phạt |
+| 马修 | Matthew | Thành viên Kẻ Trừng Phạt |
+| 埃文 | Evan | Thành viên Kẻ Trừng Phạt |
+| 莫里·马赫特 | Mori Macht | Nghị sĩ, cha Hazel |
+| 皮埃尔 | Pierre | Liên hệ Báo Quan Sát Hằng Ngày |
+| 拉鲁 | Lalu | Liên hệ Báo Quan Sát Hằng Ngày |
+| 知其白而守其黑 | Biết rõ ánh sáng mà gìn giữ bóng tối | Câu dùng làm quy tắc nhập vai Kẻ Gìn Giữ Tri Thức |
+
+**QA:** Tên riêng mới và cách gọi năng lực phải tiếp tục soát theo nguyên văn. Các ngoại truyện thiếu nguồn vẫn giữ nguyên `missing`, không được bù bằng nội dung suy đoán.
