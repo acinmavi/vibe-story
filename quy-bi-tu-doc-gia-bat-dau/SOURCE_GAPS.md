@@ -15,6 +15,10 @@ Nguồn: `341776.zip` (TXT Ai Xia) và 7 file HTML do người dùng cung cấp 
 3. Các ngoại truyện cuối như **“愚者”的生日礼物** và **走向星空（完）** đã có HTML lưu lại, nhưng tổng thể phần phụ lục vẫn cần kiểm tra đối chiếu trước khi chốt.
 4. Chưa có đối chiếu toàn văn 1.500+ chương so với bản chính thức. Không thể đảm bảo dữ liệu gốc đầy đủ chỉ nhờ số lượng mục lục.
 
+## Chỗ nhảy số đã đối chiếu
+
+- **0129, quyển Học Giả Uyên Bác.** Mục lục WebNovel ghi hai mục liền kề có tiêu đề chương 128 (`总结“守知者”扮演守则`) và chương 130 (`魔女的目的`). ZIP gốc và JSONL có cùng thứ tự. Mạch truyện nối tiếp từ đoạn Abner nghĩ đến việc mượn tiền Danitz ở cuối 128. Một số bản sao đánh số `魔女的目的` là 129. Giữ `0130.md` theo tiêu đề chính thức và bỏ qua số 0129 khi kiểm tra tính liên tục. [Mục lục WebNovel](https://www.webnovel.com/zh/book/19293266101452704/catalog) · [Mục lục bản đánh số lại](https://hetushu.com/book/7425/index.html)
+
 **Không đặt chương trống, không bịa tình tiết, không thay chương không dịch bằng nguyên văn tiếng Trung rồi gọi là EPUB tiếng Việt hoàn chỉnh.**
 
 ## Lưu ý về quyền

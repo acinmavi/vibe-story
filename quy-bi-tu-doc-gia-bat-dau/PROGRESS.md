@@ -1,11 +1,11 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-08 — hoàn thành đợt 10 chương 119–128
+Cập nhật: 2026-11-08 — đã đưa đợt 0130–0139 lên nhánh dịch
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **128 chương có file trên nhánh**, `chapters/0001.md` đến `chapters/0128.md`.
-- Chương cần làm tiếp: **0129**.
-- Nguồn ZIP/HTML do người dùng gửi trong ChatGPT; chưa commit nguồn tiếng Trung lên GitHub.
+- Đã dịch và biên tập, có file kiểm tra được: **138 chương có file trên nhánh**, 0001–0128 và 0130–0139. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0140**.
+- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Đợt 0130–0139 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
 
@@ -333,3 +333,23 @@ Trước khi dịch đã đọc `PROGRESS.md`, `GLOSSARY.md`, `SOURCE_GAPS.md`, 
 Kiểm tra sau khi commit: nhánh có **128 tệp liên tục từ 0001 đến 0128, không khuyết số**. Mười tệp mới từ 10.324 đến 13.862 byte, đều có nội dung tiếng Việt. Đã soát mạch truyện, phần mở đầu và kết thúc theo bản gốc khi dịch; **chưa thực hiện QA độc lập đối chiếu từng câu của toàn truyện**, nên chưa phát hành EPUB. Các ngoại truyện sai/trùng hoặc thiếu nguồn tiếp tục giữ nguyên trạng thái `missing` trong `SOURCE_GAPS.md`.
 
 **Lượt kế tiếp phải xác định lại chương thiếu nhỏ nhất từ danh sách thực tế**, theo trạng thái lúc ghi là 0129. Mục tiêu tiếp tục tới hết toàn bộ nguồn hợp lệ, không có giới hạn chương 100 hay mốc trung gian; không tự ý thay đổi/tắt/pause/disable lịch dịch.
+
+
+## Lượt dịch 0130–0139 — 2026-11-08
+
+ChatGPT web dịch từ nguồn người dùng cung cấp và tạo một commit cho mỗi chương trên nhánh dịch. Codex xác minh chuỗi commit, số chương, số đoạn, phần mở và kết, rà thuật ngữ và đối chiếu các đoạn được chọn với ZIP gốc. Đã sửa các lệch về thuật ngữ, chi tiết và số mục tiêu ở năm chương. Chưa hoàn tất QA độc lập từng câu toàn đợt.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0130 | Mục đích của Ma Nữ | `d44379001061d1aaea1f7a4bce85e44c4e9a7e6e` |
+| 0131 | Kẻ Ký Sinh (chương tăng thêm) | `1b16dff073670dd9676215afaedcbbb40eba2b56` |
+| 0132 | Những giao dịch liên tiếp (chương tăng thêm thứ hai) | `0aabdf7da0eb6f0337ec1e92b2fc789d726a05d3` |
+| 0133 | Ủy thác | `0b18ef8847e59ddd7fe88316e8eebbcd46abbdb1` |
+| 0134 | Trao đổi (chương tăng thêm) | `cb68cc2e3d4e254237e3999b9f0f4d6f373ca779` |
+| 0135 | Lời mời dự tiệc | `66caba5a6fc13a9ffd85f0903284f654ffe00f40` |
+| 0136 | Giao dịch | `46c4096326dc6e5fe27d16e5531076a74e65307f` |
+| 0137 | “Tải lên” vật liệu | `68e42dee0f05fd1559862e9da63d347bdcb5f160` |
+| 0138 | Lời mời của Kaspars | `10b8b0c19f01e6d7bb9b9e9e790114cf27fad801` |
+| 0139 | Gặp mặt | `12c0bf6857a962b514bd57d8f5fbca02b9c3df5d` |
+
+Giữ nguyên số tiêu đề chính thức. Xem `SOURCE_GAPS.md` về số 0129. Đợt tiếp theo: 0140–0149.

@@ -460,3 +460,13 @@ Cần kiểm tra lại phiên âm tên riêng khi biên tập cuối, không coi
 | 知其白而守其黑 | Biết rõ ánh sáng mà gìn giữ bóng tối | Câu dùng làm quy tắc nhập vai Kẻ Gìn Giữ Tri Thức |
 
 **QA:** Tên riêng mới và cách gọi năng lực phải tiếp tục soát theo nguyên văn. Các ngoại truyện thiếu nguồn vẫn giữ nguyên `missing`, không được bù bằng nội dung suy đoán.
+
+
+## Bổ sung từ chương 0130–0139
+
+| Gốc/biến thể | Thống nhất tiếng Việt | Ghi chú |
+|---|---|---|
+| 海洋歌者 | Ca Giả Đại Dương | Danh Sách 5 của Kuhn, chương 0130 |
+| 绝望魔女 | Ma Nữ Tuyệt Vọng | Cấp thăng tiến được nhắc trong chương 0130 |
+| 寄生者 | Kẻ Ký Sinh | Tiêu đề chương 0131 |
+| 红手套 | Găng Tay Đỏ | Nhóm được nhắc trong chương 0131 |
