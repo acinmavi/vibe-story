@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0397 lên nhánh dịch; chặng 0388–0397 hoàn tất
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0400 lên nhánh dịch; mục tiêu theo dõi đến chương 0400 hoàn tất
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **396 chương có file trên nhánh**, 0001–0128 và 0130–0397. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0398**.
+- Đã dịch và biên tập, có file kiểm tra được: **399 chương có file trên nhánh**, 0001–0128 và 0130–0400. Số 0129 được bỏ qua theo mục lục chính thức.
+- Đã hoàn tất mốc theo dõi 0400; bước tiếp theo cần xác định theo yêu cầu mới.
 - Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -122,6 +122,18 @@ Lưu ý QA nguồn ở chương 0381: danh xưng trong câu đầu có vẻ khô
 | 0397 | `4b3402216b4afa19c46d90b25e429e121bead30a` |
 
 QA đã làm: kiểm tra mỗi commit chỉ chứa một chương, xác nhận đầu file và rà ký tự Hán. **Lượt cuối: 0398–0400.**
+
+## Lượt cuối theo dõi — 2026-11-09 (0398–0400)
+
+Đã dịch tuần tự và commit riêng từng chương trên nhánh `translation/quy-bi-doc-gia-20261106`; Codex đã pull, kiểm tra phạm vi commit, cấu trúc, điểm đầu/cuối và ký tự Hán:
+
+| Chương | Tựa tiếng Việt | Khối truyện | SHA commit |
+|---|---|---:|---|
+| 0398 | Thử thách thực lực (chương thứ hai) | 63 | `18dbcedcb03702e71eec6f11af1a689b5dd3624a` |
+| 0399 | Cơ duyên tương lai (chương thứ ba) | 45 | `4342d4751621928ca947892c6cef480b9c4ed83f` |
+| 0400 | Đặc quyền mới | 74 | `10dcfb24cda440e9d65e53e32f9968588fd8a28c` |
+
+Nguồn chương 0399 có một dòng quảng cáo ở đầu, đã loại khỏi bản dịch; nội dung truyện gồm 45 khối. Đã dừng chính xác tại 0400 theo mốc yêu cầu. Việc QA độc lập toàn văn và biên tập các bản dịch vẫn là công việc riêng.
 
 ## Lượt dịch 10 chương — 2026-11-09 (0368–0377)
 
