@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0337 lên nhánh dịch; chặng 0328–0337 hoàn tất
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0347 lên nhánh dịch; chặng 0338–0347 hoàn tất
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **336 chương có file trên nhánh**, 0001–0128 và 0130–0337. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0338** (`海盗大会（第二更）`).
+- Đã dịch và biên tập, có file kiểm tra được: **346 chương có file trên nhánh**, 0001–0128 và 0130–0347. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0348**.
 - Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -27,6 +27,25 @@ Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0337 lên n
 | 0337 | Lời cảnh báo của Roselle và phần thưởng | `678cc8ba86718576de14d7d67a0ef7ef5a70412c` |
 
 QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi một file chương; kiểm tra cấu trúc đạt 0328 (60 khối), 0329 (78), 0330 (55), 0331 (63), 0332 (59), 0333 (73), 0334 (68), 0335 (89), 0336 (66), 0337 (60). Không còn chữ Hán trong các file mới. Đây chưa phải QA độc lập đối chiếu từng câu toàn bộ truyện. **Lượt kế tiếp: 0338–0347.**
+
+## Lượt dịch 10 chương — 2026-11-09 (0338–0347)
+
+Đã dùng nguồn đầy đủ trong ZIP/repository; các mục trùng ngoài mạch truyện được loại khỏi lựa chọn nguồn. Worker commit riêng từng chương trên nhánh `translation/quy-bi-doc-gia-20261106`; Codex đã pull và QA cấu trúc, đầu/cuối, ký tự Hán và phạm vi file:
+
+| Chương | Tựa tiếng Việt | Khối nguồn | SHA commit |
+|---|---|---:|---|
+| 0338 | Đại hội Hải Tặc (lượt cập nhật thứ hai) | 51 | `25c241301d07b51fc6c23732abd9a111a987cb3b` |
+| 0339 | Lên đường và gặp gỡ (lượt cập nhật thứ ba) | 57 | `49c09f2cf22b44b5fa6e05bb5a20e6a39e33bca1` |
+| 0340 | Lydia và Tran | 74 | `1da47d03cb09863d27ca32ded73c81fdf6d916e6` |
+| 0341 | Nhật ký mới | 65 | `224caeb74ef1156a0a8f8f29c336727a6f389224` |
+| 0342 | Những niềm vui thường ngày của Hội Tarot | 57 | `9fc7d47b0010ea0d33a8a7e5a65f22a668f86969` |
+| 0343 | Giao dịch và trao đổi | 63 | `9f189b3370511414b781c02e159367c601249316` |
+| 0344 | Đèn Thần Ước Nguyện | 54 | `927d49e0bfcb1d01bda2da44f171b3f628d88a4a` |
+| 0345 | Bức thư | 54 | `2da012eaf032c98b37fb6470f7ca7b812e267012` |
+| 0346 | Danh tiếng khác thường của Abner | 63 | `7d968759030b33d419533521a1b332256dd316c3` |
+| 0347 | Chính Nghĩa Nhợt Nhạt | 61 | `e67668342a0f2953bf39a8cf7ed3a8f1be659fbb` |
+
+QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi một file chương; không còn chữ Hán trong các file mới. Đây vẫn là kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0348–0357.**
 
 ## Checklist mỗi đợt
 
