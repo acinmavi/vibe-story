@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0367 lên nhánh dịch; chặng 0358–0367 hoàn tất
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0377 lên nhánh dịch; chặng 0368–0377 hoàn tất
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **366 chương có file trên nhánh**, 0001–0128 và 0130–0367. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0368**.
+- Đã dịch và biên tập, có file kiểm tra được: **376 chương có file trên nhánh**, 0001–0128 và 0130–0377. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0378**.
 - Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -84,6 +84,25 @@ QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi 
 | 0367 | Ủy thác mới của Klein (chương bổ sung) | 84 | `600553fbf7e34defb4cc452da1b4eef3ab24ebfe` |
 
 QA lượt này: 10/10 file liên tiếp, mỗi commit chỉ đổi một file chương; không còn chữ Hán trong file mới. Đây là kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0368–0377.**
+
+## Lượt dịch 10 chương — 2026-11-09 (0368–0377)
+
+Đã chọn đúng chuỗi nguồn trong ZIP, phân biệt các mục trùng 0375–0376 theo thứ tự, tiêu đề và mạch truyện. Worker commit riêng từng chương trên nhánh `translation/quy-bi-doc-gia-20261106`; Codex đã pull và QA cấu trúc, đầu/cuối, ký tự Hán và phạm vi file:
+
+| Chương | Tựa tiếng Việt | Khối nguồn | SHA commit |
+|---|---|---:|---|
+| 0368 | Âm mưu | 95 | `5b3d7b4bb9dd9e4fa660125fa277aa2b4b34a4b6` |
+| 0369 | Giao lưu và giao dịch | 49 | `3603c16ae8116ad6655f87d7132aa40f1009c2a2` |
+| 0370 | Ám thị và nhập mộng | 74 | `5e079e68b0f58e01b2f1df1db43dfa71f58b008f` |
+| 0371 | Hỏi chuyện và quan sát | 49 | `3ca38cfd889e48e1f1d5887b3323efd89c98357e` |
+| 0372 | Phong cách Hắc Hoàng Đế Hào đột ngột thay đổi | 61 | `b3d70a84a32971edb6963270f4d9042afa5896eb` |
+| 0373 | Thông linh | 73 | `09adf836c7e565b23da1a86968eb2c895dd7e928` |
+| 0374 | Lydia | 58 | `26a9616b326f4e90653dfbb570c2d22ac42f8a0f` |
+| 0375 | Doctor Strange chính thức nổi danh | 62 | `112f790d706b114a598e93e059b81b59fa4d9f9a` |
+| 0376 | Roselle và Ác Ma | 80 | `21ab51a022cd51e2d7026e0525e55ee57d41f6a2` |
+| 0377 | Giao dịch và bại lộ | 63 | `e197f0aac81ca59c76af012a708a250ff7cceb34` |
+
+QA lượt này: 10/10 file liên tiếp, mỗi commit chỉ đổi một file chương; không còn chữ Hán trong file mới. Đây là kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0378–0387.**
 
 ## Checklist mỗi đợt
 
