@@ -1,11 +1,11 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-08 — đã đưa bản dịch đến chương 0222 lên nhánh dịch
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0314 lên nhánh dịch
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **221 chương có file trên nhánh**, 0001–0128 và 0130–0222. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0223**.
-- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0222 chỉ đưa bản dịch và tài liệu tiến độ lên GitHub.
+- Đã dịch và biên tập, có file kiểm tra được: **313 chương có file trên nhánh**, 0001–0128 và 0130–0314. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0315**.
+- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0314 đưa bản dịch và tài liệu tiến độ lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
 
@@ -485,3 +485,172 @@ Codex đã pull và kiểm tra từng commit, số đoạn và lấy mẫu đố
 |---|---|
 | 0221 | `82cb7f14027d0d61dc8bcad7c3e65e75e1514c12` |
 | 0222 | `9ee269b72be407b1f9c5c293c0ec735bc96652d8` |
+
+## Lượt dịch 0223–0230 — 2026-11-08
+
+Codex đã pull và kiểm tra từng commit, số đoạn và lấy mẫu đối chiếu với nguồn ZIP. QA độc lập từng câu vẫn còn mở.
+
+| Chương | SHA commit bản dịch |
+|---|---|
+| 0223 | `f6a6180d5d47e474dde055fad8b76af38b130cb8` |
+| 0224 | `2a940b6a6dc94b8df1d08a382c0ccb2ca095d2c3` |
+| 0225 | `0169160f2cd7f3e94a985d44f0cf1c10d7f6c22c` |
+| 0226 | `e5f7d55638ee5bfcc810f6d488e16047986ab212` |
+| 0227 | `d2aadca08f09e50522d8f0393a8702d8c5b39572` |
+| 0228 | `abfc98ec0d3d825f98074084d961ae4e273f83ce` |
+| 0229 | `3394e132f435ccdcf5e139b186a2fd6c74b01a4e` |
+| 0230 | `8e537b96511002ad72abcf1a0a607046a0dd3049` |
+
+## Lượt dịch 0231–0240 — 2026-11-08
+
+Codex đã pull và kiểm tra từng commit, số đoạn và lấy mẫu đối chiếu với nguồn ZIP. QA độc lập từng câu vẫn còn mở.
+
+| Chương | SHA commit bản dịch |
+|---|---|
+| 0231 | `1c09b9f11583dae0eaafcf6058ff17fb083fbff4` |
+| 0232 | `3551b99c74c53769832a4e4788a0a2affe4d8bca` |
+| 0233 | `ab64ca618b7fdcfd3f10087d39fabd5274ce564f` |
+| 0234 | `e7a504d524b4f418125567b452e18a8aed7b05b5` |
+| 0235 | `707b79fecc456ba47a1d92b70203082f8a5640d9` |
+| 0236 | `e6c4574d7b74c445f7e83af88f3fe7c7068f4250` |
+| 0237 | `fcb4db9d07d124646ae1eb263e1b934bd5ec3491` |
+| 0238 | `d4b3f296c462e7839d53fedede75bebf30ec992d` |
+| 0239 | `70bff5c910004002f1b07cd14481b2d954bba942` |
+| 0240 | `63e74b3723bb6f0c353245be0766b35d46b8c21a` |
+
+## Lượt dịch 0241–0250 — 2026-11-09
+
+Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit chỉ thêm đúng một file chương, số đoạn khớp ZIP, tiêu đề hợp lệ và không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0241 | Cấp bách | `19e51e4856de4577718e370c44ab1763b36a41e5` |
+| 0242 | Kịch chiến | `42ed9480e1a1fe0afb0ac03ce047b3c737c3bbb0` |
+| 0243 | Giao thủ và chia lìa | `b3c6ad906c570554680e2dd081157f51f739ac9a` |
+| 0244 | Thoát hiểm | `e9bae16f822a1e47c5d33feb4a913474aa5e3c5c` |
+| 0245 | Xio và Kẻ Khờ | `a7012c0402d01aa5b858987774463e310053f523` |
+| 0246 | Tháp và Phán Xét | `02a99cb9c7d928982416416cf36a4c9cb094f5be` |
+| 0247 | Thu dọn hậu quả | `7875dc0f3b8835b367e5c1dc8c026660ec90eed6` |
+| 0248 | Sự trưởng thành của Susie | `9d1aca4ca7fe7e1483ba5c16985dd5a47e3f166b` |
+| 0249 | Jane và Xio | `b15f39addf6e59214d23bc3d0826bc410f765003` |
+| 0250 | Hai bức thư | `932ee7b602534bd16fd859c07a296861365c358c` |
+
+
+## Lượt dịch 0251–0260 — 2026-11-09
+
+Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit chỉ thêm đúng một file chương, số đoạn khớp ZIP, tiêu đề hợp lệ và không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0251 | Lần đầu tiểu thư Phán Xét xuất hiện | `c988a10ad31fe5900b16e14ac028d032ad220290` |
+| 0252 | Sự ngưỡng mộ của Alger | `71173aa0d05d271d3cc8497a60c7f5ded43402f1` |
+| 0253 | Trao đổi | `524515167db422d2253683bc9bf26c2e4efb13f1` |
+| 0254 | Toàn Tri Toàn Năng | `156e6800a61eab00ba2451aaaaa895181ff44fe8` |
+| 0255 | Đủ loại suy diễn (Chương tăng thêm) | `29b57ca0f87008add26e8f3da801f267469fd981` |
+| 0256 | Cattleya đến | `69750c6fadd6ea49988bff2a095cff249f39091b` |
+| 0257 | Tóc của Dunn | `d28ab253127e9b1d20c5e69485d60e79bdb6d536` |
+| 0258 | Bí mật trong trang viên bỏ hoang | `415d2fa6510fa33402b03f0e714c41d608d784ec` |
+| 0259 | Vũ hội (1) | `7717cc20354bd33ccec78fc13d17d23ab53bd220` |
+| 0260 | Vũ hội (2) | `253d743886b0a63ecc89200c404cb6c24b18c869` |
+
+
+## Lượt dịch 0261–0270 — 2026-11-09
+
+Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit chỉ thêm đúng một file chương, số đoạn khớp ZIP, tiêu đề hợp lệ và không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0261 | Azik và Silica | `208177d58dc313f3547bdf0790755646da335491` |
+| 0262 | Tiêu hóa hoàn toàn | `670166ff64e355ccf344ebcd24f55745e07d492f` |
+| 0263 | Lời cảm ơn của Azik | `7b956ed3228bf74cd065364cb841e09621ae4823` |
+| 0264 | Đột kích | `6294c1c9001520320e0daf90af6c07424cba4c89` |
+| 0265 | Khúc dạo đầu | `0722360babc0a22a7a2d39066cfee012913c78f8` |
+| 0266 | Khúc chuyển cảnh | `ec92030482c91be297ead9609d2b5fe7a4e8dfd9` |
+| 0267 | Người lính và ván cờ | `8548643e9643b4a5b2a1bc93111e00a41a13e58f` |
+| 0268 | Từng bước tiến gần | `2a8b77afbb55e4f249bf1f79824a7baa755f9df5` |
+| 0269 | Phong ấn | `7f408ae6da260ef36dc9ffea4cad8ef0ad7ae9d1` |
+| 0270 | Diễn biến tiếp theo | `ca9e6b527f1d2652be721259e3322d98f6f6f240` |
+
+
+## Lượt dịch 0271–0280 — 2026-11-09
+
+Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit chỉ thêm đúng một file chương, số đoạn khớp ZIP, tiêu đề hợp lệ và không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0271 | Học Giả Uyên Bác Danh Sách 6 | `dbf1a9040d434af1a9b1b0042ad19f0e9280786f` |
+| 0272 | Năng lực của Học Giả Uyên Bác | `a264cd8fd088091943f789be6daf640a2a1a4f16` |
+| 0273 | Lina | `da04285c3453c8472a73a840cecec0263215b48b` |
+| 0274 | Trước biến cố | `1eb579c388627ba367eb420db7a6bb55c4406a04` |
+| 0275 | Ánh sáng và bóng tối | `b612fb2c2f3a69abe61bcb4edfde4c77a0f46cff` |
+| 0276 | Dự định của Abner | `1a78853030e58aad1938564de443125325e3dee6` |
+| 0277 | Sắp đặt của Audrey | `07b9712a2dbf54475620a87868bf997922dbd139` |
+| 0278 | Nhật ký | `e5ca3bcfc04b7794dc5a8876c23340ac6ad69fbc` |
+| 0279 | Hồi sinh | `eb6a5922f9cd2bfbca510fbb7534b8fa186a6bce` |
+| 0280 | Đào mộ | `2c32d792f6f8745ab6e25d820d7b485c6adc53d0` |
+
+
+## Lượt dịch 0281–0290 — 2026-11-09
+
+Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit chỉ thêm đúng một file chương, số đoạn khớp ZIP, tiêu đề hợp lệ và không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0281 | Tiến Sĩ Kỳ Lạ | `b88860aab16d7e94b9312293907533b11fcc7379` |
+| 0282 | Nhà thờ Phong Nhiêu | `dfa8b79c989abbb2c3752b908bbf91a7e7c461df` |
+| 0283 | Suy đoán của Tháp | `4cff423861e364eaf8563deef3a9a099c3138441` |
+| 0284 | Trao đổi riêng | `d15a182fa0a69eca926b9106d3c9166ace6ce3b1` |
+| 0285 | Tính toán của Klein | `ce4f158a5cd6160e8c5c968b43260c701688b8f9` |
+| 0286 | Hoán đổi con đường | `969176ab7cb1ca98867769e73632efe5175d3ce7` |
+| 0287 | Hề và Ác Mộng | `a69fe3e8a2610b7795fac5908bdbd3f53fea7f58` |
+| 0288 | Giấc mơ | `0eba2b24394bbc650bd474d97980debf049abebb` |
+| 0289 | Kẻ giết người liên hoàn | `a4fceb740ec681368c7d4aa0af9b6992f967b88c` |
+| 0290 | Quy tắc và trở về | `a0d0ed4ffe7f5d8f4a61cd1bf0602618c277cd0c` |
+
+
+## Lượt dịch 0291–0300 — 2026-11-09
+
+Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit chỉ thêm đúng một file chương, số đoạn khớp ZIP, tiêu đề hợp lệ và không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0291 | Kẻ Khờ và Phán Xét | `0dc273438c99f7424367cc74f0fea7e40733267b` |
+| 0292 | Cục Tình báo Quân sự số Chín | `5174b8b06e6501bd98b88cf10436023fc58d544d` |
+| 0293 | Suy nghĩ của Klein | `a6ccaac0161cc6b8c3806733bd4c3bd31fc8f3a1` |
+| 0294 | Hành động của các bên (Chương tăng thêm) | `2637f8d0ad4162ac6b28c89754115223622b858c` |
+| 0295 | Giao nhiệm vụ và nhận nhiệm vụ | `36ece9082a1300afe4a60884e49f838a62974213` |
+| 0296 | Ủy thác chế tạo | `710ce6ea062a1572dee2cccd7f81af5cf7cd3064` |
+| 0297 | Thử nghiệm và tiết lộ | `46ce7a86920e46d8b3adee1ccb8de69743b2ea31` |
+| 0298 | Phàm có lời, tất sẽ bị biết | `f4239326f6c47a79283c11e544a84b71e9723738` |
+| 0299 | Trinh sát | `c3806551f29dc68f6f2000c9955486c0f4bf2952` |
+| 0300 | Mỗi người một việc | `0b1683bad3965fbbdfe54e0f210486de326d251f` |
+
+
+## Lượt dịch 0301–0304 — 2026-11-09
+
+Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit chỉ thêm đúng một file chương, số đoạn khớp ZIP, tiêu đề hợp lệ và không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0301 | Kế hoạch và suy đoán | `1b2c0ce41ea0ad1ea96274d87202d15566818395` |
+| 0302 | Hợp tác | `5bf5920174c019975377de25ebfe8ebe1b7092fd` |
+| 0303 | Thú dữ trong cống ngầm | `1cbc15d03ea411d70865598f09524094d492be70` |
+| 0304 | Khiêu khích | `d725fc3289051790a1ed965fa47032131920910f` |
+
+
+## Lượt dịch 0305–0314 — 2026-11-09
+
+Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit chỉ thêm đúng một file chương, số đoạn khớp ZIP, tiêu đề hợp lệ và không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0305 | Trước giờ hành động | `e36164bf85dfc9f5a8ffa824b938ad2f4a54ca1c` |
+| 0306 | Chuẩn bị | `dd503e5f318e3f395962f7a8ea05783d9955afe9` |
+| 0307 | Bắt đầu | `3508f9bb125bca30cd41539cf17fd797fc736374` |
+| 0308 | Ám sát | `3affa69d197b81a56e0ce645879a9963015add2b` |
+| 0309 | Rosago chạy trốn và Rosago sắp tới | `ad950e03a4b5bbbea38ab6e634118c58762065df` |
+| 0310 | Búp bê và ủy thác | `247462a6ecb84da8b2b3b13734d2784a9ab5faf2` |
+| 0311 | Phân tích | `3609e79d4f29cdeb7fb2c9efe5cd40d032bace5a` |
+| 0312 | Các bên ngoài Abner | `2593fed00db275909c4ba3dd9ad332cce26a4d02` |
+| 0313 | Bữa tiệc tối không bất ngờ | `893479d8ddc9aaefc5840d51f94ee29233da7243` |
+| 0314 | Tạm biệt và một buổi Hội Tarot nữa | `8e16410d245620e0e5839fa42a4cd22ba6202e31` |
