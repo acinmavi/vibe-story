@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0357 lên nhánh dịch; chặng 0348–0357 hoàn tất
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0367 lên nhánh dịch; chặng 0358–0367 hoàn tất
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **356 chương có file trên nhánh**, 0001–0128 và 0130–0357. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0358**.
+- Đã dịch và biên tập, có file kiểm tra được: **366 chương có file trên nhánh**, 0001–0128 và 0130–0367. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0368**.
 - Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -65,6 +65,25 @@ QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi 
 | 0357 | Các chiến trường | 62 | `8753a92511549959a0070aa52b31cc39dcac745b` |
 
 QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi một file chương; không còn chữ Hán trong các file mới. Đây vẫn là kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0358–0367.**
+
+## Lượt dịch 10 chương — 2026-11-09 (0358–0367)
+
+Đã chọn đúng các mục nguồn liên tiếp trong ZIP, xử lý mục trùng 0362 theo tiêu đề và mạch truyện. Worker commit riêng từng chương trên nhánh `translation/quy-bi-doc-gia-20261106`; Codex đã pull và QA cấu trúc, đầu/cuối, ký tự Hán và phạm vi file:
+
+| Chương | Tựa tiếng Việt | Khối nguồn | SHA commit |
+|---|---|---:|---|
+| 0358 | Giao chiến | 58 | `058f5309d80c9db9b32a7d7ce46371d7c5ef4f4c` |
+| 0359 | Đánh chìm | 57 | `ce5000ec4994ebaa001965ae46f70d116c94e91e` |
+| 0360 | Gặp mặt trực tiếp | 75 | `e6cd0877f34566a59c04f021a396cbc4c560cf50` |
+| 0361 | Alger và các nữ hải tặc | 70 | `bd63b36c7a6c40697e5e19455b6bf80dc33743a5` |
+| 0362 | Phía sau màn | 64 | `06e600b864593a99fa0e2412da17a5bf9bd5364e` |
+| 0363 | Tiền thưởng tự tìm đến cửa | 66 | `23a14e94c4b9eda89ffee94c6ecfec0b900ed73b` |
+| 0364 | Kiếm Rắn Vàng | 77 | `065df26ea30c445236a3fe3806f2386bc9d95bcc` |
+| 0365 | Ảo Thuật Gia | 75 | `55b3add6369cfa69d0611b135db89f837535994e` |
+| 0366 | Tháp và Doctor Strange | 49 | `9b865882c793b4ff25e8ef759208e2bd34ed625b` |
+| 0367 | Ủy thác mới của Klein (chương bổ sung) | 84 | `600553fbf7e34defb4cc452da1b4eef3ab24ebfe` |
+
+QA lượt này: 10/10 file liên tiếp, mỗi commit chỉ đổi một file chương; không còn chữ Hán trong file mới. Đây là kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0368–0377.**
 
 ## Checklist mỗi đợt
 
