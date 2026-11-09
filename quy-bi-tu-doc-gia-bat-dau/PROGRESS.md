@@ -1,11 +1,11 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0314 lên nhánh dịch
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0324 lên nhánh dịch
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **313 chương có file trên nhánh**, 0001–0128 và 0130–0314. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0315**.
-- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0314 đưa bản dịch và tài liệu tiến độ lên GitHub.
+- Đã dịch và biên tập, có file kiểm tra được: **323 chương có file trên nhánh**, 0001–0128 và 0130–0324. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0325**.
+- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0324 đưa bản dịch và tài liệu tiến độ lên GitHub.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
 
@@ -654,3 +654,20 @@ Codex đã pull và QA cấu trúc: chuỗi commit tuần tự, mỗi commit ch�
 | 0312 | Các bên ngoài Abner | `2593fed00db275909c4ba3dd9ad332cce26a4d02` |
 | 0313 | Bữa tiệc tối không bất ngờ | `893479d8ddc9aaefc5840d51f94ee29233da7243` |
 | 0314 | Tạm biệt và một buổi Hội Tarot nữa | `8e16410d245620e0e5839fa42a4cd22ba6202e31` |
+
+## Lượt dịch 0315–0324 — 2026-11-09
+
+Codex đã fetch/pull và QA cấu trúc độc lập: đủ 10 commit tuần tự, mỗi commit chỉ thêm đúng một file chương; số đoạn khớp nguồn ZIP, tiêu đề đúng, không còn chữ Hán trong bản dịch. QA độc lập biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0315 | Đọc nhật ký | `84f0299267c8c85bda6be2bc4f2ec04b3dd6454c` |
+| 0316 | Thù lao và thỉnh cầu | `e200d66d360699e5e8a3547120b81fa64c5302ba` |
+| 0317 | Giao dịch | `76c7722eda7a05c1d96624c7c65f09de62595425` |
+| 0318 | Sự năng nổ của “Thế Giới” và niềm vui của “Tháp” | `78e9403e0922d18dfad9fb9ceb6165b00d649905` |
+| 0319 | Giải đáp | `bbe56dc4d2ff47d3d0385cc0f62beab140521b9d` |
+| 0320 | Sự kinh ngạc của Audrey | `3ea2cf9a90272ecdcec85ad4acfcfc071699744e` |
+| 0321 | Lên đường | `1cde38828eb6b43a2d5cd668d952b4cb4aff3a4b` |
+| 0322 | Chia tay | `2561243dd90bf79a67ff30301a88e7d80dec62c8` |
+| 0323 | Hành động của các bên | `91d81bc22d574c4b985e43bc9f34cf6de858384c` |
+| 0324 | Các bên đang hành động | `ecf4367223134825204ce324a0d1049703d3daf2` |
