@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0387 lên nhánh dịch; chặng 0378–0387 hoàn tất
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0397 lên nhánh dịch; chặng 0388–0397 hoàn tất
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **386 chương có file trên nhánh**, 0001–0128 và 0130–0387. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0388**.
+- Đã dịch và biên tập, có file kiểm tra được: **396 chương có file trên nhánh**, 0001–0128 và 0130–0397. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0398**.
 - Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -103,6 +103,25 @@ QA lượt này: 10/10 file liên tiếp, mỗi commit chỉ đổi một file c
 | 0387 | Nhiệm vụ | 54 | `0af9677723989313a038d333314e089f941c7e34` |
 
 Lưu ý QA nguồn ở chương 0381: danh xưng trong câu đầu có vẻ không nhất quán với đoạn về hạm đội Agaritu; worker dùng cách gọi chung “Vua Hải Tặc”. Chặng đạt kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0388–0397.**
+
+## Lượt dịch 10 chương — 2026-11-09 (0388–0397)
+
+Đã pull chặng từ nhánh dịch. Mỗi commit chỉ thêm một file chương; kiểm tra chữ Hán còn sót không phát hiện kết quả ở các chương mới. SHA:
+
+| Chương | SHA commit |
+|---|---|
+| 0388 | `f371abded68c84a99394c196dfb5ea9746ba6ff3` |
+| 0389 | `3fe776e4d83a01f6eb0b1ba06374d8d7ed3cb4f4` |
+| 0390 | `ab44fa90b69ea9ca94b86202db7128ad019b7ba9` |
+| 0391 | `896c09cfea441def7759a74004c3280806e6cd2e` |
+| 0392 | `a27360090441dd9bbfefa76921fe47c8118170d1` |
+| 0393 | `f16a4a7734e989721738c7198da3abe0e64f10cb` |
+| 0394 | `deef0132001311911e011a0fd053c1e2ca287490` |
+| 0395 | `29ff0f406c620c5b296172e5121e853ea1dcfd01` |
+| 0396 | `c8ae97551c397372a469ce171390d1d113ebc44f` |
+| 0397 | `4b3402216b4afa19c46d90b25e429e121bead30a` |
+
+QA đã làm: kiểm tra mỗi commit chỉ chứa một chương, xác nhận đầu file và rà ký tự Hán. **Lượt cuối: 0398–0400.**
 
 ## Lượt dịch 10 chương — 2026-11-09 (0368–0377)
 
