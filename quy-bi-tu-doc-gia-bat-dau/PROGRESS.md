@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0377 lên nhánh dịch; chặng 0368–0377 hoàn tất
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0387 lên nhánh dịch; chặng 0378–0387 hoàn tất
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **376 chương có file trên nhánh**, 0001–0128 và 0130–0377. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0378**.
+- Đã dịch và biên tập, có file kiểm tra được: **386 chương có file trên nhánh**, 0001–0128 và 0130–0387. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0388**.
 - Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -84,6 +84,25 @@ QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi 
 | 0367 | Ủy thác mới của Klein (chương bổ sung) | 84 | `600553fbf7e34defb4cc452da1b4eef3ab24ebfe` |
 
 QA lượt này: 10/10 file liên tiếp, mỗi commit chỉ đổi một file chương; không còn chữ Hán trong file mới. Đây là kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0368–0377.**
+
+## Lượt dịch 10 chương — 2026-11-09 (0378–0387)
+
+Đã đối chiếu chuỗi nguồn trong ZIP, hoàn tất 10 commit riêng trên nhánh `translation/quy-bi-doc-gia-20261106`; Codex đã pull và kiểm tra phạm vi commit, ký tự Hán, cấu trúc và điểm đầu/cuối:
+
+| Chương | Tựa tiếng Việt | Khối nguồn | SHA commit |
+|---|---|---:|---|
+| 0378 | Thần May Mắn | 69 | `9dca0564f6748c01f0dde57df99d85c25a79c3f0` |
+| 0379 | Chia sẻ và phối hợp | 47 | `44e7cf028512a65c03fa409a3c67abef0c134227` |
+| 0380 | Giá trị của Thần Đèn | 54 | `ce8ae06269a14334e0652503b2d655a27ce86204` |
+| 0381 | Thân phận Doctor Strange | 47 | `6bfbd3848e439de7c24a0450a348a0dba6fc34a5` |
+| 0382 | Mọi người sau Hội Tarot (chương bổ sung) | 83 | `2d3eee1543d26f9066f3efd5d33dc19d31ed8936` |
+| 0383 | Đêm không yên mà chẳng có chuyện gì xảy ra | 52 | `9f713d4d349fa049d1814ecbee3182d97e89d2a5` |
+| 0384 | Lớp học nhỏ của Doctor Strange khai giảng | 46 | `10adb231efb4da872d07579c886cea46b3ebe283` |
+| 0385 | Triển lãm tưởng niệm Roselle | 65 | `2b24a2c1660a79fc785e2a8d7dae4f6580ad820a` |
+| 0386 | Tầng thứ năm | 59 | `f46c9e6e112e183a113a8f104ef14c5bf3184c82` |
+| 0387 | Nhiệm vụ | 54 | `0af9677723989313a038d333314e089f941c7e34` |
+
+Lưu ý QA nguồn ở chương 0381: danh xưng trong câu đầu có vẻ không nhất quán với đoạn về hạm đội Agaritu; worker dùng cách gọi chung “Vua Hải Tặc”. Chặng đạt kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0388–0397.**
 
 ## Lượt dịch 10 chương — 2026-11-09 (0368–0377)
 
