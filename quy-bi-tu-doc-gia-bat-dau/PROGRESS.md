@@ -1,13 +1,32 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0327 lên nhánh dịch; chương 0328 đang chờ nguồn đầy đủ
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0337 lên nhánh dịch; chặng 0328–0337 hoàn tất
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **326 chương có file trên nhánh**, 0001–0128 và 0130–0327. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0328**; nguồn được cung cấp cho chương này bị cắt cụt, xem `SOURCE_GAPS.md`.
+- Đã dịch và biên tập, có file kiểm tra được: **336 chương có file trên nhánh**, 0001–0128 và 0130–0337. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0338** (`海盗大会（第二更）`).
 - Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
+
+## Lượt dịch 10 chương — 2026-11-09 (0328–0337)
+
+Đã dùng HTML chương 0328 do người dùng cung cấp và các nguồn đầy đủ trong ZIP gốc cho 0329–0337. Worker commit riêng từng chương trên nhánh `translation/quy-bi-doc-gia-20261106`; Codex đã pull và QA cấu trúc, đầu/cuối, ký tự Hán và phạm vi file:
+
+| Chương | Tựa tiếng Việt | SHA commit |
+|---|---|---|
+| 0328 | Nhiệm vụ và Ma Tượng Giáp | `cbf67c7a7a13a63de83bc7a616e82698d5869719` |
+| 0329 | Ác chiến | `eba15735f7bd68f902047583b4c05cd6605e301d` |
+| 0330 | Roselle và Ma Nữ | `5c8f25885d5dcd38f751bff1a203305adddbb4bd` |
+| 0331 | Thông linh và tin tức lan truyền | `85606d3aadebe627ef1474fa3700255eda2ee4c8` |
+| 0332 | Mưu tính của Lanerwus | `02cb1c13bb212944ee37d0d79c4cd03ac51dcea0` |
+| 0333 | Đằng sau sự kiện và chuyển bản đồ | `86f534ce9538c15811127614681a941758f3f048` |
+| 0334 | Nhập vai và chiến đấu | `28a30d6d1c7a73f1828f6392b1287aeb6d1bce6a` |
+| 0335 | Ác chiến và báo thù | `b6bcdec0428e5231860a945df6b5289316d0ffef` |
+| 0336 | Hoàn thành nhiệm vụ thứ nhất | `f394ebe940e7518c9c7fc2b20aaf54667e284677` |
+| 0337 | Lời cảnh báo của Roselle và phần thưởng | `678cc8ba86718576de14d7d67a0ef7ef5a70412c` |
+
+QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi một file chương; kiểm tra cấu trúc đạt 0328 (60 khối), 0329 (78), 0330 (55), 0331 (63), 0332 (59), 0333 (73), 0334 (68), 0335 (89), 0336 (66), 0337 (60). Không còn chữ Hán trong các file mới. Đây chưa phải QA độc lập đối chiếu từng câu toàn bộ truyện. **Lượt kế tiếp: 0338–0347.**
 
 ## Checklist mỗi đợt
 
