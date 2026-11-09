@@ -1,11 +1,11 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0324 lên nhánh dịch
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0327 lên nhánh dịch; chương 0328 đang chờ nguồn đầy đủ
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **323 chương có file trên nhánh**, 0001–0128 và 0130–0324. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0325**.
-- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0324 đưa bản dịch và tài liệu tiến độ lên GitHub.
+- Đã dịch và biên tập, có file kiểm tra được: **326 chương có file trên nhánh**, 0001–0128 và 0130–0327. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0328**; nguồn được cung cấp cho chương này bị cắt cụt, xem `SOURCE_GAPS.md`.
+- Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
 
@@ -671,3 +671,13 @@ Codex đã fetch/pull và QA cấu trúc độc lập: đủ 10 commit tuần t�
 | 0322 | Chia tay | `2561243dd90bf79a67ff30301a88e7d80dec62c8` |
 | 0323 | Hành động của các bên | `91d81bc22d574c4b985e43bc9f34cf6de858384c` |
 | 0324 | Các bên đang hành động | `ecf4367223134825204ce324a0d1049703d3daf2` |
+
+## Tiến độ một phần — chương 0325–0327 — 2026-11-09
+
+Đã pull và kiểm tra độc lập: ba commit tuần tự, mỗi commit chỉ thêm đúng một file chương; số đoạn khớp ZIP gốc, tiêu đề đúng và không còn chữ Hán trong bản dịch. Chưa thể hoàn thành nhóm 0325–0334 vì nguồn chương 0328 bị hỏng trong cả TXT lẫn JSONL. Chương tiếp tục là 0328 sau khi có nguồn đầy đủ. QA biên tập từng câu vẫn còn mở.
+
+| Chương | Tiêu đề | SHA commit bản dịch |
+|---|---|---|
+| 0325 | Suy luận | `16c938e` |
+| 0326 | Ngài Gaston | `98bba40` |
+| 0327 | Tiến vào tầng sáu | `089bc172e108db29d25ded2f557c36c89b941d58` |
