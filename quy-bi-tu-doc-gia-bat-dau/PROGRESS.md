@@ -1,10 +1,10 @@
 # Tiến độ dịch — Quỷ Bí: Từ Đọc Giả Bắt Đầu
 
-Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0347 lên nhánh dịch; chặng 0338–0347 hoàn tất
+Cập nhật: 2026-11-09 — đã đưa bản dịch đến chương 0357 lên nhánh dịch; chặng 0348–0357 hoàn tất
 
 - Trạng thái: **Đang thực hiện; chưa hoàn thành; chưa có EPUB cuối cùng**.
-- Đã dịch và biên tập, có file kiểm tra được: **346 chương có file trên nhánh**, 0001–0128 và 0130–0347. Số 0129 được bỏ qua theo mục lục chính thức.
-- Chương cần làm tiếp: **0348**.
+- Đã dịch và biên tập, có file kiểm tra được: **356 chương có file trên nhánh**, 0001–0128 và 0130–0357. Số 0129 được bỏ qua theo mục lục chính thức.
+- Chương cần làm tiếp: **0358**.
 - Nguồn ZIP/HTML do người dùng cung cấp nằm trong `original/BQCC_Start_reader`. Các đợt 0130–0327 đưa bản dịch lên GitHub; tiến độ công khai đã xác nhận đến 0324, phần 0325–0327 được ghi dưới đây.
 - Bộ dữ liệu đã xử lý ở phiên trước: **1.578 mục**, trong đó **2 mục còn thiếu**; **không được xem 1.578 là số chương đầy đủ đã kiểm chứng với bản gốc**.
 - Mục tiêu cuối cùng: **một EPUB tiếng Việt có đầy đủ chương nguồn hợp lệ, không thay thế các chương chưa dịch bằng bản gốc tiếng Trung**.
@@ -46,6 +46,25 @@ QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi 
 | 0347 | Chính Nghĩa Nhợt Nhạt | 61 | `e67668342a0f2953bf39a8cf7ed3a8f1be659fbb` |
 
 QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi một file chương; không còn chữ Hán trong các file mới. Đây vẫn là kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0348–0357.**
+
+## Lượt dịch 10 chương — 2026-11-09 (0348–0357)
+
+Đã dùng nguồn đầy đủ trong ZIP/repository; worker commit riêng từng chương trên nhánh `translation/quy-bi-doc-gia-20261106`; Codex đã pull và QA cấu trúc, đầu/cuối, ký tự Hán và phạm vi file:
+
+| Chương | Tựa tiếng Việt | Khối nguồn | SHA commit |
+|---|---|---:|---|
+| 0348 | Trung Tướng Băng Sơn | 39 | `8473d9bfaf4e13facaf7348e895673ba76dec600` |
+| 0349 | Con rồng hai mang không mắc lỗi nhưng vẫn hiện diện, và cuộc quyết đấu | 64 | `7ee3186e892f5d5207897ff3c4db154e60373d23` |
+| 0350 | Thần Sứ và Giáo hoàng | 55 | `67652a2b8206c20e5bb35da59e9d3ea6692f504e` |
+| 0351 | Quyết đấu | 64 | `ab7ecb378e58d4d92d8557c945cd9905e7b27e87` |
+| 0352 | Đại hội Hải Tặc chính thức bắt đầu (chương bổ sung) | 67 | `06836c63eee941ec8c34d77529dfc47c1227d6f8` |
+| 0353 | Đêm trước (lượt cập nhật thứ hai) | 50 | `d91aa9f94edf7757de3d36309e5cf1703015887b` |
+| 0354 | Trao đổi | 59 | `a60645e718f32019094119c69d5fbaba2f6e0e1c` |
+| 0355 | Chuẩn bị trước khi xuất hiện | 75 | `1810bc3b347a9b934f4a5343dfc707a0821436cf` |
+| 0356 | Trận chiến bắt đầu | 55 | `2ea12428fe66dec16092a68a7ce7217c03f898d0` |
+| 0357 | Các chiến trường | 62 | `8753a92511549959a0070aa52b31cc39dcac745b` |
+
+QA lượt này: 10/10 file tồn tại liên tiếp, mỗi commit chỉ đổi một file chương; không còn chữ Hán trong các file mới. Đây vẫn là kiểm tra cấu trúc và điểm đầu/cuối, chưa phải đối chiếu độc lập từng câu toàn bộ truyện. **Lượt kế tiếp: 0358–0367.**
 
 ## Checklist mỗi đợt
 
